@@ -4,7 +4,7 @@
 engsoccerdata
 =============
 
-# My plan is to convert these functions/data into a R package in the not to distant future
+# My plan is to convert these functions/data into a R package in the not too distant future
 
 
 
