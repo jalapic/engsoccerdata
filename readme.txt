@@ -4,7 +4,9 @@
 engsoccerdata
 =============
 
-# My plan is to convert these functions/data into a R package in the not too distant future
+# My plan is to convert these functions/data into a R package in the not too distant future  - if you'd like to get involved and help out, please let me know.  Also, if you can see better ways of writing the code, please let me know.
+
+Contact details:   jc3181  AT columbia DOT edu
 
 
 
