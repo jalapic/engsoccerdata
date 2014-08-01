@@ -4,6 +4,10 @@
 engsoccerdata
 =============
 
+# My plan is to convert these functions/data into a R package in the not to distant future
+
+
+
 # What this repository contains:
 
 
