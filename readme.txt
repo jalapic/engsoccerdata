@@ -1,6 +1,6 @@
 #### TOP 4 TIER ENGLISH LEAGUE SOCCER GAMES 1888-2014  ####
 
-engsoccerdata.csv
+
 engsoccerdata
 =============
 
