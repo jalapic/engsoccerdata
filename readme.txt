@@ -6,9 +6,18 @@ engsoccerdata
 
 # What this repository contains:
 
+
+# Datasets
 -  engsoccerdata.csv   - Results of all top 4 tier soccer games in England 1888-2014
 -  engsoccerteams.csv  - file containing list of 142 teams plus whether they were in the top 4 divisions in 2013/4
--  soccercode.r  - using dplyr and ggplot2 to look at goal differentials per game per team 
+
+# Functions
+-  soccercode.r             - using dplyr and ggplot2 to look at goal differentials per game per team 
+-  namecheck.r              - function to look up if characters exist in a team name
+-  games_between.r          - returns all games ever played between two teams
+-  games_between.summary.r  - returns the summary of results between any two teams
+-  alltimerecord.r          - returns the all time record of any team in the league
+
 
 
 #Compiled by James Curley July 2014
