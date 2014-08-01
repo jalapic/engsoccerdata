@@ -38,9 +38,8 @@ tempdf
 tempdf<-tempdf%>%
   inner_join(teams)  #this merges two dfs, adding col with current2013 yes/no in it
 
-#simple plot
-plot(x$GDhome.pg, x$GDaway.pg)  #could do plot by currently in league vs not currently in league
 
+### plotting results
 
 library(ggplot2)
 
