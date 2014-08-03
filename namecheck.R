@@ -3,8 +3,8 @@
 namecheck<-function(df,x){
   teams<-unique(df$home)
   teams.nos<-grep(x, teams)
-  teams.res<- vector("list",length(teams.nos)) #this vector stores the results of the loop
-  for (i in 1:length(teams.nos)){  #there are 93 files
+  teams.res<- vector("list",length(teams.nos)) 
+  for (i in 1:length(teams.nos)){  
     
     y<-teams.nos[[i]]
     teams.res[[i]] <- as.character(teams[[y]])
