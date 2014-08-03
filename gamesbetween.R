@@ -3,16 +3,15 @@
 games_between<-function (df, teamname1, teamname2) {
   library(dplyr)
   library(tidyr)
-  x<-df[ which(df$home==teamname1 & df$visitor==teamname2),]
-  x1<-df[ which(df$home==teamname2 & df$visitor==teamname1),]
-  temp<-rbind(x,x1)
-  if (nrow(temp)==0) stop ("These two teams have never played each other")
-  temp %>% 
+  
+  df %>%
+    filter(home==teamname1 & visitor==teamname2 | home==teamname2 & visitor==teamname1)%>%
     select(Date,Season,home,visitor,FT,division,tier) %>%
     arrange(Season)
+  
 }
 
 #Examples
 games_between(df, "Aston Villa", "York City")
 games_between(df, "Carlisle United", "Chelsea")
-games_between(df, "Manchester United", "Milton Keynes Dons")
+games_between(df, "Manchester United", "Milton Keynes Dons") #will give 0 rows as never played
