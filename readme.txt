@@ -45,6 +45,8 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  totalgoals_by_team.r     - Return all instances of a team being involved in a game with n goals
 
+-  n_offs.r                 - Will return the scorelines that have occurred n number of times
+
 
 #Compiled by James Curley July 2014
 
