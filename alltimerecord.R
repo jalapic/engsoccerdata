@@ -4,54 +4,19 @@ alltimerecord<-function (df, teamname) {
   library(dplyr)
   library(tidyr)
   
-  x<-df[ which(df$home==teamname),]
-  x1<-df[ which(df$visitor==teamname),]
-  temp<-rbind(x,x1)
+  hrec<-df %>%
+    filter(home==teamname)  %>%
+    summarise(P = n(), W=sum(result=="H"), D=sum(result=="D"), L=sum(result=="A"),
+              GF = sum(hgoal), GA = sum(vgoal), GD=sum(goaldif))
   
-  res <- x %>% group_by(result) %>% tally 
-  res <-as.data.frame((unclass(res)))
-  
-  L<-res[res$result=="A",]
-  D<-res[res$result=="D",]
-  W<-res[res$result=="H",]
-  
-  gls <- x %>% summarise(FOR = sum(hgoal), AGAINST = sum(vgoal), DIF = sum(goaldif))
-  gls$PLAYED <- nrow(x)
-  
-  gls$W <- ifelse (nrow(W)==0, 0, W[[2]])
-  gls$D <- ifelse (nrow(D)==0, 0, D[[2]])
-  gls$L <- ifelse (nrow(L)==0, 0, L[[2]])
-  
-  colnames(gls)<- c("FOR", "AGAINST", "DIF", "P", "W", "D", "L")
-  home.record<-gls[c(4:7,1:3)]
-  
-  
-  
-  res <- x1 %>% group_by(result) %>% tally 
-  res <-as.data.frame((unclass(res)))
-  
-  L<-res[res$result=="H",]
-  D<-res[res$result=="D",]
-  W<-res[res$result=="A",]
-  
-  gls <- x1 %>% summarise(FOR = sum(vgoal), AGAINST = sum(hgoal), DIF = (FOR-AGAINST))
-  gls$PLAYED <- nrow(x)
-  
-  gls$W <- ifelse (nrow(W)==0, 0, W[[2]])
-  gls$D <- ifelse (nrow(D)==0, 0, D[[2]])
-  gls$L <- ifelse (nrow(L)==0, 0, L[[2]])
-  
-  colnames(gls)<- c("FOR", "AGAINST", "DIF", "P", "W", "D", "L")
-  away.record<-gls[c(4:7,1:3)]
-  
-  b1<-as.matrix(home.record)
-  b2<-as.matrix(away.record)
-  b<-b1+b2
-  record<-  rbind(home.record, away.record, b)
-  
-  rownames(record) <- c("home", "away", "total")
-  return(record)
-  
+  vrec<-df %>%
+    filter(visitor==teamname)  %>%
+    summarise(P = n(),  W=sum(result=="A"), D=sum(result=="D"), L=sum(result=="H"),
+              GF = sum(vgoal), GA = sum(hgoal), GD=GF-GA,)
+
+   temp<-rbind(hrec,vrec,hrec+vrec)  
+   rownames(temp)<-c("home", "away", "total")
+   return(temp)
 }
 
 #Examples
