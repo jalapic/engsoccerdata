@@ -26,7 +26,12 @@ Contact details:   jc3181  AT columbia DOT edu
 -  games_between.r          - returns all games ever played between two teams
 -  games_between.summary.r  - returns the summary of results between any two teams
 -  alltimerecord.r          - returns the all time record of any team in the league
-
+-  goals_by_team.r          - Return all instances of a team scoring n goals
+-  score_most.r             - returns the team who has been involved in the most games of each scoreline
+-  score_team.all.r         - Lists all matches that a team has played in that ended in a scoreline
+-  score_team.r             - List all occurrences of a specific scoreline for a specific team
+-  scoreline_by_team.r      - How often each team has a won,lost,drawn by a scoreline ? 
+-  totalgoals_by_team.r     - Return all instances of a team being involved in a game with n goals
 
 
 #Compiled by James Curley July 2014
