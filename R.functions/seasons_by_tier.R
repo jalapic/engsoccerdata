@@ -34,5 +34,5 @@ seasons_by_tier(df, 2)
 seasons_by_tier(df, 3)
 seasons_by_tier(df, 4)
 
-as.data.frame(unclass(seasons_by_tier(df))) #all games by all teams in all tiers
+as.data.frame(unclass(seasons_by_tier(df))) #all seasons by all teams in all tiers
 
