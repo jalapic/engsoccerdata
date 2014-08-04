@@ -4,6 +4,15 @@
 engsoccerdata
 =============
 
+### Compiled by James Curley July 2014
+
+
+Free to use for non-commerical use.   
+If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!)
+Also, if you do use it - I would love to see any analysis produced from it etc.
+
+
+
 # My plan is to convert these functions/data into a R package in the not too distant future  
 
 - if you'd like to get involved and help out, please let me know.  
@@ -55,12 +64,6 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  opponentfreq.r           - Return how often a team has played each opponent
 
-#Compiled by James Curley July 2014
-
-
-Free to use for non-commerical use.   
-If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!)
-Also, if you do use it - I would love to see any analysis produced from it etc.
 
 
 #What does engsoccerdata.csv contain?
