@@ -23,7 +23,8 @@ Contact details:   jc3181  AT columbia DOT edu
 
 # Functions
 
--  soccercode.r             - using dplyr and ggplot2 to look at goal differentials per game per team 
+-  soccer code.r             - using dplyr and ggplot2 to look at goal differentials 
+                               per game per team 
 
 -  namecheck.r              - function to look up if characters exist in a team name
 
@@ -35,17 +36,22 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  goals_by_team.r          - Return all instances of a team scoring n goals
 
--  score_most.r             - returns the team who has been involved in the most games of each scoreline
+-  score_most.r             - returns the team who has been involved in the most 
+                              games of each scoreline
 
--  score_team.all.r         - Lists all matches that a team has played in that ended in a scoreline
+-  score_team.all.r         - Lists all matches that a team has played in that ended 
+                              in a scoreline
 
--  score_team.r             - List all occurrences of a specific scoreline for a specific team
+-  score_team.r             - List all occurrences of a specific scoreline for a 
+                              specific team
 
--  scoreline_by_team.r      - How often each team has a won,lost,drawn by a scoreline ? 
+-  scoreline_by_team.r      - How often each team has a won,lost,drawn by a scoreline? 
 
--  totalgoals_by_team.r     - Return all instances of a team being involved in a game with n goals
+-  totalgoals_by_team.r     - Return all instances of a team being involved in a game
+                              with n goals
 
--  n_offs.r                 - Will return the scorelines that have occurred n number of times
+-  n_offs.r                 - Will return the scorelines that have occurred n number of
+                              times
 
 -  opponentfreq.r           - Calculates how often a team has played against other teams
 
