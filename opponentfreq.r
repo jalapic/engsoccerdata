@@ -1,4 +1,4 @@
-#### Write function to see number of times  played against each opponent
+#### function to see number of times  played against each opponent
 
 opponentfreq<-function(df, teamname){
 library(dplyr)
