@@ -47,6 +47,8 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  n_offs.r                 - Will return the scorelines that have occurred n number of times
 
+-  opponentfreq.r           - Calculates how often a team has played against other teams
+
 
 #Compiled by James Curley July 2014
 
