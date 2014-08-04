@@ -70,6 +70,10 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  opponentfreq.r           - Return how often a team has played each opponent
 
+-  games_by_tier.r          - computes number of games played by tier per team
+
+-  seasons_by_tier.r        - computes number of seasons spent per tier per team
+
 
 
 #What does engsoccerdata.csv contain?
