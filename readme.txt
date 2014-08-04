@@ -74,6 +74,8 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  seasons_by_tier.r        - computes number of seasons spent per tier per team
 
+-  opponents.r              - number of unique opponents for all teams in total or by tier
+
 
 
 #What does engsoccerdata.csv contain?
