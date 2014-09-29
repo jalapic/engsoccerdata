@@ -17,7 +17,8 @@ Of course, it's possible that those website contain errors, but unlikely that th
 Most errors were quick fixes (See below).  However, because of matrix columns being switched in the 1979 season, 
 I completely redid 1979 division 2 and 3.
 
-Although this only accounts for a very tiny proportion of data errors, my objective is to get this dataset to be error free.   
+Although this only accounts for a very tiny proportion of the whole dataset, 
+my objective is to get this dataset to be completely error free.   
 
 I now believe that we are close to having a completely clean dataset.  As always, please let me know if you find any errors. 
 
