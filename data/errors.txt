@@ -8,12 +8,16 @@ espn.co.uk/football
 statto.com
 www.11v11.com
 
-Because the majority of my data prior to 2000 was scraped from wikipedia, I have found the underneath errors were transferred across from wikipedia.
-I have fixed all of them after double + triple checking against the above websites.  Of course, it's possible that those website contain errors, but unlikely that they all have the same error.
+Because the majority of my data prior to 2000 was scraped from wikipedia, I have found the underneath errors were transferred
+across from wikipedia.
 
-Most errors were quick fixes (See below).  However, because of matrix columns being switched in the 1979 season, I completely redid 1979 division 2 and 3.
+I have fixed all of them after double + triple checking against the above websites.  
+Of course, it's possible that those website contain errors, but unlikely that they all have the same error.
 
-Although this only accounts for a very tiny proportion of data errors, my objective is to get this dataset to have zero errors.   
+Most errors were quick fixes (See below).  However, because of matrix columns being switched in the 1979 season, 
+I completely redid 1979 division 2 and 3.
+
+Although this only accounts for a very tiny proportion of data errors, my objective is to get this dataset to be error free.   
 
 I now believe that we are close to having a completely clean dataset.  As always, please let me know if you find any errors. 
 
