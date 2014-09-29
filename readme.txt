@@ -15,7 +15,10 @@ please note the source (i.e. me!)
 Also, if you do use it - I would love to see any analysis 
 produced from it etc.
 
+Of course, I accept no responsibility for any error that may be contained herewithin.
 
+
+Note:  as of Sep 28th 2014, I have completed double and triple checks of all the data and have fixed some errors (see data folder).
 
 # My plan is to convert these functions/data into a R package
   in the not too distant future  
@@ -31,7 +34,7 @@ Contact details:   jc3181  AT columbia DOT edu
 
 
 # Datasets
--  engsoccerdata.csv   - Results of all top 4 tier soccer games in England 1888-2014
+-  engsoccerdata2.csv   - Results of all top 4 tier soccer games in England 1888-2014 (updated Sep 28th 2014)
 -  engsoccerteams.csv  - file containing list of 142 teams plus whether they were in
                          the top 4 divisions in 2013/4
 
@@ -76,9 +79,13 @@ Contact details:   jc3181  AT columbia DOT edu
 
 -  opponents.r              - number of unique opponents for all teams in total or by tier
 
+-  bestwins.r               - best wins for each team
+
+-  worstlosses.r            - worst losses for each team
 
 
-#What does engsoccerdata.csv contain?
+
+#What does engsoccerdata2.csv contain?
 
 all top 4 tier games ever played 1888-2014
  
@@ -128,7 +135,7 @@ all top 4 tier games ever played 1888-2014
 
 I cannot 100% guarantee the accuracy of every result.  I have checked very thouroughly for mistakes etc., but as this dataset was collected from multiple sources, there is a chance for the odd error.  -  If you find an error, let me know and I will fix asap.   
 
-
+Note: as of Sep 28th 2014, I have completed more checks and fixed some errors.
 
 
 # List of Sources
@@ -139,6 +146,9 @@ I cannot 100% guarantee the accuracy of every result.  I have checked very thour
 - http://en.wikipedia.org/wiki/The_Football_League  (everything else)
 - http://www.rsssf.com/engpaul/fla/ (source for most of wikipedia data)
 - http://www.espn.co.uk/football/  (1980s missing seasons)
+- http://www.statto.com
+- http://www.11v11.com
+
 
 
 
