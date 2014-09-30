@@ -41,6 +41,8 @@ Contact details:   jc3181  AT columbia DOT edu
 
 # Functions
 
+-  makingtables.r           - some dplyr scripts to make league tables for each season
+
 -  soccercode.r             - using dplyr and ggplot2 to look at goal differentials
                               per game per team 
 
