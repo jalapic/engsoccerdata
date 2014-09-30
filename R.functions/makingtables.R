@@ -50,7 +50,7 @@ tables$seasondiv <- paste(tables$Season,tables$division,sep="-")
 
 tables1 <- tables %>% select(Season, division, team, GP, W, D, L, GF, GA, GD, Pts, seasondiv) %>%
                       group_by(Season,division) %>%
-                      arrange(Season,division,desc(Pts),desc(GF))
+                      arrange(Season,division,desc(Pts),desc(GD),desc(GF))
 
 head(tables1)
 
