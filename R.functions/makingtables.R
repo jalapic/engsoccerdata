@@ -71,5 +71,5 @@ mylist[[391]] #2010  tier 4 (i.e. League 2 as is now called)
 mylist[[206]]  #1964 tier 3
 
 #### Note these tables obviously do not include point penalties
-## e.g. 2010 tier 4 - Hereford were deducted 3 points for fielding an ilegible player.
+## e.g. 2010 tier 4 - Hereford were deducted 3 points for fielding an ineligible player.
 
