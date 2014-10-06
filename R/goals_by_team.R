@@ -1,5 +1,9 @@
 #' Return all instances of a team scoring n goals
 #'
+#' @param df df
+#' @param goals goals
+#' @param teamname teamname
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' goals_by_team(df, 7, "York City")

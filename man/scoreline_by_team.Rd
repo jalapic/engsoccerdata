@@ -5,6 +5,11 @@
 \usage{
 scoreline_by_team(df, score)
 }
+\arguments{
+\item{df}{df}
+
+\item{score}{score}
+}
 \description{
 Note - teams with 0 occurrences will not be listed
 }

@@ -4,6 +4,10 @@
 #' If you pick crazy numbers for the number of times e.g. 34223, you'll get an error message
 #' this function is meant for small numbers of occurrences
 #'
+#' @param df df
+#' @param N N
+#' @param Tier Tier
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' n_offs(df, 1) #return results that have occurred only once across all four tiers

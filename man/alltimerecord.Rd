@@ -5,6 +5,11 @@
 \usage{
 alltimerecord(df, teamname)
 }
+\arguments{
+\item{df}{df}
+
+\item{teamname}{teamname}
+}
 \description{
 Function to List the all-time records of a team
 }

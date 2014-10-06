@@ -1,5 +1,8 @@
 #' Total number of different opponents
 #'
+#' @param df df
+#' @param Tier Tier
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' opponents(df)  #Grimsby Town and Lincoln City have the most unique opponents - 134 each

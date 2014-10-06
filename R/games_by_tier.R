@@ -1,5 +1,8 @@
 #' Number of Games in Each Tier
 #'
+#' @param df df
+#' @param Tier Tier
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' games_by_tier(df, 1)

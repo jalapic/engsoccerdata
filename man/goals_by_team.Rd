@@ -5,6 +5,13 @@
 \usage{
 goals_by_team(df, goals, teamname)
 }
+\arguments{
+\item{df}{df}
+
+\item{goals}{goals}
+
+\item{teamname}{teamname}
+}
 \description{
 Return all instances of a team scoring n goals
 }

@@ -5,6 +5,13 @@
 \usage{
 games_between.summary(df, teamname1, teamname2)
 }
+\arguments{
+\item{df}{df}
+
+\item{teamname1}{teamname1}
+
+\item{teamname2}{teamname2}
+}
 \description{
 Function to List the summary stats of all games ever between two teams
 }

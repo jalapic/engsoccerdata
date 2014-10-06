@@ -5,6 +5,15 @@
 \usage{
 worstlosses(df, teamname, type = NULL, N = NULL)
 }
+\arguments{
+\item{df}{df}
+
+\item{teamname}{teamname}
+
+\item{type}{type}
+
+\item{N}{N}
+}
 \description{
 Return each team's worst losses
 }

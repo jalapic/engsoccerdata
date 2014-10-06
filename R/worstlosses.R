@@ -1,5 +1,10 @@
 #' Return each team's worst losses
 #'
+#' @param df df
+#' @param teamname teamname
+#' @param type type
+#' @param N N
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' worstlosses(df,"Everton")

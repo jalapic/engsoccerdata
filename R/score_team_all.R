@@ -1,5 +1,9 @@
 #' Lists all matches that a team has played in that ended in a scoreline
 #'
+#' @param df df
+#' @param score score
+#' @param teamname teamname
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' score_team.all(df, "1-0", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal

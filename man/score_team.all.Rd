@@ -5,6 +5,13 @@
 \usage{
 score_team.all(df, score, teamname)
 }
+\arguments{
+\item{df}{df}
+
+\item{score}{score}
+
+\item{teamname}{teamname}
+}
 \description{
 Lists all matches that a team has played in that ended in a scoreline
 }

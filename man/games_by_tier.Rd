@@ -5,6 +5,11 @@
 \usage{
 games_by_tier(df, Tier = NULL)
 }
+\arguments{
+\item{df}{df}
+
+\item{Tier}{Tier}
+}
 \description{
 Number of Games in Each Tier
 }

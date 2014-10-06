@@ -5,6 +5,13 @@
 \usage{
 score_team(df, score, teamname)
 }
+\arguments{
+\item{df}{df}
+
+\item{score}{score}
+
+\item{teamname}{teamname}
+}
 \description{
 List all occurrences of a specific scoreline for a specific team
 }

@@ -5,6 +5,11 @@
 \usage{
 score_most(df, score)
 }
+\arguments{
+\item{df}{df}
+
+\item{score}{score}
+}
 \description{
 This returns the team who has been involved in the most games of each scoreline
 }

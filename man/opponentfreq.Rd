@@ -5,6 +5,11 @@
 \usage{
 opponentfreq(df, teamname)
 }
+\arguments{
+\item{df}{df}
+
+\item{teamname}{teamname}
+}
 \description{
 function to see number of times  played against each opponent
 }

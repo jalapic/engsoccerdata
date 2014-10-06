@@ -1,5 +1,8 @@
 #' Function to check what characters exist in which team names
 #'
+#' @param df df
+#' @param x x
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' namecheck(df, "hester")

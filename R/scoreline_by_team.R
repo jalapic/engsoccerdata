@@ -2,6 +2,9 @@
 #'
 #' Note - teams with 0 occurrences will not be listed
 #'
+#' @param df df
+#' @param score score
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' scoreline_by_team(df,"8-0")  #number of times each team has won 8-0 (regardless of if occurred home/away)

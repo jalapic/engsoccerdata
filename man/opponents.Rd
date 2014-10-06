@@ -5,6 +5,11 @@
 \usage{
 opponents(df, Tier = NULL)
 }
+\arguments{
+\item{df}{df}
+
+\item{Tier}{Tier}
+}
 \description{
 Total number of different opponents
 }

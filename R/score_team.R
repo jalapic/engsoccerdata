@@ -1,5 +1,9 @@
 #' List all occurrences of a specific scoreline for a specific team
 #'
+#' @param df df
+#' @param score score
+#' @param teamname teamname
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' score_team (df,"4-4", "Tottenham Hotspur") #all 4-4 draws Tottenham Hotspur have played in (home and away)

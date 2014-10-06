@@ -1,5 +1,10 @@
 #' Return each team's record win (top 5 etc)
 #'
+#' @param df df
+#' @param teamname teamname
+#' @param type type
+#' @param N N
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' bestwins(df,"Everton")

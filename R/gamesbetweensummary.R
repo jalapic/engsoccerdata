@@ -1,5 +1,9 @@
 #' Function to List the summary stats of all games ever between two teams
 #'
+#' @param df df
+#' @param teamname1 teamname1
+#' @param teamname2 teamname2
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' games_between.summary(df, "Exeter City", "York City")

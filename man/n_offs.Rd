@@ -5,6 +5,13 @@
 \usage{
 n_offs(df, N, Tier = NULL)
 }
+\arguments{
+\item{df}{df}
+
+\item{N}{N}
+
+\item{Tier}{Tier}
+}
 \description{
 note don't try this with 0 - won't return infinite possible scorelines
 If you pick crazy numbers for the number of times e.g. 34223, you'll get an error message

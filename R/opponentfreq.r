@@ -1,5 +1,8 @@
 #' function to see number of times  played against each opponent
 #'
+#' @param df df
+#' @param teamname teamname
+#'
 #' @examples
 #' df <- engsoccerdata2
 #' opponentfreq(df, "Exeter City")  #just gives top few opponents

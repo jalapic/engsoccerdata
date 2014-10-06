@@ -5,6 +5,11 @@
 \usage{
 namecheck(df, x)
 }
+\arguments{
+\item{df}{df}
+
+\item{x}{x}
+}
 \description{
 Function to check what characters exist in which team names
 }

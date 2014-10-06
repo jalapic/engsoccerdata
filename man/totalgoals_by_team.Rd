@@ -5,6 +5,13 @@
 \usage{
 totalgoals_by_team(df, goals, teamname)
 }
+\arguments{
+\item{df}{df}
+
+\item{goals}{goals}
+
+\item{teamname}{teamname}
+}
 \description{
 Return all instances of a team being involved in a game with n goals
 }
