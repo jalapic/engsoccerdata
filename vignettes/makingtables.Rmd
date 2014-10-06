@@ -9,6 +9,7 @@ vignette: >
 ---
 
 ```{r}
+library(engsoccerdata)
 df <- engsoccerdata2
 
 
@@ -49,7 +50,7 @@ tables3pts <- tables3pts %>%
   group_by(Season,division) %>% 
   arrange(desc(Pts), desc(GD), desc(GF))
 
-tables <- rbind(tables2pts,tables3pts)
+tables <- rbind(tables2pts,tables3pts) %>% ungroup
 
 tables$seasondiv <- paste(tables$Season,tables$division,sep="-")
 

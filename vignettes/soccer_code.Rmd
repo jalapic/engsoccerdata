@@ -9,8 +9,9 @@ vignette: >
 ---
 
 ```{r}
-df<-read.csv("engsoccerdata.csv") #contains results/goals scored/conceded for all top 4 tier games 1888-2014
-teams<-read.csv("engsoccerteams.csv") #contains data on teams and if in league 2013-4.
+library(engsoccerdata)
+df<-engsoccerdata2 #contains results/goals scored/conceded for all top 4 tier games 1888-2014
+teams<-engsoccerteams #contains data on teams and if in league 2013-4.
 
 library(dplyr)
 library(tidyr)
