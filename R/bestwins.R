@@ -31,8 +31,8 @@ else
   filter(home==teamname & result=="H" | visitor==teamname & result=="A") %>%
   mutate(maxgoal=pmax(hgoal, vgoal), mingoal=pmin(hgoal,vgoal), absgoaldif=abs(goaldif)) %>%
   arrange(desc(absgoaldif),desc(maxgoal)) %>%
-  select (Season, home, visitor, FT, division) %>%
   filter (result==type) %>%
+  select (Season, home, visitor, FT, division) %>%
   head(N)
 
 
