@@ -1,7 +1,13 @@
-#### Return all instances of a team scoring n goals
-
+#' Return all instances of a team scoring n goals
+#'
+#' @examples
+#' goals_by_team(df, 7, "York City")
+#' goals_by_team(df, 8, "Manchester United")
+#' goals_by_team(df, 9, "Aston Villa")
+#'
+#' @export
 goals_by_team<-function (df, goals, teamname) {
-  
+
   library(dplyr)
   library(tidyr)
   df%>%
@@ -9,15 +15,3 @@ goals_by_team<-function (df, goals, teamname) {
     select(Date,Season,home,visitor,FT, division,tier) %>%
     arrange(Season)
 }
-
-
-#Examples
-goals_by_team(df, 7, "York City")
-goals_by_team(df, 8, "Manchester United")
-goals_by_team(df, 9, "Aston Villa")
-
-
-
-
-
-
