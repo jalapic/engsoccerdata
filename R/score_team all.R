@@ -1,5 +1,12 @@
-### Lists all matches that a team has played in that ended in a scoreline
-
+#' Lists all matches that a team has played in that ended in a scoreline
+#'
+#' @examples
+#' score_team.all(df, "1-0", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal
+#' score_team.all(df, "0-1", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal
+#' score_team.all(df, "4-3", "Coventry City")  # All games ending 4-3 or 3-4 involving Coventry City
+#' score_team.all(df, "4-4", "Leeds United")  # All games ending 4-4 involving Leeds United
+#'
+#' @export
 score_team.all<-function(df,score,teamname){
   library(dplyr)
   library(tidyr)
@@ -10,15 +17,3 @@ score_team.all<-function(df,score,teamname){
     filter(FT==score | FT==score1, home == teamname | visitor == teamname)%>%
     arrange(Season)
 }
-
-
-#Examples
-score_team.all(df, "1-0", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal 
-score_team.all(df, "0-1", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal
-score_team.all(df, "4-3", "Coventry City")  # All games ending 4-3 or 3-4 involving Coventry City
-score_team.all(df, "4-4", "Leeds United")  # All games ending 4-4 involving Leeds United
-
-
-
-
-
