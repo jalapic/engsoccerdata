@@ -5,6 +5,7 @@
 #' this function is meant for small numbers of occurrences
 #'
 #' @examples
+#' df <- engsoccerdata2
 #' n_offs(df, 1) #return results that have occurred only once across all four tiers
 #' n_offs(df, 2) #return results that have occurred only twice across all four tiers
 #' n_offs(df, 3) #return results that have occurred 3 times across all four tiers

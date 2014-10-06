@@ -1,6 +1,7 @@
 #' Return each team's worst losses
 #'
 #' @examples
+#' df <- engsoccerdata2
 #' worstlosses(df,"Everton")
 #' worstlosses(df,"Aston Villa", type="H")
 #' worstlosses(df,"York City", type="A")

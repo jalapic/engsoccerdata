@@ -9,6 +9,7 @@ scoreline_by_team(df, score)
 Note - teams with 0 occurrences will not be listed
 }
 \examples{
+df <- engsoccerdata2
 scoreline_by_team(df,"8-0")  #number of times each team has won 8-0 (regardless of if occurred home/away)
 scoreline_by_team(df,"0-8")  #number of times each team has lost 8-0 (regardless of if occurred home/away)
 scoreline_by_team(df, "6-6") #number of times each team has drawn 6-6 (regardless of if occurred home/away)

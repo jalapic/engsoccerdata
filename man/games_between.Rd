@@ -9,6 +9,7 @@ games_between(df, teamname1, teamname2)
 Function to List all games ever between two teams
 }
 \examples{
+df <- engsoccerdata2
 games_between(df, "Aston Villa", "York City")
 games_between(df, "Carlisle United", "Chelsea")
 games_between(df, "Manchester United", "Milton Keynes Dons") #will give 0 rows as never played

@@ -9,6 +9,7 @@ score_team.all(df, score, teamname)
 Lists all matches that a team has played in that ended in a scoreline
 }
 \examples{
+df <- engsoccerdata2
 score_team.all(df, "1-0", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal
 score_team.all(df, "0-1", "Arsenal")  # All games ending 1-0 or 0-1 involving Arsenal
 score_team.all(df, "4-3", "Coventry City")  # All games ending 4-3 or 3-4 involving Coventry City

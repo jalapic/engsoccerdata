@@ -1,6 +1,7 @@
 #' Number of Seasons in Each Tier
 #'
 #' @examples
+#' df <- engsoccerdata2
 #' seasons_by_tier(df, 1)
 #' seasons_by_tier(df, 2)
 #' seasons_by_tier(df, 3)

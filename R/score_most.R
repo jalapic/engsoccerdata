@@ -1,6 +1,7 @@
 #' This returns the team who has been involved in the most games of each scoreline
 #'
 #' @examples
+#' df <- engsoccerdata2
 #' score_most(df, "6-6") # Arsenal 1  Charlton Athletic 1  Leicester City 1  Middlesbrough 1
 #' score_most(df, "5-5") # Blackburn Rovers 3   West Ham United 3
 #' score_most(df, "4-4") # Tottenham Hotspur 14

@@ -1,6 +1,7 @@
 #' Return each team's record win (top 5 etc)
 #'
 #' @examples
+#' df <- engsoccerdata2
 #' bestwins(df,"Everton")
 #' bestwins(df,"Aston Villa", type="H")
 #' bestwins(df,"York City", type="A")

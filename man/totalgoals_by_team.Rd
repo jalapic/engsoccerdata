@@ -9,6 +9,7 @@ totalgoals_by_team(df, goals, teamname)
 Return all instances of a team being involved in a game with n goals
 }
 \examples{
+df <- engsoccerdata2
 totalgoals_by_team(df, 10, "York City")
 totalgoals_by_team(df, 10, "Manchester United")
 totalgoals_by_team(df, 12, "Aston Villa")

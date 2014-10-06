@@ -1,6 +1,7 @@
 #' Function to List the all-time records of a team
 #'
 #' @examples
+#' df <- engsoccerdata2
 #' alltimerecord(df, "Aston Villa")
 #' alltimerecord(df, "Arsenal")
 #' alltimerecord(df, "Liverpool")

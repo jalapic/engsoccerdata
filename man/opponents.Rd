@@ -9,6 +9,7 @@ opponents(df, Tier = NULL)
 Total number of different opponents
 }
 \examples{
+df <- engsoccerdata2
 opponents(df)  #Grimsby Town and Lincoln City have the most unique opponents - 134 each
 opponents(df,1)
 opponents(df,2)

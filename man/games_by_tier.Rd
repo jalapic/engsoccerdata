@@ -9,6 +9,7 @@ games_by_tier(df, Tier = NULL)
 Number of Games in Each Tier
 }
 \examples{
+df <- engsoccerdata2
 games_by_tier(df, 1)
 games_by_tier(df, 2)
 games_by_tier(df, 3)
