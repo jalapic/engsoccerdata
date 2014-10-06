@@ -9,3 +9,6 @@ License: What license is it under?
 LazyData: true
 Imports: dplyr,
     tidyr
+Suggests: knitr,
+    ggplot2
+VignetteBuilder: knitr

@@ -1,5 +1,14 @@
-####  Home goal differential per game compared to Away goal differential per game
+---
+title: "Home goal differential per game compared to Away goal differential per game"
+author: "James Curley"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Home goal differential per game compared to Away goal differential per game}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\usepackage[utf8]{inputenc}
+---
 
+```{r}
 df<-read.csv("engsoccerdata.csv") #contains results/goals scored/conceded for all top 4 tier games 1888-2014
 teams<-read.csv("engsoccerteams.csv") #contains data on teams and if in league 2013-4.
 
@@ -70,6 +79,4 @@ p
 #couple of ways to sort table
 tempdf %>% arrange(desc(GDaway.pg))
 tempdf %>% arrange(GDhome.pg)
-
-
-
+```

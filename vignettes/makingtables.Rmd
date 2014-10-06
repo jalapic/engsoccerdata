@@ -1,5 +1,14 @@
-#### Some example scripts of how to make League Tables from Raw Data
+---
+title: "Some example scripts of how to make League Tables from Raw Data"
+author: "James Curley"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Some example scripts of how to make League Tables from Raw Data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\usepackage[utf8]{inputenc}
+---
 
+```{r}
 df <- engsoccerdata2
 
 
@@ -72,4 +81,4 @@ mylist[[206]]  #1964 tier 3
 
 #### Note these tables obviously do not include point penalties
 ## e.g. 2010 tier 4 - Hereford were deducted 3 points for fielding an ineligible player.
-
+```
