@@ -10,8 +10,6 @@
 #' @export
 worstlosses<-function(df, teamname, type=NULL, N=NULL){
 
-  library(dplyr)
-  library(tidyr)
 
   N<- if(is.null(N))  10 else {N}
 

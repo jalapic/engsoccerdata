@@ -12,8 +12,6 @@ bestwins<-function(df, teamname, type=NULL, N=NULL){
 
 N<- if(is.null(N))  10 else {N}
 
-library(tidyr)
-library(dplyr)
 
 if(is.null(type))
 

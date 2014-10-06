@@ -8,8 +8,6 @@
 #' @export
 goals_by_team<-function (df, goals, teamname) {
 
-  library(dplyr)
-  library(tidyr)
   df%>%
     filter(hgoal>=goals & home==teamname | vgoal>=goals & visitor == teamname) %>%
     select(Date,Season,home,visitor,FT, division,tier) %>%

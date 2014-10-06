@@ -7,8 +7,6 @@
 #'
 #' @export
 games_between<-function (df, teamname1, teamname2) {
-  library(dplyr)
-  library(tidyr)
 
   df %>%
     filter(home==teamname1 & visitor==teamname2 | home==teamname2 & visitor==teamname1)%>%

@@ -20,7 +20,6 @@ namecheck<-function(df,x){
 
   temp<-as.data.frame(unlist(teams.res))
   colnames(temp)<-c("team")
-  library(dplyr)
   temp1 <- temp %>% arrange (team)
   return(temp1)
 }

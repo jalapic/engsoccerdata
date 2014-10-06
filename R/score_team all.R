@@ -8,8 +8,6 @@
 #'
 #' @export
 score_team.all<-function(df,score,teamname){
-  library(dplyr)
-  library(tidyr)
   temp<-strsplit(score,split="-")
   temp<-as.vector(unlist(temp[[1]]))
   score1<-paste(temp[2],temp[1],sep="-")

@@ -16,8 +16,6 @@
 #'
 #' @export
 n_offs<- function(df, N, Tier=NULL){
-  library(dplyr)
-  library(tidyr)
 
   if(is.null(Tier))
     df %>%

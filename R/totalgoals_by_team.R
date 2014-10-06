@@ -8,8 +8,6 @@
 #' @export
 totalgoals_by_team<-function (df, goals, teamname) {
 
-  library(dplyr)
-  library(tidyr)
   df %>%
     filter(totgoal >= goals, home == teamname | visitor == teamname) %>%
     select(Date, Season,home,visitor,FT, totgoal, division,tier) %>%

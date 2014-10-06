@@ -11,8 +11,6 @@
 #' @export
 games_between.summary<-function (df, teamname1, teamname2) {
 
-  library(dplyr)
-  library(tidyr)
 
   df %>%
     group_by(home) %>%

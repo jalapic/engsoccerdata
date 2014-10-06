@@ -12,8 +12,6 @@
 #'
 #' @export
 opponentfreq<-function(df, teamname){
-library(dplyr)
-library(tidyr)
 
 temp<-df %>%
   filter (home==teamname) %>%

@@ -9,8 +9,6 @@
 #'
 #' @export
 score_team<-function (df, score, teamname) {
-  library(dplyr)
-  library(tidyr)
 
   temp<-strsplit(score,split="-")
   temp<-as.vector(unlist(temp[[1]]))

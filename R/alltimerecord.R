@@ -13,8 +13,6 @@
 #' @export
 alltimerecord<-function (df, teamname) {
 
-  library(dplyr)
-  library(tidyr)
 
   hrec<-df %>%
     filter(home==teamname)  %>%

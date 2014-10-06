@@ -7,3 +7,5 @@ Maintainer: James Curley <jc3181@columbia.edu>
 Description: What the package does (one paragraph)
 License: What license is it under?
 LazyData: true
+Imports: dplyr,
+    tidyr
