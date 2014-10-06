@@ -23,7 +23,7 @@ alltimerecord<-function (df, teamname) {
   vrec<-df %>%
     filter(visitor==teamname)  %>%
     summarise(P = n(),  W=sum(result=="A"), D=sum(result=="D"), L=sum(result=="H"),
-              GF = sum(vgoal), GA = sum(hgoal), GD=GF-GA,)
+              GF = sum(vgoal), GA = sum(hgoal), GD=GF-GA)
 
   temp<-rbind(hrec,vrec,hrec+vrec)
   rownames(temp)<-c("home", "away", "total")
