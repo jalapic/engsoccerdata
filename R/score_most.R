@@ -25,7 +25,7 @@ score_most<-function (df, score){
   df %>%
     filter(FT == score | FT == score1) %>%
     select(Season, home, visitor) %>%
-    gather(Season, team, home:visitor) %>%
+    gather(key, team, home:visitor) %>%
     group_by(team)  %>%
     tally %>%
     arrange(desc(n)) %>%
