@@ -119,3 +119,11 @@ none
 
 2000s - to do
 none
+
+
+
+
+Note: 12th October 2014
+
+-fixed error in 1976 Season, division 2.  
+-away games for Cardiff City/Carlisle Utd were reversed.
