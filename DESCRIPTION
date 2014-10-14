@@ -1,0 +1,18 @@
+Package: engsoccerdata
+Title: Top 4 Tier English League Soccer Games 1888-2014
+Version: 0.1
+Date: 2014-10-06
+Author: James Curley
+Maintainer: James Curley <jc3181@columbia.edu>
+Description: What the package does (one paragraph)
+Depends:
+    R (>= 2.10)
+License: What license is it under?
+LazyData: true
+Imports:
+    dplyr,
+    tidyr
+Suggests:
+    knitr,
+    ggplot2
+VignetteBuilder: knitr
