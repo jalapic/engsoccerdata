@@ -1,10 +1,11 @@
-#### TOP 4 TIER ENGLISH LEAGUE SOCCER GAMES 1888-2014  ####
+#### TOP 4 TIER ENGLISH LEAGUE SOCCER GAMES 1888-2014
 
 
-# Installation #
+### Installation
 
-`To install this directly into R.
+To install this directly into R.
 
+```
 library(devtools)
 install_github('engsoccerdata', username = "jalapic")
 library(engsoccerdata)
@@ -14,7 +15,7 @@ df = engsoccerdata2  # this is the main dataset.
 
 alltimerecord(df, "Aston Villa") #see notes below about what fixtures are included in the data
 n_offs(df, 1, 1)                #return results to have only occured once in top-tier
-`
+```
 
 
 
