@@ -4,10 +4,22 @@ Version: 0.1
 Date: 2014-10-06
 Author: James Curley
 Maintainer: James Curley <jc3181@columbia.edu>
-Description: What the package does (one paragraph)
+Description: This package contains all of the top 4 Tier English soccer results from 1888/9 Season to the 2013/4 Season.
+             Results for the truncated 1939/40 season are included, as are for those games by teams that dropped out during
+             the season (1919/20 Leeds City, 1931/32 Wigan Borough, 1961/62 Accrington Stanley) or joined in the middle of
+             a season (1919/20 Port Vale).  Team names are kept uniform throughout (e.g. Ardwick are referred to as 
+             Manchester City).  Relocated teams are considered to have separate teamnames (e.g. Wimbledon-MK Dons; 
+             South Shields - Gateshead).   
+             
+             The main dataset is 'engsoccerdata2'.   
+             
+             Future versions of this package will contain cup competition results and 
+             results from other European and World Leagues. 
+             
+             With thanks to Håkon Malmedal for assistance in building this package.
 Depends:
     R (>= 2.10)
-License: What license is it under?
+License: >GPL-2 
 LazyData: true
 Imports:
     dplyr,
