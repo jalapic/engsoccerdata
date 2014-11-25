@@ -7,7 +7,7 @@ To install this directly into R.
 
 ```
 library(devtools)
-install_github('engsoccerdata', username = "jalapic")
+install_github('jalapic/engsoccerdata', username = "jalapic")
 library(engsoccerdata)
 
 data(package="engsoccerdata")    # lists datasets currently available
