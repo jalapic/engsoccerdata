@@ -41,7 +41,12 @@ Note:  as of Sep 28th 2014, I have completed double and triple checks of all the
 
 # This has now been turned into an R-package with the generous help of Hakon Malmedal.
 # I shall be expanding this package in time with additional English cup data
-# I also plan to collate other European and World league historical datasets when available.
+# I also plan to collate other European and World league historical datasets when available. (coming very soon !)
+
+Note: 26th Nov,  v1.0.1 now has dates for all English fixtures.
+
+
+
 
 - if you'd like to get involved and help out, please let me know.  
 - Also, if you can see better ways of writing the R code, please let me know.
@@ -157,8 +162,8 @@ all top 4 tier games ever played 1888-2014
 
 I cannot 100% guarantee the accuracy of every result.  I have checked very thouroughly for mistakes etc., but as this dataset was collected from multiple sources, there is a chance for the odd error.  -  If you find an error, let me know and I will fix asap.   
 
-Note: as of Sep 28th 2014, I have completed more checks and fixed some errors.
-
+Note on Sep 28th 2014, I have completed more checks and fixed some errors.
+Note on Nov 26th 2014, I have completed more checks and fixed some errors and added dates for every fixture.
 
 # List of Sources
 
