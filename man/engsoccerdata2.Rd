@@ -2,9 +2,9 @@
 \docType{data}
 \name{engsoccerdata2}
 \alias{engsoccerdata2}
-\title{Results of all top 4 tier soccer games in England 1888-2014}
+\title{Results and dates of all top 4 tier soccer games in England 1888-2014}
 \format{\preformatted{'data.frame':	188060 obs. of  12 variables:
- $ Date    : chr  NA NA NA NA ...
+ $ Date    : chr  "1888-12-15" "1889-01-19" "1889-03-23" "1888-12-01" ...
  $ Season  : int  1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 ...
  $ home    : chr  "Accrington F.C." "Accrington F.C." "Accrington F.C." "Accrington F.C." ...
  $ visitor : chr  "Aston Villa" "Blackburn Rovers" "Bolton Wanderers" "Burnley" ...
@@ -21,7 +21,7 @@
 engsoccerdata2
 }
 \description{
-Results of all top 4 tier soccer games in England 1888-2014
+Results and dates of all top 4 tier soccer games in England 1888-2014
 }
 \keyword{datasets}
 
