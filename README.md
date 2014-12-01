@@ -45,7 +45,7 @@ Last update: 1st Dec 2014,  v1.0.1
 -  engsoccerteams.csv  - file containing list of 142 teams plus whether they were in
                          the top 4 divisions in 2013/4
 
-- facup.csv             - Contains all FA Cup ties (non-qualifying rounds) 1871-2014
+- facup.csv             - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2014
 - facupteams.csv        - Contains all teams in facup.csv along with first year and most recent year
 
 
