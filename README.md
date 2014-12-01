@@ -36,7 +36,8 @@ df = facup  # this is the main dataset for English FA Cup data
 
 ```
 
-## Datasets currently available:
+
+
 
 
 engsoccerdata
