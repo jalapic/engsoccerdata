@@ -5,13 +5,7 @@ This R package is mainly a repository for complete soccer datasets, along with s
 Free to use for non-commerical use.   Compiled by James Curley July - Dec 2014
 
 
-If you do use it on any publications, blogs, websites, etc. 
-please note the source (i.e. me!)
-
-Also, if you do use it - I would love to see any analysis 
-produced from it etc.
-
-Of course, I accept no responsibility for any error that may be contained herewithin.
+If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!).  Also, if you do use it - I would love to see any analysis produced from it etc.  Of course, I accept no responsibility for any error that may be contained herewithin.
 
 - if you'd like to get involved and help out, please let me know.  
 - Also, if you can see better ways of writing the R code, please let me know.
@@ -43,7 +37,8 @@ df = facup  # this is the main dataset for English FA Cup data
 engsoccerdata
 =============
 
-Last update: 1st Dec 2014,  v1.0.1 now has dates for all English fixtures.
+Last update: 1st Dec 2014,  v1.0.1 
+
 
 ## Datasets
 -  engsoccerdata2.csv   - Results of all top 4 tier soccer games in England 1888-2014 (updated Sep 28th 2014)
