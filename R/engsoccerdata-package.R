@@ -10,3 +10,9 @@ NULL
 
 #' List of 142 teams plus whether they were in the top 4 divisions in 2013/4
 "engsoccerteams"
+
+#' Results and dates of all FA Cup soccer games in England 1871-2014
+"facup"
+
+#' List of 500+ teams who have played in the FA Cup proper with earliest and most recent years
+"facupteams"
