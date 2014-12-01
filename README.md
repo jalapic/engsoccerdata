@@ -157,7 +157,7 @@ Note on Nov 26th 2014, I have completed more checks and fixed some errors and ad
 
 This was a pain to put together.  It contains every single FA Cup tie (whether played or not) from the first inception of the competition in 1871 to the 2013/14 season.  It does not contain pre-qualifying rounds (yet).   It is best to describe each variable name in turn to give more information:
 
-- date         date of match/tie
+- date         - date of match/tie
 - Season       - season (e.g. 1872 refers to 1872/73 season)
 - home         - home team (note for games played at neutral venues this isn't relevant)
 - visitor      - visiting team (note for games played at neutral venues this isn't relevant)
