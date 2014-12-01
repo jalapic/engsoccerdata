@@ -158,24 +158,24 @@ Note on Nov 26th 2014, I have completed more checks and fixed some errors and ad
 This was a pain to put together.  It contains every single FA Cup tie (whether played or not) from the first inception of the competition in 1871 to the 2013/14 season.  It does not contain pre-qualifying rounds (yet).   It is best to describe each variable name in turn to give more information:
 
 - date         date of match/tie
-- Season       season (e.g. 1872 refers to 1872/73 season)
-- home         home team (note for games played at neutral venues this isn't relevant)
-- visitor      visiting team (note for games played at neutral venues this isn't relevant)
-- FT           final score.  this is the final score even after extra time (i.e. not just after 90 minutes)
-- hgoal        number of goals scored by team in home variable
-- vgoal        number of goals scored by team in visitor variable
-- round        the round of the match (1,2,3,4,5,6, s = semi-final, f=final, 3pp = 3rd place playoff)
-- tie          initial = 1st game, replay = 1st replay, replay2 = 2nd replay, etc.
-- aet          whether the game went to extra time. note only 'yes' or NA. 
-- pen          whether the game went to penalties.  note only 'yes' or NA.
-- pens         the scoreline of the penalty shoot-out and who won
-- hp           penalties scored in a shoot-out by team in home variable
-- vp           penalties scored in a shoot-out by team in visitor variable
-- Venue        where match was played
-- attendance   attendance of the match
-- nonmatch     if a tie was not played, voided or a team disqualified
-- notes        further information about non-matches
-- neutral      was the game played at a neutral venue -  "yes" or NA.
+- Season       - season (e.g. 1872 refers to 1872/73 season)
+- home         - home team (note for games played at neutral venues this isn't relevant)
+- visitor      - visiting team (note for games played at neutral venues this isn't relevant)
+- FT           - final score.  this is the final score even after extra time (i.e. not just after 90 minutes)
+- hgoal        - number of goals scored by team in home variable
+- vgoal        - number of goals scored by team in visitor variable
+- round        - the round of the match (1,2,3,4,5,6, s = semi-final, f=final, 3pp = 3rd place playoff)
+- tie          - initial = 1st game, replay = 1st replay, replay2 = 2nd replay, etc.
+- aet          - whether the game went to extra time. note only 'yes' or NA. 
+- pen          - whether the game went to penalties.  note only 'yes' or NA.
+- pens         - the scoreline of the penalty shoot-out and who won
+- hp           - penalties scored in a shoot-out by team in home variable
+- vp           - penalties scored in a shoot-out by team in visitor variable
+- Venue        - where match was played
+- attendance   - attendance of the match
+- nonmatch     - if a tie was not played, voided or a team disqualified
+- notes        - further information about non-matches
+- neutral      - was the game played at a neutral venue -  "yes" or NA.
 
 
 Important notes to above:
