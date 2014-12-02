@@ -107,10 +107,11 @@ These work best for League Data.
 ## What does engsoccerdata2.csv contain?
 
 all top 4 tier games ever played 1888-2014
- 
+
+
 - FL = Football League
 - PL = Premier League
- 
+
 - 1888/9 - 1891/2   FL Division 1
 - 1892/3 - 1914/5   FL Divisions 1 & 2
 - 1919/20           FL Divisions 1 & 2
@@ -128,18 +129,13 @@ all top 4 tier games ever played 1888-2014
  
 Dataset includes:
  
- teams that dropped out half way through a season: 
+ teams that dropped out half way through a season:
  - 1919 Leeds City
  - 1931 Wigan Borough
- - 1961 Accrington Stanley 
+ - 1961 Accrington Stanley
 
  - includes 1919 Port Vale who replaced Leeds City mid-season
- - includes: truncated 1938 season
- 
- - from 1993-2014, includes date of game.
- - games before 1993 only have Season.
- 
- - Season refers to the first year of that season e.g. 1952/3 would be "1952"
+ - includes: truncated 1939/40 season
 
   Team Names used in the file are those that are currently used:
   e.g. Small Heath are Birmingham City, Ardwick are Manchester City, etc.
