@@ -1,11 +1,11 @@
 Package: engsoccerdata
-Title: Top 4 Tier English League Soccer Games 1888-2014
-Version: 0.1.1
-Date: 2014-10-06
+Title: English Soccer Data 1871-2014
+Version: 0.1.2
+Date: 2014-12-02
 Author: James Curley
 Maintainer: James Curley <jc3181@columbia.edu>
-Description: This package contains all of the top 4 Tier English soccer results
-    from 1888/9 Season to the 2013/4 Season.
+Description: This package contains English professional soccer data from
+    1871-2004.
 Depends:
     R (>= 2.10)
 License: >GPL-2
