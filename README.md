@@ -44,7 +44,7 @@ Last update: 2nd Dec 2014,  v1.0.2
 
 
 ## Datasets
--  engsoccerdata2.csv   - Results of all top 4 tier soccer games in England 1888-2014 (updated Sep 28th 2014)
+-  engsoccerdata2.csv   - Results of all top 4 tier soccer games in England 1888-2014
 -  engsoccerteams.csv  - file containing list of 142 teams plus whether they were in
                          the top 4 divisions in 2013/4
 
