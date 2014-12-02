@@ -4,7 +4,7 @@ This R package is mainly a repository for complete soccer datasets, along with s
 
 Free to use for non-commerical use.   Compiled by James Curley July - Dec 2014
 
-Please cite as:
+Please cite as:  
 James P. Curley (2014). engsoccerdata: English Soccer Data 1871-2014. R package version 0.1.2
 
 
