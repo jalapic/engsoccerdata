@@ -112,16 +112,16 @@ all top 4 tier games ever played 1888-2014
 - FL = Football League
 - PL = Premier League
 
-- 1888/9 - 1891/2   FL Division 1
-- 1892/3 - 1914/5   FL Divisions 1 & 2
+- 1888/9-1891/2   FL Division 1
+- 1892/3-1914/5   FL Divisions 1 & 2
 - 1919/20           FL Divisions 1 & 2
 - 1920/21           FL Divisions 1, 2 & 3
-- 1921/22- 1938/9   FL Divisions 1, 2, 3a North & 3b South
+- 1921/22-1938/9   FL Divisions 1, 2, 3a North & 3b South
 - 1939              FL Divisions 1, 2, 3a North & 3b South (truncated season)
-- 1946/7 - 1957/8   FL Divisions 1, 2, 3a North & 3b South
-- 1958/9 - 1991/2   FL Divisions 1, 2, 3 & 4
-- 1992/3 - 2004/5   PL, FL Divisions 1, 2 & 3
-- 2004/5 - 2013/4   PL, FL Championship, FL Divisions 1 & 2
+- 1946/7-1957/8   FL Divisions 1, 2, 3a North & 3b South
+- 1958/9-1991/2   FL Divisions 1, 2, 3 & 4
+- 1992/3-2004/5   PL, FL Divisions 1, 2 & 3
+- 2004/5-2013/4   PL, FL Championship, FL Divisions 1 & 2
  
  In the csv file, I've used divisions 1,2,3,3a,3b, 4 as the notation
  I've also used tier 1,2,3,4  - to refer to 3,3a & 3b all belonging to tier 3
@@ -191,7 +191,6 @@ Any help in improving the quality of these datasets is appreciated.
 
 ## List of Sources
 
-
 - https://github.com/footballcsv/en-england  
 - http://en.wikipedia.org/wiki/The_Football_League 
 - http://www.rsssf.com/engpaul/fla/
@@ -203,7 +202,7 @@ Any help in improving the quality of these datasets is appreciated.
 
 
 
-### Tutorials/demos
+## Tutorials/demos
 
 - http://rpubs.com/jalapic/facuplast8   #quick walkthrough of some of the FA Cup data
 - http://rpubs.com/jalapic/gpg   #very quick look at id-ing breakpoints in English scoring trends 
