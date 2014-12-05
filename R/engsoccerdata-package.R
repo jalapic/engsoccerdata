@@ -16,3 +16,6 @@ NULL
 
 #' List of 500+ teams who have played in the FA Cup proper with earliest and most recent years
 "facupteams"
+
+#' All playoff matches including 1890s 'test-matches' and modern playoffs
+"playoffs"
