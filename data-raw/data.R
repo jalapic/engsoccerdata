@@ -6,4 +6,6 @@ facup <- read.csv("data-raw/facup.csv",
                   stringsAsFactors = FALSE)
 facupteams <- read.csv("data-raw/facupteams.csv",
                        stringsAsFactors = FALSE)
-devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, overwrite = TRUE)
+playoffs <- read.csv("data-raw/playoffs.csv",
+                       stringsAsFactors = FALSE)
+devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, playoffs, overwrite = TRUE)
