@@ -219,5 +219,6 @@ Any help in improving the quality of these datasets is appreciated.
 
 ## Tutorials/demos
 
+- http://rpubs.com/jalapic/daygoals     #goal scoring trends on unqiue dates in soccer history
 - http://rpubs.com/jalapic/facuplast8   #quick walkthrough of some of the FA Cup data
 - http://rpubs.com/jalapic/gpg   #very quick look at id-ing breakpoints in English scoring trends 
