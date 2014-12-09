@@ -214,7 +214,9 @@ Any help in improving the quality of these datasets is appreciated.
 - http://www.worldfootball.net
 
 
+## Shiny apps:
 
+- https://jalapic.shinyapps.io/engsoccerbeta/  #based on League Data (it's a beta, there are some hiccups)
 
 ## Tutorials/demos
 
