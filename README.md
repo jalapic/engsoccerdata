@@ -217,6 +217,7 @@ Any help in improving the quality of these datasets is appreciated.
 ## Shiny apps:
 
 - https://jalapic.shinyapps.io/engsoccerbeta/  #based on League Data (it's a beta, there are some hiccups)
+- https://jalapic.shinyapps.io/soccerteams/  #interactive ggvis chart of historical team performances
 
 ## Tutorials/demos
 
