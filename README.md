@@ -56,7 +56,7 @@ Last update: 2nd Dec 2014,  v1.0.2
 
 ## Functions 
 
-These work best for League Data.
+I wrote these initially only for the engsoccerdata2 csv file and they work for that.  For other data files, it may be worth writing one's own functions.  Please refer to the rpubs and shiny code below for ideas on how to do this.  Alternatively have a look at the code for these functions - it's quite straightforward.
 
 -  makingtables.r           - some dplyr scripts to make league tables for each season
 
