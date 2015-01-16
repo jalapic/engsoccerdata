@@ -1,11 +1,11 @@
 #### engsoccerdata
 
-This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include two English ones (described below). Updates in the near future will include those for various European leagues as well as MLS. 
+This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below) and one Spanish one (La Liga data). Updates in the near future will include those for various European leagues as well as MLS. 
 
 Free to use for non-commerical use.   Compiled by James Curley July - Dec 2014
 
 Please cite as:  
-James P. Curley (2014). engsoccerdata: English Soccer Data 1871-2014. R package version 0.1.2 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13158.svg)](http://dx.doi.org/10.5281/zenodo.13158)
+James P. Curley (2014). engsoccerdata: English Soccer Data 1871-2014. R package version 0.1.3 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13158.svg)](http://dx.doi.org/10.5281/zenodo.13158)
 
 If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!).  Also, if you do use it - I would love to see any analysis produced from it etc.  Of course, I accept no responsibility for any error that may be contained herewithin.
 
@@ -27,8 +27,6 @@ install_github('jalapic/engsoccerdata', username = "jalapic")
 library(engsoccerdata)
 
 data(package="engsoccerdata")    # lists datasets currently available
-df = engsoccerdata2  # this is the main dataset for English league data.
-df = facup  # this is the main dataset for English FA Cup data
 
 ```
 
@@ -52,6 +50,7 @@ Last update: 2nd Dec 2014,  v1.0.2
 
 - playoffs.csv          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
 
+- spainliga.csv         - Top flight Spanish League match results 1929-2014
 
 
 
@@ -195,7 +194,14 @@ Finally, team names.  There are great disputes about which teams branch off from
 
 
 
+## What does spainliga.csv contain?
 
+* top flight matches 1929 - 2013/14 season
+* The 1929 season only took place in 1929 but is denoted as 1928 Season in keeping with the package's style format.  The 1929/30 season is noted as 1929
+* Promotion/relegation matches are not included - will be in a separate csv soon
+* 1979/80 season does not include "CD Málaga 0-3 UD Salamanca" match that was annulled because of match fixing
+* 1979/80 season does include  "CD Málaga 0-1 AD Almería" that was not played but awarded 0-1 to AD Almería as CD Málaga failed to participate
+* All team names are the currently used ones - i.e. names used during the Spanish civil war are not used.
 
 -----
 
