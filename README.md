@@ -202,6 +202,9 @@ Finally, team names.  There are great disputes about which teams branch off from
 * 1979/80 season does not include "CD Málaga 0-3 UD Salamanca" match that was annulled because of match fixing
 * 1979/80 season does include  "CD Málaga 0-1 AD Almería" that was not played but awarded 0-1 to AD Almería as CD Málaga failed to participate
 * All team names are the currently used ones - i.e. names used during the Spanish civil war are not used.
+* The 1986/87 season contains both the phase 1 round of games and the phase 2 round of games.  
+
+Please refer to the spainliga rpubs below for further information.
 
 -----
 
