@@ -19,3 +19,6 @@ NULL
 
 #' All playoff matches including 1890s 'test-matches' and modern playoffs
 "playoffs"
+
+#' All La Liga matches 1929-2014
+"spainliga"

@@ -8,4 +8,6 @@ facupteams <- read.csv("data-raw/facupteams.csv",
                        stringsAsFactors = FALSE)
 playoffs <- read.csv("data-raw/playoffs.csv",
                        stringsAsFactors = FALSE)
-devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, playoffs, overwrite = TRUE)
+spainliga <- read.csv("data-raw/spainliga.csv",
+                     stringsAsFactors = FALSE)
+devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, playoffs, spainliga, overwrite = TRUE)
