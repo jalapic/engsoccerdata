@@ -235,4 +235,5 @@ Any help in improving the quality of these datasets is appreciated.
 - http://rpubs.com/jalapic/gpg   #very quick look at id-ing breakpoints in English scoring trends
 - http://rpubs.com/jalapic/gamebygame  #plotting game by game trends across seasons
 - http://rpubs.com/jalapic/seasons  #visualizing season to season changes in top tier performance
+- http://rpubs.com/jalapic/laliga #visualizing historical Spanish La Liga data
 
