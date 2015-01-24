@@ -38,6 +38,7 @@ engsoccerdata
 =============
 
 Last update: 2nd Dec 2014,  v1.0.2 
+Minor databased edits: 24 Jan 2015.
 
 
 ## Datasets
@@ -183,6 +184,8 @@ Important notes to above:
 I have tried to make the dataset as complete as possible.  The FA Cup data is difficult as some of it is just unobtainable.  For instance, I have added venues and attendances for all semis and finals and have included this information sporadically wherelse I was able to get it.  I have not done a systematic application of this to early rounds.   Several games in the FA Cup are played at neutral grounds or even the visiting team is allowed to play at home (e.g. if a minnow plays a big team).  I have not managed to systematically check this.   Also, there was a trend to play 2nd and 3rd and 4th replays at neutral venues.  This could be systematically checked but I have not yet.      Further, I think I have all games that ever ended in penalties added in correctly.  
 
 Finally, team names.  There are great disputes about which teams branch off from which teams in history and who should have shared history.  I have tried to be consistent in naming teams with their most current name throughout (e.g. Millwall Rovers, Millwall Athletic and Millwall are all listed as the current name - Millwall), or the name that they used when they stopped playing (e.g. Mitchell St. George's are always listed as Birmingham St. George's).     I have also tried to follow the same team name format as in engsoccerdata2.csv  - I think the three Accrington teams may be the only one I need to re-edit for this purpose. 
+
+Note Jan 24 2015 - thanks to Andrew Clark, I've added four 6th round replays (1930/31 and 2011/12) that I had missed previously.
 
 
 ## What does playoffs.csv contain?
