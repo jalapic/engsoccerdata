@@ -10,7 +10,8 @@ James P. Curley (2014). engsoccerdata: English Soccer Data 1871-2014. R package 
 If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!).  Also, if you do use it - I would love to see any analysis produced from it etc.  Of course, I accept no responsibility for any error that may be contained herewithin.
 
 - if you'd like to get involved and help out, please let me know.  
-- Also, if you can see better ways of writing the R code, please let me know.
+- if you can see better ways of writing the R code, please let me know.
+- if you would like to collaborate on a project using these data, please get in touch.
 
 Contact details:   jc3181  AT columbia DOT edu
 
