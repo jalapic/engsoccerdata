@@ -10,4 +10,10 @@ playoffs <- read.csv("data-raw/playoffs.csv",
                        stringsAsFactors = FALSE)
 spainliga <- read.csv("data-raw/spainliga.csv",
                      stringsAsFactors = FALSE)
-devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, playoffs, spainliga, overwrite = TRUE)
+bundesliga <- read.csv("data-raw/bundesliga.csv",
+                      stringsAsFactors = FALSE)
+holland1 <- read.csv("data-raw/holland1.csv",
+                       stringsAsFactors = FALSE)
+italycalcio <- read.csv("data-raw/italycalcio.csv",
+                     stringsAsFactors = FALSE)
+devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, playoffs, spainliga, bundesliga, holland1, italycalcio, overwrite = TRUE)
