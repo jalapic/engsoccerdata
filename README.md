@@ -1,6 +1,6 @@
 #### engsoccerdata
 
-This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below) and one Spanish one (La Liga data). Updates in the near future will include those for various European leagues as well as MLS. 
+This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below) and one Spanish one (La Liga data). Updates in the near future will include those for various European leagues as well as MLS - see note below. 
 
 Free to use for non-commerical use.   Compiled by James Curley July - Dec 2014
 
@@ -104,7 +104,7 @@ I wrote these initially only for the engsoccerdata2 csv file and they work for t
 
 -  worstlosses.r            - worst losses for each team
 
-
+-  maketable.r               - make a league table
 
 
 ## What does engsoccerdata2.csv contain?
@@ -209,6 +209,21 @@ Note Jan 24 2015 - thanks to Andrew Clark, I've added four 6th round replays (19
 * The 1986/87 season contains both the phase 1 round of games and the phase 2 round of games.  
 
 Please refer to the spainliga rpubs below for further information.
+
+
+
+## Other Leagues:
+
+**as of Feb21 2015**
+I've just added complete all top tier results for Holland (1956-2014), Germany (1963-2014) and Italy (1934-2014).  These dataframes contain all league results played in regular season.  They don't yet include relegation/promotion playoff fixtures.  Further, I have not yet completed all final checks of the data. I believe they are error free - but if others want to test and check, I'd welcome this.
+
+dataframes:
+
+- holland1
+- bundesliga
+- italycalcio
+
+
 
 -----
 
