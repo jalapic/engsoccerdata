@@ -9,8 +9,10 @@ facupteams <- read.csv("data-raw/facupteams.csv",
 playoffs <- read.csv("data-raw/playoffs.csv",
                        stringsAsFactors = FALSE)
 spainliga <- read.csv("data-raw/spainliga.csv",
+                      encoding = "latin1",
                      stringsAsFactors = FALSE)
 bundesliga <- read.csv("data-raw/bundesliga.csv",
+                       encoding = "latin1",
                       stringsAsFactors = FALSE)
 holland1 <- read.csv("data-raw/holland1.csv",
                        stringsAsFactors = FALSE)

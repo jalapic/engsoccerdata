@@ -8,7 +8,8 @@ Description: This package contains English & other European professional soccer 
     1871-2004.
 Depends:
     R (>= 2.10)
-License: >GPL-2
+License: GPL (>= 2)
+Encoding: UTF-8
 LazyData: true
 Imports:
     dplyr,
