@@ -22,3 +22,12 @@ NULL
 
 #' All La Liga matches 1929-2014
 "spainliga"
+
+#' Top tier results for Holland (1956-2014)
+"holland1"
+
+#' Top tier results for Germany (1963-2014)
+"bundesliga"
+
+#' Top tier results for Italy (1934-2014)
+"italycalcio"
