@@ -8,6 +8,7 @@
 #' defined), 1 for a draw and 0 for a loss.  The table is sorted based upon descending
 #' GD and then descending GF as tie-breakers.
 #' @examples
+#' library(dplyr)
 #' df <- engsoccerdata2 %>% filter(tier==1 & Season==2013)
 #' maketable(df)
 #' @export
