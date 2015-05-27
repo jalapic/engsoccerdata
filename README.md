@@ -1,11 +1,11 @@
 #### engsoccerdata
 
-This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below) and one Spanish one (La Liga data). Updates in the near future will include those for various European leagues as well as MLS - see note below. 
+This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below) and some European leagues (Spain, Germany, Italy, Holland). Updates in the near future will include those for various other European leagues as well as MLS - see notes below. 
 
-Free to use for non-commerical use.   Compiled by James Curley July - Dec 2014
+Free to use for non-commerical use.   Compiled by James Curley.
 
 Please cite as:  
-James P. Curley (2014). engsoccerdata: English Soccer Data 1871-2014. R package version 0.1.3 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13158.svg)](http://dx.doi.org/10.5281/zenodo.13158)
+James P. Curley (2015). engsoccerdata: English Soccer Data 1871-2015. R package version 0.1.4 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13158.svg)](http://dx.doi.org/10.5281/zenodo.13158)
 
 If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!).  Also, if you do use it - I would love to see any analysis produced from it etc.  Of course, I accept no responsibility for any error that may be contained herewithin.
 
@@ -38,12 +38,11 @@ data(package="engsoccerdata")    # lists datasets currently available
 engsoccerdata
 =============
 
-Last update: 2nd Dec 2014,  v1.0.2 
-Minor databased edits: 24 Jan 2015.
+Last update: 26 May 2015,  v0.1.4
 
 
 ## Datasets
--  engsoccerdata2.csv   - Results of all top 4 tier soccer games in England 1888-2014
+-  engsoccerdata2.csv   - Results of all top 4 tier soccer games in England 1888-2015
 -  engsoccerteams.csv  - file containing list of 142 teams plus whether they were in
                          the top 4 divisions in 2013/4
 
@@ -54,7 +53,10 @@ Minor databased edits: 24 Jan 2015.
 
 - spainliga.csv         - Top flight Spanish League match results 1929-2014
 
-
+Additional European Leagues (may need editing for pre 1960 data):
+- italycalcio.csv
+- bundesliga.csv
+- holland1.csv
 
 ## Functions 
 
@@ -104,12 +106,12 @@ I wrote these initially only for the engsoccerdata2 csv file and they work for t
 
 -  worstlosses.r            - worst losses for each team
 
--  maketable.r               - make a league table
+-  maketable.r               - make a league table  - probably the quickest way to make a league table
 
 
 ## What does engsoccerdata2.csv contain?
 
-all top 4 tier games ever played 1888-2014
+all top 4 tier games ever played 1888-2015
 
 
 - FL = Football League
@@ -124,7 +126,7 @@ all top 4 tier games ever played 1888-2014
 - 1946/7-1957/8   FL Divisions 1, 2, 3a North & 3b South
 - 1958/9-1991/2   FL Divisions 1, 2, 3 & 4
 - 1992/3-2004/5   PL, FL Divisions 1, 2 & 3
-- 2004/5-2013/4   PL, FL Championship, FL Divisions 1 & 2
+- 2004/5-2014/5   PL, FL Championship, FL Divisions 1 & 2
  
  In the csv file, I've used divisions 1,2,3,3a,3b, 4 as the notation
  I've also used tier 1,2,3,4  - to refer to 3,3a & 3b all belonging to tier 3
