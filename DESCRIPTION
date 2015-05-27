@@ -1,11 +1,11 @@
 Package: engsoccerdata
-Title: Soccer Data 1871-2014
-Version: 0.1.3
-Date: 2015-01-16
+Title: Soccer Data 1871-2015
+Version: 0.1.4
+Date: 2015-05-26
 Author: James Curley
 Maintainer: James Curley <jc3181@columbia.edu>
 Description: This package contains English & other European professional soccer data from
-    1871-2004.
+    1871-2015.
 Depends:
     R (>= 2.10)
 License: GPL (>= 2)
