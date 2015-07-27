@@ -19,3 +19,4 @@ holland1 <- read.csv("data-raw/holland1.csv",
 italycalcio <- read.csv("data-raw/italycalcio.csv",
                      stringsAsFactors = FALSE)
 devtools::use_data(engsoccerdata2, engsoccerteams, facup, facupteams, playoffs, spainliga, bundesliga, holland1, italycalcio, overwrite = TRUE)
+devtools::use_data(engsoccerdata2, overwrite=T)
