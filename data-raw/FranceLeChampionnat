@@ -1,0 +1,381 @@
+date	Season	home	visitor	FT	hgoal	vgoal	tier
+2014-08-08	2014	Reims	Paris SG	2-2	2	2	1
+2014-08-09	2014	Bastia	Marseille	3-3	3	3	1
+2014-08-09	2014	Evian Thonon Gaillard	Caen	0-3	0	3	1
+2014-08-09	2014	Guingamp	St Etienne	0-2	0	2	1
+2014-08-09	2014	Lille	Metz	0-0	0	0	1
+2014-08-09	2014	Montpellier	Bordeaux	0-1	0	1	1
+2014-08-09	2014	Nantes	Lens	1-0	1	0	1
+2014-08-09	2014	Nice	Toulouse	3-2	3	2	1
+2014-08-10	2014	Lyon	Rennes	2-0	2	0	1
+2014-08-10	2014	Monaco	Lorient	1-2	1	2	1
+2014-08-15	2014	Caen	Lille	0-1	0	1	1
+2014-08-16	2014	Lens	Guingamp	0-1	0	1	1
+2014-08-16	2014	Lorient	Nice	0-0	0	0	1
+2014-08-16	2014	Metz	Nantes	1-1	1	1	1
+2014-08-16	2014	Paris SG	Bastia	2-0	2	0	1
+2014-08-16	2014	Rennes	Evian Thonon Gaillard	6-2	6	2	1
+2014-08-16	2014	Toulouse	Lyon	2-1	2	1	1
+2014-08-17	2014	Bordeaux	Monaco	4-1	4	1	1
+2014-08-17	2014	Marseille	Montpellier	0-2	0	2	1
+2014-08-17	2014	St Etienne	Reims	3-1	3	1	1
+2014-08-22	2014	Evian Thonon Gaillard	Paris SG	0-0	0	0	1
+2014-08-23	2014	Bastia	Toulouse	1-0	1	0	1
+2014-08-23	2014	Guingamp	Marseille	0-1	0	1	1
+2014-08-23	2014	Lille	Lorient	2-0	2	0	1
+2014-08-23	2014	Montpellier	Metz	2-0	2	0	1
+2014-08-23	2014	Nice	Bordeaux	1-3	1	3	1
+2014-08-23	2014	Reims	Caen	0-2	0	2	1
+2014-08-24	2014	Lyon	Lens	0-1	0	1	1
+2014-08-24	2014	Nantes	Monaco	0-1	0	1	1
+2014-08-24	2014	St Etienne	Rennes	0-0	0	0	1
+2014-08-29	2014	Marseille	Nice	4-0	4	0	1
+2014-08-30	2014	Caen	Rennes	0-1	0	1	1
+2014-08-30	2014	Lens	Reims	4-2	4	2	1
+2014-08-30	2014	Lorient	Guingamp	4-0	4	0	1
+2014-08-30	2014	Monaco	Lille	1-1	1	1	1
+2014-08-30	2014	Nantes	Montpellier	1-0	1	0	1
+2014-08-30	2014	Toulouse	Evian Thonon Gaillard	1-0	1	0	1
+2014-08-31	2014	Bordeaux	Bastia	1-1	1	1	1
+2014-08-31	2014	Metz	Lyon	2-1	2	1	1
+2014-08-31	2014	Paris SG	St Etienne	5-0	5	0	1
+2014-09-12	2014	Lyon	Monaco	2-1	2	1	1
+2014-09-13	2014	Bastia	Lens	1-1	1	1	1
+2014-09-13	2014	Montpellier	Lorient	1-0	1	0	1
+2014-09-13	2014	Nice	Metz	1-0	1	0	1
+2014-09-13	2014	Reims	Toulouse	2-0	2	0	1
+2014-09-13	2014	Rennes	Paris SG	1-1	1	1	1
+2014-09-13	2014	St Etienne	Caen	1-0	1	0	1
+2014-09-14	2014	Evian Thonon Gaillard	Marseille	1-3	1	3	1
+2014-09-14	2014	Guingamp	Bordeaux	2-1	2	1	1
+2014-09-14	2014	Lille	Nantes	2-0	2	0	1
+2014-09-19	2014	Bordeaux	Evian Thonon Gaillard	2-1	2	1	1
+2014-09-20	2014	Lorient	Reims	0-1	0	1	1
+2014-09-20	2014	Marseille	Rennes	3-0	3	0	1
+2014-09-20	2014	Metz	Bastia	3-1	3	1	1
+2014-09-20	2014	Nantes	Nice	2-1	2	1	1
+2014-09-20	2014	Toulouse	Caen	3-3	3	3	1
+2014-09-21	2014	Lens	St Etienne	0-1	0	1	1
+2014-09-21	2014	Lille	Montpellier	0-0	0	0	1
+2014-09-21	2014	Monaco	Guingamp	1-0	1	0	1
+2014-09-21	2014	Paris SG	Lyon	1-1	1	1	1
+2014-09-23	2014	Reims	Marseille	0-5	0	5	1
+2014-09-23	2014	Rennes	Toulouse	0-3	0	3	1
+2014-09-24	2014	Bastia	Nantes	0-0	0	0	1
+2014-09-24	2014	Caen	Paris SG	0-2	0	2	1
+2014-09-24	2014	Evian Thonon Gaillard	Lens	2-1	2	1	1
+2014-09-24	2014	Guingamp	Metz	0-1	0	1	1
+2014-09-24	2014	Lyon	Lorient	4-0	4	0	1
+2014-09-24	2014	Montpellier	Monaco	0-1	0	1	1
+2014-09-24	2014	Nice	Lille	1-0	1	0	1
+2014-09-25	2014	St Etienne	Bordeaux	1-1	1	1	1
+2014-09-27	2014	Lille	Bastia	1-0	1	0	1
+2014-09-27	2014	Lorient	Evian Thonon Gaillard	0-2	0	2	1
+2014-09-27	2014	Metz	Reims	3-0	3	0	1
+2014-09-27	2014	Monaco	Nice	0-1	0	1	1
+2014-09-27	2014	Montpellier	Guingamp	2-1	2	1	1
+2014-09-27	2014	Toulouse	Paris SG	1-1	1	1	1
+2014-09-28	2014	Bordeaux	Rennes	2-1	2	1	1
+2014-09-28	2014	Lens	Caen	0-0	0	0	1
+2014-09-28	2014	Marseille	St Etienne	2-1	2	1	1
+2014-09-28	2014	Nantes	Lyon	1-1	1	1	1
+2014-10-04	2014	Bastia	Lorient	0-2	0	2	1
+2014-10-04	2014	Caen	Marseille	1-2	1	2	1
+2014-10-04	2014	Evian Thonon Gaillard	Metz	3-0	3	0	1
+2014-10-05	2014	Guingamp	Nantes	0-1	0	1	1
+2014-10-05	2014	Lyon	Lille	3-0	3	0	1
+2014-10-04	2014	Nice	Montpellier	1-1	1	1	1
+2014-10-05	2014	Paris SG	Monaco	1-1	1	1	1
+2014-10-03	2014	Reims	Bordeaux	1-0	1	0	1
+2014-10-04	2014	Rennes	Lens	2-0	2	0	1
+2014-10-05	2014	St Etienne	Toulouse	0-1	0	1	1
+2014-10-17	2014	Lens	Paris SG	1-3	1	3	1
+2014-10-18	2014	Lille	Guingamp	1-2	1	2	1
+2014-10-18	2014	Lorient	St Etienne	0-1	0	1	1
+2014-10-18	2014	Metz	Rennes	0-0	0	0	1
+2014-10-18	2014	Monaco	Evian Thonon Gaillard	2-0	2	0	1
+2014-10-18	2014	Nantes	Reims	1-1	1	1	1
+2014-10-18	2014	Nice	Bastia	0-1	0	1	1
+2014-10-19	2014	Bordeaux	Caen	1-1	1	1	1
+2014-10-19	2014	Lyon	Montpellier	5-1	5	1	1
+2014-10-19	2014	Marseille	Toulouse	2-0	2	0	1
+2014-10-24	2014	Toulouse	Lens	0-2	0	2	1
+2014-10-25	2014	Bastia	Monaco	1-3	1	3	1
+2014-10-25	2014	Caen	Lorient	2-1	2	1	1
+2014-10-25	2014	Evian Thonon Gaillard	Nantes	0-2	0	2	1
+2014-10-25	2014	Paris SG	Bordeaux	3-0	3	0	1
+2014-10-25	2014	Reims	Montpellier	1-0	1	0	1
+2014-10-26	2014	Guingamp	Nice	2-7	2	7	1
+2014-10-26	2014	Lyon	Marseille	1-0	1	0	1
+2014-10-26	2014	Rennes	Lille	2-0	2	0	1
+2014-10-26	2014	St Etienne	Metz	1-0	1	0	1
+2014-10-31	2014	Monaco	Reims	1-1	1	1	1
+2014-11-01	2014	Guingamp	Bastia	1-0	1	0	1
+2014-11-01	2014	Lille	St Etienne	1-1	1	1	1
+2014-11-01	2014	Lorient	Paris SG	1-2	1	2	1
+2014-11-01	2014	Metz	Caen	3-2	3	2	1
+2014-11-01	2014	Montpellier	Evian Thonon Gaillard	2-0	2	0	1
+2014-11-01	2014	Nice	Lyon	1-3	1	3	1
+2014-11-02	2014	Bordeaux	Toulouse	2-1	2	1	1
+2014-11-02	2014	Marseille	Lens	2-1	2	1	1
+2014-11-02	2014	Nantes	Rennes	1-1	1	1	1
+2014-11-07	2014	Rennes	Lorient	1-0	1	0	1
+2014-11-08	2014	Bastia	Montpellier	2-0	2	0	1
+2014-11-08	2014	Caen	Nantes	1-2	1	2	1
+2014-11-08	2014	Evian Thonon Gaillard	Nice	1-0	1	0	1
+2014-11-08	2014	Lens	Bordeaux	1-2	1	2	1
+2014-11-08	2014	Toulouse	Metz	3-0	3	0	1
+2014-11-09	2014	Lyon	Guingamp	3-1	3	1	1
+2014-11-09	2014	Paris SG	Marseille	2-0	2	0	1
+2014-11-09	2014	Reims	Lille	2-0	2	0	1
+2014-11-09	2014	St Etienne	Monaco	1-1	1	1	1
+2014-11-21	2014	Metz	Paris SG	2-3	2	3	1
+2014-11-22	2014	Bastia	Lyon	0-0	0	0	1
+2014-11-22	2014	Guingamp	Rennes	0-1	0	1	1
+2014-11-22	2014	Lorient	Lens	1-0	1	0	1
+2014-11-22	2014	Monaco	Caen	2-2	2	2	1
+2014-11-22	2014	Nice	Reims	0-0	0	0	1
+2014-11-23	2014	Marseille	Bordeaux	3-1	3	1	1
+2014-11-23	2014	Montpellier	Toulouse	2-0	2	0	1
+2014-11-23	2014	Nantes	St Etienne	0-0	0	0	1
+2014-11-28	2014	Marseille	Nantes	2-0	2	0	1
+2014-11-29	2014	Caen	Montpellier	1-1	1	1	1
+2014-11-29	2014	Lens	Metz	2-0	2	0	1
+2014-11-29	2014	Paris SG	Nice	1-0	1	0	1
+2014-11-29	2014	Reims	Bastia	2-1	2	1	1
+2014-11-29	2014	Rennes	Monaco	2-0	2	0	1
+2014-11-29	2014	Toulouse	Lorient	2-3	2	3	1
+2014-11-30	2014	Bordeaux	Lille	1-0	1	0	1
+2014-11-30	2014	Evian Thonon Gaillard	Guingamp	2-0	2	0	1
+2014-11-30	2014	St Etienne	Lyon	3-0	3	0	1
+2014-12-02	2014	Lorient	Marseille	1-1	1	1	1
+2014-12-02	2014	Monaco	Lens	2-0	2	0	1
+2014-12-02	2014	Nantes	Toulouse	1-2	1	2	1
+2014-12-03	2014	Bastia	Evian Thonon Gaillard	1-2	1	2	1
+2014-12-03	2014	Guingamp	Caen	5-1	5	1	1
+2014-12-03	2014	Lille	Paris SG	1-1	1	1	1
+2014-12-03	2014	Metz	Bordeaux	0-0	0	0	1
+2014-12-03	2014	Montpellier	St Etienne	0-2	0	2	1
+2014-12-03	2014	Nice	Rennes	1-2	1	2	1
+2014-12-04	2014	Lyon	Reims	2-1	2	1	1
+2014-12-05	2014	Toulouse	Monaco	0-2	0	2	1
+2014-12-06	2014	Bordeaux	Lorient	3-2	3	2	1
+2014-12-06	2014	Caen	Nice	2-3	2	3	1
+2014-12-06	2014	Paris SG	Nantes	2-1	2	1	1
+2014-12-06	2014	Rennes	Montpellier	0-4	0	4	1
+2014-12-06	2014	St Etienne	Bastia	1-0	1	0	1
+2014-12-07	2014	Evian Thonon Gaillard	Lyon	2-3	2	3	1
+2014-12-07	2014	Lens	Lille	1-1	1	1	1
+2014-12-07	2014	Marseille	Metz	3-1	3	1	1
+2014-12-07	2014	Reims	Guingamp	2-3	2	3	1
+2014-12-12	2014	Lyon	Caen	3-0	3	0	1
+2014-12-13	2014	Bastia	Rennes	2-0	2	0	1
+2014-12-13	2014	Lorient	Metz	3-1	3	1	1
+2014-12-13	2014	Montpellier	Lens	3-3	3	3	1
+2014-12-13	2014	Nantes	Bordeaux	2-1	2	1	1
+2014-12-13	2014	Reims	Evian Thonon Gaillard	3-2	3	2	1
+2014-12-14	2014	Guingamp	Paris SG	1-0	1	0	1
+2014-12-14	2014	Lille	Toulouse	3-0	3	0	1
+2014-12-14	2014	Monaco	Marseille	1-0	1	0	1
+2014-12-14	2014	Nice	St Etienne	0-0	0	0	1
+2014-12-19	2014	Lens	Nice	2-0	2	0	1
+2014-12-20	2014	Caen	Bastia	1-1	1	1	1
+2014-12-20	2014	Lorient	Nantes	1-2	1	2	1
+2014-12-20	2014	Metz	Monaco	0-1	0	1	1
+2014-12-20	2014	Paris SG	Montpellier	0-0	0	0	1
+2014-12-20	2014	Rennes	Reims	1-3	1	3	1
+2014-12-20	2014	Toulouse	Guingamp	1-1	1	1	1
+2014-12-21	2014	Bordeaux	Lyon	0-5	0	5	1
+2014-12-21	2014	Marseille	Lille	2-1	2	1	1
+2014-12-21	2014	St Etienne	Evian Thonon Gaillard	3-0	3	0	1
+2015-01-07	2014	Lille	Evian Thonon Gaillard	1-0	1	0	1
+2015-01-09	2014	Montpellier	Marseille	2-1	2	1	1
+2015-01-10	2014	Bastia	Paris SG	4-2	4	2	1
+2015-01-10	2014	Evian Thonon Gaillard	Rennes	1-1	1	1	1
+2015-01-10	2014	Guingamp	Lens	2-0	2	0	1
+2015-01-10	2014	Lille	Caen	1-0	1	0	1
+2015-01-10	2014	Nice	Lorient	3-1	3	1	1
+2015-01-10	2014	Reims	St Etienne	1-2	1	2	1
+2015-01-11	2014	Lyon	Toulouse	3-0	3	0	1
+2015-01-11	2014	Monaco	Bordeaux	0-0	0	0	1
+2015-01-11	2014	Nantes	Metz	0-0	0	0	1
+2015-01-16	2014	Bordeaux	Nice	1-2	1	2	1
+2015-01-17	2014	Caen	Reims	4-1	4	1	1
+2015-01-17	2014	Lens	Lyon	0-2	0	2	1
+2015-01-17	2014	Lorient	Lille	1-0	1	0	1
+2015-01-17	2014	Metz	Montpellier	2-3	2	3	1
+2015-01-17	2014	Monaco	Nantes	1-0	1	0	1
+2015-01-17	2014	Toulouse	Bastia	1-1	1	1	1
+2015-01-18	2014	Marseille	Guingamp	2-1	2	1	1
+2015-01-18	2014	Paris SG	Evian Thonon Gaillard	4-2	4	2	1
+2015-01-18	2014	Rennes	St Etienne	0-0	0	0	1
+2015-01-23	2014	Nice	Marseille	2-1	2	1	1
+2015-01-24	2014	Bastia	Bordeaux	0-0	0	0	1
+2015-01-24	2014	Guingamp	Lorient	3-2	3	2	1
+2015-01-24	2014	Lille	Monaco	0-1	0	1	1
+2015-01-24	2014	Montpellier	Nantes	4-0	4	0	1
+2015-01-25	2014	Evian Thonon Gaillard	Toulouse	1-0	1	0	1
+2015-01-25	2014	Lyon	Metz	2-0	2	0	1
+2015-01-25	2014	Reims	Lens	0-0	0	0	1
+2015-01-25	2014	Rennes	Caen	1-4	1	4	1
+2015-01-25	2014	St Etienne	Paris SG	0-1	0	1	1
+2015-01-30	2014	Paris SG	Rennes	1-0	1	0	1
+2015-01-31	2014	Lens	Bastia	1-1	1	1	1
+2015-01-31	2014	Lorient	Montpellier	0-0	0	0	1
+2015-01-31	2014	Marseille	Evian Thonon Gaillard	1-0	1	0	1
+2015-01-31	2014	Metz	Nice	0-0	0	0	1
+2015-01-31	2014	Nantes	Lille	1-1	1	1	1
+2015-01-31	2014	Toulouse	Reims	1-0	1	0	1
+2015-02-01	2014	Bordeaux	Guingamp	1-1	1	1	1
+2015-02-01	2014	Caen	St Etienne	1-0	1	0	1
+2015-02-01	2014	Monaco	Lyon	0-0	0	0	1
+2015-02-06	2014	St Etienne	Lens	3-3	3	3	1
+2015-02-07	2014	Bastia	Metz	2-0	2	0	1
+2015-02-07	2014	Caen	Toulouse	2-0	2	0	1
+2015-02-07	2014	Evian Thonon Gaillard	Bordeaux	0-1	0	1	1
+2015-02-07	2014	Montpellier	Lille	1-2	1	2	1
+2015-02-07	2014	Reims	Lorient	1-3	1	3	1
+2015-02-07	2014	Rennes	Marseille	1-1	1	1	1
+2015-02-08	2014	Guingamp	Monaco	1-0	1	0	1
+2015-02-08	2014	Lyon	Paris SG	1-1	1	1	1
+2015-02-08	2014	Nice	Nantes	0-0	0	0	1
+2015-02-13	2014	Marseille	Reims	2-2	2	2	1
+2015-02-14	2014	Lens	Evian Thonon Gaillard	0-2	0	2	1
+2015-02-14	2014	Lille	Nice	0-0	0	0	1
+2015-02-14	2014	Nantes	Bastia	0-2	0	2	1
+2015-02-14	2014	Paris SG	Caen	2-2	2	2	1
+2015-02-14	2014	Toulouse	Rennes	2-1	2	1	1
+2015-02-15	2014	Bordeaux	St Etienne	1-0	1	0	1
+2015-02-15	2014	Lorient	Lyon	1-1	1	1	1
+2015-02-15	2014	Metz	Guingamp	0-2	0	2	1
+2015-02-20	2014	Nice	Monaco	0-1	0	1	1
+2015-02-21	2014	Bastia	Lille	2-1	2	1	1
+2015-02-21	2014	Caen	Lens	4-1	4	1	1
+2015-02-21	2014	Paris SG	Toulouse	3-1	3	1	1
+2015-02-21	2014	Rennes	Bordeaux	1-1	1	1	1
+2015-02-22	2014	Guingamp	Montpellier	0-2	0	2	1
+2015-02-22	2014	Lyon	Nantes	1-0	1	0	1
+2015-02-22	2014	Reims	Metz	0-0	0	0	1
+2015-02-22	2014	St Etienne	Marseille	2-2	2	2	1
+2015-02-27	2014	Marseille	Caen	2-3	2	3	1
+2015-02-28	2014	Bordeaux	Reims	1-1	1	1	1
+2015-02-28	2014	Lens	Rennes	0-1	0	1	1
+2015-02-28	2014	Lille	Lyon	2-1	2	1	1
+2015-02-28	2014	Lorient	Bastia	2-0	2	0	1
+2015-02-28	2014	Metz	Evian Thonon Gaillard	1-2	1	2	1
+2015-02-28	2014	Toulouse	St Etienne	1-1	1	1	1
+2015-03-01	2014	Monaco	Paris SG	0-0	0	0	1
+2015-03-01	2014	Montpellier	Nice	2-1	2	1	1
+2015-03-01	2014	Nantes	Guingamp	1-0	1	0	1
+2015-03-04	2014	Evian Thonon Gaillard	Lorient	1-0	1	0	1
+2015-03-06	2014	Toulouse	Marseille	1-6	1	6	1
+2015-03-07	2014	Bastia	Nice	2-1	2	1	1
+2015-03-07	2014	Caen	Bordeaux	1-2	1	2	1
+2015-03-07	2014	Evian Thonon Gaillard	Monaco	1-3	1	3	1
+2015-03-07	2014	Paris SG	Lens	4-1	4	1	1
+2015-03-07	2014	Reims	Nantes	3-1	3	1	1
+2015-03-07	2014	Rennes	Metz	1-0	1	0	1
+2015-03-08	2014	Guingamp	Lille	0-1	0	1	1
+2015-03-08	2014	Montpellier	Lyon	1-5	1	5	1
+2015-03-08	2014	St Etienne	Lorient	2-0	2	0	1
+2015-03-13	2014	Monaco	Bastia	3-0	3	0	1
+2015-03-13	2014	Nice	Guingamp	1-2	1	2	1
+2015-03-14	2014	Lens	Toulouse	1-0	1	0	1
+2015-03-14	2014	Lorient	Caen	2-1	2	1	1
+2015-03-14	2014	Metz	St Etienne	2-3	2	3	1
+2015-03-14	2014	Montpellier	Reims	3-1	3	1	1
+2015-03-14	2014	Nantes	Evian Thonon Gaillard	2-1	2	1	1
+2015-03-15	2014	Bordeaux	Paris SG	3-2	3	2	1
+2015-03-15	2014	Lille	Rennes	3-0	3	0	1
+2015-03-15	2014	Marseille	Lyon	0-0	0	0	1
+2015-03-20	2014	Paris SG	Lorient	3-1	3	1	1
+2015-03-21	2014	Bastia	Guingamp	0-0	0	0	1
+2015-03-21	2014	Caen	Metz	0-0	0	0	1
+2015-03-21	2014	Evian Thonon Gaillard	Montpellier	1-0	1	0	1
+2015-03-21	2014	Lyon	Nice	1-2	1	2	1
+2015-03-21	2014	Rennes	Nantes	0-0	0	0	1
+2015-03-21	2014	Toulouse	Bordeaux	2-1	2	1	1
+2015-03-22	2014	Lens	Marseille	0-4	0	4	1
+2015-03-22	2014	Reims	Monaco	1-3	1	3	1
+2015-03-22	2014	St Etienne	Lille	2-0	2	0	1
+2015-04-03	2014	Monaco	St Etienne	1-1	1	1	1
+2015-04-04	2014	Guingamp	Lyon	1-3	1	3	1
+2015-04-04	2014	Lille	Reims	3-1	3	1	1
+2015-04-04	2014	Lorient	Rennes	0-3	0	3	1
+2015-04-04	2014	Metz	Toulouse	3-2	3	2	1
+2015-04-04	2014	Montpellier	Bastia	3-1	3	1	1
+2015-04-04	2014	Nice	Evian Thonon Gaillard	2-2	2	2	1
+2015-04-05	2014	Bordeaux	Lens	2-1	2	1	1
+2015-04-05	2014	Marseille	Paris SG	2-3	2	3	1
+2015-04-05	2014	Nantes	Caen	1-2	1	2	1
+2015-04-07	2014	Monaco	Montpellier	0-0	0	0	1
+2015-04-10	2014	Caen	Monaco	0-3	0	3	1
+2015-04-12	2014	Bordeaux	Marseille	1-0	1	0	1
+2015-04-12	2014	Evian Thonon Gaillard	Lille	0-1	0	1	1
+2015-04-12	2014	Lens	Lorient	0-0	0	0	1
+2015-04-12	2014	Reims	Nice	0-1	0	1	1
+2015-04-12	2014	Rennes	Guingamp	1-0	1	0	1
+2015-04-12	2014	St Etienne	Nantes	1-0	1	0	1
+2015-04-12	2014	Toulouse	Montpellier	1-0	1	0	1
+2015-04-15	2014	Lyon	Bastia	2-0	2	0	1
+2015-04-17	2014	Nantes	Marseille	1-0	1	0	1
+2015-04-18	2014	Bastia	Reims	1-2	1	2	1
+2015-04-18	2014	Guingamp	Evian Thonon Gaillard	1-1	1	1	1
+2015-04-18	2014	Lorient	Toulouse	0-1	0	1	1
+2015-04-18	2014	Metz	Lens	3-1	3	1	1
+2015-04-18	2014	Monaco	Rennes	1-1	1	1	1
+2015-04-18	2014	Nice	Paris SG	1-3	1	3	1
+2015-04-19	2014	Lille	Bordeaux	2-0	2	0	1
+2015-04-19	2014	Lyon	St Etienne	2-2	2	2	1
+2015-04-19	2014	Montpellier	Caen	1-0	1	0	1
+2015-04-24	2014	Marseille	Lorient	3-5	3	5	1
+2015-04-25	2014	Bordeaux	Metz	1-1	1	1	1
+2015-04-25	2014	Caen	Guingamp	0-2	0	2	1
+2015-04-25	2014	Evian Thonon Gaillard	Bastia	1-2	1	2	1
+2015-04-25	2014	Paris SG	Lille	6-1	6	1	1
+2015-04-25	2014	Rennes	Nice	2-1	2	1	1
+2015-04-25	2014	Toulouse	Nantes	1-1	1	1	1
+2015-04-26	2014	Lens	Monaco	0-3	0	3	1
+2015-04-26	2014	Reims	Lyon	2-4	2	4	1
+2015-04-26	2014	St Etienne	Montpellier	1-0	1	0	1
+2015-04-28	2014	Paris SG	Metz	3-1	3	1	1
+2015-05-01	2014	Metz	Marseille	0-2	0	2	1
+2015-05-02	2014	Bastia	St Etienne	1-0	1	0	1
+2015-05-02	2014	Guingamp	Reims	2-0	2	0	1
+2015-05-02	2014	Lorient	Bordeaux	0-0	0	0	1
+2015-05-02	2014	Lyon	Evian Thonon Gaillard	2-0	2	0	1
+2015-05-02	2014	Montpellier	Rennes	0-0	0	0	1
+2015-05-02	2014	Nice	Caen	1-1	1	1	1
+2015-05-03	2014	Lille	Lens	3-1	3	1	1
+2015-05-03	2014	Monaco	Toulouse	4-1	4	1	1
+2015-05-03	2014	Nantes	Paris SG	0-2	0	2	1
+2015-05-08	2014	Paris SG	Guingamp	6-0	6	0	1
+2015-05-09	2014	Bordeaux	Nantes	2-1	2	1	1
+2015-05-09	2014	Caen	Lyon	3-0	3	0	1
+2015-05-09	2014	Evian Thonon Gaillard	Reims	2-3	2	3	1
+2015-05-09	2014	Metz	Lorient	0-4	0	4	1
+2015-05-09	2014	Rennes	Bastia	0-1	0	1	1
+2015-05-09	2014	Toulouse	Lille	3-2	3	2	1
+2015-05-10	2014	Lens	Montpellier	0-1	0	1	1
+2015-05-10	2014	Marseille	Monaco	2-1	2	1	1
+2015-05-10	2014	St Etienne	Nice	5-0	5	0	1
+2015-05-16	2014	Bastia	Caen	1-1	1	1	1
+2015-05-16	2014	Evian Thonon Gaillard	St Etienne	1-2	1	2	1
+2015-05-16	2014	Guingamp	Toulouse	2-1	2	1	1
+2015-05-16	2014	Lille	Marseille	0-4	0	4	1
+2015-05-16	2014	Lyon	Bordeaux	1-1	1	1	1
+2015-05-16	2014	Monaco	Metz	2-0	2	0	1
+2015-05-16	2014	Montpellier	Paris SG	1-2	1	2	1
+2015-05-16	2014	Nantes	Lorient	1-1	1	1	1
+2015-05-16	2014	Nice	Lens	2-1	2	1	1
+2015-05-16	2014	Reims	Rennes	1-0	1	0	1
+2015-05-23	2014	Bordeaux	Montpellier	2-1	2	1	1
+2015-05-23	2014	Caen	Evian Thonon Gaillard	3-2	3	2	1
+2015-05-23	2014	Lens	Nantes	1-0	1	0	1
+2015-05-23	2014	Lorient	Monaco	0-1	0	1	1
+2015-05-23	2014	Marseille	Bastia	3-0	3	0	1
+2015-05-23	2014	Metz	Lille	1-4	1	4	1
+2015-05-23	2014	Paris SG	Reims	3-2	3	2	1
+2015-05-23	2014	Rennes	Lyon	0-1	0	1	1
+2015-05-23	2014	St Etienne	Guingamp	2-1	2	1	1
+2015-05-23	2014	Toulouse	Nice	2-3	2	3	1
