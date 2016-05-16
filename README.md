@@ -62,6 +62,9 @@ I am about to submit this package to CRAN.  I would love help in collating more 
 - English League Cup  - there is a csv in `data-raw` that has league cup data up to 2013/14 but it needs error checking
 - French League    -  there is a French league csv in `data-raw` but it needs checking also.
 - European competitions - don't currently have this data
+- English Conference - have no results yet!
+- English FA Cup pre-qualifying round - also no data yet.
+- English other competitions - e.g. lower league cup competitions - no data yet.
 - Points deductions -  a list of points deductions of teams in each Euro league over time to make tables more accurate
 - Tie-breaking procedures - different Euro leagues have had different tie-breaking procedures over time. Having a record of this will help with making the `maketable` family of funcitons
 - Italian League in the early years - I think the first few seasons of the league need to be triple checked.
