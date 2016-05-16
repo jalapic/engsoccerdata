@@ -240,13 +240,12 @@ Any help in improving the quality of these datasets is appreciated.
 
 
 ## Shiny apps:
-
 - https://jalapic.shinyapps.io/engsoccerbeta/  #based on League Data (it's a beta, there are some hiccups)
 - https://jalapic.shinyapps.io/soccerteams/  #interactive ggvis chart of historical team performances
 - https://jalapic.shinyapps.io/gamebygame/  #analyzing EPL teams season by season performances - using shinydashboard
 
 ## Tutorials/demos
-
+ (note as of May 2015, the code in these may need to change to reflect the change in names of datasets and some functions)
 - http://rpubs.com/jalapic/daygoals     #goal scoring trends on unqiue dates in soccer history
 - http://rpubs.com/jalapic/facuplast8   #quick walkthrough of some of the FA Cup data
 - http://rpubs.com/jalapic/gpg   #very quick look at id-ing breakpoints in English scoring trends
@@ -254,3 +253,20 @@ Any help in improving the quality of these datasets is appreciated.
 - http://rpubs.com/jalapic/seasons  #visualizing season to season changes in top tier performance
 - http://rpubs.com/jalapic/laliga #visualizing historical Spanish La Liga data
 
+
+## FiveThirtyEight
+
+Oliver Roeder and I have written several articles for fivethirtyeight using these data:
+
+http://fivethirtyeight.com/features/leicester-citys-stunning-rise-in-two-charts/
+http://fivethirtyeight.com/features/chelseas-historically-awful-start/
+http://fivethirtyeight.com/features/the-long-migration-of-english-football/
+http://fivethirtyeight.com/features/home-field-advantage-english-premier-league/
+http://fivethirtyeight.com/features/in-126-years-english-football-has-seen-13475-nil-nil-draws/
+
+
+
+## Elsewhere
+
+A number of analyses and visualizations using these data by Simon Garnier - http://graphzoo.tumblr.com/
+Michael Lopez analyses home-field advantage - https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
