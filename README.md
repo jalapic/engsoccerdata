@@ -44,7 +44,6 @@ engsoccerdata
 
 Last update: 15 May 2016,  v0.1.5
 
-- updated all English League games and FA Cup game up to end of 2015/16 Season.
 
 ## Datasets
 -  england.csv           - Results of all top 4 tier soccer games in England 1888-2015
