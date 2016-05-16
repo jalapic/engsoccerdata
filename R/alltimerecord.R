@@ -1,31 +1,32 @@
-#' Function to List the all-time records of a team
+#' Get a team's all-time record
 #'
-#' @param df df
-#' @param teamname teamname
-#'
+#' @param df the results dataset
+#' @param teamname team name
+#' @return a dataframe of all-time records
+#' @importFrom magrittr "%>%"
 #' @examples
-#' df <- engsoccerdata2
-#' alltimerecord(df, "Aston Villa")
-#' alltimerecord(df, "Arsenal")
-#' alltimerecord(df, "Liverpool")
-#' alltimerecord(df, "Manchester United")
-#' alltimerecord(df, "York City")
-#' alltimerecord(df, "Rochdale")
-#' alltimerecord(df, "Birmingham City")
-#' alltimerecord(df, "Leeds City")
-#'
+#' alltimerecord(england, "Aston Villa")
+#' alltimerecord(england, "York City")
+#' alltimerecord(england, "Rochdale")
 #' @export
-alltimerecord<-function (df, teamname) {
+
+alltimerecord<-function (df=NULL, teamname=NULL) {
+
+  .<-home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-GF<-GA<-GD<-P<-W<-D<-L<-Season<-division<-result<-maxgoal<-mingoal<-absgoaldif<-NULL
+
+
 
 
   hrec<-df %>%
-    filter(home==teamname)  %>%
-    summarise(P = n(), W=sum(result=="H"), D=sum(result=="D"), L=sum(result=="A"),
-              GF = sum(hgoal), GA = sum(vgoal), GD=sum(goaldif))
+    dplyr::filter(home==teamname)  %>%
+    dplyr::mutate(result=ifelse(hgoal>vgoal, "H", ifelse(hgoal<vgoal, "A", "D"))) %>%
+    dplyr::summarise(P = nrow(.), W=sum(result=="H"), D=sum(result=="D"), L=sum(result=="A"),
+              GF = sum(hgoal), GA = sum(vgoal), GD=GF-GA)
 
   vrec<-df %>%
-    filter(visitor==teamname)  %>%
-    summarise(P = n(),  W=sum(result=="A"), D=sum(result=="D"), L=sum(result=="H"),
+    dplyr::filter(visitor==teamname)  %>%
+    dplyr::mutate(result=ifelse(hgoal>vgoal, "H", ifelse(hgoal<vgoal, "A", "D"))) %>%
+    dplyr::summarise(P = nrow(.),  W=sum(result=="A"), D=sum(result=="D"), L=sum(result=="H"),
               GF = sum(vgoal), GA = sum(hgoal), GD=GF-GA)
 
   temp<-rbind(hrec,vrec,hrec+vrec)

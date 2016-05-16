@@ -1,4 +1,4 @@
-"date","Season","home","visitor","FT","hgoal","vgoal","round","tie","aet","pen","pens","hp","vp","Venue","attendance","nonmatch","notes","neutral"
+"Date","Season","home","visitor","FT","hgoal","vgoal","round","tie","aet","pen","pens","hp","vp","Venue","attendance","nonmatch","notes","neutral"
 "1871-11-11",1871,"Barnes","Civil Service","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,NA,"1,200",NA,NA,NA
 "1871-11-11",1871,"Hitchin","Crystal Palace 1861","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Top Field, Hitchin","750",NA,"No replay, both teams progress",NA
 "1871-11-11",1871,"Maidenhead United","Marlow","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"York Road, Maidenhead","1,287",NA,NA,NA
@@ -16475,3 +16475,152 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 "2014-11-20",2014,"Maidstone United","Stevenage Borough","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2014-11-25",2014,"Concord Rangers","Mansfield Town","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2015-05-30",2014,"Arsenal","Aston Villa","4-0",4,0,"f","initial",NA,NA,NA,NA,NA,"Wembley (new), London","89,283",NA,NA,"yes"
+"Wembley (new), London",2015,"Everton","Manchester United","1-2",1,2,"s","initial",NA,NA,NA,NA,NA,"86,064",NA,NA,NA,"yes"
+"Wembley (new), London",2015,"Crystal Palace","Watford","2-1",2,1,"s","initial",NA,NA,NA,NA,NA,"79,110",NA,NA,NA,"yes"
+"2016-03-11",2015,"Reading","Crystal Palace","0-2",0,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-03-12",2015,"Everton","Chelsea","2-0",2,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-03-13",2015,"Arsenal","Watford","1-2",1,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-03-13",2015,"Manchester United","West Ham United","1-1",1,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-04-13",2015,"West Ham United","Manchester United","1-2",1,2,"6","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-20",2015,"Arsenal","Hull City","0-0",0,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-20",2015,"Reading","West Bromwich Albion","3-1",3,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-20",2015,"Watford","Leeds United","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-20",2015,"AFC Bournemouth","Everton","0-2",0,2,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-21",2015,"Blackburn Rovers","West Ham United","1-5",1,5,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-21",2015,"Tottenham Hotspur","Crystal Palace","0-1",0,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-21",2015,"Chelsea","Manchester City","5-1",5,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-22",2015,"Shrewsbury Town","Manchester United","0-3",0,3,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-03-08",2015,"Hull City","Arsenal","0-4",0,4,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-29",2015,"Derby County","Manchester United","1-3",1,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Colchester United","Tottenham Hotspur","1-4",1,4,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"West Bromwich Albion","Peterborough United","2-2",2,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Bolton Wanderers","Leeds United","1-2",1,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Arsenal","Burnley","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Reading","Walsall","4-0",4,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Shrewsbury Town","Sheffield Wednesday","3-2",3,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Nottingham Forest","Watford","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Crystal Palace","Stoke City","1-0",1,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Oxford United","Blackburn Rovers","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Portsmouth","AFC Bournemouth","1-2",1,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Bury","Hull City","1-3",1,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Aston Villa","Manchester City","0-4",0,4,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-30",2015,"Liverpool","West Ham United","0-0",0,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-31",2015,"Carlisle United","Everton","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-31",2015,"Milton Keynes Dons","Chelsea","1-5",1,5,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-09",2015,"West Ham United","Liverpool","2-1",2,1,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-02-10",2015,"Peterborough United","West Bromwich Albion","1-1",1,1,"4","replay","yes","yes","4-3 West Bromwich Albion",3,4,NA,NA,NA,NA,NA
+"2016-01-08",2015,"Exeter City","Liverpool","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Wycombe Wanderers","Aston Villa","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Watford","Newcastle United","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"West Bromwich Albion","Bristol City","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"West Ham United","Wolverhampton Wanderers","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Hartlepool United","Derby County","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Colchester United","Charlton Athletic","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Peterborough United","Preston North End","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Northampton Town","Milton Keynes Dons","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Arsenal","Sunderland","3-1",3,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Ipswich Town","Portsmouth","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Birmingham City","AFC Bournemouth","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Sheffield Wednesday","Fulham","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Brentford","Walsall","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Bury","Bradford City","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Everton","Dagenham and Redbridge","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Southampton","Crystal Palace","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Eastleigh","Bolton Wanderers","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Nottingham Forest","Queens Park Rangers","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Doncaster Rovers","Stoke City","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Leeds United","Rotherham United","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Huddersfield Town","Reading","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Middlesbrough","Burnley","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Norwich City","Manchester City","0-3",0,3,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Hull City","Brighton & Hove Albion","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-09",2015,"Manchester United","Sheffield United","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-10",2015,"Oxford United","Swansea City","3-2",3,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-10",2015,"Carlisle United","Yeovil","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-10",2015,"Chelsea","Scunthorpe United","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-10",2015,"Tottenham Hotspur","Leicester City","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-10",2015,"Cardiff City","Shrewsbury Town","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-18",2015,"Newport County","Blackburn Rovers","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Aston Villa","Wycombe Wanderers","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Bristol City","West Bromwich Albion","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Milton Keynes Dons","Northampton Town","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Portsmouth","Ipswich Town","2-1",2,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Bradford City","Bury","0-0",0,0,"3","replay","yes","yes","4-2 Bury",2,4,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Yeovil","Carlisle United","1-1",1,1,"3","replay","yes","yes","5-4 Carlisle United",4,5,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Bolton Wanderers","Eastleigh","3-2",3,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-19",2015,"Reading","Huddersfield Town","5-2",5,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-20",2015,"Leicester City","Tottenham Hotspur","0-2",0,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2016-01-20",2015,"Liverpool","Exeter City","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-04",2015,"Salford City","Hartlepool United","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Barnet","Newport County","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Portsmouth","Accrington","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Stourbridge","Eastleigh","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Northampton Town","Northwich Victoria","3-2",3,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Yeovil","Stevenage Borough","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Millwall","Wycombe Wanderers","1-2",1,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Chesterfield","Walsall","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Sheffield United","Oldham Athletic","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-05",2015,"Leyton Orient","Scunthorpe United","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Rochdale","Bury","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Bradford City","Chesham United","4-0",4,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Peterborough United","Luton Town","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Exeter City","Port Vale","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Cambridge United","Doncaster Rovers","1-3",1,3,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Welling United","Carlisle United","0-5",0,5,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Colchester United","Altrincham","3-2",3,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Dagenham and Redbridge","Whitehawk","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-06",2015,"Oxford United","Forest Green Rovers","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-07",2015,"Grimsby Town","Shrewsbury Town","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-15",2015,"Scunthorpe United","Leyton Orient","3-0",3,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-15",2015,"Walsall","Chesterfield","0-0",0,0,"2","replay","yes","yes","5-3 Walsall",5,3,NA,NA,NA,NA,NA
+"2015-12-15",2015,"Hartlepool United","Salford City","2-0",2,0,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-15",2015,"Shrewsbury Town","Grimsby Town","1-0",1,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-12-16",2015,"Whitehawk","Dagenham and Redbridge","2-3",2,3,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-06",2015,"Salford City","Notts County","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Burton Albion","Peterborough United","0-3",0,3,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Barnet","Blackpool","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Mansfield Town","Oldham Athletic","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Cambridge United","Basingstoke Town","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Altrincham","Barnsley","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Crewe Alexandra","Eastleigh","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Northwich Victoria","Boreham Wood","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Coventry City","Northampton Town","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Grimsby Town","St. Albans City","5-1",5,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Hartlepool United","Cheltenham","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Dover Athletic","Stourbridge","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Stevenage Borough","Gillingham","3-0",3,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Millwall","AFC Fylde","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Walsall","Fleetwood Town","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Bury","Wigan Athletic","4-0",4,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Portsmouth","Macclesfield Town","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Sheffield United","Worcester City","3-0",3,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Barwell","Welling United","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Crawley Town","Luton Town","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Doncaster Rovers","Stalybridge Celtic","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Dagenham and Redbridge","Morecambe","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Leyton Orient","Staines Town","6-1",6,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Accrington","York City","3-2",3,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Scunthorpe United","Southend United","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"AFC Wimbledon","Forest Green Rovers","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Plymouth Argyle","Carlisle United","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Rochdale","Swindon Town","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-07",2015,"Wealdstone","Colchester United","2-6",2,6,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Didcot Town","Exeter City","0-3",0,3,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Bristol Rovers","Chesham United","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Brackley Town","Newport County","2-2",2,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Aldershot Town","Bradford City","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Halifax Town","Wycombe Wanderers","0-4",0,4,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Gainsborough Trinity","Shrewsbury Town","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Maidstone United","Yeovil","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Braintree Town","Oxford United","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Whitehawk","Lincoln City","5-3",5,3,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-08",2015,"Port Vale","Maidenhead United","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-09",2015,"United of Manchester","Chesterfield","1-4",1,4,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-16",2015,"Boreham Wood","Northwich Victoria","1-2",1,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-17",2015,"Oldham Athletic","Mansfield Town","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-17",2015,"Newport County","Brackley Town","4-1",4,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-17",2015,"Morecambe","Dagenham and Redbridge","2-4",2,4,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-17",2015,"Oxford United","Braintree Town","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-18",2015,"Bradford City","Aldershot Town","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2015-11-19",2015,"Maidenhead United","Port Vale","1-3",1,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wembley (new), London",2015,"Crystal Palace","Manchester United","NA-NA",NA,NA,"f","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,"yes"

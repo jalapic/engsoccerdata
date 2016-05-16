@@ -1,20 +1,27 @@
 #' Return each team's worst losses
 #'
-#' @param df df
-#' @param teamname teamname
-#' @param type type
-#' @param N N
-#'
+#' @param df the results dataset
+#' @param teamname team name
+#' @param type If \code{=NULL} then all results are returned. If
+#' Otherwise valid types are \code{H}, \code{A}
+#' relating to home-losses, away-losses
+#' @param N The total number of games to return
+#' @return a dataframe of games ending in worst losses
+#' @importFrom magrittr "%>%"
 #' @examples
-#' df <- engsoccerdata2
-#' worstlosses(df,"Everton")
-#' worstlosses(df,"Aston Villa", type="H")
-#' worstlosses(df,"York City", type="A")
-#' worstlosses(df,"Port Vale", N=20)
-#' worstlosses(df,"Hull City", type="A", N=7)
+#' worstlosses(england,"Everton")
+#' worstlosses(england,"Aston Villa", type="H")
+#' worstlosses(england,"York City", type="A")
+#' worstlosses(england,"Port Vale", N=20)
+#' worstlosses(england,"Hull City", type="A", N=7)
 #'
 #' @export
-worstlosses<-function(df, teamname, type=NULL, N=NULL){
+
+
+
+worstlosses<-function(df=NULL, teamname=NULL, type=NULL, N=NULL){
+
+  home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-maxgoal<-mingoal<-absgoaldif<-NULL
 
 
   N<- if(is.null(N))  10 else {N}
@@ -22,25 +29,27 @@ worstlosses<-function(df, teamname, type=NULL, N=NULL){
 
   if(is.null(type))
 
-    df %>%
-    filter(home==teamname & result=="A" | visitor==teamname & result=="H") %>%
-    mutate(maxgoal=pmax(hgoal, vgoal), mingoal=pmin(hgoal,vgoal), absgoaldif=abs(goaldif)) %>%
-    arrange(desc(absgoaldif),desc(maxgoal)) %>%
-    select (Season, home, visitor, FT, division) %>%
+  df %>%
+    dplyr::filter(home==teamname & result=="A" | visitor==teamname & result=="H") %>%
+    dplyr::mutate(maxgoal=pmax(hgoal, vgoal), mingoal=pmin(hgoal,vgoal), absgoaldif=abs(hgoal-vgoal)) %>%
+    dplyr::arrange(-absgoaldif,-maxgoal) %>%
+    dplyr::select(Season, home, visitor, FT, division) %>%
     head(N)
+
 
   else
 
   {
 
     df %>%
-      filter(home==teamname & result=="A" | visitor==teamname & result=="H") %>%
-      mutate(maxgoal=pmax(hgoal, vgoal), mingoal=pmin(hgoal,vgoal), absgoaldif=abs(goaldif)) %>%
-      arrange(desc(absgoaldif),desc(maxgoal)) %>%
-      filter (result==type) %>%
-      select (Season, home, visitor, FT, division) %>%
+      dplyr::filter(home==teamname & result=="A" | visitor==teamname & result=="H") %>%
+      dplyr::mutate(maxgoal=pmax(hgoal, vgoal), mingoal=pmin(hgoal,vgoal), absgoaldif=abs(hgoal-vgoal)) %>%
+      dplyr::arrange(-absgoaldif, -maxgoal) %>%
+      dplyr::filter(result==type) %>%
+      dplyr::select(Season, home, visitor, FT, division) %>%
       head(N)
 
 
   }
-}
+
+  }

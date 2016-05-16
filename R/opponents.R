@@ -1,33 +1,38 @@
-#' Total number of different opponents
+#' Total number of unique opponents
 #'
-#' @param df df
+#' @param df A results dataframe
 #' @param Tier Tier
-#'
+#' @return a dataframe with teams and frequency of unique opponents
+#' @importFrom magrittr "%>%"
 #' @examples
-#' df <- engsoccerdata2
-#' opponents(df)  #Grimsby Town and Lincoln City have the most unique opponents - 134 each
-#' opponents(df,1)
-#' opponents(df,2)
-#' opponents(df,3)
-#' opponents(df,4)
+#' opponents(england)
+#' opponents(england,4)
 #'
 #' @export
-opponents<-function(df,Tier=NULL){
+
+opponents<-function(df=NULL,Tier=NULL){
+
+ Opponents<-team1<-team2<- n<-.<-Date<-tier<-home<-team<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-maxgoal<-mingoal<-absgoaldif<-NULL
+
 
   if(is.null(Tier))
 
-rbind (df %>%select(team1=home,team2=visitor), df %>%select(team1=visitor,team2=home)) %>%
-  group_by(team1) %>%
-  summarise(Opponents=n_distinct(team2)) %>%
-  arrange(desc(Opponents))
+rbind (df %>%
+         dplyr::select(team1=home,team2=visitor), df %>%
+         dplyr::select(team1=visitor,team2=home)) %>%
+    dplyr::group_by(team1) %>%
+    dplyr::summarise(Opponents=dplyr::n_distinct(team2)) %>%
+    dplyr::arrange(-Opponents)
 
 
 else
 
-{ rbind (df %>%select(team1=home,team2=visitor,tier), df %>%select(team1=visitor,team2=home,tier)) %>%
-   filter(tier==Tier) %>%
-   group_by(team1) %>%
-   summarise(Opponents=n_distinct(team2)) %>%
-   arrange(desc(Opponents))
+{ rbind (df %>%
+           dplyr::select(team1=home,team2=visitor,tier), df %>%
+           dplyr::select(team1=visitor,team2=home,tier)) %>%
+    dplyr::filter(tier==Tier) %>%
+    dplyr::group_by(team1) %>%
+    dplyr::summarise(Opponents=dplyr::n_distinct(team2)) %>%
+    dplyr::arrange(-Opponents)
 }
 }
