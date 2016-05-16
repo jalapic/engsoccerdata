@@ -268,6 +268,27 @@ Also this piece on league inequality:
 - https://contexts.org/articles/english-soccers-mysterious-worldwide-popularity/
 
 
+## Media Hits
+
+(listing them here so I don't forget them)
+
+- Dec 2014 - Profile of this dataset and me in "FourFourTwo" Magazine - https://www.scribd.com/doc/246229712/FourFourTwo-UK-2014-12
+
+-  Mar 12th 2015  - Some research on strange results occuring in a row discussed on Guardian's Football Weekly
+https://soundcloud.com/guardianfootballweekly/football-weekly-extra-chelseas-champion-league-campaign-goes-down-the-tube
+
+- Jul 30th 2015 - Piece by Sky Sports on homefield advantage and these data -
+http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-important-as-it-once-was-finds-sky-sports-study
+ 
+-  Nov 28th 2015 - I discuss home-field advantage on NPR's "Only a Game" - http://onlyagame.wbur.org/2015/11/28/home-field-advantage-epl-curley
+
+-  May 4th 2016 - I discussed this dataset and Leicester City on BBC Radio 5's "Up All Night" - unfortunately no audio - I got cut short because Ted Cruz decided to quit the Republican nomination.
+
+
+
+
+
+
 
 ## Elsewhere
 
