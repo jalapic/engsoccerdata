@@ -258,11 +258,11 @@ Any help in improving the quality of these datasets is appreciated.
 
 Oliver Roeder and I have written several articles for fivethirtyeight using these data:
 
-http://fivethirtyeight.com/features/leicester-citys-stunning-rise-in-two-charts/
-http://fivethirtyeight.com/features/chelseas-historically-awful-start/
-http://fivethirtyeight.com/features/the-long-migration-of-english-football/
-http://fivethirtyeight.com/features/home-field-advantage-english-premier-league/
-http://fivethirtyeight.com/features/in-126-years-english-football-has-seen-13475-nil-nil-draws/
+-  http://fivethirtyeight.com/features/leicester-citys-stunning-rise-in-two-charts/
+-  http://fivethirtyeight.com/features/chelseas-historically-awful-start/
+-  http://fivethirtyeight.com/features/the-long-migration-of-english-football/
+-  http://fivethirtyeight.com/features/home-field-advantage-english-premier-league/
+-  http://fivethirtyeight.com/features/in-126-years-english-football-has-seen-13475-nil-nil-draws/
 
 
 
