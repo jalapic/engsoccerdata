@@ -1,3 +1,5 @@
+Note as of May 15th 2016 - I'm in the process of updating the package to submit to CRAN. I have made a number of changes to code and data formats. If you find something doesn't work anymore, please submit an issue.
+
 #### engsoccerdata
 
 This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below) and some European leagues (Spain, Germany, Italy, Holland). 
