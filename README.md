@@ -268,5 +268,5 @@ Oliver Roeder and I have written several articles for fivethirtyeight using thes
 
 ## Elsewhere
 
-A number of analyses and visualizations using these data by Simon Garnier - http://graphzoo.tumblr.com/
-Michael Lopez analyses home-field advantage - https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
+-  A number of analyses and visualizations using these data by Simon Garnier - http://graphzoo.tumblr.com/
+-  Michael Lopez analyses home-field advantage - https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
