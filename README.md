@@ -263,6 +263,10 @@ Oliver Roeder and I have written several articles for fivethirtyeight using thes
 -  http://fivethirtyeight.com/features/home-field-advantage-english-premier-league/
 -  http://fivethirtyeight.com/features/in-126-years-english-football-has-seen-13475-nil-nil-draws/
 
+Also this piece on league inequality:
+
+- https://contexts.org/articles/english-soccers-mysterious-worldwide-popularity/
+
 
 
 ## Elsewhere
