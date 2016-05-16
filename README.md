@@ -65,9 +65,7 @@ I am about to submit this package to CRAN.  I would love help in collating more 
 - Points deductions -  a list of points deductions of teams in each Euro league over time to make tables more accurate
 - Tie-breaking procedures - different Euro leagues have had different tie-breaking procedures over time. Having a record of this will help with making the `maketable` family of funcitons
 - Italian League in the early years - I think the first few seasons of the league need to be triple checked.
-
-- Team Names!  Consistency in team names is very hard. A dataframe showing the various variations of teamnames for each team would be great (this is a particular problem in the French league).
-- 
+- Team Names.  Consistency in team names is very hard. A dataframe showing the various variations of teamnames for each team would be great (this is a particular problem in the French league).
 
 
 
