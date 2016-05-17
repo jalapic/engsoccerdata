@@ -284,6 +284,10 @@ http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-im
 
 -  May 4th 2016 - I discussed this dataset and Leicester City on BBC Radio 5's "Up All Night" - unfortunately no audio - I got cut short because Ted Cruz decided to quit the Republican nomination.
 
+- May 17th 2016 - Piece by John Murdoch at the Financial Times on Leicester City's unique season -  https://ig.ft.com/sites/leicester-premier-league-champions/
+
+ 
+
 
 
 
