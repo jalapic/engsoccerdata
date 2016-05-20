@@ -2,8 +2,8 @@
 #'
 #' All results for European Cup and Champions League
 #' matches including qualifiers - NOTE: This is
-#' still incomplete and in progress. Will be cleaned
-#' soon.
+#' still incomplete and in progress.
+#' Will be cleaned soon.
 #'
 #' @format A data frame with 4866 rows and 11 variables:
 #' \describe{

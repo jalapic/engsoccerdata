@@ -24,8 +24,8 @@ champs
 \description{
 All results for European Cup and Champions League
 matches including qualifiers - NOTE: This is
-still incomplete and in progress. Will be cleaned
-soon.
+still incomplete and in progress.
+Will be cleaned soon.
 }
 \keyword{datasets}
 
