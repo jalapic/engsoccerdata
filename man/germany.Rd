@@ -3,7 +3,7 @@
 \docType{data}
 \name{germany}
 \alias{germany}
-\title{German league results 1963-2016}
+\title{German Bundesliga 1 league results 1963-2016}
 \format{A data frame with 16120 rows and 8 variables:
 \describe{
   \item{Date}{Date of match}

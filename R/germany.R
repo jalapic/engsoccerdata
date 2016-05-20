@@ -1,4 +1,4 @@
-#' German league results 1963-2016
+#' German Bundesliga 1 league results 1963-2016
 #'
 #' All results for German soccer games in the top tier
 #' from 1963/64 season to 2015/16 season.
