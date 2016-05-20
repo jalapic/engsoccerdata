@@ -32,6 +32,27 @@ data(package="engsoccerdata")    # lists datasets currently available
 
 ```
 
+If you get an error message like this one 
+
+```
+Error in curl::curl_fetch_memory(url, handle = handle) : 
+  Problem with the SSL CA cert (path? access rights?)
+```
+which has happened on occasions for me, try this:
+
+```
+library(RCurl)
+library(httr)
+set_config( config( ssl_verifypeer = 0L ) )
+
+library(devtools)
+install_github('jalapic/engsoccerdata', username = "jalapic")
+library(engsoccerdata)
+
+
+```
+
+
 
 
 
@@ -51,9 +72,11 @@ Last update: 15 May 2016,  v0.1.5
 -  facup.csv             - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2014
 -  playoffs.csv          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
 -  spain.csv             - Top flight Spanish League match results 1929-2016
--  italy.csv
--  germany.csv
--  holland.csv
+-  italy.csv             - Top flight Italiann Serie A League match results 1934-2016
+-  germany.csv           - Top flight German Bundesliga 1 League match results 1963-2016
+-  germany2.csv          - Bundelsiga 2 league match results 1974-2016
+-  holland.csv           - Dutch Eredivisie league match results 1956-2016
+-  champs.csv            - European Cup and Champions League results 1955-2016 (still in progress - not complete yet)
 
 
 ## Help Needed !
@@ -70,6 +93,7 @@ I am about to submit this package to CRAN.  I would love help in collating more 
 - Tie-breaking procedures - different Euro leagues have had different tie-breaking procedures over time. Having a record of this will help with making the `maketable` family of funcitons
 - Italian League in the early years - I think the first few seasons of the league need to be triple checked.
 - Team Names.  Consistency in team names is very hard. A dataframe showing the various variations of teamnames for each team would be great (this is a particular problem in the French league).
+-  Promotion/Relegation Playoff Results for European Leagues.
 
 
 
