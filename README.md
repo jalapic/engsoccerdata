@@ -321,5 +321,10 @@ http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-im
 ## Elsewhere
 
 -  A number of analyses and visualizations using these data by Prof Simon Garnier - http://graphzoo.tumblr.com/
+
+More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
+-  http://www.collective-behavior.com/liverpool-is-still-the-most-successful-english-club-team-but-for-how-long/
+-  http://www.collective-behavior.com/how-the-big-four-made-football-predictable/
+
 -  Prof Michael Lopez analyses home-field advantage - https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
 -  Prof Antony Unwin uses for his book "Graphical Data Analysis with R" - http://www.gradaanwr.net/wp-content/uploads/2016/05/dataApr16.pdf
