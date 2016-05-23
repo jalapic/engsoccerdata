@@ -76,7 +76,7 @@ Last update: 15 May 2016,  v0.1.5
 -  germany.csv           - Top flight German Bundesliga 1 League match results 1963-2016
 -  germany2.csv          - Bundelsiga 2 league match results 1974-2016
 -  holland.csv           - Dutch Eredivisie league match results 1956-2016
--  champs.csv            - European Cup and Champions League results 1955-2016 (still in progress - not complete yet)
+-  champs.csv            - European Cup and Champions League results 1955-2016 includes qualifiers and playoffs
 
 
 ## Help Needed !
