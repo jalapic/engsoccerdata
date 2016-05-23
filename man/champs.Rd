@@ -4,28 +4,36 @@
 \name{champs}
 \alias{champs}
 \title{European Cup and Champions League Results 1955-2016}
-\format{A data frame with 4866 rows and 11 variables:
+\format{A data frame with 6553 rows and 21 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
   \item{round}{round}
-  \item{leg}{leg}
+  \item{leg}{leg - 1, 2, replay}
   \item{home}{Home team}
   \item{visitor}{Visiting team}
-  \item{FT}{Full-time result}
+  \item{FT}{Full-time result at 90 mins}
   \item{HT}{Half-time result}
   \item{aet}{After Extra Time result}
-  \item{pens}{Penalties result}
-  \item{tiewinner}{Eventual Tie Winner}
+  \item{pens}{Penalties result, or method of determing tiewinner}
+  \item{hgoal}{home goals at FT 90mins}
+  \item{vgoal}{visitor goals at FT 90mins}
+  \item{FTagg_home}{Total goals at 90mins scored by home team in match-up}
+  \item{FTagg_visitor}{Total goals at 90mins scored by visitor team in match-up}
+  \item{aethgoal}{Home team goals after extra time}
+  \item{aetvgoal}{Visitor team goals after extra time}
+  \item{tothgoal}{Total home goals scored in FT and Extra Time}
+  \item{totvgoal}{Total visitor goals scored in FT and Extra Time}
+  \item{totagg_home}{Total goals scored by home team in matchup}
+  \item{totagg_visitor}{Total goals scored by visitor team in matchup}
+  \item{tiewinner}{Eventual Tie Winner - group matched excepted}
 }}
 \usage{
 champs
 }
 \description{
 All results for European Cup and Champions League
-matches including qualifiers - NOTE: This is
-still incomplete and in progress.
-Will be cleaned soon.
+matches including qualifiers
 }
 \keyword{datasets}
 
