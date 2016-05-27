@@ -3,7 +3,7 @@
 #' All results for European Cup and Champions League
 #' matches including qualifiers
 #'
-#' @format A data frame with 6553 rows and 21 variables:
+#' @format A data frame with 6553 rows and 23 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
@@ -26,5 +26,7 @@
 #'   \item{totagg_home}{Total goals scored by home team in matchup}
 #'   \item{totagg_visitor}{Total goals scored by visitor team in matchup}
 #'   \item{tiewinner}{Eventual Tie Winner - group matched excepted}
+#'   \item{hcountry}{Home team country}
+#'   \item{vcountry}{Visitor team country}
 #' }
 "champs"
