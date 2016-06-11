@@ -8,6 +8,7 @@
 #' @param N The total number of games to return
 #' @return a dataframe of games ending in worst losses
 #' @importFrom magrittr "%>%"
+#' @importFrom utils "head"
 #' @examples
 #' worstlosses(england,"Everton")
 #' worstlosses(england,"Aston Villa", type="H")

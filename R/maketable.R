@@ -20,7 +20,7 @@
 
 maketable <- function(df=NULL, Season=NULL, tier=NULL, pts=3){
 
-  GA<-GF<-ga<-gf<-gd<-GD<-W<-Pts<-.<-Date<-home<-team<-visitor<-hgoal<-opp<-vgoal<-goaldif <-FT<-division<-result<-maxgoal<-mingoal<-absgoaldif<-NULL
+  GA<-GF<-ga<-gf<-gd<-GD<-D<-L<-W<-Pts<-.<-Date<-home<-team<-visitor<-hgoal<-opp<-vgoal<-goaldif <-FT<-division<-result<-maxgoal<-mingoal<-absgoaldif<-NULL
 
   dfx <- df[(df$Season==Season & df$tier==tier),]
 

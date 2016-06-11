@@ -3,7 +3,7 @@
 #' All results for European Cup and Champions League
 #' matches including qualifiers
 #'
-#' @format A data frame with 6553 rows and 23 variables:
+#' @format A data frame with 6554 rows and 23 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}

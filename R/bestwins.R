@@ -8,6 +8,7 @@
 #' @param N The total number of games to return
 #' @return a dataframe of games ending in best wins
 #' @importFrom magrittr "%>%"
+#' @importFrom utils "head"
 #' @examples
 #' bestwins(england,"Everton")
 #' bestwins(england,"Aston Villa", type="H")

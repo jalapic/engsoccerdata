@@ -16475,8 +16475,8 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 "2014-11-20",2014,"Maidstone United","Stevenage Borough","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2014-11-25",2014,"Concord Rangers","Mansfield Town","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2015-05-30",2014,"Arsenal","Aston Villa","4-0",4,0,"f","initial",NA,NA,NA,NA,NA,"Wembley (new), London","89,283",NA,NA,"yes"
-"Wembley (new), London",2015,"Everton","Manchester United","1-2",1,2,"s","initial",NA,NA,NA,NA,NA,"86,064",NA,NA,NA,"yes"
-"Wembley (new), London",2015,"Crystal Palace","Watford","2-1",2,1,"s","initial",NA,NA,NA,NA,NA,"79,110",NA,NA,NA,"yes"
+"2016-04-23",2015,"Everton","Manchester United","1-2",1,2,"s","initial",NA,NA,NA,NA,NA,"Wembley (new), London","86,064",NA,NA,"yes"
+"2016-04-24",2015,"Crystal Palace","Watford","2-1",2,1,"s","initial",NA,NA,NA,NA,NA,"Wembley (new), London","79,110",NA,NA,"yes"
 "2016-03-11",2015,"Reading","Crystal Palace","0-2",0,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2016-03-12",2015,"Everton","Chelsea","2-0",2,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2016-03-13",2015,"Arsenal","Watford","1-2",1,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16623,4 +16623,4 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 "2015-11-17",2015,"Oxford United","Braintree Town","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2015-11-18",2015,"Bradford City","Aldershot Town","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "2015-11-19",2015,"Maidenhead United","Port Vale","1-3",1,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wembley (new), London",2015,"Crystal Palace","Manchester United","NA-NA",NA,NA,"f","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,"yes"
+"2016-05-21",2015,"Manchester United","Crystal Palace","2-1",2,1,"f","initial","yes",NA,NA,NA,NA,"Wembley (new), London","88,619",NA,NA,"yes"

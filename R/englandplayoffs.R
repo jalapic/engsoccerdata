@@ -3,7 +3,7 @@
 #' All results for English league playoff games in the top tier
 #' from 1892/93 season to 2015/16 season.
 #'
-#' @format A data frame with 466 rows and 18 variables:
+#' @format A data frame with 496 rows and 18 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
