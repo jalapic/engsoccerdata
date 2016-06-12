@@ -1,4 +1,4 @@
-Note as of May 15th 2016 - I'm in the process of updating the package to submit to CRAN. I have made a number of changes to code and data formats. If you find something doesn't work anymore, please submit an issue.
+On CRAN v0.1.5 as of June 12 2016
 
 #### engsoccerdata
 
@@ -7,7 +7,7 @@ This R package is mainly a repository for complete soccer datasets, along with s
 Free to use for non-commerical use.   Compiled by James Curley.
 
 Please cite as:  
-James P. Curley (2016). engsoccerdata: English Soccer Data 1871-2015. R package version 0.1.4 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13158.svg)](http://dx.doi.org/10.5281/zenodo.13158)
+James P. Curley (2016). engsoccerdata: English Soccer Data 1871-2015. R package version 0.1.5 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13158.svg)](http://dx.doi.org/10.5281/zenodo.13158)
 
 If you do use it on any publications, blogs, websites, etc. please note the source (i.e. me!).  Also, if you do use it - I would love to see any analysis produced from it etc.  Of course, I accept no responsibility for any error that may be contained herewithin.
 
