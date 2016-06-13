@@ -275,6 +275,8 @@ Any help in improving the quality of these datasets is appreciated.
 - http://rpubs.com/jalapic/gamebygame  #plotting game by game trends across seasons
 - http://rpubs.com/jalapic/seasons  #visualizing season to season changes in top tier performance
 - http://rpubs.com/jalapic/laliga #visualizing historical Spanish La Liga data
+- http://rpubs.com/jalapic/sbs #consecutive runs by team of improved league positions
+
 
 
 ## FiveThirtyEight
