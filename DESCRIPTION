@@ -1,20 +1,20 @@
+Title: English and European Soccer Results 1871-2016
+Type: Package
 Package: engsoccerdata
-Title: Soccer Data 1871-2015
-Version: 0.1.4
-Date: 2015-05-26
+Version: 0.1.5
+Date: 2016-06-11
 Author: James Curley
 Maintainer: James Curley <jc3181@columbia.edu>
-Description: This package contains English & other European professional soccer data from
-    1871-2015.
+Description: Analyzing English & European soccer results data from 1871-2016.
 Depends:
     R (>= 2.10)
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
+Suggests:
+RoxygenNote: 5.0.1
 Imports:
     dplyr,
-    tidyr
-Suggests:
-    knitr,
-    ggplot2
-VignetteBuilder: knitr
+    magrittr,
+    tidyr,
+    utils

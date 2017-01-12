@@ -1,0 +1,497 @@
+"Date","Season","home","visitor","FT","hgoal","vgoal","division","round","tie","htier","vtier","aet","pen","pens","Venue","attendance","neutral"
+"1893-04-22",1892,"Sheffield United","Accrington F.C.","1-0",1,0,"test match","f","initial",2,1,NA,NA,NA,"Castle Ground, Nottingham","6,000","yes"
+"1893-04-22",1892,"Birmingham City","Manchester United","1-1",1,1,"test match","f","initial",2,1,NA,NA,NA,"Victoria Ground, Stoke","4,000","yes"
+"1893-04-22",1892,"Darwen","Notts County","3-2",3,2,"test match","f","initial",2,1,NA,NA,NA,"Hyde Road, Manchester","5,000","yes"
+"1893-04-27",1892,"Manchester United","Birmingham City","5-2",5,2,"test match","f","replay",1,2,NA,NA,NA,"Olive Grove, Sheffield","6,000","yes"
+"1894-04-28",1893,"Birmingham City","Darwen","3-1",3,1,"test match","f","initial",2,1,NA,NA,NA,"Victoria Ground, Stoke","3,000","yes"
+"1894-04-28",1893,"Liverpool","Manchester United","2-0",2,0,"test match","f","initial",2,1,NA,NA,NA,"Ewood Park, Blackburn","5,000","yes"
+"1894-04-28",1893,"Preston North End","Notts County","4-0",4,0,"test match","f","initial",1,2,NA,NA,NA,"Olive Grove, Sheffield","8,000","yes"
+"1895-04-27",1894,"Bury","Liverpool","1-0",1,0,"test match","f","initial",2,1,NA,NA,NA,"Ewood Park, Blackburn","5,000","yes"
+"1895-04-27",1894,"Derby County","Notts County","2-1",2,1,"test match","f","initial",1,2,NA,NA,NA,"Filbert Street, Leicester","8,000","yes"
+"1895-04-27",1894,"Stoke City","Manchester United","3-0",3,0,"test match","f","initial",1,2,NA,NA,NA,"Athletic Ground, Stoke","10,000","yes"
+"1896-04-18",1895,"Liverpool","Birmingham City","4-0",4,0,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1896-04-18",1895,"Manchester City","West Bromwich Albion","1-1",1,1,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1896-04-20",1895,"Birmingham City","Liverpool","0-0",0,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1896-04-20",1895,"West Bromwich Albion","Manchester City","6-1",6,1,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1896-04-25",1895,"Manchester City","Birmingham City","3-0",3,0,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1896-04-25",1895,"Liverpool","West Bromwich Albion","2-0",2,0,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1896-04-27",1895,"Birmingham City","Manchester City","8-0",8,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1896-04-27",1895,"West Bromwich Albion","Liverpool","2-0",2,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1897-04-17",1896,"Notts County","Sunderland","1-0",1,0,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1897-04-19",1896,"Burnley","Manchester United","2-0",2,0,"test match","l","leg1",1,2,NA,NA,NA,NA,NA,NA
+"1897-04-19",1896,"Sunderland","Notts County","0-0",0,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1897-04-21",1896,"Manchester United","Burnley","2-0",2,0,"test match","l","leg2",2,1,NA,NA,NA,NA,NA,NA
+"1897-04-24",1896,"Notts County","Burnley","1-1",1,1,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1897-04-24",1896,"Manchester United","Sunderland","1-1",1,1,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1897-04-26",1896,"Burnley","Notts County","0-1",0,1,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1897-04-26",1896,"Sunderland","Manchester United","2-0",2,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1898-04-20",1897,"Newcastle United","Stoke City","2-1",2,1,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1898-04-21",1897,"Blackburn Rovers","Burnley","1-3",1,3,"test match","l","leg1",1,2,NA,NA,NA,NA,NA,NA
+"1898-04-23",1897,"Burnley","Blackburn Rovers","2-0",2,0,"test match","l","leg2",2,1,NA,NA,NA,NA,NA,NA
+"1898-04-23",1897,"Stoke City","Newcastle United","1-0",1,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1898-04-26",1897,"Burnley","Stoke City","0-2",0,2,"test match","l","leg1",2,1,NA,NA,NA,NA,NA,NA
+"1898-04-28",1897,"Blackburn Rovers","Newcastle United","4-3",4,3,"test match","l","leg1",1,2,NA,NA,NA,NA,NA,NA
+"1898-04-30",1897,"Newcastle United","Blackburn Rovers","4-0",4,0,"test match","l","leg2",2,1,NA,NA,NA,NA,NA,NA
+"1898-04-30",1897,"Stoke City","Burnley","0-0",0,0,"test match","l","leg2",1,2,NA,NA,NA,NA,NA,NA
+"1987-05-14",1986,"Ipswich Town","Charlton Athletic","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"18,465",NA
+"1987-05-14",1986,"Leeds United","Oldham Athletic","1-0",1,0,"2","s","leg1",2,2,"yes",NA,NA,NA,"29,472",NA
+"1987-05-14",1986,"Gillingham","Sunderland","3-2",3,2,"3","s","leg1",3,2,"yes",NA,NA,NA,"13,804",NA
+"1987-05-14",1986,"Wigan Athletic","Swindon Town","2-3",2,3,"3","s","leg1",3,3,NA,NA,NA,NA,"5,718",NA
+"1987-05-14",1986,"Aldershot","Bolton Wanderers","1-0",1,0,"4","s","leg1",4,3,NA,NA,NA,NA,"4,164",NA
+"1987-05-14",1986,"Colchester United","Wolverhampton Wanderers","0-2",0,2,"4","s","leg1",4,4,NA,NA,NA,NA,"4,829",NA
+"1987-05-17",1986,"Charlton Athletic","Ipswich Town","2-1",2,1,"2","s","leg2",1,2,NA,NA,NA,NA,"11,234",NA
+"1987-05-17",1986,"Oldham Athletic","Leeds United","2-1",2,1,"2","s","leg2",2,2,"yes",NA,NA,NA,"19,216",NA
+"1987-05-17",1986,"Sunderland","Gillingham","4-3",4,3,"3","s","leg2",2,3,"yes",NA,NA,NA,"25,470",NA
+"1987-05-17",1986,"Swindon Town","Wigan Athletic","0-0",0,0,"3","s","leg2",3,3,NA,NA,NA,NA,"12,485",NA
+"1987-05-17",1986,"Bolton Wanderers","Aldershot","2-2",2,2,"4","s","leg2",3,4,NA,NA,NA,NA,"7,445",NA
+"1987-05-17",1986,"Wolverhampton Wanderers","Colchester United","0-0",0,0,"4","s","leg2",4,4,NA,NA,NA,NA,"16,330",NA
+"1987-05-22",1986,"Gillingham","Swindon Town","1-0",1,0,"3","f","leg1",3,3,NA,NA,NA,NA,"16,775",NA
+"1987-05-22",1986,"Aldershot","Wolverhampton Wanderers","2-0",2,0,"4","f","leg1",4,4,NA,NA,NA,NA,"5,069",NA
+"1987-05-23",1986,"Charlton Athletic","Leeds United","1-0",1,0,"2","f","leg1",1,2,NA,NA,NA,NA,"16,680",NA
+"1987-05-25",1986,"Leeds United","Charlton Athletic","1-0",1,0,"2","f","leg2",2,1,NA,NA,NA,NA,"31,395",NA
+"1987-05-25",1986,"Swindon Town","Gillingham","2-1",2,1,"3","f","leg2",3,3,NA,NA,NA,NA,"14,382",NA
+"1987-05-25",1986,"Wolverhampton Wanderers","Aldershot","0-1",0,1,"4","f","leg2",4,4,NA,NA,NA,NA,"19,962",NA
+"1987-05-29",1986,"Leeds United","Charlton Athletic","1-2",1,2,"2","f","replay",2,1,"yes",NA,NA,"St. Andrews, Birmingham","18,000","yes"
+"1987-05-29",1986,"Swindon Town","Gillingham","2-0",2,0,"3","f","replay",3,3,NA,NA,NA,"Selhurst Park, London","18,491","yes"
+"1988-05-15",1987,"Blackburn Rovers","Chelsea","0-2",0,2,"2","s","leg1",2,1,NA,NA,NA,NA,"16,568",NA
+"1988-05-15",1987,"Bradford City","Middlesbrough","2-1",2,1,"2","s","leg1",2,2,NA,NA,NA,NA,"16,017",NA
+"1988-05-15",1987,"Bristol City","Sheffield United","1-0",1,0,"3","s","leg1",3,2,NA,NA,NA,NA,"25,335",NA
+"1988-05-15",1987,"Notts County","Walsall","1-3",1,3,"3","s","leg1",3,3,NA,NA,NA,NA,"11,522",NA
+"1988-05-15",1987,"Swansea City","Rotherham United","1-0",1,0,"4","s","leg1",4,3,NA,NA,NA,NA,"9,148",NA
+"1988-05-15",1987,"Torquay United","Scunthorpe United","2-1",2,1,"4","s","leg1",4,4,NA,NA,NA,NA,"4,602",NA
+"1988-05-18",1987,"Chelsea","Blackburn Rovers","4-1",4,1,"2","s","leg2",1,2,NA,NA,NA,NA,"22,757",NA
+"1988-05-18",1987,"Middlesbrough","Bradford City","2-0",2,0,"2","s","leg2",2,2,"yes",NA,NA,NA,"25,868",NA
+"1988-05-18",1987,"Sheffield United","Bristol City","1-1",1,1,"3","s","leg2",2,3,NA,NA,NA,NA,"19,056",NA
+"1988-05-18",1987,"Walsall","Notts County","1-1",1,1,"3","s","leg2",3,3,NA,NA,NA,NA,"8,901",NA
+"1988-05-18",1987,"Rotherham United","Swansea City","1-1",1,1,"4","s","leg2",3,4,NA,NA,NA,NA,"5,558",NA
+"1988-05-18",1987,"Scunthorpe United","Torquay United","1-1",1,1,"4","s","leg2",4,4,NA,NA,NA,NA,"6,483",NA
+"1988-05-25",1987,"Middlesbrough","Chelsea","2-0",2,0,"2","f","leg1",2,1,NA,NA,NA,NA,"25,531",NA
+"1988-05-25",1987,"Bristol City","Walsall","1-3",1,3,"3","f","leg1",3,3,NA,NA,NA,NA,"25,128",NA
+"1988-05-25",1987,"Swansea City","Torquay United","2-1",2,1,"4","f","leg1",4,4,NA,NA,NA,NA,"10,825",NA
+"1988-05-28",1987,"Chelsea","Middlesbrough","1-0",1,0,"2","f","leg2",1,2,NA,NA,NA,NA,"40,550",NA
+"1988-05-28",1987,"Walsall","Bristol City","0-2",0,2,"3","f","leg2",3,3,NA,NA,NA,NA,"13,941",NA
+"1988-05-28",1987,"Torquay United","Swansea City","3-3",3,3,"4","f","leg2",4,4,NA,NA,NA,NA,"5,000",NA
+"1988-05-30",1987,"Walsall","Bristol City","4-0",4,0,"3","f","replay",3,3,NA,NA,NA,"Fellows Park, Walsall","13,007",NA
+"1989-05-21",1988,"Blackburn Rovers","Watford","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"14,028",NA
+"1989-05-21",1988,"Swindon Town","Crystal Palace","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"16,658",NA
+"1989-05-21",1988,"Bristol Rovers","Fulham","1-0",1,0,"3","s","leg1",3,3,NA,NA,NA,NA,"9,029",NA
+"1989-05-21",1988,"Leyton Orient","Scarborough","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"9,298",NA
+"1989-05-21",1988,"Wrexham","Scunthorpe United","3-1",3,1,"4","s","leg1",4,4,NA,NA,NA,NA,"5,449",NA
+"1989-05-22",1988,"Preston North End","Port Vale","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"14,321",NA
+"1989-05-24",1988,"Watford","Blackburn Rovers","1-1",1,1,"2","s","leg2",2,2,"yes",NA,NA,NA,"13,852",NA
+"1989-05-24",1988,"Crystal Palace","Swindon Town","2-0",2,0,"2","s","leg2",2,2,NA,NA,NA,NA,"23,677",NA
+"1989-05-24",1988,"Scarborough","Leyton Orient","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"4,377",NA
+"1989-05-24",1988,"Scunthorpe United","Wrexham","0-2",0,2,"4","s","leg2",4,4,NA,NA,NA,NA,"5,516",NA
+"1989-05-25",1988,"Fulham","Bristol Rovers","0-4",0,4,"3","s","leg2",3,3,NA,NA,NA,NA,"10,188",NA
+"1989-05-25",1988,"Port Vale","Preston North End","3-1",3,1,"3","s","leg2",3,3,NA,NA,NA,NA,"13,416",NA
+"1989-05-30",1988,"Wrexham","Leyton Orient","0-0",0,0,"4","f","leg1",4,4,NA,NA,NA,NA,"7,915",NA
+"1989-05-31",1988,"Blackburn Rovers","Crystal Palace","3-1",3,1,"2","f","leg1",2,2,NA,NA,NA,NA,"16,421",NA
+"1989-05-31",1988,"Bristol Rovers","Port Vale","1-1",1,1,"3","f","leg1",3,3,NA,NA,NA,NA,"9,042",NA
+"1989-06-03",1988,"Crystal Palace","Blackburn Rovers","3-0",3,0,"2","f","leg2",2,2,"yes",NA,NA,NA,"30,000",NA
+"1989-06-03",1988,"Port Vale","Bristol Rovers","1-0",1,0,"3","f","leg2",3,3,NA,NA,NA,NA,"17,353",NA
+"1989-06-03",1988,"Leyton Orient","Wrexham","2-1",2,1,"4","f","leg2",4,4,NA,NA,NA,NA,"13,355",NA
+"1990-05-13",1989,"Blackburn Rovers","Swindon Town","1-2",1,2,"2","s","leg1",2,2,NA,NA,NA,NA,"15,636","yes"
+"1990-05-13",1989,"Sunderland","Newcastle United","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"26,641","yes"
+"1990-05-13",1989,"Bolton Wanderers","Notts County","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"15,108","yes"
+"1990-05-13",1989,"Bury","Tranmere Rovers","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"7,019","yes"
+"1990-05-13",1989,"Cambridge United","Maidstone United","1-1",1,1,"4","s","leg1",4,4,NA,NA,NA,NA,"8,277","yes"
+"1990-05-13",1989,"Chesterfield","Stockport County","4-0",4,0,"4","s","leg1",4,4,NA,NA,NA,NA,"7,264","yes"
+"1990-05-16",1989,"Swindon Town","Blackburn Rovers","2-1",2,1,"2","s","leg2",2,2,NA,NA,NA,NA,"12,416","yes"
+"1990-05-16",1989,"Newcastle United","Sunderland","0-2",0,2,"2","s","leg2",2,2,NA,NA,NA,NA,"32,199","yes"
+"1990-05-16",1989,"Notts County","Bolton Wanderers","2-0",2,0,"3","s","leg2",3,3,NA,NA,NA,NA,"15,200","yes"
+"1990-05-16",1989,"Tranmere Rovers","Bury","2-0",2,0,"3","s","leg2",3,3,NA,NA,NA,NA,"10,343","yes"
+"1990-05-16",1989,"Maidstone United","Cambridge United","0-2",0,2,"4","s","leg2",4,4,"yes",NA,NA,NA,"5,538","yes"
+"1990-05-16",1989,"Stockport County","Chesterfield","0-2",0,2,"4","s","leg2",4,4,NA,NA,NA,NA,"7,339","yes"
+"1990-05-26",1989,"Cambridge United","Chesterfield","1-0",1,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","26,404","yes"
+"1990-05-27",1989,"Notts County","Tranmere Rovers","2-0",2,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","29,252","yes"
+"1990-05-28",1989,"Swindon Town","Sunderland","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","72,873","yes"
+"1991-05-19",1990,"Brighton & Hove Albion","Millwall","4-1",4,1,"2","s","leg1",2,2,NA,NA,NA,NA,"15,390","yes"
+"1991-05-19",1990,"Middlesbrough","Notts County","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"22,343","yes"
+"1991-05-19",1990,"Bury","Bolton Wanderers","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"8,000","yes"
+"1991-05-19",1990,"Brentford","Tranmere Rovers","2-2",2,2,"3","s","leg1",3,3,NA,NA,NA,NA,"9,330","yes"
+"1991-05-19",1990,"Scunthorpe United","Blackpool","1-1",1,1,"4","s","leg1",4,4,NA,NA,NA,NA,"6,536","yes"
+"1991-05-19",1990,"Torquay United","Burnley","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"5,600","yes"
+"1991-05-22",1990,"Millwall","Brighton & Hove Albion","1-2",1,2,"2","s","leg2",2,2,NA,NA,NA,NA,"17,370","yes"
+"1991-05-22",1990,"Notts County","Middlesbrough","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"16,249","yes"
+"1991-05-22",1990,"Bolton Wanderers","Bury","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"19,198","yes"
+"1991-05-22",1990,"Tranmere Rovers","Brentford","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"11,438","yes"
+"1991-05-22",1990,"Blackpool","Scunthorpe United","2-1",2,1,"4","s","leg2",4,4,NA,NA,NA,NA,"7,596","yes"
+"1991-05-22",1990,"Burnley","Torquay United","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"13,620","yes"
+"1991-05-31",1990,"Torquay United","Blackpool","2-2",2,2,"4","f","initial",4,4,"yes","yes","5-4 Torquay United","Wembley, London (original)","21,615","yes"
+"1991-06-01",1990,"Tranmere Rovers","Bolton Wanderers","1-0",1,0,"3","f","initial",3,3,"yes",NA,NA,"Wembley, London (original)","30,217","yes"
+"1991-06-02",1990,"Notts County","Brighton & Hove Albion","3-1",3,1,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","59,940","yes"
+"1992-05-10",1991,"Blackburn Rovers","Derby County","4-2",4,2,"2","s","leg1",2,2,NA,NA,NA,NA,"19,677","yes"
+"1992-05-10",1991,"Cambridge United","Leicester City","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"9,225","yes"
+"1992-05-10",1991,"Stockport County","Stoke City","1-0",1,0,"3","s","leg1",3,3,NA,NA,NA,NA,"7,537","yes"
+"1992-05-10",1991,"Barnet","Blackpool","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"5,629","yes"
+"1992-05-10",1991,"Crewe Alexandra","Scunthorpe United","2-2",2,2,"4","s","leg1",4,4,NA,NA,NA,NA,"6,063","yes"
+"1992-05-11",1991,"Peterborough United","Huddersfield Town","2-2",2,2,"3","s","leg1",3,3,NA,NA,NA,NA,"11,751","yes"
+"1992-05-13",1991,"Derby County","Blackburn Rovers","2-1",2,1,"2","s","leg2",2,2,NA,NA,NA,NA,"22,920","yes"
+"1992-05-13",1991,"Leicester City","Cambridge United","5-0",5,0,"2","s","leg2",2,2,NA,NA,NA,NA,"21,024","yes"
+"1992-05-13",1991,"Stoke City","Stockport County","1-1",1,1,"3","s","leg2",3,3,NA,NA,NA,NA,"16,170","yes"
+"1992-05-13",1991,"Blackpool","Barnet","2-0",2,0,"4","s","leg2",4,4,NA,NA,NA,NA,"7,588","yes"
+"1992-05-13",1991,"Scunthorpe United","Crewe Alexandra","2-0",2,0,"4","s","leg2",4,4,NA,NA,NA,NA,"7,938","yes"
+"1992-05-14",1991,"Huddersfield Town","Peterborough United","1-2",1,2,"3","s","leg2",3,3,NA,NA,NA,NA,"16,167","yes"
+"1992-05-23",1991,"Blackpool","Scunthorpe United","1-1",1,1,"4","f","initial",4,4,"yes","yes","4-3 Blackpool","Wembley, London (new)","22,741","yes"
+"1992-05-24",1991,"Peterborough United","Stockport County","2-1",2,1,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","35,087","yes"
+"1992-05-25",1991,"Blackburn Rovers","Leicester City","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","68,147","yes"
+"1993-05-16",1992,"Leicester City","Portsmouth","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"24,538","yes"
+"1993-05-16",1992,"Swindon Town","Tranmere Rovers","3-1",3,1,"2","s","leg1",2,2,NA,NA,NA,NA,"14,230","yes"
+"1993-05-16",1992,"Stockport County","Port Vale","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"7,856","yes"
+"1993-05-16",1992,"Swansea City","West Bromwich Albion","2-1",2,1,"3","s","leg1",3,3,NA,NA,NA,NA,"13,917","yes"
+"1993-05-16",1992,"Bury","York City","0-0",0,0,"4","s","leg1",4,4,NA,NA,NA,NA,"6,520","yes"
+"1993-05-16",1992,"Crewe Alexandra","Walsall","5-1",5,1,"4","s","leg1",4,4,NA,NA,NA,NA,"6,196","yes"
+"1993-05-19",1992,"Portsmouth","Leicester City","2-2",2,2,"2","s","leg2",2,2,NA,NA,NA,NA,"25,438","yes"
+"1993-05-19",1992,"Tranmere Rovers","Swindon Town","3-2",3,2,"2","s","leg2",2,2,NA,NA,NA,NA,"16,083","yes"
+"1993-05-19",1992,"Port Vale","Stockport County","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"12,689","yes"
+"1993-05-19",1992,"West Bromwich Albion","Swansea City","2-0",2,0,"3","s","leg2",3,3,NA,NA,NA,NA,"26,045","yes"
+"1993-05-19",1992,"York City","Bury","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"9,206","yes"
+"1993-05-19",1992,"Walsall","Crewe Alexandra","2-4",2,4,"4","s","leg2",4,4,NA,NA,NA,NA,"7,398","yes"
+"1993-05-29",1992,"York City","Crewe Alexandra","1-1",1,1,"4","f","initial",4,4,"yes","yes","5-3 York City","Wembley, London (original)","22,416","yes"
+"1993-05-30",1992,"West Bromwich Albion","Port Vale","3-0",3,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","53,471","yes"
+"1993-05-31",1992,"Swindon Town","Leicester City","4-3",4,3,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","73,802","yes"
+"1994-05-15",1993,"Derby County","Millwall","2-0",2,0,"2","s","leg1",2,2,NA,NA,NA,NA,"17,401","yes"
+"1994-05-15",1993,"Tranmere Rovers","Leicester City","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"14,962","yes"
+"1994-05-15",1993,"Burnley","Plymouth Argyle","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"18,794","yes"
+"1994-05-15",1993,"York City","Stockport County","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"8,744","yes"
+"1994-05-15",1993,"Carlisle United","Wycombe Wanderers","0-2",0,2,"4","s","leg1",4,4,NA,NA,NA,NA,"10,862","yes"
+"1994-05-15",1993,"Torquay United","Preston North End","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"4,440","yes"
+"1994-05-18",1993,"Millwall","Derby County","1-3",1,3,"2","s","leg2",2,2,NA,NA,NA,NA,"13,999","yes"
+"1994-05-18",1993,"Leicester City","Tranmere Rovers","2-1",2,1,"2","s","leg2",2,2,NA,NA,NA,NA,"16,470","yes"
+"1994-05-18",1993,"Plymouth Argyle","Burnley","1-3",1,3,"3","s","leg2",3,3,NA,NA,NA,NA,"17,515","yes"
+"1994-05-18",1993,"Stockport County","York City","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"6,743","yes"
+"1994-05-18",1993,"Wycombe Wanderers","Carlisle United","2-1",2,1,"4","s","leg2",4,4,NA,NA,NA,NA,"5,265","yes"
+"1994-05-18",1993,"Preston North End","Torquay United","4-1",4,1,"4","s","leg2",4,4,"yes",NA,NA,NA,"11,442","yes"
+"1994-05-28",1993,"Wycombe Wanderers","Preston North End","4-2",4,2,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","40,109","yes"
+"1994-05-29",1993,"Burnley","Stockport County","2-1",2,1,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","44,806","yes"
+"1994-05-30",1993,"Leicester City","Derby County","2-1",2,1,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","73,671","yes"
+"1995-05-14",1994,"Wolverhampton Wanderers","Bolton Wanderers","2-1",2,1,"2","s","leg1",2,2,NA,NA,NA,NA,"26,153","yes"
+"1995-05-14",1994,"Tranmere Rovers","Reading","1-3",1,3,"2","s","leg1",2,2,NA,NA,NA,NA,"12,207","yes"
+"1995-05-14",1994,"Huddersfield Town","Brentford","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"14,160","yes"
+"1995-05-14",1994,"Bristol Rovers","Crewe Alexandra","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"8,538","yes"
+"1995-05-14",1994,"Preston North End","Bury","0-1",0,1,"4","s","leg1",4,4,NA,NA,NA,NA,"13,927","yes"
+"1995-05-14",1994,"Mansfield Town","Chesterfield","1-1",1,1,"4","s","leg1",4,4,NA,NA,NA,NA,"6,562","yes"
+"1995-05-17",1994,"Bolton Wanderers","Wolverhampton Wanderers","2-0",2,0,"2","s","leg2",2,2,"yes",NA,NA,NA,"20,041","yes"
+"1995-05-17",1994,"Reading","Tranmere Rovers","0-0",0,0,"2","s","leg2",2,2,NA,NA,NA,NA,"13,245","yes"
+"1995-05-17",1994,"Brentford","Huddersfield Town","1-1",1,1,"3","s","leg2",3,3,"yes","yes","4-3 Huddersfield Town",NA,"11,161","yes"
+"1995-05-17",1994,"Crewe Alexandra","Bristol Rovers","1-1",1,1,"3","s","leg2",3,3,"yes",NA,NA,NA,"6,578","yes"
+"1995-05-17",1994,"Bury","Preston North End","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"9,094","yes"
+"1995-05-17",1994,"Chesterfield","Mansfield Town","5-2",5,2,"4","s","leg2",4,4,"yes",NA,NA,NA,"8,165","yes"
+"1995-05-27",1994,"Bury","Chesterfield","0-2",0,2,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","22,814","yes"
+"1995-05-28",1994,"Bristol Rovers","Huddersfield Town","1-2",1,2,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","59,175","yes"
+"1995-05-29",1994,"Bolton Wanderers","Reading","4-3",4,3,"2","f","initial",2,2,"yes",NA,NA,"Wembley, London (original)","64,107","yes"
+"1996-05-12",1995,"Charlton Athletic","Crystal Palace","1-2",1,2,"2","s","leg1",2,2,NA,NA,NA,NA,"14,618","yes"
+"1996-05-12",1995,"Leicester City","Stoke City","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"20,325","yes"
+"1996-05-12",1995,"Bradford City","Blackpool","0-2",0,2,"3","s","leg1",3,3,NA,NA,NA,NA,"14,273","yes"
+"1996-05-12",1995,"Crewe Alexandra","Notts County","2-2",2,2,"3","s","leg1",3,3,NA,NA,NA,NA,"4,931","yes"
+"1996-05-12",1995,"Colchester United","Plymouth Argyle","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"6,511","yes"
+"1996-05-12",1995,"Hereford United","Darlington","1-2",1,2,"4","s","leg1",4,4,NA,NA,NA,NA,"6,622","yes"
+"1996-05-15",1995,"Crystal Palace","Charlton Athletic","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"22,880","yes"
+"1996-05-15",1995,"Stoke City","Leicester City","0-1",0,1,"2","s","leg2",2,2,NA,NA,NA,NA,"21,037","yes"
+"1996-05-15",1995,"Blackpool","Bradford City","0-3",0,3,"3","s","leg2",3,3,NA,NA,NA,NA,"9,593","yes"
+"1996-05-15",1995,"Notts County","Crewe Alexandra","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"9,640","yes"
+"1996-05-15",1995,"Plymouth Argyle","Colchester United","3-1",3,1,"4","s","leg2",4,4,NA,NA,NA,NA,"14,525","yes"
+"1996-05-15",1995,"Darlington","Hereford United","2-1",2,1,"4","s","leg2",4,4,NA,NA,NA,NA,"6,584","yes"
+"1996-05-25",1995,"Plymouth Argyle","Darlington","1-0",1,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","43,431","yes"
+"1996-05-26",1995,"Bradford City","Notts County","2-0",2,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","39,972","yes"
+"1996-05-27",1995,"Leicester City","Crystal Palace","2-1",2,1,"2","f","initial",2,2,"yes",NA,NA,"Wembley, London (original)","73,573","yes"
+"1997-05-10",1996,"Crystal Palace","Wolverhampton Wanderers","3-1",3,1,"2","s","leg1",2,2,NA,NA,NA,NA,"21,053","yes"
+"1997-05-10",1996,"Sheffield United","Ipswich Town","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"22,312","yes"
+"1997-05-11",1996,"Bristol City","Brentford","1-2",1,2,"3","s","leg1",3,3,NA,NA,NA,NA,"15,581","yes"
+"1997-05-11",1996,"Crewe Alexandra","Luton Town","2-1",2,1,"3","s","leg1",3,3,NA,NA,NA,NA,"5,467","yes"
+"1997-05-11",1996,"Cardiff City","Northampton Town","0-1",0,1,"4","s","leg1",4,4,NA,NA,NA,NA,"11,369","yes"
+"1997-05-11",1996,"Chester","Swansea City","0-0",0,0,"4","s","leg1",4,4,NA,NA,NA,NA,"5,104","yes"
+"1997-05-14",1996,"Wolverhampton Wanderers","Crystal Palace","2-1",2,1,"2","s","leg2",2,2,NA,NA,NA,NA,"26,403","yes"
+"1997-05-14",1996,"Ipswich Town","Sheffield United","2-2",2,2,"2","s","leg2",2,2,"yes",NA,NA,NA,"21,467","yes"
+"1997-05-14",1996,"Brentford","Bristol City","2-1",2,1,"3","s","leg2",3,3,NA,NA,NA,NA,"21,467","yes"
+"1997-05-14",1996,"Luton Town","Crewe Alexandra","2-2",2,2,"3","s","leg2",3,3,NA,NA,NA,NA,"8,168","yes"
+"1997-05-14",1996,"Northampton Town","Cardiff City","3-2",3,2,"4","s","leg2",4,4,NA,NA,NA,NA,"7,302","yes"
+"1997-05-14",1996,"Swansea City","Chester","3-0",3,0,"4","s","leg2",4,4,NA,NA,NA,NA,"10,027","yes"
+"1997-05-24",1996,"Northampton Town","Swansea City","1-0",1,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","46,804","yes"
+"1997-05-25",1996,"Brentford","Crewe Alexandra","0-1",0,1,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","34,149","yes"
+"1997-05-26",1996,"Crystal Palace","Sheffield United","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","64,383","yes"
+"1998-05-09",1997,"Fulham","Grimsby Town","1-1",1,1,"3","s","leg2",3,3,NA,NA,NA,NA,"13,954","yes"
+"1998-05-10",1997,"Ipswich Town","Charlton Athletic","0-1",0,1,"2","s","leg1",2,2,NA,NA,NA,NA,"21,681","yes"
+"1998-05-10",1997,"Sheffield United","Sunderland","2-1",2,1,"2","s","leg1",2,2,NA,NA,NA,NA,"23,800","yes"
+"1998-05-10",1997,"Bristol Rovers","Northampton Town","3-1",3,1,"3","s","leg1",3,3,NA,NA,NA,NA,"9,173","yes"
+"1998-05-10",1997,"Barnet","Colchester United","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"3,858","yes"
+"1998-05-10",1997,"Scarborough","Torquay United","1-3",1,3,"4","s","leg1",4,4,NA,NA,NA,NA,"5,246","yes"
+"1998-05-13",1997,"Charlton Athletic","Ipswich Town","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"15,585","yes"
+"1998-05-13",1997,"Sunderland","Sheffield United","2-0",2,0,"2","s","leg2",2,2,NA,NA,NA,NA,"40,092","yes"
+"1998-05-13",1997,"Grimsby Town","Fulham","1-0",1,0,"3","s","leg1",3,3,NA,NA,NA,NA,"8,689","yes"
+"1998-05-13",1997,"Northampton Town","Bristol Rovers","3-0",3,0,"3","s","leg2",3,3,NA,NA,NA,NA,"7,501","yes"
+"1998-05-13",1997,"Colchester United","Barnet","3-1",3,1,"4","s","leg2",4,4,"yes",NA,NA,NA,"5,863","yes"
+"1998-05-13",1997,"Torquay United","Scarborough","4-1",4,1,"4","s","leg2",4,4,NA,NA,NA,NA,"5,386","yes"
+"1998-05-22",1997,"Torquay United","Colchester United","0-1",0,1,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","19,486","yes"
+"1998-05-24",1997,"Grimsby Town","Northampton Town","1-0",1,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (original)","62,988","yes"
+"1998-05-25",1997,"Charlton Athletic","Sunderland","4-4",4,4,"2","f","initial",2,2,"yes","yes","7-6 Charlton Athletic","Wembley, London (original)","77,739","yes"
+"1999-05-15",1998,"Wigan Athletic","Manchester City","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"6,762","yes"
+"1999-05-16",1998,"Watford","Birmingham City","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"18,535","yes"
+"1999-05-16",1998,"Bolton Wanderers","Ipswich Town","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"18,295","yes"
+"1999-05-16",1998,"Preston North End","Gillingham","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"18,584","yes"
+"1999-05-16",1998,"Leyton Orient","Rotherham United","0-0",0,0,"4","s","leg1",4,4,NA,NA,NA,NA,"9,419","yes"
+"1999-05-16",1998,"Swansea City","Scunthorpe United","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"7,828","yes"
+"1999-05-19",1998,"Ipswich Town","Bolton Wanderers","4-3",4,3,"2","s","leg2",2,2,"yes",NA,NA,NA,"21,755","yes"
+"1999-05-19",1998,"Gillingham","Preston North End","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"10,105","yes"
+"1999-05-19",1998,"Manchester City","Wigan Athletic","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"31,305","yes"
+"1999-05-19",1998,"Rotherham United","Leyton Orient","0-0",0,0,"4","s","leg2",4,4,"yes","yes","4-2 Leyton Orient",NA,"9,529","yes"
+"1999-05-19",1998,"Scunthorpe United","Swansea City","3-1",3,1,"4","s","leg2",4,4,"yes",NA,NA,NA,"7,089","yes"
+"1999-05-20",1998,"Birmingham City","Watford","1-0",1,0,"2","s","leg2",2,2,"yes","yes","7-6 Watford",NA,"29,100","yes"
+"1999-05-29",1998,"Leyton Orient","Scunthorpe United","0-1",0,1,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","36,985","yes"
+"1999-05-30",1998,"Gillingham","Manchester City","2-2",2,2,"3","f","initial",3,3,"yes","yes","3-1 Manchester City","Wembley, London (original)","76,935","yes"
+"1999-05-31",1998,"Bolton Wanderers","Watford","0-2",0,2,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","70,343","yes"
+"2000-05-13",1999,"Birmingham City","Barnsley","0-4",0,4,"2","s","leg1",2,2,NA,NA,NA,NA,"26,492","yes"
+"2000-05-13",1999,"Stoke City","Gillingham","3-2",3,2,"3","s","leg1",3,3,NA,NA,NA,NA,"22,124","yes"
+"2000-05-13",1999,"Millwall","Wigan Athletic","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"14,091","yes"
+"2000-05-13",1999,"Barnet","Peterborough United","1-2",1,2,"4","s","leg1",4,4,NA,NA,NA,NA,"4,535","yes"
+"2000-05-13",1999,"Hartlepool United","Darlington","0-2",0,2,"4","s","leg1",4,4,NA,NA,NA,NA,"6,995","yes"
+"2000-05-14",1999,"Bolton Wanderers","Ipswich Town","2-2",2,2,"2","s","leg1",2,2,NA,NA,NA,NA,"18,814","yes"
+"2000-05-17",1999,"Ipswich Town","Bolton Wanderers","5-3",5,3,"2","s","leg2",2,2,"yes",NA,NA,NA,"21,543","yes"
+"2000-05-17",1999,"Gillingham","Stoke City","3-0",3,0,"3","s","leg2",3,3,"yes",NA,NA,NA,"10,386","yes"
+"2000-05-17",1999,"Wigan Athletic","Millwall","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"10,642","yes"
+"2000-05-17",1999,"Peterborough United","Barnet","3-0",3,0,"4","s","leg2",4,4,NA,NA,NA,NA,"10,515","yes"
+"2000-05-17",1999,"Darlington","Hartlepool United","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"8,238","yes"
+"2000-05-18",1999,"Barnsley","Birmingham City","1-2",1,2,"2","s","leg2",2,2,NA,NA,NA,NA,"19,050","yes"
+"2000-05-26",1999,"Peterborough United","Darlington","1-0",1,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (original)","33,383","yes"
+"2000-05-28",1999,"Wigan Athletic","Gillingham","2-3",2,3,"3","f","initial",3,3,"yes",NA,NA,"Wembley, London (original)","53,764","yes"
+"2000-05-29",1999,"Barnsley","Ipswich Town","2-4",2,4,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (original)","73,427","yes"
+"2001-05-13",2000,"Birmingham City","Preston North End","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"29,072","yes"
+"2001-05-13",2000,"West Bromwich Albion","Bolton Wanderers","2-2",2,2,"2","s","leg1",2,2,NA,NA,NA,NA,"18,167","yes"
+"2001-05-13",2000,"Wigan Athletic","Reading","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"12,638","yes"
+"2001-05-13",2000,"Stoke City","Walsall","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"23,689","yes"
+"2001-05-13",2000,"Blackpool","Hartlepool United","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"5,720","yes"
+"2001-05-13",2000,"Hull City","Leyton Orient","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"13,310","yes"
+"2001-05-16",2000,"Reading","Wigan Athletic","2-1",2,1,"3","s","leg2",3,3,NA,NA,NA,NA,"22,034","yes"
+"2001-05-16",2000,"Walsall","Stoke City","4-2",4,2,"3","s","leg2",3,3,NA,NA,NA,NA,"8,993","yes"
+"2001-05-16",2000,"Hartlepool United","Blackpool","1-3",1,3,"4","s","leg2",4,4,NA,NA,NA,NA,"5,836","yes"
+"2001-05-16",2000,"Leyton Orient","Hull City","2-0",2,0,"4","s","leg2",4,4,NA,NA,NA,NA,"9,419","yes"
+"2001-05-17",2000,"Preston North End","Birmingham City","2-1",2,1,"2","s","leg2",2,2,"yes","yes","4-2 Preston North End",NA,"16,928","yes"
+"2001-05-17",2000,"Bolton Wanderers","West Bromwich Albion","3-0",3,0,"2","s","leg2",2,2,NA,NA,NA,NA,"23,515","yes"
+"2001-05-26",2000,"Blackpool","Leyton Orient","4-2",4,2,"4","f","initial",4,4,NA,NA,NA,"Millenium Stadium, Cardiff","23,600","yes"
+"2001-05-27",2000,"Reading","Walsall","2-3",2,3,"3","f","initial",3,3,"yes",NA,NA,"Millenium Stadium, Cardiff","50,496","yes"
+"2001-05-28",2000,"Bolton Wanderers","Preston North End","3-0",3,0,"2","f","initial",2,2,NA,NA,NA,"Millenium Stadium, Cardiff","54,328","yes"
+"2002-04-27",2001,"Hartlepool United","Cheltenham","1-1",1,1,"4","s","leg1",4,4,NA,NA,NA,NA,"7,135","yes"
+"2002-04-27",2001,"Rushden & Diamonds","Rochdale","2-2",2,2,"4","s","leg1",4,4,NA,NA,NA,NA,"6,015","yes"
+"2002-04-28",2001,"Birmingham City","Millwall","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"28,282","yes"
+"2002-04-28",2001,"Norwich City","Wolverhampton Wanderers","3-1",3,1,"2","s","leg1",2,2,NA,NA,NA,NA,"20,127","yes"
+"2002-04-28",2001,"Huddersfield Town","Brentford","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"16,523","yes"
+"2002-04-28",2001,"Stoke City","Cardiff City","1-2",1,2,"3","s","leg1",3,3,NA,NA,NA,NA,"21,245","yes"
+"2002-04-30",2001,"Cheltenham","Hartlepool United","1-1",1,1,"4","s","leg2",4,4,"yes","yes","5-4 Cheltenham",NA,"7,165","yes"
+"2002-04-30",2001,"Rochdale","Rushden & Diamonds","1-2",1,2,"4","s","leg2",4,4,NA,NA,NA,NA,"8,547","yes"
+"2002-05-01",2001,"Wolverhampton Wanderers","Norwich City","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"27,418","yes"
+"2002-05-01",2001,"Brentford","Huddersfield Town","2-1",2,1,"3","s","leg2",3,3,NA,NA,NA,NA,"11,191","yes"
+"2002-05-01",2001,"Cardiff City","Stoke City","0-2",0,2,"3","s","leg2",3,3,"yes",NA,NA,NA,"19,367","yes"
+"2002-05-02",2001,"Millwall","Birmingham City","0-1",0,1,"2","s","leg2",2,2,NA,NA,NA,NA,"16,391","yes"
+"2002-05-06",2001,"Cheltenham","Rushden & Diamonds","3-1",3,1,"4","f","initial",4,4,NA,NA,NA,"Millenium Stadium, Cardiff","24,368","yes"
+"2002-05-11",2001,"Brentford","Stoke City","0-2",0,2,"3","f","initial",3,3,NA,NA,NA,"Millenium Stadium, Cardiff","42,523","yes"
+"2002-05-12",2001,"Birmingham City","Norwich City","1-1",1,1,"2","f","initial",2,2,"yes","yes","4-2 Birmingham City","Millenium Stadium, Cardiff","71,597","yes"
+"2003-05-10",2002,"Nottingham Forest","Sheffield United","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"29,064","yes"
+"2003-05-10",2002,"Wolverhampton Wanderers","Reading","2-1",2,1,"2","s","leg1",2,2,NA,NA,NA,NA,"27,678","yes"
+"2003-05-10",2002,"Cardiff City","Bristol City","1-0",1,0,"3","s","leg1",3,3,NA,NA,NA,NA,"19,146","yes"
+"2003-05-10",2002,"Oldham Athletic","Queens Park Rangers","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"12,152","yes"
+"2003-05-10",2002,"Bury","AFC Bournemouth","0-0",0,0,"4","s","leg1",4,4,NA,NA,NA,NA,"5,782","yes"
+"2003-05-10",2002,"Lincoln City","Scunthorpe United","5-3",5,3,"4","s","leg1",4,4,NA,NA,NA,NA,"8,902","yes"
+"2003-05-13",2002,"Bristol City","Cardiff City","0-0",0,0,"3","s","leg2",3,3,NA,NA,NA,NA,"16,307","yes"
+"2003-05-13",2002,"AFC Bournemouth","Bury","3-1",3,1,"4","s","leg2",4,4,NA,NA,NA,NA,"7,945","yes"
+"2003-05-14",2002,"Reading","Wolverhampton Wanderers","0-1",0,1,"2","s","leg2",2,2,NA,NA,NA,NA,"24,060","yes"
+"2003-05-14",2002,"Queens Park Rangers","Oldham Athletic","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"17,201","yes"
+"2003-05-14",2002,"Scunthorpe United","Lincoln City","0-1",0,1,"4","s","leg2",4,4,NA,NA,NA,NA,"8,295","yes"
+"2003-05-15",2002,"Sheffield United","Nottingham Forest","4-3",4,3,"2","s","leg2",2,2,"yes",NA,NA,NA,"30,212","yes"
+"2003-05-24",2002,"AFC Bournemouth","Lincoln City","5-2",5,2,"4","f","initial",4,4,NA,NA,NA,"Millenium Stadium, Cardiff","32,148","yes"
+"2003-05-25",2002,"Cardiff City","Queens Park Rangers","1-0",1,0,"3","f","initial",3,3,"yes",NA,NA,"Millenium Stadium, Cardiff","66,096","yes"
+"2003-05-26",2002,"Sheffield United","Wolverhampton Wanderers","0-3",0,3,"2","f","initial",2,2,NA,NA,NA,"Millenium Stadium, Cardiff","69,473","yes"
+"2004-05-14",2003,"Crystal Palace","Sunderland","3-2",3,2,"2","s","leg1",2,2,NA,NA,NA,NA,"25,287","yes"
+"2004-05-15",2003,"Ipswich Town","West Ham United","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"28,435","yes"
+"2004-05-15",2003,"Hartlepool United","Bristol City","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"7,211","yes"
+"2004-05-15",2003,"Lincoln City","Huddersfield Town","1-2",1,2,"4","s","leg1",4,4,NA,NA,NA,NA,"9,202","yes"
+"2004-05-16",2003,"Swindon Town","Brighton & Hove Albion","0-1",0,1,"3","s","leg1",3,3,NA,NA,NA,NA,"14,034","yes"
+"2004-05-16",2003,"Northampton Town","Mansfield Town","0-2",0,2,"4","s","leg1",4,4,NA,NA,NA,NA,"6,960","yes"
+"2004-05-17",2003,"Sunderland","Crystal Palace","2-1",2,1,"2","s","leg2",2,2,"yes","yes","5-4 Crystal Palace",NA,"34,536","yes"
+"2004-05-18",2003,"West Ham United","Ipswich Town","2-0",2,0,"2","s","leg2",2,2,NA,NA,NA,NA,"34,002","yes"
+"2004-05-19",2003,"Bristol City","Hartlepool United","2-1",2,1,"3","s","leg2",3,3,NA,NA,NA,NA,"18,434","yes"
+"2004-05-19",2003,"Huddersfield Town","Lincoln City","2-2",2,2,"4","s","leg2",4,4,NA,NA,NA,NA,"19,467","yes"
+"2004-05-20",2003,"Brighton & Hove Albion","Swindon Town","1-2",1,2,"3","s","leg2",3,3,"yes","yes","4-3 Brighton & Hove Albion",NA,"6,876","yes"
+"2004-05-20",2003,"Mansfield Town","Northampton Town","1-3",1,3,"4","s","leg2",4,4,"yes","yes","5-4 Mansfield Town",NA,"9,243","yes"
+"2004-05-29",2003,"Crystal Palace","West Ham United","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Millenium Stadium, Cardiff","72,523","yes"
+"2004-05-30",2003,"Bristol City","Brighton & Hove Albion","0-1",0,1,"3","f","initial",3,3,NA,NA,NA,"Millenium Stadium, Cardiff","65,167","yes"
+"2004-05-31",2003,"Mansfield Town","Huddersfield Town","0-0",0,0,"4","f","initial",4,4,"yes","yes","4-1 Huddersfield Town","Millenium Stadium, Cardiff","37,298","yes"
+"2005-05-12",2004,"Sheffield Wednesday","Brentford","1-0",1,0,"3","s","leg1",3,3,NA,NA,NA,NA,"28,625","yes"
+"2005-05-13",2004,"Hartlepool United","Tranmere Rovers","2-0",2,0,"3","s","leg1",3,3,NA,NA,NA,NA,"6,604","yes"
+"2005-05-14",2004,"West Ham United","Ipswich Town","2-2",2,2,"2","s","leg1",2,2,NA,NA,NA,NA,"33,723","yes"
+"2005-05-14",2004,"Lincoln City","Macclesfield Town","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"7,032","yes"
+"2005-05-15",2004,"Preston North End","Derby County","2-0",2,0,"2","s","leg1",2,2,NA,NA,NA,NA,"20,315","yes"
+"2005-05-15",2004,"Northampton Town","Southend United","0-0",0,0,"4","s","leg1",4,4,NA,NA,NA,NA,"6,601","yes"
+"2005-05-16",2004,"Brentford","Sheffield Wednesday","1-2",1,2,"3","s","leg2",3,3,NA,NA,NA,NA,"10,823","yes"
+"2005-05-17",2004,"Tranmere Rovers","Hartlepool United","2-0",2,0,"3","s","leg2",3,3,"yes","yes","6-5 Hartlepool United",NA,"13,356","yes"
+"2005-05-18",2004,"Ipswich Town","West Ham United","0-2",0,2,"2","s","leg2",2,2,NA,NA,NA,NA,"30,010","yes"
+"2005-05-19",2004,"Derby County","Preston North End","0-0",0,0,"2","s","leg2",2,2,NA,NA,NA,NA,"31,310","yes"
+"2005-05-21",2004,"Macclesfield Town","Lincoln City","1-1",1,1,"4","s","leg2",4,4,NA,NA,NA,NA,"5,223","yes"
+"2005-05-21",2004,"Southend United","Northampton Town","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"9,152","yes"
+"2005-05-28",2004,"Lincoln City","Southend United","0-2",0,2,"4","f","initial",4,4,"yes",NA,NA,"Millenium Stadium, Cardiff","19,653","yes"
+"2005-05-29",2004,"Hartlepool United","Sheffield Wednesday","2-4",2,4,"3","f","initial",3,3,"yes",NA,NA,"Millenium Stadium, Cardiff","59,808","yes"
+"2005-05-30",2004,"West Ham United","Preston North End","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Millenium Stadium, Cardiff","70,275","yes"
+"2006-05-05",2005,"Leeds United","Preston North End","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"35,239","yes"
+"2006-05-06",2005,"Crystal Palace","Watford","0-3",0,3,"2","s","leg1",2,2,NA,NA,NA,NA,"22,880","yes"
+"2006-05-08",2005,"Preston North End","Leeds United","0-2",0,2,"2","s","leg2",2,2,NA,NA,NA,NA,"20,383","yes"
+"2006-05-09",2005,"Watford","Crystal Palace","0-0",0,0,"2","s","leg2",2,2,NA,NA,NA,NA,"19,041","yes"
+"2006-05-11",2005,"Barnsley","Huddersfield Town","0-1",0,1,"3","s","leg1",3,3,NA,NA,NA,NA,"16,127","yes"
+"2006-05-11",2005,"Swansea City","Brentford","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"19,060","yes"
+"2006-05-13",2005,"Wycombe Wanderers","Cheltenham","1-2",1,2,"4","s","leg1",4,4,NA,NA,NA,NA,"5,936","yes"
+"2006-05-13",2005,"Lincoln City","Grimsby Town","0-1",0,1,"4","s","leg1",4,4,NA,NA,NA,NA,"8,037","yes"
+"2006-05-14",2005,"Brentford","Swansea City","0-2",0,2,"3","s","leg2",3,3,NA,NA,NA,NA,"10,652","yes"
+"2006-05-15",2005,"Huddersfield Town","Barnsley","1-3",1,3,"3","s","leg2",3,3,NA,NA,NA,NA,"19,223","yes"
+"2006-05-16",2005,"Grimsby Town","Lincoln City","2-1",2,1,"4","s","leg2",4,4,NA,NA,NA,NA,"8,062","yes"
+"2006-05-18",2005,"Cheltenham","Wycombe Wanderers","0-0",0,0,"4","s","leg2",4,4,NA,NA,NA,NA,"6,813","yes"
+"2006-05-21",2005,"Leeds United","Watford","0-3",0,3,"2","f","initial",2,2,NA,NA,NA,"Millenium Stadium, Cardiff","64,736","yes"
+"2006-05-27",2005,"Barnsley","Swansea City","2-2",2,2,"3","f","initial",3,3,"yes","yes","4-3 Barnsley","Millenium Stadium, Cardiff","55,419","yes"
+"2006-05-28",2005,"Grimsby Town","Cheltenham","0-1",0,1,"4","f","initial",4,4,NA,NA,NA,"Millenium Stadium, Cardiff","29,196","yes"
+"2007-05-11",2006,"Yeovil","Nottingham Forest","0-2",0,2,"3","s","leg1",3,3,NA,NA,NA,NA,"8,935","yes"
+"2007-05-12",2006,"Southampton","Derby County","1-2",1,2,"2","s","leg1",2,2,NA,NA,NA,NA,"30,602","yes"
+"2007-05-12",2006,"Bristol Rovers","Lincoln City","2-1",2,1,"4","s","leg1",4,4,NA,NA,NA,NA,"10,654","yes"
+"2007-05-13",2006,"Wolverhampton Wanderers","West Bromwich Albion","2-3",2,3,"2","s","leg1",2,2,NA,NA,NA,NA,"27,750","yes"
+"2007-05-13",2006,"Oldham Athletic","Blackpool","1-2",1,2,"3","s","leg1",3,3,NA,NA,NA,NA,"12,154","yes"
+"2007-05-14",2006,"Shrewsbury Town","Milton Keynes Dons","0-0",0,0,"4","s","leg1",4,4,NA,NA,NA,NA,"7,126","yes"
+"2007-05-15",2006,"Derby County","Southampton","2-3",2,3,"2","s","leg2",2,2,"yes","yes","4-3 Derby County",NA,"31,569","yes"
+"2007-05-16",2006,"West Bromwich Albion","Wolverhampton Wanderers","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"27,415","yes"
+"2007-05-17",2006,"Lincoln City","Bristol Rovers","3-5",3,5,"4","s","leg2",4,4,NA,NA,NA,NA,"7,694","yes"
+"2007-05-18",2006,"Nottingham Forest","Yeovil","2-5",2,5,"3","s","leg2",3,3,"yes",NA,NA,NA,"27,819","yes"
+"2007-05-18",2006,"Milton Keynes Dons","Shrewsbury Town","1-2",1,2,"4","s","leg2",4,4,NA,NA,NA,NA,"8,212","yes"
+"2007-05-19",2006,"Blackpool","Oldham Athletic","3-1",3,1,"3","s","leg2",3,3,NA,NA,NA,NA,"9,453","yes"
+"2007-05-26",2006,"Bristol Rovers","Shrewsbury Town","3-1",3,1,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","61,589","yes"
+"2007-05-27",2006,"Blackpool","Yeovil","2-0",2,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","59,313","yes"
+"2007-05-28",2006,"Derby County","West Bromwich Albion","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","74,993","yes"
+"2008-05-09",2007,"Southend United","Doncaster Rovers","0-0",0,0,"3","s","leg2",3,3,NA,NA,NA,NA,"9,109","yes"
+"2008-05-10",2007,"Crystal Palace","Bristol City","1-2",1,2,"2","s","leg1",2,2,NA,NA,NA,NA,"22,869","yes"
+"2008-05-10",2007,"Darlington","Rochdale","2-1",2,1,"4","s","leg1",4,4,NA,NA,NA,NA,"8,057","yes"
+"2008-05-11",2007,"Watford","Hull City","0-2",0,2,"2","s","leg1",2,2,NA,NA,NA,NA,"14,713","yes"
+"2008-05-11",2007,"Wycombe Wanderers","Stockport County","1-1",1,1,"4","s","leg1",4,4,NA,NA,NA,NA,"6,371","yes"
+"2008-05-12",2007,"Leeds United","Carlisle United","1-2",1,2,"3","s","leg1",3,3,NA,NA,NA,NA,"36,297","yes"
+"2008-05-13",2007,"Bristol City","Crystal Palace","2-1",2,1,"2","s","leg2",2,2,"yes",NA,NA,NA,"18,842","yes"
+"2008-05-14",2007,"Hull City","Watford","4-1",4,1,"2","s","leg2",2,2,NA,NA,NA,NA,"23,155","yes"
+"2008-05-15",2007,"Carlisle United","Leeds United","0-2",0,2,"3","s","leg2",3,3,NA,NA,NA,NA,"12,873","yes"
+"2008-05-16",2007,"Doncaster Rovers","Southend United","5-1",5,1,"3","s","leg1",3,3,NA,NA,NA,NA,"13,081","yes"
+"2008-05-17",2007,"Rochdale","Darlington","2-1",2,1,"4","s","leg2",4,4,"yes","yes","5-4 Rochdale",NA,"9,870","yes"
+"2008-05-17",2007,"Stockport County","Wycombe Wanderers","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"9,245","yes"
+"2008-05-24",2007,"Bristol City","Hull City","0-1",0,1,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","86,703","yes"
+"2008-05-25",2007,"Doncaster Rovers","Leeds United","1-0",1,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","75,132","yes"
+"2008-05-26",2007,"Stockport County","Rochdale","3-2",3,2,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","35,715","yes"
+"2009-05-07",2008,"Shrewsbury Town","Bury","0-1",0,1,"4","s","leg2",4,4,NA,NA,NA,NA,"8,429","yes"
+"2009-05-07",2008,"Rochdale","Gillingham","0-0",0,0,"4","s","leg2",4,4,NA,NA,NA,NA,"4,450","yes"
+"2009-05-08",2008,"Preston North End","Sheffield United","1-1",1,1,"2","s","leg2",2,2,NA,NA,NA,NA,"19,840","yes"
+"2009-05-08",2008,"Scunthorpe United","Milton Keynes Dons","1-1",1,1,"3","s","leg2",3,3,NA,NA,NA,NA,"6,599","yes"
+"2009-05-09",2008,"Burnley","Reading","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"18,005","yes"
+"2009-05-09",2008,"Millwall","Leeds United","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"13,228","yes"
+"2009-05-10",2008,"Bury","Shrewsbury Town","0-1",0,1,"4","s","leg1",4,4,"yes","yes","4-3 Shrewsbury Town",NA,"7,673","yes"
+"2009-05-10",2008,"Gillingham","Rochdale","2-1",2,1,"4","s","leg1",4,4,NA,NA,NA,NA,"9,585","yes"
+"2009-05-11",2008,"Sheffield United","Preston North End","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"26,354","yes"
+"2009-05-12",2008,"Reading","Burnley","0-2",0,2,"2","s","leg1",2,2,NA,NA,NA,NA,"19,909","yes"
+"2009-05-14",2008,"Leeds United","Millwall","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"37,036","yes"
+"2009-05-15",2008,"Milton Keynes Dons","Scunthorpe United","0-0",0,0,"3","s","leg1",3,3,"yes","yes","7-6 Scunthorpe United",NA,"14,479","yes"
+"2009-05-23",2008,"Gillingham","Shrewsbury Town","1-0",1,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","53,706","yes"
+"2009-05-24",2008,"Millwall","Scunthorpe United","2-3",2,3,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","59,661","yes"
+"2009-05-25",2008,"Sheffield United","Burnley","0-1",0,1,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","80,518","yes"
+"2010-05-08",2009,"Blackpool","Nottingham Forest","2-1",2,1,"2","s","leg2",2,2,NA,NA,NA,NA,"11,805","yes"
+"2010-05-09",2009,"Leicester City","Cardiff City","0-1",0,1,"2","s","leg2",2,2,NA,NA,NA,NA,"29,165","yes"
+"2010-05-11",2009,"Nottingham Forest","Blackpool","3-4",3,4,"2","s","leg1",2,2,NA,NA,NA,NA,"28,358","yes"
+"2010-05-12",2009,"Cardiff City","Leicester City","2-3",2,3,"2","s","leg1",2,2,"yes","yes","5-3 Cardiff City",NA,"26,033","yes"
+"2010-05-14",2009,"Swindon Town","Charlton Athletic","2-1",2,1,"3","s","leg1",3,3,NA,NA,NA,NA,"13,560","yes"
+"2010-05-15",2009,"Huddersfield Town","Millwall","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"14,654","yes"
+"2010-05-15",2009,"Aldershot Town","Rotherham United","0-1",0,1,"4","s","leg1",4,4,NA,NA,NA,NA,"5,470","yes"
+"2010-05-16",2009,"Dagenham and Redbridge","Morecambe","6-0",6,0,"4","s","leg1",4,4,NA,NA,NA,NA,"4,566","yes"
+"2010-05-17",2009,"Charlton Athletic","Swindon Town","2-1",2,1,"3","s","leg2",3,3,"yes","yes","5-4 Swindon Town",NA,"21,521","yes"
+"2010-05-18",2009,"Millwall","Huddersfield Town","2-0",2,0,"3","s","leg2",3,3,NA,NA,NA,NA,"15,463","yes"
+"2010-05-19",2009,"Rotherham United","Aldershot Town","2-0",2,0,"4","s","leg2",4,4,NA,NA,NA,NA,"7,082","yes"
+"2010-05-20",2009,"Morecambe","Dagenham and Redbridge","2-1",2,1,"4","s","leg2",4,4,NA,NA,NA,NA,"4,972","yes"
+"2010-05-22",2009,"Blackpool","Cardiff City","3-2",3,2,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","82,244","yes"
+"2010-05-29",2009,"Millwall","Swindon Town","1-0",1,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","73,108","yes"
+"2010-05-30",2009,"Dagenham and Redbridge","Rotherham United","3-2",3,2,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","32,054","yes"
+"2011-05-12",2010,"Nottingham Forest","Swansea City","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"27,881","yes"
+"2011-05-13",2010,"Reading","Cardiff City","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"21,485","yes"
+"2011-05-14",2010,"AFC Bournemouth","Huddersfield Town","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"9,043","yes"
+"2011-05-14",2010,"Torquay United","Shrewsbury Town","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"4,130","yes"
+"2011-05-15",2010,"Milton Keynes Dons","Peterborough United","3-2",3,2,"3","s","leg1",3,3,NA,NA,NA,NA,"12,662","yes"
+"2011-05-15",2010,"Stevenage Borough","Accrington","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"4,424","yes"
+"2011-05-16",2010,"Swansea City","Nottingham Forest","3-1",3,1,"2","s","leg2",2,2,NA,NA,NA,NA,"19,816","yes"
+"2011-05-17",2010,"Cardiff City","Reading","0-3",0,3,"2","s","leg2",2,2,NA,NA,NA,NA,"24,081","yes"
+"2011-05-18",2010,"Huddersfield Town","AFC Bournemouth","3-3",3,3,"3","s","leg2",3,3,"yes","yes","4-2 Huddersfield Town",NA,"16,444","yes"
+"2011-05-19",2010,"Peterborough United","Milton Keynes Dons","2-0",2,0,"3","s","leg2",3,3,NA,NA,NA,NA,"11,920","yes"
+"2011-05-20",2010,"Accrington","Stevenage Borough","0-1",0,1,"4","s","leg2",4,4,NA,NA,NA,NA,"4,185","yes"
+"2011-05-20",2010,"Shrewsbury Town","Torquay United","0-0",0,0,"4","s","leg2",4,4,NA,NA,NA,NA,"8,452","yes"
+"2011-05-28",2010,"Stevenage Borough","Torquay United","1-0",1,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","11,484","yes"
+"2011-05-29",2010,"Huddersfield Town","Peterborough United","0-3",0,3,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","48,410","yes"
+"2011-05-30",2010,"Reading","Swansea City","2-4",2,4,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","86,581","yes"
+"2012-05-03",2011,"Cardiff City","West Ham United","0-2",0,2,"2","s","leg1",2,2,NA,NA,NA,NA,"23,029","yes"
+"2012-05-04",2011,"Blackpool","Birmingham City","1-0",1,0,"2","s","leg1",2,2,NA,NA,NA,NA,"13,832","yes"
+"2012-05-07",2011,"West Ham United","Cardiff City","3-0",3,0,"2","s","leg2",2,2,NA,NA,NA,NA,"34,682","yes"
+"2012-05-09",2011,"Birmingham City","Blackpool","2-2",2,2,"2","s","leg2",2,2,NA,NA,NA,NA,"28,483","yes"
+"2012-05-11",2011,"Stevenage Borough","Sheffield United","0-0",0,0,"3","s","leg1",3,3,NA,NA,NA,NA,"5,802","yes"
+"2012-05-12",2011,"Milton Keynes Dons","Huddersfield Town","0-2",0,2,"3","s","leg1",3,3,NA,NA,NA,NA,"11,893","yes"
+"2012-05-12",2011,"Crewe Alexandra","Southend United","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"7,221","yes"
+"2012-05-13",2011,"Cheltenham","Torquay United","2-0",2,0,"4","s","leg1",4,4,NA,NA,NA,NA,"5,273","yes"
+"2012-05-14",2011,"Sheffield United","Stevenage Borough","1-0",1,0,"3","s","leg2",3,3,NA,NA,NA,NA,"21,182","yes"
+"2012-05-15",2011,"Huddersfield Town","Milton Keynes Dons","1-2",1,2,"3","s","leg2",3,3,NA,NA,NA,NA,"15,085","yes"
+"2012-05-16",2011,"Southend United","Crewe Alexandra","2-2",2,2,"4","s","leg2",4,4,NA,NA,NA,NA,"8,190","yes"
+"2012-05-17",2011,"Torquay United","Cheltenham","1-2",1,2,"4","s","leg2",4,4,NA,NA,NA,NA,"3,606","yes"
+"2012-05-19",2011,"Blackpool","West Ham United","1-2",1,2,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","78,523","yes"
+"2012-05-26",2011,"Huddersfield Town","Sheffield United","0-0",0,0,"3","f","initial",3,3,"yes","yes","8-7 Huddersfield Town","Wembley, London (new)","52,100","yes"
+"2012-05-27",2011,"Cheltenham","Crewe Alexandra","0-2",0,2,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","24,029","yes"
+"2013-05-02",2012,"Bradford City","Burton Albion","2-3",2,3,"4","s","leg1",4,4,NA,NA,NA,NA,"14,657","yes"
+"2013-05-02",2012,"Northampton Town","Cheltenham","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"6,563","yes"
+"2013-05-03",2012,"Sheffield United","Yeovil","1-0",1,0,"3","s","leg1",3,3,NA,NA,NA,NA,"15,262","yes"
+"2013-05-04",2012,"Swindon Town","Brentford","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"10,595","yes"
+"2013-05-05",2012,"Burton Albion","Bradford City","1-3",1,3,"4","s","leg2",4,4,NA,NA,NA,NA,"6,148","yes"
+"2013-05-05",2012,"Cheltenham","Northampton Town","0-1",0,1,"4","s","leg2",4,4,NA,NA,NA,NA,"5,955","yes"
+"2013-05-06",2012,"Brentford","Swindon Town","3-3",3,3,"3","s","leg2",3,3,"yes","yes","5-4 Brentford",NA,"9,109","yes"
+"2013-05-06",2012,"Yeovil","Sheffield United","2-0",2,0,"3","s","leg2",3,3,NA,NA,NA,NA,"8,152","yes"
+"2013-05-09",2012,"Leicester City","Watford","1-0",1,0,"2","s","leg2",2,2,NA,NA,NA,NA,"29,560","yes"
+"2013-05-10",2012,"Crystal Palace","Brighton & Hove Albion","0-0",0,0,"2","s","leg1",2,2,NA,NA,NA,NA,"23,294","yes"
+"2013-05-12",2012,"Watford","Leicester City","3-1",3,1,"2","s","leg1",2,2,NA,NA,NA,NA,"16,142","yes"
+"2013-05-13",2012,"Brighton & Hove Albion","Crystal Palace","0-2",0,2,"2","s","leg2",2,2,NA,NA,NA,NA,"29,518","yes"
+"2013-05-18",2012,"Bradford City","Northampton Town","3-0",3,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","47,127","yes"
+"2013-05-19",2012,"Brentford","Yeovil","1-2",1,2,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","41,955","yes"
+"2013-05-27",2012,"Crystal Palace","Watford","1-0",1,0,"2","f","initial",2,2,"yes",NA,NA,"Wembley, London (new)","82,025","yes"
+"2014-05-08",2013,"Brighton & Hove Albion","Derby County","1-2",1,2,"2","s","leg2",2,2,NA,NA,NA,NA,"27,118","yes"
+"2014-05-09",2013,"Wigan Athletic","Queens Park Rangers","0-0",0,0,"2","s","leg2",2,2,NA,NA,NA,NA,"14,560","yes"
+"2014-05-10",2013,"Peterborough United","Leyton Orient","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"9,519","yes"
+"2014-05-10",2013,"Preston North End","Rotherham United","1-1",1,1,"3","s","leg1",3,3,NA,NA,NA,NA,"17,221","yes"
+"2014-05-11",2013,"Derby County","Brighton & Hove Albion","4-1",4,1,"2","s","leg1",2,2,NA,NA,NA,NA,"32,602","yes"
+"2014-05-11",2013,"Burton Albion","Southend United","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"4,581","yes"
+"2014-05-12",2013,"Queens Park Rangers","Wigan Athletic","2-1",2,1,"2","s","leg1",2,2,NA,NA,NA,NA,"17,061","yes"
+"2014-05-12",2013,"York City","Fleetwood Town","0-1",0,1,"4","s","leg1",4,4,NA,NA,NA,NA,"5,124","yes"
+"2014-05-13",2013,"Leyton Orient","Peterborough United","2-1",2,1,"3","s","leg2",3,3,NA,NA,NA,NA,"8,545","yes"
+"2014-05-15",2013,"Rotherham United","Preston North End","3-1",3,1,"3","s","leg2",3,3,NA,NA,NA,NA,"11,576","yes"
+"2014-05-16",2013,"Fleetwood Town","York City","0-0",0,0,"4","s","leg2",4,4,NA,NA,NA,NA,"5,194","yes"
+"2014-05-17",2013,"Southend United","Burton Albion","2-2",2,2,"4","s","leg2",4,4,NA,NA,NA,NA,"9,696","yes"
+"2014-05-24",2013,"Derby County","Queens Park Rangers","0-1",0,1,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","87,348","yes"
+"2014-05-25",2013,"Leyton Orient","Rotherham United","2-2",2,2,"3","f","initial",3,3,"yes","yes","4-3 Rotherham United","Wembley, London (new)","43,401","yes"
+"2014-05-26",2013,"Burton Albion","Fleetwood Town","0-1",0,1,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","14,007","yes"
+"2015-05-08",2014,"Brentford","Middlesbrough","1-2",1,2,"2","s","leg1",2,2,NA,NA,NA,NA,"11,691",NA
+"2015-05-09",2014,"Ipswich Town","Norwich City","1-1",1,1,"2","s","leg1",2,2,NA,NA,NA,NA,"29,166",NA
+"2015-05-15",2014,"Middlesbrough","Brentford","3-0",3,0,"2","s","leg2",2,2,NA,NA,NA,NA,"33,266",NA
+"2015-05-16",2014,"Norwich City","Ipswich Town","3-1",3,1,"2","s","leg2",2,2,NA,NA,NA,NA,"26,994",NA
+"2015-05-25",2014,"Norwich City","Middlesbrough","2-0",2,0,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","85,656","yes"
+"2015-05-07",2014,"Chesterfield","Preston North End","0-1",0,1,"3","s","leg1",3,3,NA,NA,NA,NA,"8,409",NA
+"2015-05-07",2014,"Sheffield United","Swindon Town","1-2",1,2,"3","s","leg1",3,3,NA,NA,NA,NA,"20,890",NA
+"2015-05-10",2014,"Preston North End","Chesterfield","3-0",3,0,"3","s","leg2",3,3,NA,NA,NA,NA,"15,641",NA
+"2015-05-11",2014,"Swindon Town","Sheffield United","5-5",5,5,"3","s","leg2",3,3,NA,NA,NA,NA,"13,065",NA
+"2015-05-24",2014,"Preston North End","Swindon Town","4-0",4,0,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","48,236","yes"
+"2015-05-09",2014,"Plymouth Argyle","Wycombe Wanderers","2-3",2,3,"4","s","leg1",4,4,NA,NA,NA,NA,"14,175",NA
+"2015-05-10",2014,"Stevenage Borough","Southend United","1-1",1,1,"4","s","leg1",4,4,NA,NA,NA,NA,"5,183",NA
+"2015-05-14",2014,"Wycombe Wanderers","Plymouth Argyle","2-1",2,1,"4","s","leg2",4,4,NA,NA,NA,NA,"7,750",NA
+"2015-05-14",2014,"Southend United","Stevenage Borough","3-1",3,1,"4","s","leg2",4,4,"yes",NA,NA,NA,"8,998",NA
+"2015-05-23",2014,"Southend United","Wycombe Wanderers","1-1",1,1,"4","f","initial",4,4,"yes","yes","7-6 Southend United","Wembley, London (new)","38,252","yes"
+"2016-05-13",2015,"Sheffield Wednesday","Brighton & Hove Albion","2-0",2,0,"2","s","leg1",2,2,NA,NA,NA,NA,"34,260",NA
+"2016-05-14",2015,"Derby County","Hull City","0-3",0,3,"2","s","leg1",2,2,NA,NA,NA,NA,"29,969",NA
+"2016-05-16",2015,"Brighton & Hove Albion","Sheffield Wednesday","1-1",1,1,"2","s","leg2",2,2,NA,NA,NA,NA,"27,272",NA
+"2016-05-17",2015,"Hull City","Derby County","0-2",0,2,"2","s","leg2",2,2,NA,NA,NA,NA,"20,470",NA
+"2016-05-28",2015,"Hull City","Sheffield Wednesday","1-0",1,0,"2","f","initial",2,2,NA,NA,NA,"Wembley, London (new)","70,189","yes"
+"2016-05-14",2015,"Barnsley","Walsall","3-0",3,0,"3","s","leg1",3,3,NA,NA,NA,NA,"16,051",NA
+"2016-05-15",2015,"Bradford City","Millwall","1-3",1,3,"3","s","leg1",3,3,NA,NA,NA,NA,"19,241",NA
+"2016-05-19",2015,"Walsall","Barnsley","1-3",1,3,"3","s","leg2",3,3,NA,NA,NA,NA,"8,022",NA
+"2016-05-20",2015,"Millwall","Bradford City","1-1",1,1,"3","s","leg2",3,3,NA,NA,NA,NA,"16,301",NA
+"2016-05-29",2015,"Barnsley","Millwall","3-1",3,1,"3","f","initial",3,3,NA,NA,NA,"Wembley, London (new)","51,277","yes"
+"2016-05-12",2015,"Portsmouth","Plymouth Argyle","2-2",2,2,"4","s","leg1",4,4,NA,NA,NA,NA,"17,622",NA
+"2016-05-14",2015,"AFC Wimbledon","Accrington","1-0",1,0,"4","s","leg1",4,4,NA,NA,NA,NA,"4,870",NA
+"2016-05-15",2015,"Plymouth Argyle","Portsmouth","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"15,011",NA
+"2016-05-18",2015,"Accrington","AFC Wimbledon","2-2",2,2,"4","s","leg2",4,4,"yes",NA,NA,NA,"4,634",NA
+"2016-05-30",2015,"AFC Wimbledon","Plymouth Argyle","2-0",2,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","57,956","yes"
