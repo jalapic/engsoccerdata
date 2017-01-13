@@ -13,6 +13,6 @@
 #'   \item{hgoal}{Goals scored by home team}
 #'   \item{vgoal}{Goals scored by visiting team}
 #'   \item{tier}{Tier of football pyramid: 2}
-#'   \item{division}{divsion - 2, 2South or 2North}
+#'   \item{division}{division - 2, 2South or 2North}
 #' }
 "germany2"
