@@ -329,8 +329,8 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 -  http://www.collective-behavior.com/how-the-big-four-made-football-predictable/
 
 -  Prof Michael Lopez analyses home-field advantage - https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
+
 -  Prof Antony Unwin uses for his book "Graphical Data Analysis with R" - http://www.gradaanwr.net/wp-content/uploads/2016/05/dataApr16.pdf
-- also here http://www.gradaanwr.net/wp-content/uploads/2016/05/dataApr16.pdf
 
 - Excellent Masters Thesis in Statistics on improving FIFA rankings by Tom Van de Wiele (https://ttvand.github.io/) here - https://ttvand.github.io/MastatTomVandeWiele.pdf
 
