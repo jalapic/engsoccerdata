@@ -10,7 +10,7 @@
 
 england_current <- function(){
 
-  teamnames<-tm<-df1<-df<-.<-Date<-tier<-home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-name<-name_other<-most_recent<-country<-NULL
+  tm<-df1<-df<-.<-Date<-tier<-home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-name<-name_other<-most_recent<-country<-NULL
 
   df <- rbind(read.csv("http://www.football-data.co.uk/mmz4281/1617/E0.csv"),
               read.csv("http://www.football-data.co.uk/mmz4281/1617/E1.csv"),
