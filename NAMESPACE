@@ -2,6 +2,7 @@
 
 export(alltimerecord)
 export(bestwins)
+export(england_current)
 export(games_between)
 export(games_between_sum)
 export(maketable)
@@ -17,3 +18,4 @@ export(totgoals)
 export(worstlosses)
 importFrom(magrittr,"%>%")
 importFrom(utils,"head")
+importFrom(utils,"read.csv")
