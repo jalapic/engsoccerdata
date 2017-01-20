@@ -322,6 +322,8 @@ http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-im
 
 ## Elsewhere
 
+- Data in this package have been used to devise [fivethirtyeight's](https://fivethirtyeight.com/features/how-our-club-soccer-projections-work/) ratings and prediction models for soccer.
+
 -  A number of analyses and visualizations using these data by Prof Simon Garnier - http://graphzoo.tumblr.com/
 
 More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
