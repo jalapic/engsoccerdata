@@ -1,4 +1,4 @@
-On CRAN v0.1.5 as of June 12 2016
+On CRAN v0.1.5 as of June 12 2016 <br>
 Latest GitHub version: 22 Jan 2017,  v0.1.6
 
 #### engsoccerdata
