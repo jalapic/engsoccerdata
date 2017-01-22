@@ -1,8 +1,8 @@
 Title: English and European Soccer Results 1871-2016
 Type: Package
 Package: engsoccerdata
-Version: 0.1.5
-Date: 2016-06-11
+Version: 0.1.6
+Date: 2017-01-22
 Author: James Curley
 Maintainer: James Curley <jc3181@columbia.edu>
 Description: Analyzing English & European soccer results data from 1871-2016.
