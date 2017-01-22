@@ -787,63 +787,300 @@
 "Italy","US Livorno","US Livorno",NA
 "Italy","US Palermo","US Palermo",NA
 "Italy","Vicenza Calcio","Vicenza Calcio",NA
-"spain","Albacete","Albacete","TRUE"
-"spain","Arenas de Getxo","Arenas de Getxo","TRUE"
-"spain","Athletic Bilbao","Athletic Bilbao","TRUE"
-"spain","Atletico Madrid","Atletico Madrid","TRUE"
-"spain","Atletico Tetuan","Atletico Tetuan","TRUE"
-"spain","Burgos CF","Burgos CF","TRUE"
-"spain","CA Osasuna","CA Osasuna","TRUE"
-"spain","Cadiz CF","Cadiz CF","TRUE"
-"spain","CD Alaves","CD Alaves","TRUE"
-"spain","CD Alcoyano","CD Alcoyano","TRUE"
-"spain","CD Castellon","CD Castellon","TRUE"
-"spain","CD Condal","CD Condal","FALSE"
-"spain","CD Leonesa","CD Leonesa","TRUE"
-"spain","CD Logrones","CD Logrones","FALSE"
-"spain","CD Numancia","CD Numancia","TRUE"
-"spain","CD Tenerife","CD Tenerife","TRUE"
-"spain","CE Europa","CE Europa","TRUE"
-"spain","CE Sabadell","CE Sabadell","TRUE"
-"spain","Celta Vigo","Celta Vigo","TRUE"
-"spain","CF Extremadura","CF Extremadura","FALSE"
-"spain","Cordoba CF","Cordoba CF","TRUE"
-"spain","Deportivo La Coruna","Deportivo La Coruna","TRUE"
-"spain","Elche CF","Elche CF","TRUE"
-"spain","Espanyol Barcelona","Espanyol Barcelona","TRUE"
-"spain","FC Barcelona","FC Barcelona","TRUE"
-"spain","Getafe CF","Getafe CF","TRUE"
-"spain","Gimnastic","Gimnastic","TRUE"
-"spain","Granada CF","Granada CF","TRUE"
-"spain","Hercules CF","Hercules CF","TRUE"
-"spain","Levante UD","Levante UD","TRUE"
-"spain","Malaga CF","CD Malaga","FALSE"
-"spain","Malaga CF","Malaga CF","TRUE"
-"spain","Merida UD","CP Merida","FALSE"
-"spain","Pontevedra CF","Pontevedra CF","TRUE"
-"spain","Racing Santander","Racing Santander","TRUE"
-"spain","Rayo Vallecano","Rayo Vallecano","TRUE"
-"spain","RCD Mallorca","RCD Mallorca","TRUE"
-"spain","Real Betis","Real Betis","TRUE"
-"spain","Real Burgos","Real Burgos","FALSE"
-"spain","Real Jaen","Real Jaen","TRUE"
-"spain","Real Madrid","Real Madrid","TRUE"
-"spain","Real Murcia","Real Murcia","TRUE"
-"spain","Real Oviedo","Real Oviedo","TRUE"
-"spain","Real Sociedad","Real Sociedad","TRUE"
-"spain","Real Union","Real Union","TRUE"
-"spain","Real Valladolid","Real Valladolid","TRUE"
-"spain","Real Zaragoza","Real Zaragoza","TRUE"
-"spain","Recreativo Huelva","Recreativo Huelva","TRUE"
-"spain","SD Compostela","SD Compostela","TRUE"
-"spain","SD Eibar","SD Eibar","TRUE"
-"spain","Sevilla FC","Sevilla FC","TRUE"
-"spain","Sporting Gijon","Sporting Gijon","TRUE"
-"spain","UD Almeria","AD Almeria","FALSE"
-"spain","UD Almeria","UD Almeria","TRUE"
-"spain","UD Las Palmas","UD Las Palmas","TRUE"
-"spain","UD Salamanca","UD Salamanca","FALSE"
-"spain","UE Lleida","UE Lleida","FALSE"
-"spain","Valencia CF","Valencia CF","TRUE"
-"spain","Villarreal CF","Villarreal CF","TRUE"
-"spain","Xerez CD","Xerez CD","TRUE"
+"spain","Albacete","Albacete",TRUE
+"spain","Arenas de Getxo","Arenas de Getxo",TRUE
+"spain","Athletic Bilbao","Athletic Bilbao",TRUE
+"spain","Atletico Madrid","Atletico Madrid",TRUE
+"spain","Atletico Tetuan","Atletico Tetuan",TRUE
+"spain","Burgos CF","Burgos CF",TRUE
+"spain","CA Osasuna","CA Osasuna",TRUE
+"spain","Cadiz CF","Cadiz CF",TRUE
+"spain","CD Alaves","CD Alaves",TRUE
+"spain","CD Alcoyano","CD Alcoyano",TRUE
+"spain","CD Castellon","CD Castellon",TRUE
+"spain","CD Condal","CD Condal",FALSE
+"spain","CD Leonesa","CD Leonesa",TRUE
+"spain","CD Logrones","CD Logrones",FALSE
+"spain","CD Numancia","CD Numancia",TRUE
+"spain","CD Tenerife","CD Tenerife",TRUE
+"spain","CE Europa","CE Europa",TRUE
+"spain","CE Sabadell","CE Sabadell",TRUE
+"spain","Celta Vigo","Celta Vigo",TRUE
+"spain","CF Extremadura","CF Extremadura",FALSE
+"spain","Cordoba CF","Cordoba CF",TRUE
+"spain","Deportivo La Coruna","Deportivo La Coruna",TRUE
+"spain","Elche CF","Elche CF",TRUE
+"spain","Espanyol Barcelona","Espanyol Barcelona",TRUE
+"spain","FC Barcelona","FC Barcelona",TRUE
+"spain","Getafe CF","Getafe CF",TRUE
+"spain","Gimnastic","Gimnastic",TRUE
+"spain","Granada CF","Granada CF",TRUE
+"spain","Hercules CF","Hercules CF",TRUE
+"spain","Levante UD","Levante UD",TRUE
+"spain","Malaga CF","CD Malaga",FALSE
+"spain","Malaga CF","Malaga CF",TRUE
+"spain","Merida UD","CP Merida",FALSE
+"spain","Pontevedra CF","Pontevedra CF",TRUE
+"spain","Racing Santander","Racing Santander",TRUE
+"spain","Rayo Vallecano","Rayo Vallecano",TRUE
+"spain","RCD Mallorca","RCD Mallorca",TRUE
+"spain","Real Betis","Real Betis",TRUE
+"spain","Real Burgos","Real Burgos",FALSE
+"spain","Real Jaen","Real Jaen",TRUE
+"spain","Real Madrid","Real Madrid",TRUE
+"spain","Real Murcia","Real Murcia",TRUE
+"spain","Real Oviedo","Real Oviedo",TRUE
+"spain","Real Sociedad","Real Sociedad",TRUE
+"spain","Real Union","Real Union",TRUE
+"spain","Real Valladolid","Real Valladolid",TRUE
+"spain","Real Zaragoza","Real Zaragoza",TRUE
+"spain","Recreativo Huelva","Recreativo Huelva",TRUE
+"spain","SD Compostela","SD Compostela",TRUE
+"spain","SD Eibar","SD Eibar",TRUE
+"spain","Sevilla FC","Sevilla FC",TRUE
+"spain","Sporting Gijon","Sporting Gijon",TRUE
+"spain","UD Almeria","AD Almeria",FALSE
+"spain","UD Almeria","UD Almeria",TRUE
+"spain","UD Las Palmas","UD Las Palmas",TRUE
+"spain","UD Salamanca","UD Salamanca",FALSE
+"spain","UE Lleida","UE Lleida",FALSE
+"spain","Valencia CF","Valencia CF",TRUE
+"spain","Villarreal CF","Villarreal CF",TRUE
+"spain","Xerez CD","Xerez CD",TRUE
+"Scotland","Aberdeen","Aberdeen",NA
+"Scotland","Falkirk","Falkirk",NA
+"Scotland","Hibernian","Hibernian",NA
+"Scotland","Partick","Partick",NA
+"Scotland","Rangers","Rangers",NA
+"Scotland","Celtic","Celtic",NA
+"Scotland","Motherwell","Motherwell",NA
+"Scotland","Dundee United","Dundee United",NA
+"Scotland","Hearts","Hearts",NA
+"Scotland","Kilmarnock","Kilmarnock",NA
+"Scotland","Raith Rvs","Raith Rvs",NA
+"Scotland","Dunfermline","Dunfermline",NA
+"Scotland","St Johnstone","St Johnstone",NA
+"Scotland","Dundee","Dundee",NA
+"Scotland","St Mirren","St Mirren",NA
+"Scotland","Livingston","Livingston",NA
+"Scotland","Inverness C","Inverness C",NA
+"Scotland","Gretna","Gretna",NA
+"Scotland","Hamilton","Hamilton",NA
+"Scotland","Ross County","Ross County",NA
+"Scotland","Airdrie","Airdrie",NA
+"Scotland","Ayr","Ayr",NA
+"Scotland","Clydebank","Clydebank",NA
+"Scotland","Stranraer","Stranraer",NA
+"Scotland","Dumbarton","Dumbarton",NA
+"Scotland","Morton","Morton",NA
+"Scotland","East Fife","East Fife",NA
+"Scotland","Stirling","Stirling",NA
+"Scotland","Clyde","Clyde",NA
+"Scotland","Alloa","Alloa",NA
+"Scotland","Arbroath","Arbroath",NA
+"Scotland","Queen of Sth","Queen of Sth",NA
+"Scotland","Brechin","Brechin",NA
+"Scotland","Airdrie Utd","Airdrie Utd",NA
+"Scotland","Cowdenbeath","Cowdenbeath",NA
+"Scotland","Stenhousemuir","Stenhousemuir",NA
+"Scotland","Forfar","Forfar",NA
+"Scotland","Queens Park","Queens Park",NA
+"Scotland","Berwick","Berwick",NA
+"Scotland","Peterhead","Peterhead",NA
+"Scotland","Albion Rvs","Albion Rvs",NA
+"Scotland","East Stirling","East Stirling",NA
+"Scotland","Montrose","Montrose",NA
+"Scotland","Elgin","Elgin",NA
+"Scotland","Annan Athletic","Annan Athletic",NA
+"Scotland","Edinburgh City","Edinburgh City",NA
+"Scotland","Raith","Raith",NA
+"Turkey","Zeytinburnu","Zeytinburnu",NA
+"Turkey","Ad. Demirspor","Ad. Demirspor",NA
+"Turkey","Ankaragucu","Ankaragucu",NA
+"Turkey","Bursaspor","Bursaspor",NA
+"Turkey","Denizlispor","Denizlispor",NA
+"Turkey","Galatasaray","Galatasaray",NA
+"Turkey","Kocaelispor","Kocaelispor",NA
+"Turkey","Trabzonspor","Trabzonspor",NA
+"Turkey","Vanspor","Vanspor",NA
+"Turkey","Fenerbahce","Fenerbahce",NA
+"Turkey","P. Ofisi","P. Ofisi",NA
+"Turkey","Altay","Altay",NA
+"Turkey","Antalya","Antalya",NA
+"Turkey","Besiktas","Besiktas",NA
+"Turkey","Gaziantepspor","Gaziantepspor",NA
+"Turkey","Genclerbirligi","Genclerbirligi",NA
+"Turkey","Kayseri","Kayseri",NA
+"Turkey","Samsunspor","Samsunspor",NA
+"Turkey","Istanbulspor","Istanbulspor",NA
+"Turkey","Antalyaspor","Antalyaspor",NA
+"Turkey","Eskisehirspor","Eskisehirspor",NA
+"Turkey","Karsiyaka","Karsiyaka",NA
+"Turkey","Sariyer","Sariyer",NA
+"Turkey","Dardanelspor","Dardanelspor",NA
+"Turkey","Karabukspor","Karabukspor",NA
+"Turkey","Sekerspor","Sekerspor",NA
+"Turkey","Adanaspor","Adanaspor",NA
+"Turkey","Sakaryaspor","Sakaryaspor",NA
+"Turkey","Erzurum","Erzurum",NA
+"Turkey","Erzurumspor","Erzurumspor",NA
+"Turkey","Goztep","Goztep",NA
+"Turkey","Siirt Jet-PA","Siirt Jet-PA",NA
+"Turkey","Yozgatspor","Yozgatspor",NA
+"Turkey","Rizespor","Rizespor",NA
+"Turkey","Diyarbakirspor","Diyarbakirspor",NA
+"Turkey","Malatyaspor","Malatyaspor",NA
+"Turkey","Elazigspor","Elazigspor",NA
+"Turkey","Konyaspor","Konyaspor",NA
+"Turkey","A. Sebatspor","A. Sebatspor",NA
+"Turkey","Kayserispor","Kayserispor",NA
+"Turkey","Ankaraspor","Ankaraspor",NA
+"Turkey","Erciyesspor","Erciyesspor",NA
+"Turkey","Sivasspor","Sivasspor",NA
+"Turkey","Manisaspor","Manisaspor",NA
+"Turkey","Buyuksehyr","Buyuksehyr",NA
+"Turkey","Oftasspor","Oftasspor",NA
+"Turkey","Kasimpasa","Kasimpasa",NA
+"Turkey","Hacettepespor","Hacettepespor",NA
+"Turkey","Bucaspor","Bucaspor",NA
+"Turkey","Orduspor","Orduspor",NA
+"Turkey","Mersin Idman Yurdu","Mersin Idman Yurdu",NA
+"Turkey","Akhisar Belediyespor","Akhisar Belediyespor",NA
+"Turkey","Balikesirspor","Balikesirspor",NA
+"Turkey","Osmanlispor","Osmanlispor",NA
+"Turkey","Alanyaspor","Alanyaspor",NA
+"Greece","AEK","AEK",NA
+"Greece","Apollon","Apollon",NA
+"Greece","Doxa","Doxa",NA
+"Greece","Edessaikos","Edessaikos",NA
+"Greece","Ethnikos","Ethnikos",NA
+"Greece","Iraklis","Iraklis",NA
+"Greece","Larisa","Larisa",NA
+"Greece","PAOK","PAOK",NA
+"Greece","Xanthi","Xanthi",NA
+"Greece","Aris","Aris",NA
+"Greece","Athinaikos","Athinaikos",NA
+"Greece","Ionikos","Ionikos",NA
+"Greece","Kavala","Kavala",NA
+"Greece","OFI","OFI",NA
+"Greece","Olympiakos","Olympiakos",NA
+"Greece","Panathinaikos","Panathinaikos",NA
+"Greece","Panionios","Panionios",NA
+"Greece","Levadiakos","Levadiakos",NA
+"Greece","Kalamata","Kalamata",NA
+"Greece","Panahaiki","Panahaiki",NA
+"Greece","Paniliakos","Paniliakos",NA
+"Greece","Kastoria","Kastoria",NA
+"Greece","Heracles","Heracles",NA
+"Greece","Veroia","Veroia",NA
+"Greece","Proodeytiki","Proodeytiki",NA
+"Greece","Ethnikos Piraeus","Ethnikos Piraeus",NA
+"Greece","Eleysina","Eleysina",NA
+"Greece","Ethnikos Asteras","Ethnikos Asteras",NA
+"Greece","Trikala","Trikala",NA
+"Greece","Eth Asteras","Eth Asteras",NA
+"Greece","Yiannina","Yiannina",NA
+"Greece","Akratitos","Akratitos",NA
+"Greece","Egaleo","Egaleo",NA
+"Greece","Proodeftiki","Proodeftiki",NA
+"Greece","Kalithea","Kalithea",NA
+"Greece","Giannina","Giannina",NA
+"Greece","Chalkidona","Chalkidona",NA
+"Greece","Ergotelis","Ergotelis",NA
+"Greece","Kalamaria","Kalamaria",NA
+"Greece","Kerkyra","Kerkyra",NA
+"Greece","Kallithea","Kallithea",NA
+"Greece","Atromitos","Atromitos",NA
+"Greece","Levadeiakos","Levadeiakos",NA
+"Greece","Asteras Tripolis","Asteras Tripolis",NA
+"Greece","Veria","Veria",NA
+"Greece","Panthrakikos","Panthrakikos",NA
+"Greece","Panserraikos","Panserraikos",NA
+"Greece","Thrasyvoulos","Thrasyvoulos",NA
+"Greece","Olympiakos Volou","Olympiakos Volou",NA
+"Greece","Panetolikos","Panetolikos",NA
+"Greece","Doxa Dramas","Doxa Dramas",NA
+"Greece","Platanias","Platanias",NA
+"Greece","Kallonis","Kallonis",NA
+"Greece","Niki Volos","Niki Volos",NA
+"Portugal","Farense","Farense",NA
+"Portugal","Belenenses","Belenenses",NA
+"Portugal","Benfica","Benfica",NA
+"Portugal","Desp. Chaves","Desp. Chaves",NA
+"Portugal","Gil Vicente","Gil Vicente",NA
+"Portugal","Guimaraes","Guimaraes",NA
+"Portugal","Leiria","Leiria",NA
+"Portugal","Maritimo","Maritimo",NA
+"Portugal","Porto","Porto",NA
+"Portugal","Sp Lisbon","Sp Lisbon",NA
+"Portugal","Beira Mar","Beira Mar",NA
+"Portugal","Boavista","Boavista",NA
+"Portugal","Est Amadora","Est Amadora",NA
+"Portugal","Madeira","Madeira",NA
+"Portugal","Salgueiros","Salgueiros",NA
+"Portugal","Setubal","Setubal",NA
+"Portugal","Sp Braga","Sp Braga",NA
+"Portugal","Tirsense","Tirsense",NA
+"Portugal","Campomaior","Campomaior",NA
+"Portugal","Felgueiras","Felgueiras",NA
+"Portugal","Leca","Leca",NA
+"Portugal","Espinho","Espinho",NA
+"Portugal","Rio Ave","Rio Ave",NA
+"Portugal","Varzim","Varzim",NA
+"Portugal","Academica","Academica",NA
+"Portugal","Campomaiorense","Campomaiorense",NA
+"Portugal","Chaves","Chaves",NA
+"Portugal","Alverca","Alverca",NA
+"Portugal","Santa Clara","Santa Clara",NA
+"Portugal","Aves","Aves",NA
+"Portugal","Pacos Ferreira","Pacos Ferreira",NA
+"Portugal","Moreirense","Moreirense",NA
+"Portugal","Nacional","Nacional",NA
+"Portugal","Estoril","Estoril",NA
+"Portugal","Penafiel","Penafiel",NA
+"Portugal","Naval","Naval",NA
+"Portugal","Leixoes","Leixoes",NA
+"Portugal","Trofense","Trofense",NA
+"Portugal","Olhanense","Olhanense",NA
+"Portugal","Portimonense","Portimonense",NA
+"Portugal","Feirense ","Feirense ",NA
+"Portugal","Feirense","Feirense",NA
+"Portugal","Arouca","Arouca",NA
+"Portugal","Tondela","Tondela",NA
+"Portugal","Uniao Madeira","Uniao Madeira",NA
+"Belgium","Aalst","Aalst",NA
+"Belgium","Cercle Brugge","Cercle Brugge",NA
+"Belgium","Charleroi","Charleroi",NA
+"Belgium","Lierse","Lierse",NA
+"Belgium","Molenbeek","Molenbeek",NA
+"Belgium","St Truiden","St Truiden",NA
+"Belgium","Standard","Standard",NA
+"Belgium","Waregem","Waregem",NA
+"Belgium","Germinal","Germinal",NA
+"Belgium","Club Brugge","Club Brugge",NA
+"Belgium","Anderlecht","Anderlecht",NA
+"Belgium","Antwerp","Antwerp",NA
+"Belgium","Beveren","Beveren",NA
+"Belgium","Gent","Gent",NA
+"Belgium","Lommel","Lommel",NA
+"Belgium","Mechelen","Mechelen",NA
+"Belgium","Seraing","Seraing",NA
+"Belgium","Harelbeke","Harelbeke",NA
+"Belgium","Lokeren","Lokeren",NA
+"Belgium","Genk","Genk",NA
+"Belgium","Mouscron","Mouscron",NA
+"Belgium","Westerlo","Westerlo",NA
+"Belgium","Oostende","Oostende",NA
+"Belgium","Kortrijk","Kortrijk",NA
+"Belgium","Geel","Geel",NA
+"Belgium","Louvieroise","Louvieroise",NA
+"Belgium","Bergen","Bergen",NA
+"Belgium","Heusden Zolder","Heusden Zolder",NA
+"Belgium","FC Brussels","FC Brussels",NA
+"Belgium","Roeselare","Roeselare",NA
+"Belgium","Dender","Dender",NA
+"Belgium","Tubize","Tubize",NA
+"Belgium","Eupen","Eupen",NA
+"Belgium","Oud-Heverlee Leuven","Oud-Heverlee Leuven",NA
+"Belgium","Waasland-Beveren","Waasland-Beveren",NA
+"Belgium","Mouscron-Peruwelz","Mouscron-Peruwelz",NA

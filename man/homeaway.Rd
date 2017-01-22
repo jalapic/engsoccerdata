@@ -16,7 +16,7 @@ a dataframe of all games by team
 Return all results by team
 }
 \examples{
-homeaway(england)
+homeaway(england[england$Season==2015 & england$tier==1,])
 
 }
 
