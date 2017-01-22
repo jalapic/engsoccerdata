@@ -89,7 +89,7 @@ Last update: 22 Jan 2017,  v0.1.6
 
 ## Help Needed !
 
-I am about to submit this package to CRAN.  I would love help in collating more results.  If anyone wants to work on a particular league or competition please let me know.  These are the things I'd like to work on:
+I would love help in collating more results.  If anyone wants to work on a particular league or competition please let me know.  These are the things I'd like to work on:
 
 - English League Cup  - there is a csv in `data-raw` that has league cup data up to 2013/14 but it needs error checking
 - European competitions - don't currently have this data
