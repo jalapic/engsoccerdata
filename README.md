@@ -63,20 +63,27 @@ library(engsoccerdata)
 engsoccerdata
 =============
 
-Last update: 15 May 2016,  v0.1.5
+Last update: 22 Jan 2017,  v0.1.6
 
 
 ## Datasets
--  england.csv           - Results of all top 4 tier soccer games in England 1888-2015
--  england1939.csv       - Contains results of abandoned 1939/40 season.
--  facup.csv             - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2014
--  playoffs.csv          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
--  spain.csv             - Top flight Spanish League match results 1929-2016
--  italy.csv             - Top flight Italiann Serie A League match results 1934-2016
--  germany.csv           - Top flight German Bundesliga 1 League match results 1963-2016
--  germany2.csv          - Bundelsiga 2 league match results 1974-2016
--  holland.csv           - Dutch Eredivisie league match results 1956-2016
--  champs.csv            - European Cup and Champions League results 1955-2016 includes qualifiers and playoffs
+-  england           - Results of all top 4 tier soccer games in England 1888-2015
+-  england1939       - Contains results of abandoned 1939/40 season.
+-  facup             - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2014
+-  playoffs          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
+-  spain             - Top flight Spanish League match results 1929-2016
+-  italy             - Top flight Italiann Serie A League match results 1934-2016
+-  germany           - Top flight German Bundesliga 1 League match results 1963-2016
+-  germany2          - Bundelsiga 2 league match results 1974-2016
+-  holland           - Dutch Eredivisie league match results 1956-2016
+-  champs            - European Cup and Champions League results 1955-2016 includes qualifiers and playoffs
+-  france            - French Ligu1 results 1933-2016
+-  scotland          - Scotland top 4 tiers 1994-2016
+-  portugal          - Portugal top tier 1994-2016
+-  belgium           - Belgium top tier 1994-2016
+-  turkey            - Turkey top tier 1994-2016
+-  greece            - Greece top tier 1994-2016
+-  teamnames         - dataframe of alternative names and abbreviations for each team in all league data
 
 
 ## Help Needed !
@@ -84,7 +91,6 @@ Last update: 15 May 2016,  v0.1.5
 I am about to submit this package to CRAN.  I would love help in collating more results.  If anyone wants to work on a particular league or competition please let me know.  These are the things I'd like to work on:
 
 - English League Cup  - there is a csv in `data-raw` that has league cup data up to 2013/14 but it needs error checking
-- French League    -  there is a French league csv in `data-raw` but it needs checking also.
 - European competitions - don't currently have this data
 - English Conference - have no results yet!
 - English FA Cup pre-qualifying round - also no data yet.
@@ -92,9 +98,9 @@ I am about to submit this package to CRAN.  I would love help in collating more 
 - Points deductions -  a list of points deductions of teams in each Euro league over time to make tables more accurate
 - Tie-breaking procedures - different Euro leagues have had different tie-breaking procedures over time. Having a record of this will help with making the `maketable` family of funcitons
 - Italian League in the early years - I think the first few seasons of the league need to be triple checked.
-- Team Names.  Consistency in team names is very hard. A dataframe showing the various variations of teamnames for each team would be great (this is a particular problem in the French league).
+- Double checking of consistency of teamnames in all leagues - e.g. French teams have split/diverged a lot since 1933, are they all named correctly?
 -  Promotion/Relegation Playoff Results for European Leagues.
-
+-  Extending results for Scotland, Portugal, Belgium, Turkey, Greece prior to 1994/1995.
 
 
 
@@ -102,30 +108,33 @@ I am about to submit this package to CRAN.  I would love help in collating more 
 
 Some built-in functions:
 
--  games_between.r          - returns all games ever played between two teams
+-  england_current().r       - get results from top 4 tiers of English football from current season.
 
--  games_between_sum.r  - returns the summary of results between any two teams
+-  maketable.r               - make a league table  - probably the quickest way to make a league table
 
--  alltimerecord.r          - returns the all time record of any team in the league
+-  maketable_eng.r           - make a league table that follows the tie-breaking and points procedures for each season. 
 
--  score_most.r             - returns the team who has been involved in the most 
-                              games of each scoreline
+-  maketable_eng.r           - make a league table that follows the tie-breaking and points procedures for each season. 
 
--  score_teamX.r         - Lists all matches that a team has played in that ended
-                              in a scoreline
+-  games_between.r           - returns all games ever played between two teams
 
--  score_team.r             - List all occurrences of a specific scoreline for a 
-                              specific team
+-  games_between_sum.r       - returns the summary of results between any two teams
+
+-  alltimerecord.r           - returns the all time record of any team in the league
+
+-  score_most.r              - returns the team who has been involved in the most games of each scoreline
+
+-  score_teamX.r             - Lists all matches that a team has played in that ended in a specific scoreline
+
+-  score_team.r              - List all occurrences of a specific scoreline for a specific team
 
 -  scoreline_by_team.r      - How often each team has a won,lost,drawn by a scoreline? 
 
--  totalgoals_by_team.r     - Return all instances of a team being involved in a game
-                              with n goals
+-  totalgoals_by_team.r     - Return all instances of a team being involved in a game with n goals
 
 -  ngoals.r                 - Return number of times a team has scored n goals
 
--  n_offs.r                 - Will return the scorelines that have occurred n number 
-                              of times
+-  n_offs.r                 - Will return the scorelines that have occurred n number of times
 
 -  opponentfreq.r           - Return how often a team has played each opponent
 
@@ -135,15 +144,11 @@ Some built-in functions:
 
 -  worstlosses.r            - worst losses for each team
 
--  maketable.r               - make a league table  - probably the quickest way to make a league table
-
--  maketable_eng.r           - make a league table that follows the tie-breaking and points procedures for each season. 
 
 
 ## What does england.csv contain?
 
 all top 4 tier games ever played 1888-2016
-
 
 - FL = Football League
 - PL = Premier League
@@ -240,7 +245,9 @@ Please refer to the spainliga rpubs below for further information.
 
 ## Other Leagues:
 
-I've just added complete all top tier results for Holland (1956-2016), Germany (1963-2016) and Italy (1934-2016).  These dataframes contain all league results played in regular season.  They don't yet include relegation/promotion playoff fixtures.  Further, I have not yet completed all final checks of the data. I believe they are error free - but if others want to test and check, I'd welcome this.
+I've added complete all top tier results for Holland (1956-2016), Germany (1963-2016), Italy (1934-2016), France (1933-2016). Additionally all tier 2 results for Germany. Finally, we have results from the all tiers of Scotland, and top tier of  Belgium, Turkey, Greece, Portugal since 1994/1995.
+
+These dataframes contain all league results played in regular season.  They don't yet include relegation/promotion playoff fixtures.  Further, I have not yet completed all final checks of the data. I believe they are error free - but if others want to test and check, I'd welcome this.
 
 
 
@@ -260,6 +267,8 @@ Any help in improving the quality of these datasets is appreciated.
 - http://www.statto.com
 - http://www.11v11.com
 - http://www.worldfootball.net
+- http://www.football-data.co.uk
+
 
 
 ## Shiny apps:
