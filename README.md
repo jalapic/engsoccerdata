@@ -104,7 +104,7 @@ I would love help in collating more results.  If anyone wants to work on a parti
 - Double checking of consistency of teamnames in all leagues - e.g. French teams have split/diverged a lot since 1933, are they all named correctly?
 -  Promotion/Relegation Playoff Results for European Leagues.
 -  Extending results for Scotland, Portugal, Belgium, Turkey, Greece prior to 1994/1995.
--  Extend results for MLS 1993-1997.
+-  Extend results for MLS 1996-1997.
 
 
 
