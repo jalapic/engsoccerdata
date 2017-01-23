@@ -1,0 +1,26 @@
+#' MLS league results 2005-2016
+#'
+#' All results for MLS games
+#' from 2005 season to 2016 season.
+#' Includes playoff games.
+#'
+#' @format A data frame with 3367 rows and 16 variables:
+#' \describe{
+#'   \item{Date}{Date of match}
+#'   \item{Season}{Season of match - refers to starting year}
+#'   \item{home}{Home team}
+#'   \item{visitor}{Visiting team}
+#'   \item{FT}{Full-time result}
+#'   \item{hgoal}{Goals scored by home team}
+#'   \item{vgoal}{Goals scored by visiting team}
+#'   \item{hconf}{Conference of home team}
+#'   \item{vconf}{Conference of visiting team}
+#'   \item{totgoal}{Total goals in game}
+#'   \item{round}{Regular Season or Playoff round}
+#'   \item{leg}{leg of Playoff game}
+#'   \item{hgoalaet}{Goals scored by home team after extra time}
+#'   \item{vgoalaet}{Goals scored by visiting team after extra time}
+#'   \item{hpen}{Penalties scored by home team in shootout}
+#'   \item{vpen}{Penalties scored by visiting team in shootout}
+#' }
+"mls"
