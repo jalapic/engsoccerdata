@@ -84,8 +84,9 @@ Last update: 22 Jan 2017,  v0.1.6
 -  belgium           - Belgium top tier 1994-2016
 -  turkey            - Turkey top tier 1994-2016
 -  greece            - Greece top tier 1994-2016
--  mls               - MLS regular and postseason 2005-2016
+-  mls               - MLS regular and postseason 1998-2016
 -  teamnames         - dataframe of alternative names and abbreviations for each team in all league data
+-  mlsconfs          - available in `data-raw` - summary of conference location of each team by year.
 
 
 ## Help Needed !
@@ -103,7 +104,7 @@ I would love help in collating more results.  If anyone wants to work on a parti
 - Double checking of consistency of teamnames in all leagues - e.g. French teams have split/diverged a lot since 1933, are they all named correctly?
 -  Promotion/Relegation Playoff Results for European Leagues.
 -  Extending results for Scotland, Portugal, Belgium, Turkey, Greece prior to 1994/1995.
--  Extend results for MLS pre 2005.
+-  Extend results for MLS 1993-1997.
 
 
 
