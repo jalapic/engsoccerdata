@@ -3,7 +3,7 @@
 #' Contains variant spellings of teamnames found
 #' in league dataframes
 #'
-#' @format A data frame with 1118 rows and 4 variables:
+#' @format A data frame with 1151 rows and 4 variables:
 #' \describe{
 #'   \item{country}{Country of team}
 #'   \item{name}{Name of team used in engsoccerdata}

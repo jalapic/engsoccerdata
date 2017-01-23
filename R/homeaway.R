@@ -9,7 +9,7 @@
 #' @export
 
 homeaway <- function(df){
-    ga<-Date<-Season<-team<-opp<-gf<-division<-tier<-venue<-home<-visitor<-hgoal<-vgoal<-NULL
+    hconf<-vconf<-leg<-hgoalaet<-vgoalaet<-hpen<-vpen<-ga<-Date<-Season<-team<-opp<-gf<-division<-tier<-venue<-home<-visitor<-hgoal<-vgoal<-NULL
 
     if('division' %in% colnames(df)) {
 
