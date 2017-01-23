@@ -78,7 +78,7 @@ Last update: 22 Jan 2017,  v0.1.6
 -  germany2          - Bundelsiga 2 league match results 1974-2016
 -  holland           - Dutch Eredivisie league match results 1956-2016
 -  champs            - European Cup and Champions League results 1955-2016 includes qualifiers and playoffs
--  france            - French Ligu1 results 1933-2016
+-  france            - French Ligue 1 results 1933-2016
 -  scotland          - Scotland top 4 tiers 1994-2016
 -  portugal          - Portugal top tier 1994-2016
 -  belgium           - Belgium top tier 1994-2016
