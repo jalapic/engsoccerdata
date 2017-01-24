@@ -3,8 +3,8 @@
 \docType{data}
 \name{mls}
 \alias{mls}
-\title{MLS league results 1998-2016}
-\format{A data frame with 4645 rows and 16 variables:
+\title{MLS league results 1996-2016}
+\format{A data frame with 4995 rows and 16 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -28,7 +28,7 @@ mls
 }
 \description{
 All results for MLS games
-from 1998 season to 2016 season.
+from 1996 season to 2016 season.
 Includes playoff games.
 }
 \keyword{datasets}
