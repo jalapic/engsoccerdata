@@ -325,6 +325,7 @@ http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-im
 
 - May 17th 2016 - Piece by John Murdoch at the Financial Times on Leicester City's unique season -  https://ig.ft.com/sites/leicester-premier-league-champions/
 
+- Discussion of PSG-Barcelona 2017 Champions League tie in historical perspective (in Portuguese) - https://www.nexojornal.com.br/grafico/2017/03/10/O-que-as-bolsas-de-apostas-diziam-sobre-Barcelona-e-PSG
  
 
 
