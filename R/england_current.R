@@ -18,9 +18,9 @@ england_current <- function(){
               read.csv("http://www.football-data.co.uk/mmz4281/1617/E3.csv")
   )
 
-  england <- engsoccerdata::england
+  engl<- engsoccerdata::england
 
-  if(identical(max(as.Date(df$Date, "%d/%m/%y")), max(england$Date) )) warning("The returned dataframe contains data already included in 'england' dataframe")
+  if(identical(max(as.Date(df$Date, "%d/%m/%y")), max(engl$Date) )) warning("The returned dataframe contains data already included in 'england' dataframe")
 
 
   df1 <-  data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%y")),
