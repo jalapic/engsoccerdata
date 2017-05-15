@@ -1,5 +1,5 @@
 On CRAN v0.1.5 as of June 12 2016 <br>
-Latest GitHub version: 22 Jan 2017,  v0.1.6
+Latest GitHub version: 14 May 2017,  v0.1.6
 
 #### engsoccerdata
 
@@ -118,7 +118,7 @@ Some built-in functions:
 
 -  maketable_eng.r           - make a league table that follows the tie-breaking and points procedures for each season. 
 
--  maketable_eng.r           - make a league table that follows the tie-breaking and points procedures for each season. 
+-  maketable_all.r           - make a league table between dates or only for home/away results. 
 
 -  games_between.r           - returns all games ever played between two teams
 
@@ -351,6 +351,9 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 - Excellent Masters Thesis in Statistics on improving FIFA rankings by Tom Van de Wiele (https://ttvand.github.io/) here - https://ttvand.github.io/MastatTomVandeWiele.pdf
 
 - 3D visualization of team performance over years - https://vr-data-vis.herokuapp.com/engsoccerdata/index.html
+
+- Joe Gallagher's blog post on home advantage - https://jogall.github.io/2017-05-12-home-away-pref/
+
 
 
 
