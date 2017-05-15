@@ -74,8 +74,7 @@ Last update: 22 Jan 2017,  v0.1.6
 -  playoffs          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
 -  spain             - Top flight Spanish League match results 1929-2016
 -  italy             - Top flight Italian Serie A League match results 1934-2016
--  germany           - Top flight German Bundesliga 1 League match results 1963-2016
--  germany2          - Bundelsiga 2 league match results 1974-2016
+-  germany           - Top flight German Bundesliga 1 League match results 1963-2016 & Bundelsiga 2 league match results 1974-2016
 -  holland           - Dutch Eredivisie league match results 1956-2016
 -  champs            - European Cup and Champions League results 1955-2016 includes qualifiers and playoffs
 -  france            - French Ligue 1 results 1933-2016
