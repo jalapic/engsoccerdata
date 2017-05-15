@@ -4,7 +4,8 @@
 \alias{games_between_sum}
 \title{Function to List the summary stats of all games ever between two teams}
 \usage{
-games_between_sum(df = NULL, teamname1 = NULL, teamname2 = NULL)
+games_between_sum(df = NULL, teamname1 = NULL, teamname2 = NULL,
+  type = c("all", "homeaway"))
 }
 \arguments{
 \item{df}{The results dataframe}
@@ -12,16 +13,19 @@ games_between_sum(df = NULL, teamname1 = NULL, teamname2 = NULL)
 \item{teamname1}{teamname1}
 
 \item{teamname2}{teamname2}
+
+\item{type}{Return 'all' results when type=\code{all} or split by
+home and away if type=\code{homeaway}.}
 }
 \value{
 a dataframe with summary of results. Will be
-empty dataframe if never played.
+    empty dataframe if never played.
 }
 \description{
 Function to List the summary stats of all games ever between two teams
 }
 \examples{
-games_between_sum(england, "Exeter City", "York City")
-games_between_sum(england, "Aston Villa", "York City")
-games_between_sum(england, "Manchester United", "Liverpool")
+    games_between_sum(england, "Exeter City", "York City")
+    games_between_sum(england, "Aston Villa", "York City", "homeaway")
+    games_between_sum(england, "Manchester United", "Liverpool", "all")
 }
