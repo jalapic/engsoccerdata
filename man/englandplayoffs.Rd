@@ -33,4 +33,3 @@ All results for English league playoff games in the top tier
 from 1892/93 season to 2015/16 season.
 }
 \keyword{datasets}
-

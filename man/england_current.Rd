@@ -16,4 +16,3 @@ Get current England season data for all tiers
 \examples{
 england_current()
 }
-

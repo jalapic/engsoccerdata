@@ -22,4 +22,3 @@ opponentfreq(england, "Aston Villa")
 opponentfreq(england, "York City")
 opponentfreq(england, "Milton Keynes Dons")
 }
-

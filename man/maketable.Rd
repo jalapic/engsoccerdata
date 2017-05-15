@@ -30,7 +30,7 @@ methods for tie-breaks over the years. This league table is a simple generic one
 It also does not evaluate points deducted from teams or if games were  artificially
 awarded to one side based on games not being played.
 }
+
 \examples{
 maketable(df=england,Season=2013,tier=1,pts=3)
 }
-

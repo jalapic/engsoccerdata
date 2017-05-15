@@ -24,4 +24,3 @@ All results for German soccer games in the second tier
 from 1974/75 season to 2015/16 season.
 }
 \keyword{datasets}
-

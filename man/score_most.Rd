@@ -22,4 +22,3 @@ score_most(england, "6-6")
 score_most(england, "8-0")
 score_most(england, "9-1")
 }
-

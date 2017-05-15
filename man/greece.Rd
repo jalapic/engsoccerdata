@@ -28,4 +28,3 @@ from 1994/95 season to 2015/16 season.  Doesn't include
 playoff games.
 }
 \keyword{datasets}
-

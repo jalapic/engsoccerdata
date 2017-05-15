@@ -35,4 +35,3 @@ score_teamX(england,"8-0", "Arsenal")
 score_teamX(england,"0-8", "Arsenal")
 #list all 8-0 defeats suffered by Arsenal (regardless of if occurred home/away)
 }
-

@@ -25,4 +25,3 @@ games_between_sum(england, "Exeter City", "York City")
 games_between_sum(england, "Aston Villa", "York City")
 games_between_sum(england, "Manchester United", "Liverpool")
 }
-

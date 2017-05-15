@@ -19,4 +19,3 @@ Return all results by team
 homeaway(england[england$Season==2015 & england$tier==1,])
 
 }
-

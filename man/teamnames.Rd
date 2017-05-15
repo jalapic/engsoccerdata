@@ -19,4 +19,3 @@ Contains variant spellings of teamnames found
 in league dataframes
 }
 \keyword{datasets}
-

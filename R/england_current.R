@@ -18,6 +18,11 @@ england_current <- function(){
               read.csv("http://www.football-data.co.uk/mmz4281/1617/E3.csv")
   )
 
+  england <- engsoccerdata::england
+
+  if(identical(max(as.Date(df$Date, "%d/%m/%y")), max(england$Date) )) warning("The returned dataframe contains data already included in 'england' dataframe")
+
+
   df1 <-  data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%y")),
                      "Season" = 2016,
                      "home" = as.character(df$HomeTeam),
@@ -25,8 +30,8 @@ england_current <- function(){
                      "FT" = paste0(df$FTHG, "-", df$FTAG),
                      "hgoal" = df$FTHG,
                      "vgoal" = df$FTAG,
-                     "division" = as.numeric(df$Div),
-                     "tier" = as.numeric(df$Div),
+                     "division" = as.numeric(factor(df$Div)),
+                     "tier" = as.numeric(factor(df$Div)),
                      "totgoal" = df$FTHG + df$FTAG,
                      "goaldif" = df$FTHG - df$FTAG,
                      "result" = as.character(ifelse(df$FTHG > df$FTAG, "H",
@@ -36,6 +41,9 @@ england_current <- function(){
   tm <- teamnames[teamnames$name!="Accrington F.C.",]
   df1$home <- tm$name[match(df1$home,tm$name_other)]
   df1$visitor <- tm$name[match(df1$visitor,tm$name_other)]
-  return(df1)
+
+  df1$Date <- as.Date(df1$Date, format="%Y-%m-%d")
+
+    return(df1)
 
 }

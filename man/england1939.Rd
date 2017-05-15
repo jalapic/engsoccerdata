@@ -27,4 +27,3 @@ All results for English soccer games the abandoned
 1939/40 season.
 }
 \keyword{datasets}
-

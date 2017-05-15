@@ -4,7 +4,7 @@
 \name{england}
 \alias{england}
 \title{English league results 1888-2016}
-\format{A data frame with 192004 rows and 12 variables:
+\format{A data frame with 194025 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -24,8 +24,7 @@ england
 }
 \description{
 All results for English soccer games in the top 4 tiers
-from 1888/89 season to 2015/16 season.  For playoff games
+from 1888/89 season to 2016/17 season.  For playoff games
 see separate dataset `englandplayoffs`
 }
 \keyword{datasets}
-

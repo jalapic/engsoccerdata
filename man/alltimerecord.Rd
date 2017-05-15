@@ -22,4 +22,3 @@ alltimerecord(england, "Aston Villa")
 alltimerecord(england, "York City")
 alltimerecord(england, "Rochdale")
 }
-

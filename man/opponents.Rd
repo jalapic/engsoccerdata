@@ -22,4 +22,3 @@ opponents(england)
 opponents(england,4)
 
 }
-

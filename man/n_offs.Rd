@@ -33,4 +33,3 @@ n_offs(england, 2, 2) #return which results have occurred twice in the 2nd tier
 n_offs(england, 5, 3) #return which results have occurred five times in the 3rd tier
 
 }
-

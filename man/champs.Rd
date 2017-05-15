@@ -38,4 +38,3 @@ All results for European Cup and Champions League
 matches including qualifiers
 }
 \keyword{datasets}
-

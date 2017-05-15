@@ -29,4 +29,3 @@ playoff games. Note: this dataset is as is, it has not
 been proof checked.
 }
 \keyword{datasets}
-

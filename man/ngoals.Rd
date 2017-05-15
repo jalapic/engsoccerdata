@@ -25,4 +25,3 @@ ngoals(england, 8, "Manchester United")
 ngoals(england, 9, "Aston Villa")
 
 }
-

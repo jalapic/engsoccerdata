@@ -30,4 +30,3 @@ bestwins(england,"York City", type="A")
 bestwins(england,"Port Vale", N=20)
 
 }
-

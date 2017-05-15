@@ -31,4 +31,3 @@ worstlosses(england,"Port Vale", N=20)
 worstlosses(england,"Hull City", type="A", N=7)
 
 }
-

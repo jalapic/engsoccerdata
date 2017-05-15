@@ -23,4 +23,3 @@ All results for Italian soccer games in the top tier
 from 1934/35 season to 2015/16 season.
 }
 \keyword{datasets}
-

@@ -4,7 +4,8 @@
 \alias{maketable_eng}
 \title{Make an English league table}
 \usage{
-maketable_eng(df = NULL, Season = NULL, tier = NULL, division = NULL)
+maketable_eng(df = NULL, Season = NULL, tier = NULL, division = NULL,
+  penalties = FALSE)
 }
 \arguments{
 \item{df}{The results dataframe}
@@ -14,6 +15,8 @@ maketable_eng(df = NULL, Season = NULL, tier = NULL, division = NULL)
 \item{tier}{The tier - must be included}
 
 \item{division}{The division}
+
+\item{penalties}{Whether to account for points penalties}
 }
 \value{
 a dataframe with a league table
@@ -25,14 +28,12 @@ Make an English league table
 
 This table makes league tables according to the points and tie-breaking procedures
 that were in place for each league in each year
-It also does not evaluate points deducted from teams or if games were  artificially
-awarded to one side based on games not being played.
 }
+
 \examples{
 maketable_eng(df=england,Season=1920,tier=1)
 maketable_eng(df=england,Season=1947,division="3a",tier=3)
 maketable_eng(df=england,Season=1975,tier=1)
 maketable_eng(df=england,Season=1975,tier=2)
-maketable_eng(df=england,Season=1981,tier=1)
+maketable_eng(df=england,Season=2007,tier=3, penalties=TRUE)
 }
-

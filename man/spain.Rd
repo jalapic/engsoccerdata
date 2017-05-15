@@ -28,4 +28,3 @@ from 1928/29 season to 2015/16 season.  Also includes
 playoff games
 }
 \keyword{datasets}
-

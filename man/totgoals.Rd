@@ -24,4 +24,3 @@ totgoals(england, 10, "York City")
 totgoals(england, 12, "Aston Villa")
 
 }
-
