@@ -15,7 +15,7 @@
 #' @export
 
 
-games_between_sum<-function (df=NULL, teamname1=NULL, teamname2=NULL, type=c("all", "homeaway")) {
+games_between_sum<-function (df=NULL, teamname1=NULL, teamname2=NULL, type="all") {
 
   D<-GA<-GD<-GF<-L<-W<-ga<-gf<-opp<-team<-venue<-tmp1<-tmp2<-tmp<-.<-home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-maxgoal<-mingoal<-absgoaldif<-NULL
 

@@ -5,7 +5,7 @@
 \title{Function to List the summary stats of all games ever between two teams}
 \usage{
 games_between_sum(df = NULL, teamname1 = NULL, teamname2 = NULL,
-  type = c("all", "homeaway"))
+  type = "all")
 }
 \arguments{
 \item{df}{The results dataframe}
