@@ -70,6 +70,7 @@ Last update: 22 Jan 2017,  v0.1.6
 ## Datasets
 -  england           - Results of all top 4 tier soccer games in England 1888-2017
 -  england1939       - Contains results of abandoned 1939/40 season.
+-  england5          - Results of 5th tier (conference) from 1999/2000 - 2016/17
 -  facup             - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2016
 -  playoffs          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
 -  spain             - Top flight Spanish League match results 1929-2016
