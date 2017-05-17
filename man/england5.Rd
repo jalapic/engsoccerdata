@@ -3,8 +3,8 @@
 \docType{data}
 \name{england5}
 \alias{england5}
-\title{English league results 1999-2016}
-\format{A data frame with 9260 rows and 12 variables:
+\title{English league results 1979-2016}
+\format{A data frame with 18294 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -24,7 +24,8 @@ england5
 }
 \description{
 All results for English soccer games in the 5th tier
-from 1999/2000 season to 2016/17 season.  For playoff games
-see separate dataset `englandplayoffs`
+from 1979/80 season to 2016/17 season.  For playoff games
+see separate dataset `englandplayoffs`. Note dates of games
+are only available for the 1999/2000 season onwards.
 }
 \keyword{datasets}
