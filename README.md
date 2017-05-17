@@ -95,7 +95,7 @@ I would love help in collating more results.  If anyone wants to work on a parti
 
 - English League Cup  - there is a csv in `data-raw` that has league cup data up to 2013/14 but it needs error checking
 - European competitions - don't currently have this data
-- English Conference - have no results yet!
+- English Conference - need to add dates to results for seasons 1974/75-1998/98.
 - English FA Cup pre-qualifying round - also no data yet.
 - English other competitions - e.g. lower league cup competitions - no data yet.
 - Points deductions -  a list of points deductions of teams in each Euro league over time to make tables more accurate
