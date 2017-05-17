@@ -112,7 +112,7 @@ I would love help in collating more results.  If anyone wants to work on a parti
 
 Some built-in functions:
 
--  england_current().r       - get results from top 4 tiers of English football from current season.
+-  england_current().r       - get results from top 4 tiers of English football from current season.  Other current seasons for other datasets can be got by e.g. holland_current(), germany_current() etc.
 
 -  maketable.r               - make a league table  - probably the quickest way to make a league table
 
