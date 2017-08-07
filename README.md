@@ -354,6 +354,8 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 
 - Joe Gallagher's blog post on home advantage - https://jogall.github.io/2017-05-12-home-away-pref/
 
+- Joe Gallagher's blog post on Robin Hood teams - https://jogall.github.io/2017-08-04-robin-hood-teams/
+
 - Andrew Clark's interactive viz of best and worst consecutive league finishes - https://www.mytinyshinys.com/2017/08/04/socceriimprovers/
 
 
