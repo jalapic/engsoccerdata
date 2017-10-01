@@ -2,20 +2,23 @@
 #'
 #' @return a dataframe with results for current
 #' season for all top four divisions
+#' @param Season the current Season
 #' @importFrom utils "read.csv"
 #' @examples
 #' england_current()
 #' @export
 
+england_current <- function(Season=2017){
 
-england_current <- function(){
+     s1<-s2<-myseason<-tm<-df1<-df<-.<-Date<-tier<-home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-division<-result<-name<-name_other<-most_recent<-country<-NULL
+     myseason<-Season
+     s2<-as.numeric(substr(myseason,3,4))
+     s1 <- s2+1
 
-  tm<-df1<-df<-.<-Date<-tier<-home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-name<-name_other<-most_recent<-country<-NULL
-
-  df <- rbind(read.csv("http://www.football-data.co.uk/mmz4281/1617/E0.csv"),
-              read.csv("http://www.football-data.co.uk/mmz4281/1617/E1.csv"),
-              read.csv("http://www.football-data.co.uk/mmz4281/1617/E2.csv"),
-              read.csv("http://www.football-data.co.uk/mmz4281/1617/E3.csv")
+  df <- rbind(read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/E0.csv")),
+              read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/E1.csv")),
+              read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/E2.csv")),
+              read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/E3.csv"))
   )
 
   engl<- engsoccerdata::england
@@ -24,7 +27,7 @@ england_current <- function(){
 
 
   df1 <-  data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%y")),
-                     "Season" = 2016,
+                     "Season" = myseason,
                      "home" = as.character(df$HomeTeam),
                      "visitor" = as.character(df$AwayTeam),
                      "FT" = paste0(df$FTHG, "-", df$FTAG),
@@ -38,7 +41,9 @@ england_current <- function(){
                                                     ifelse(df$FTHG < df$FTAG, "A", "D")))
                      , stringsAsFactors = FALSE)
 
+
   tm <- teamnames[teamnames$name!="Accrington F.C.",]
+
   df1$home <- tm$name[match(df1$home,tm$name_other)]
   df1$visitor <- tm$name[match(df1$visitor,tm$name_other)]
 

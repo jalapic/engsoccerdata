@@ -4,7 +4,10 @@
 \alias{holland_current}
 \title{Get current Holland season data for top tier}
 \usage{
-holland_current()
+holland_current(Season = 2017)
+}
+\arguments{
+\item{Season}{the current Season}
 }
 \value{
 a dataframe with results for current

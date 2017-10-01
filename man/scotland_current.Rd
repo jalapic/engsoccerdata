@@ -4,7 +4,10 @@
 \alias{scotland_current}
 \title{Get current Scotland season data for all tiers}
 \usage{
-scotland_current()
+scotland_current(Season = 2017)
+}
+\arguments{
+\item{Season}{the current Season}
 }
 \value{
 a dataframe with results for current

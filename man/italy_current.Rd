@@ -4,7 +4,10 @@
 \alias{italy_current}
 \title{Get current Italy season data for top tier}
 \usage{
-italy_current()
+italy_current(Season = 2017)
+}
+\arguments{
+\item{Season}{the current Season}
 }
 \value{
 a dataframe with results for current

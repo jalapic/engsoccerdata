@@ -3,8 +3,8 @@
 \docType{data}
 \name{england}
 \alias{england}
-\title{English league results 1888-2016}
-\format{A data frame with 194025 rows and 12 variables:
+\title{English league results 1888-2017}
+\format{A data frame with 194040 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}

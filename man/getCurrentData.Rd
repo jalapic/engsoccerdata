@@ -4,7 +4,7 @@
 \alias{getCurrentData}
 \title{Get current season data}
 \usage{
-getCurrentData(df, division, tier)
+getCurrentData(df, division, tier, Season)
 }
 \arguments{
 \item{df}{the results dataset}
@@ -12,6 +12,8 @@ getCurrentData(df, division, tier)
 \item{division}{division to add}
 
 \item{tier}{tier to add}
+
+\item{Season}{Season to get current data for}
 }
 \value{
 a dataframe with results for current season

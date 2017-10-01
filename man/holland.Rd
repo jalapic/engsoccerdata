@@ -3,8 +3,8 @@
 \docType{data}
 \name{holland}
 \alias{holland}
-\title{Dutch league results 1956-2016}
-\format{A data frame with 18096 rows and 8 variables:
+\title{Dutch league results 1956-2017}
+\format{A data frame with 18402 rows and 8 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -20,6 +20,6 @@ holland
 }
 \description{
 All results for Dutch soccer games in the top tier
-from 1956/57 season to 2015/16 season.
+from 1956/57 season to 2016/17 season.
 }
 \keyword{datasets}

@@ -4,7 +4,7 @@
 \name{belgium}
 \alias{belgium}
 \title{Belgian league results 1995-2016}
-\format{A data frame with 6066 rows and 12 variables:
+\format{A data frame with 6140 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}

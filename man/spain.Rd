@@ -3,8 +3,8 @@
 \docType{data}
 \name{spain}
 \alias{spain}
-\title{Spanish league results 1928-2016}
-\format{A data frame with 23915 rows and 12 variables:
+\title{Spanish league results 1928-2017}
+\format{A data frame with 24295 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -24,7 +24,7 @@ spain
 }
 \description{
 All results for Spanish soccer games in the top tier
-from 1928/29 season to 2015/16 season.  Also includes
+from 1928/29 season to 2016/17 season.  Also includes
 playoff games
 }
 \keyword{datasets}

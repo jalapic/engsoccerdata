@@ -3,8 +3,8 @@
 \docType{data}
 \name{germany}
 \alias{germany}
-\title{German Bundesliga 1 league results 1963-2016}
-\format{A data frame with 33410 rows and 8 variables:
+\title{German Bundesliga 1 league results 1963-2017}
+\format{A data frame with 34022 rows and 9 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -21,7 +21,7 @@ germany
 }
 \description{
 All results for German soccer games in the top two tier
-from 1963/64 season to 2015/16 season & for German soccer
-games in the second tier from 1974/75 season to 2015/16 season.
+from 1963/64 season to 2016/17 season & for German soccer
+games in the second tier from 1974/75 season to 2016/17 season.
 }
 \keyword{datasets}

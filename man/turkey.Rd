@@ -3,8 +3,8 @@
 \docType{data}
 \name{turkey}
 \alias{turkey}
-\title{Turkish league results 1994-2016}
-\format{A data frame with 6851 rows and 12 variables:
+\title{Turkish league results 1994-2017}
+\format{A data frame with 7004 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -24,7 +24,7 @@ turkey
 }
 \description{
 All results for Turkish soccer games in the top tier
-from 1994/95 season to 2015/16 season.  Doesn't include
+from 1994/95 season to 2016/17 season.  Doesn't include
 playoff games.
 }
 \keyword{datasets}

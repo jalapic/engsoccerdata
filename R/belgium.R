@@ -4,7 +4,7 @@
 #' from 1995/96 season to 2015/16 season.  Doesn't include
 #' playoff games.
 #'
-#' @format A data frame with 6066 rows and 12 variables:
+#' @format A data frame with 6140 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
