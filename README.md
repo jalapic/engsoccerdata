@@ -358,5 +358,8 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 
 - Andrew Clark's interactive viz of best and worst consecutive league finishes - https://www.mytinyshinys.com/2017/08/04/socceriimprovers/
 
+- Ryan Estrellado's analysis of Liverpool FC Managers - https://restrellado.github.io/liverpoolfc/lfc_managers.html
+
+-  Austin Wehrwein's modeling of soccer results - http://austinwehrwein.com/soccer/
 
 
