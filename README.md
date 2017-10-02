@@ -1,5 +1,5 @@
 On CRAN v0.1.5 as of June 12 2016 <br>
-Latest GitHub version: 14 May 2017,  v0.1.6
+Latest GitHub version: 1 Oct 2017,  v0.1.6
 
 #### engsoccerdata
 
@@ -16,7 +16,7 @@ If you do use it on any publications, blogs, websites, etc. please note the sour
 - if you can see better ways of writing the R code, please let me know.
 - if you would like to collaborate on a project using these data, please get in touch.
 
-Contact details:   jc3181  AT columbia DOT edu
+Contact details:  curley  AT utexas DOT edu
 
 
 
@@ -64,7 +64,7 @@ library(engsoccerdata)
 engsoccerdata
 =============
 
-Last update: 22 Jan 2017,  v0.1.6
+Last update: 1 Oct 2017,  v0.1.6
 
 
 ## Datasets
@@ -73,17 +73,17 @@ Last update: 22 Jan 2017,  v0.1.6
 -  england5          - Results of 5th tier (conference) from 1999/2000 - 2016/17
 -  facup             - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2016
 -  playoffs          - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
--  spain             - Top flight Spanish League match results 1929-2016
--  italy             - Top flight Italian Serie A League match results 1934-2016
--  germany           - Top flight German Bundesliga 1 League match results 1963-2016 & Bundelsiga 2 league match results 1974-2016
--  holland           - Dutch Eredivisie league match results 1956-2016
--  champs            - European Cup and Champions League results 1955-2016 includes qualifiers and playoffs
--  france            - French Ligue 1 results 1933-2016
--  scotland          - Scotland top 4 tiers 1994-2016
--  portugal          - Portugal top tier 1994-2016
--  belgium           - Belgium top tier 1994-2016
--  turkey            - Turkey top tier 1994-2016
--  greece            - Greece top tier 1994-2016
+-  spain             - Top flight Spanish League match results 1929-2017
+-  italy             - Top flight Italian Serie A League match results 1934-2017
+-  germany           - Top flight German Bundesliga 1 League match results 1963-2017 & Bundelsiga 2 league match results 1974-2017
+-  holland           - Dutch Eredivisie league match results 1956-2017
+-  champs            - European Cup and Champions League results 1955-2017 includes qualifiers and playoffs
+-  france            - French Ligue 1 results 1933-2017
+-  scotland          - Scotland top 4 tiers 1994-2017
+-  portugal          - Portugal top tier 1994-2017
+-  belgium           - Belgium top tier 1994-2017
+-  turkey            - Turkey top tier 1994-2017
+-  greece            - Greece top tier 1994-2017
 -  mls               - MLS regular and postseason 1996-2016
 -  teamnames         - dataframe of alternative names and abbreviations for each team in all league data
 -  mlsconfs          - available in `data-raw` - summary of conference location of each team by year.
@@ -249,7 +249,7 @@ Please refer to the spainliga rpubs below for further information.
 
 ## Other Leagues:
 
-I've added complete all top tier results for Holland (1956-2016), Germany (1963-2016), Italy (1934-2016), France (1933-2016). Additionally all tier 2 results for Germany. Finally, we have results from the all tiers of Scotland, and top tier of  Belgium, Turkey, Greece, Portugal since 1994/1995.
+I've added complete all top tier results for Holland (1956-2017), Germany (1963-2017), Italy (1934-2017), France (1933-2017). Additionally all tier 2 results for Germany. Finally, we have results from the all tiers of Scotland, and top tier of  Belgium, Turkey, Greece, Portugal since 1994/1995.
 
 These dataframes contain all league results played in regular season.  They don't yet include relegation/promotion playoff fixtures.  Further, I have not yet completed all final checks of the data. I believe they are error free - but if others want to test and check, I'd welcome this.
 
