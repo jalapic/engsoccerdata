@@ -3,8 +3,8 @@
 \docType{data}
 \name{facup}
 \alias{facup}
-\title{English league playoff results 1892-2016}
-\format{A data frame with 16625 rows and 19 variables:
+\title{English league playoff results 1892-2017}
+\format{A data frame with 16871 rows and 19 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -31,6 +31,6 @@ facup
 }
 \description{
 All results for English league playoff games in the top tier
-from 1892/93 season to 2015/16 season.
+from 1892/93 season to 2016/17 season.
 }
 \keyword{datasets}
