@@ -8,10 +8,6 @@
 #' germany_current()
 #' @export
 
-#   df1 <- rbind(engsoccerdata::getCurrentData(b1,'B1',1,Season=myseason))
-
-#BUILD
-
 
 germany_current <- function(Season=2017){
 
