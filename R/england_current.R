@@ -10,6 +10,8 @@
 
 england_current1 <- function(Season = 2017){
 
+  #this function is completely  bonkers because of a weird thing with Forest Green / Lincoln  City ....
+
   s1 <- s2 <- myseason <- tm <- df1 <- df <- . <- Date <- tier <- home <- visitor <- hgoal <- vgoal <- goaldif <- FT <- division <- result <- name <- name_other <- most_recent <- country <- NULL
 
   myseason <- Season
@@ -39,9 +41,22 @@ england_current1 <- function(Season = 2017){
 }
 
 england_current2 <- function(df1) {
+
+
+  weird_names <- c("Forest Green", "Lincoln")
+
   tm <- teamnames[teamnames$name != "Accrington F.C.", ]
-  df1$home <- tm$name[match(df1$home, tm$name_other)]
-  df1$visitor <- tm$name[match(df1$visitor, tm$name_other)]
+  df1$home <- ifelse(!df1$home %in% weird_names, as.character(tm$name[match(df1$home, tm$name_other)]), as.character(df1$home))
+  df1$visitor <- ifelse(!df1$visitor %in% weird_names, as.character(tm$name[match(df1$visitor, tm$name_other)]), as.character(df1$visitor))
+
+  df1$home[df1$home=="Forest Green"] <- "Forest Green Rovers"
+  df1$visitor[df1$visitor=="Forest Green"] <- "Forest Green Rovers"
+  df1$home[df1$home=="Lincoln"] <- "Lincoln City"
+  df1$visitor[df1$visitor=="Lincoln"] <- "Lincoln City"
+
+  # tm <- teamnames[teamnames$name != "Accrington F.C.", ]
+  # df1$home <- tm$name[match(df1$home, tm$name_other)]
+  # df1$visitor <- tm$name[match(df1$visitor, tm$name_other)]
   df1$Date <- as.Date(df1$Date, format = "%Y-%m-%d")
   return(df1)
 }
@@ -50,3 +65,4 @@ england_current <-  function(Season=2017){
   d <- england_current2(england_current1(Season=Season))
   return(d)
 }
+
