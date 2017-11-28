@@ -8,6 +8,11 @@
 #' england_current()
 #' @export
 
+england_current <-  function(Season=2017){
+  d <- england_current2(england_current1(Season=Season))
+  return(d)
+}
+
 england_current1 <- function(Season = 2017){
 
   #this function is completely  bonkers because of a weird thing with Forest Green / Lincoln  City ....
@@ -61,8 +66,4 @@ england_current2 <- function(df1) {
   return(df1)
 }
 
-england_current <-  function(Season=2017){
-  d <- england_current2(england_current1(Season=Season))
-  return(d)
-}
 
