@@ -364,3 +364,13 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 -  Austin Wehrwein's modeling of soccer results - http://austinwehrwein.com/soccer/
 
 
+
+### Acknowledgements
+
+Hakon Malmedal
+Joe Gallagher
+Ben Dilday
+Aaron Smith
+Michael Thompson
+Andrew Clark
+S'busiso Mkhondwane
