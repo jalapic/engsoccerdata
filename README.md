@@ -1,9 +1,9 @@
 On CRAN v0.1.5 as of June 12 2016 <br>
-Latest GitHub version: 1 Oct 2017,  v0.1.6
+Latest GitHub version: 28 Nov 2017,  v0.1.61
 
 #### engsoccerdata
 
-This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below), several European leagues (Spain, Germany, Italy, Holland, France, Belgium, Portugal, Turkey, Scotland, Greece) and MLS. 
+This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below), several European leagues (Spain, Germany, Italy, Holland, France, Belgium, Portugal, Turkey, Scotland, Greece) as well as South Africa and MLS. 
 
 Free to use for non-commerical use.   Compiled by James Curley.
 
@@ -85,9 +85,9 @@ Last update: 1 Oct 2017,  v0.1.6
 -  turkey            - Turkey top tier 1994-2017
 -  greece            - Greece top tier 1994-2017
 -  mls               - MLS regular and postseason 1996-2016
+-  safrica           - South African  top tier - 2004-2017
 -  teamnames         - dataframe of alternative names and abbreviations for each team in all league data
 -  mlsconfs          - available in `data-raw` - summary of conference location of each team by year.
-
 
 ## Help Needed !
 
@@ -359,6 +359,7 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 - Andrew Clark's interactive viz of best and worst consecutive league finishes - https://www.mytinyshinys.com/2017/08/04/socceriimprovers/
 
 - Ryan Estrellado's analysis of Liverpool FC Managers - https://restrellado.github.io/liverpoolfc/lfc_managers.html
+& https://ryanestrellado.netlify.com/post/lfc-home-and-away-odds/
 
 -  Austin Wehrwein's modeling of soccer results - http://austinwehrwein.com/soccer/
 
