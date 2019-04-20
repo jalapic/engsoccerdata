@@ -8,12 +8,12 @@
 #' england_current()
 #' @export
 
-england_current <-  function(Season=2017){
+england_current <-  function(Season=2018){
   d <- england_current2(england_current1(Season=Season))
   return(d)
 }
 
-england_current1 <- function(Season = 2017){
+england_current1 <- function(Season = 2018){
 
   #this function is completely  bonkers because of a weird thing with Forest Green / Lincoln  City ....
 
@@ -29,12 +29,17 @@ england_current1 <- function(Season = 2017){
               read.csv(paste0("http://www.football-data.co.uk/mmz4281/ ", s2, s1, "/E3.csv"))
   )
 
-
+  if(myseason >= 2018) {
+    df$Date <- as.Date(df$Date, "%d/%m/%Y")
+  } else {
+    df$Date <- as.Date(df$Date, "%d/%m/%y")
+  }
+  
   engl <- engsoccerdata::england
   if (identical(max(as.Date(df$Date, "%d/%m/%y")), max(engl$Date)))
     warning("The returned dataframe contains data already included in 'england' dataframe")
 
-  df1 <- data.frame(Date = as.character(as.Date(df$Date, "%d/%m/%y")),
+  df1 <- data.frame(Date = df$Date,
                     Season = myseason, home = as.character(df$HomeTeam),
                     visitor = as.character(df$AwayTeam), FT = paste0(df$FTHG,
                                                                      "-", df$FTAG), hgoal = df$FTHG, vgoal = df$FTAG,
@@ -62,7 +67,7 @@ england_current2 <- function(df1) {
   # tm <- teamnames[teamnames$name != "Accrington F.C.", ]
   # df1$home <- tm$name[match(df1$home, tm$name_other)]
   # df1$visitor <- tm$name[match(df1$visitor, tm$name_other)]
-  df1$Date <- as.Date(df1$Date, format = "%Y-%m-%d")
+
   return(df1)
 }
 
