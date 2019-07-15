@@ -1,0 +1,101 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r libraries, warning=FALSE,message=FALSE}
+library(rvest)
+library(tidyverse)
+```
+
+```{r}
+years_to_update <- c(2018, 2019)
+
+data_urls <- sprintf("https://www.11v11.com/competitions/fa-cup/%s/matches/",
+                     years_to_update)
+
+base_url <- "https://www.11v11.com"
+
+```
+
+```{r}
+get_year_data <- function(url, year) {
+  read <- read_html(url)
+  
+  match_links <- read %>%
+    html_nodes("tbody.alternate > tr > td > a") %>%
+    html_attr("href") %>%
+    unique() %>%
+    paste0(base_url, .) %>%
+    .[1:5]
+  
+  match_data <- map_df(match_links, scrape_match) %>%
+    mutate(Season = year)
+}
+
+scrape_match <- function(match_url) {
+  read <- read_html(match_url)
+  
+  headline <- read %>%
+    html_node("title") %>%
+    html_text()
+  
+  teams <- headline %>%
+    gsub(",.*", "", .)
+  
+  date <- headline %>%
+    gsub(" - 11v11.*", "", .) %>%
+    gsub(".*, ", "", .) %>%
+    as.Date(., "%d %B %Y")
+  
+  match_data <- read %>%
+    html_nodes(".basicData > table") %>%
+    html_table(fill = TRUE) %>%
+    as.data.frame()
+  
+  round_data <- match_data %>%
+    .[grep("Competition", match_data$X1),] %>%
+    .$X2 %>%
+    gsub("^FA Cup ", "", .)
+  
+  if(grepl("replay", round_data)) {
+    tie <- "replay"
+  } else {
+    tie <- "initial"
+  }
+  
+  round <- round_data %>%
+    gsub(" round.*", "", .)
+  
+  attendance <- match_data %>%
+    .[grep("Attendance", match_data$X1),] %>%
+    .$X2
+  
+  Venue <- match_data %>%
+    .[grep("Venue", match_data$X1),] %>%
+    .$X2
+  
+  goals <- read %>%
+    html_nodes(".headers > div > h2 > span") %>%
+    html_text() %>%
+    gsub(" \\(.*", "", .) %>%
+    as.numeric() %>%
+    t() %>%
+    as.data.frame()
+  
+  df <- data.frame(
+    Date = date,
+    teams,
+    Venue,
+    attendance,
+    round,
+    tie
+  ) %>%
+    cbind(goals)
+}
+```
+
+```{r}
+test <- map2_df(data_urls, years_to_update, get_year_data)
+```
+
