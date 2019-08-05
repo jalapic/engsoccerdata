@@ -12911,7 +12911,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1992-01-15,1991,"Leeds United","Manchester United","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-01-15,1991,"Hartlepool United","Ipswich Town","0-2",0,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-01-15,1991,"Leyton Orient","Oldham Athletic","4-2",4,2,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1992-01-22,1991,"Newcastle United","AFC Bournemouth","2-2",2,2,"3","replay","yes","yes","4-3 AFC Bournemouth",3,4,NA,NA,NA,NA,NA
+1992-01-22,1991,"Newcastle United","AFC Bournemouth","2-2",2,2,"3","replay","yes","yes","4-3 AFC Bournemouth","3","4",NA,NA,NA,NA,NA
 1992-01-25,1991,"Derby County","Burnley","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-01-25,1991,"Bolton Wanderers","Brighton & Hove Albion","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-01-25,1991,"Cambridge United","Swindon Town","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12930,7 +12930,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1992-02-05,1991,"Ipswich Town","AFC Bournemouth","3-0",3,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-02-05,1991,"Norwich City","Millwall","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-02-05,1991,"Oxford United","Sunderland","2-3",2,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1992-02-05,1991,"Manchester United","Southampton","2-2",2,2,"4","replay","yes","yes","4-2 Southampton",2,4,NA,NA,NA,NA,NA
+1992-02-05,1991,"Manchester United","Southampton","2-2",2,2,"4","replay","yes","yes","4-2 Southampton","2","4",NA,NA,NA,NA,NA
 1992-02-05,1991,"Sheffield United","Charlton Athletic","3-1",3,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-02-11,1991,"Liverpool","Bristol Rovers","2-1",2,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-02-15,1991,"Chelsea","Sheffield United","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12953,7 +12953,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1992-03-18,1991,"Sunderland","Chelsea","2-1",2,1,"6","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-04-05,1991,"Portsmouth","Liverpool","1-1",1,1,"s","initial","yes",NA,NA,NA,NA,"Highbury, London","41,869",NA,NA,"yes"
 1992-04-05,1991,"Sunderland","Norwich City","1-0",1,0,"s","initial",NA,NA,NA,NA,NA,"Hillsborough, Sheffield","40,102",NA,NA,"yes"
-1992-04-13,1991,"Liverpool","Portsmouth","0-0",0,0,"s","replay","yes","yes","3-1 Liverpool",3,1,"Villa Park, Aston","40,077",NA,NA,"yes"
+1992-04-13,1991,"Liverpool","Portsmouth","0-0",0,0,"s","replay","yes","yes","3-1 Liverpool","3","1","Villa Park, Aston","40,077",NA,NA,"yes"
 1992-05-09,1991,"Liverpool","Sunderland","2-0",2,0,"f","initial",NA,NA,NA,NA,NA,"Wembley (original), London","80,000",NA,NA,"yes"
 1992-11-14,1992,"Accrington Stanley","Gateshead","3-2",3,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-11-14,1992,"AFC Bournemouth","Barnet","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12997,7 +12997,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1992-11-24,1992,"Port Vale","Stoke City","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-11-25,1992,"Altrincham","Chester City","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-11-25,1992,"Barnet","AFC Bournemouth","1-2",1,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1992-11-25,1992,"Chesterfield","Macclesfield Town","2-2",2,2,"1","replay","yes","yes","3-2 Macclesfield Town",2,3,NA,NA,NA,NA,NA
+1992-11-25,1992,"Chesterfield","Macclesfield Town","2-2",2,2,"1","replay","yes","yes","3-2 Macclesfield Town","2","3",NA,NA,NA,NA,NA
 1992-11-25,1992,"Huddersfield Town","Scunthorpe United","2-1",2,1,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-11-25,1992,"Preston North End","Bradford City","4-5",4,5,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-11-25,1992,"Rochdale","Blackpool","1-0",1,0,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13022,7 +13022,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1992-12-06,1992,"Wycombe Wanderers","West Bromwich Albion","2-2",2,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-12-09,1992,"Plymouth Argyle","Peterborough United","3-2",3,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-12-09,1992,"Rugby Town","Marlow","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1992-12-15,1992,"Salisbury City","Marlow","2-2",2,2,"1","replay","yes","yes","4-3 Marlow",3,4,NA,NA,NA,NA,NA
+1992-12-15,1992,"Salisbury City","Marlow","2-2",2,2,"1","replay","yes","yes","4-3 Marlow","3","4",NA,NA,NA,NA,NA
 1992-12-15,1992,"Exeter City","Swansea City","2-5",2,5,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-12-15,1992,"Wigan Athletic","Bury","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1992-12-16,1992,"AFC Bournemouth","Cheltenham","3-0",3,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13059,7 +13059,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1993-01-12,1992,"Notts County","Sunderland","0-2",0,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-12,1992,"Burnley","Sheffield United","2-4",2,4,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-12,1992,"Everton","Wimbledon","1-2",1,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1993-01-12,1992,"Oxford United","Swansea City","2-2",2,2,"3","replay","yes","yes","5-4 Swansea City",4,5,NA,NA,NA,NA,NA
+1993-01-12,1992,"Oxford United","Swansea City","2-2",2,2,"3","replay","yes","yes","5-4 Swansea City","4","5",NA,NA,NA,NA,NA
 1993-01-12,1992,"Tranmere Rovers","Oldham Athletic","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-13,1992,"Cambridge United","Sheffield Wednesday","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-13,1992,"Leicester City","Barnsley","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13071,7 +13071,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1993-01-13,1992,"Liverpool","Bolton Wanderers","0-2",0,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-13,1992,"Reading","Manchester City","0-4",0,4,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-19,1992,"Luton Town","Bristol City","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1993-01-20,1992,"Barnsley","Leicester City","1-1",1,1,"3","replay","yes","yes","5-4 Barnsley",5,4,NA,NA,NA,NA,NA
+1993-01-20,1992,"Barnsley","Leicester City","1-1",1,1,"3","replay","yes","yes","5-4 Barnsley","5","4",NA,NA,NA,NA,NA
 1993-01-20,1992,"Bristol Rovers","Aston Villa","0-3",0,3,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-23,1992,"Aston Villa","Wimbledon","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-01-23,1992,"Crewe Alexandra","Blackburn Rovers","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13092,7 +13092,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1993-02-03,1992,"Leeds United","Arsenal","2-3",2,3,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-02-03,1992,"Middlesbrough","Nottingham Forest","0-3",0,3,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-02-03,1992,"Newcastle United","Rotherham United","2-0",2,0,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1993-02-03,1992,"Wimbledon","Aston Villa","0-0",0,0,"4","replay","yes","yes","6-5 Wimbledon",6,5,NA,NA,NA,NA,NA
+1993-02-03,1992,"Wimbledon","Aston Villa","0-0",0,0,"4","replay","yes","yes","6-5 Wimbledon","6","5",NA,NA,NA,NA,NA
 1993-02-09,1992,"Grimsby Town","Swansea City","2-0",2,0,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-02-13,1992,"Arsenal","Nottingham Forest","2-0",2,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-02-13,1992,"Blackburn Rovers","Newcastle United","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13106,7 +13106,7 @@ NA,1931,"Burton Town","Wigan Borough",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,NA,N
 1993-03-06,1992,"Ipswich Town","Arsenal","2-4",2,4,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-03-07,1992,"Manchester City","Tottenham Hotspur","2-4",2,4,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-03-08,1992,"Derby County","Sheffield Wednesday","3-3",3,3,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1993-03-16,1992,"Sheffield United","Blackburn Rovers","2-2",2,2,"6","replay","yes","yes","5-3 Sheffield United",5,3,NA,NA,NA,NA,NA
+1993-03-16,1992,"Sheffield United","Blackburn Rovers","2-2",2,2,"6","replay","yes","yes","5-3 Sheffield United","5","3",NA,NA,NA,NA,NA
 1993-03-17,1992,"Sheffield Wednesday","Derby County","1-0",1,0,"6","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-04-03,1992,"Sheffield Wednesday","Sheffield United","2-1",2,1,"s","initial","yes",NA,NA,NA,NA,"Wembley (original), London","75,364",NA,NA,"yes"
 1993-04-04,1992,"Arsenal","Tottenham Hotspur","1-0",1,0,"s","initial",NA,NA,NA,NA,NA,"Wembley (original), London","76,263",NA,NA,"yes"
@@ -13154,7 +13154,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1993-11-15,1993,"Yeovil","Fulham","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-11-23,1993,"Runcorn","Hull City","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-11-24,1993,"Reading","Cambridge United","1-2",1,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1993-11-29,1993,"Marine","Stalybridge Celtic","4-4",4,4,"1","replay","yes","yes","4-2 Stalybridge Celtic",2,4,NA,NA,NA,NA,NA
+1993-11-29,1993,"Marine","Stalybridge Celtic","4-4",4,4,"1","replay","yes","yes","4-2 Stalybridge Celtic","2","4",NA,NA,NA,NA,NA
 1993-11-30,1993,"Cardiff City","Enfield","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-11-30,1993,"Chester City","Bradford City","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-11-30,1993,"Gillingham","Yeading","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13181,8 +13181,8 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1993-12-04,1993,"Wycombe Wanderers","Cambridge United","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-12-04,1993,"Yeovil","Bromsgrove Rovers","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1993-12-05,1993,"Bath City","Hereford United","2-1",2,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1993-12-14,1993,"Exeter City","Leyton Orient","1-1",1,1,"2","replay","yes","yes","5-4 Exeter City",5,4,NA,NA,NA,NA,NA
-1993-12-14,1993,"Scunthorpe United","Walsall","0-0",0,0,"2","replay","yes","yes","7-6 Scunthorpe United",7,6,NA,NA,NA,NA,NA
+1993-12-14,1993,"Exeter City","Leyton Orient","1-1",1,1,"2","replay","yes","yes","5-4 Exeter City","5","4",NA,NA,NA,NA,NA
+1993-12-14,1993,"Scunthorpe United","Walsall","0-0",0,0,"2","replay","yes","yes","7-6 Scunthorpe United","7","6",NA,NA,NA,NA,NA
 1993-12-15,1993,"Nuneaton Borough AFC","AFC Bournemouth","0-1",0,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-01-08,1993,"Barnet","Chelsea","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-01-08,1993,"Birmingham City","Kidderminster Harriers","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13225,7 +13225,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1994-01-19,1993,"Middlesbrough","Cardiff City","1-2",1,2,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-01-19,1993,"Nottingham Forest","Sheffield Wednesday","0-2",0,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-01-19,1993,"Portsmouth","Blackburn Rovers","1-3",1,3,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1994-01-19,1993,"Tottenham Hotspur","Peterborough United","1-1",1,1,"3","replay","yes","yes","5-4 Tottenham Hotspur",5,4,NA,NA,NA,NA,NA
+1994-01-19,1993,"Tottenham Hotspur","Peterborough United","1-1",1,1,"3","replay","yes","yes","5-4 Tottenham Hotspur","5","4",NA,NA,NA,NA,NA
 1994-01-25,1993,"Liverpool","Bristol City","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-01-29,1993,"Cardiff City","Manchester City","1-0",1,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-01-29,1993,"Charlton Athletic","Blackburn Rovers","0-0",0,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13309,7 +13309,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1994-11-22,1994,"Mansfield Town","Northwich Victoria","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-11-22,1994,"Walton & Hersham","Swansea City","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-11-22,1994,"Brentford","Cambridge United","1-2",1,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1994-11-22,1994,"Bury","Bishop Auckland","1-1",1,1,"1","replay","yes","yes","4-2 Bury",4,2,NA,NA,NA,NA,NA
+1994-11-22,1994,"Bury","Bishop Auckland","1-1",1,1,"1","replay","yes","yes","4-2 Bury","4","2",NA,NA,NA,NA,NA
 1994-11-22,1994,"Colchester United","Yeading","7-1",7,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-11-22,1994,"Hitchin Town","Hereford United","4-2",4,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1994-11-22,1994,"Rotherham United","York City","3-0",3,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13382,7 +13382,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1995-01-18,1994,"Arsenal","Millwall","0-2",0,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-01-18,1994,"Blackburn Rovers","Newcastle United","1-2",1,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-01-18,1994,"Bristol Rovers","Luton Town","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1995-01-18,1994,"Liverpool","Birmingham City","1-1",1,1,"3","replay","yes","yes","2-0 Liverpool",2,0,NA,NA,NA,NA,NA
+1995-01-18,1994,"Liverpool","Birmingham City","1-1",1,1,"3","replay","yes","yes","2-0 Liverpool","2","0",NA,NA,NA,NA,NA
 1995-01-18,1994,"Manchester City","Notts County","5-2",5,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-01-18,1994,"Stoke City","Bristol City","1-3",1,3,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-01-18,1994,"Tranmere Rovers","Bury","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13472,10 +13472,10 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1995-11-21,1995,"Bristol City","AFC Bournemouth","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-11-21,1995,"Enfield","Newport IOW","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-11-21,1995,"Gillingham","Wycombe Wanderers","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1995-11-21,1995,"Sutton United","Kidderminster Harriers","1-1",1,1,"1","replay","yes","yes","3-2 Sutton United",3,2,NA,NA,NA,NA,NA
+1995-11-21,1995,"Sutton United","Kidderminster Harriers","1-1",1,1,"1","replay","yes","yes","3-2 Sutton United","3","2",NA,NA,NA,NA,NA
 1995-11-21,1995,"Wigan Athletic","Runcorn","4-2",4,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-11-21,1995,"Woking","Barnet","2-1",2,1,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1995-11-21,1995,"Wrexham","Hull City","0-0",0,0,"1","replay","yes","yes","3-1 Wrexham",3,1,NA,NA,NA,NA,NA
+1995-11-21,1995,"Wrexham","Hull City","0-0",0,0,"1","replay","yes","yes","3-1 Wrexham","3","1",NA,NA,NA,NA,NA
 1995-11-22,1995,"Altrincham","Crewe Alexandra","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-11-22,1995,"Farnborough Town","Brentford","0-4",0,4,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-12-02,1995,"AFC Bournemouth","Brentford","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13502,7 +13502,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1995-12-12,1995,"Shrewsbury Town","Scunthorpe United","2-1",2,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-12-12,1995,"Walsall","Torquay United","8-4",8,4,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1995-12-12,1995,"Woking","Enfield","2-1",2,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1995-12-14,1995,"Brighton & Hove Albion","Fulham","0-0",0,0,"2","replay","yes","yes","4-1 Fulham",1,4,NA,NA,NA,NA,NA
+1995-12-14,1995,"Brighton & Hove Albion","Fulham","0-0",0,0,"2","replay","yes","yes","4-1 Fulham","1","4",NA,NA,NA,NA,NA
 1995-12-14,1995,"Gravesend & Northfleet","Cinderford Town","3-0",3,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-01-06,1995,"Arsenal","Sheffield United","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-01-06,1995,"Barnsley","Oldham Athletic","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13542,7 +13542,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1996-01-16,1995,"Shrewsbury Town","Fulham","2-1",2,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-01-16,1995,"Sunderland","Manchester United","1-2",1,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-01-17,1995,"Manchester City","Leicester City","5-0",5,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1996-01-17,1995,"Newcastle United","Chelsea","2-2",2,2,"3","replay","yes","yes","4-2 Chelsea",2,4,NA,NA,NA,NA,NA
+1996-01-17,1995,"Newcastle United","Chelsea","2-2",2,2,"3","replay","yes","yes","4-2 Chelsea","2","4",NA,NA,NA,NA,NA
 1996-01-17,1995,"Nottingham Forest","Stoke City","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-01-17,1995,"Sheffield United","Arsenal","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-01-17,1995,"Stockport County","Everton","2-3",2,3,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13585,7 +13585,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1996-02-28,1995,"Chelsea","Grimsby Town","4-1",4,1,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-02-28,1995,"Southampton","Swindon Town","2-0",2,0,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-02-28,1995,"Wimbledon","Huddersfield Town","3-1",3,1,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1996-03-09,1995,"Tottenham Hotspur","Nottingham Forest","1-1",1,1,"5","replay","yes","yes","3-1 Nottingham Forest",1,3,NA,NA,NA,NA,NA
+1996-03-09,1995,"Tottenham Hotspur","Nottingham Forest","1-1",1,1,"5","replay","yes","yes","3-1 Nottingham Forest","1","3",NA,NA,NA,NA,NA
 1996-03-09,1995,"Chelsea","Wimbledon","2-2",2,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-03-10,1995,"Leeds United","Liverpool","0-0",0,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-03-11,1995,"Manchester United","Southampton","2-0",2,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13635,9 +13635,9 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1996-11-17,1996,"Newcastle Town","Notts County","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-11-17,1996,"Northampton Town","Watford","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-11-17,1996,"Whitby Town","Hull City","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1996-11-25,1996,"Dagenham & Redbridge","Ashford Town","1-1",1,1,"1","replay","yes","yes","4-3 Ashford Town",3,4,NA,NA,NA,NA,NA
+1996-11-25,1996,"Dagenham & Redbridge","Ashford Town","1-1",1,1,"1","replay","yes","yes","4-3 Ashford Town","3","4",NA,NA,NA,NA,NA
 1996-11-26,1996,"Barnet","Farnborough Town","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1996-11-26,1996,"Brighton & Hove Albion","Sudbury Town","1-1",1,1,"1","replay","yes","yes","4-3 Sudbury Town",3,4,NA,NA,NA,NA,NA
+1996-11-26,1996,"Brighton & Hove Albion","Sudbury Town","1-1",1,1,"1","replay","yes","yes","4-3 Sudbury Town","3","4",NA,NA,NA,NA,NA
 1996-11-26,1996,"Bristol City","Swansea City","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-11-26,1996,"Hayes","Stevenage Borough","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-11-26,1996,"Hull City","Whitby Town","8-4",8,4,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13671,7 +13671,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1996-12-17,1996,"Peterborough United","Enfield","4-1",4,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-12-17,1996,"Scunthorpe United","Wrexham","2-3",2,3,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1996-12-17,1996,"Wycombe Wanderers","Barnet","3-2",3,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1996-12-23,1996,"Burnley","Walsall","1-1",1,1,"2","replay","yes","yes","4-2 Burnley",4,2,NA,NA,NA,NA,NA
+1996-12-23,1996,"Burnley","Walsall","1-1",1,1,"2","replay","yes","yes","4-2 Burnley","4","2",NA,NA,NA,NA,NA
 1997-01-04,1996,"Arsenal","Sunderland","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-01-04,1996,"Blackburn Rovers","Port Vale","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-01-04,1996,"Chelsea","West Bromwich Albion","3-0",3,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13787,19 +13787,19 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1997-11-16,1997,"Margate","Fulham","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-16,1997,"Notts County","Colwyn Bay","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-24,1997,"Stevenage Borough","Carshalton Athletic","5-0",5,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1997-11-25,1997,"Basingstoke Town","Wycombe Wanderers","2-2",2,2,"1","replay","yes","yes","5-4 Basingstoke Town",5,4,NA,NA,NA,NA,NA
+1997-11-25,1997,"Basingstoke Town","Wycombe Wanderers","2-2",2,2,"1","replay","yes","yes","5-4 Basingstoke Town","5","4",NA,NA,NA,NA,NA
 1997-11-25,1997,"Burnley","Rotherham United","0-3",0,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Cambridge United","Plymouth Argyle","3-2",3,2,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Cardiff City","Slough Town","3-2",3,2,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1997-11-25,1997,"Colchester United","Brentford","0-0",0,0,"1","replay","yes","yes","4-2 Colchester United",4,2,NA,NA,NA,NA,NA
-1997-11-25,1997,"Emley","Morecambe","3-3",3,3,"1","replay","yes","yes","3-1 Emley",3,1,NA,NA,NA,NA,NA
+1997-11-25,1997,"Colchester United","Brentford","0-0",0,0,"1","replay","yes","yes","4-2 Colchester United","4","2",NA,NA,NA,NA,NA
+1997-11-25,1997,"Emley","Morecambe","3-3",3,3,"1","replay","yes","yes","3-1 Emley","3","1",NA,NA,NA,NA,NA
 1997-11-25,1997,"Gainsborough Trinity","Lincoln City","2-3",2,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Gillingham","Bristol Rovers","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Grimsby Town","Shrewsbury Town","4-0",4,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Leyton Orient","Hendon","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Mansfield Town","Oldham Athletic","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-11-25,1997,"Northampton Town","Exeter City","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1997-11-26,1997,"Solihull Borough","Darlington","3-3",3,3,"1","replay","yes","yes","4-2 Darlington",2,4,NA,NA,NA,NA,NA
+1997-11-26,1997,"Solihull Borough","Darlington","3-3",3,3,"1","replay","yes","yes","4-2 Darlington","2","4",NA,NA,NA,NA,NA
 1997-12-05,1997,"Chester City","Wrexham","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-12-06,1997,"Cambridge United","Stevenage Borough","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-12-06,1997,"Cardiff City","Hendon","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13821,13 +13821,13 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1997-12-06,1997,"Wisbech Town","Bristol Rovers","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-12-07,1997,"AFC Bournemouth","Bristol City","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-12-15,1997,"Stevenage Borough","Cambridge United","2-1",2,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1997-12-16,1997,"Basingstoke Town","Northampton Town","0-0",0,0,"2","replay","yes","yes","4-3 Northampton Town",3,4,NA,NA,NA,NA,NA
+1997-12-16,1997,"Basingstoke Town","Northampton Town","0-0",0,0,"2","replay","yes","yes","4-3 Northampton Town","3","4",NA,NA,NA,NA,NA
 1997-12-16,1997,"Boreham Wood","Cheltenham","0-2",0,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-12-16,1997,"Chesterfield","Grimsby Town","0-2",0,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1997-12-16,1997,"Hereford United","Colchester United","1-1",1,1,"2","replay","yes","yes","5-4 Hereford United",5,4,NA,NA,NA,NA,NA
+1997-12-16,1997,"Hereford United","Colchester United","1-1",1,1,"2","replay","yes","yes","5-4 Hereford United","5","4",NA,NA,NA,NA,NA
 1997-12-16,1997,"Notts County","Preston North End","1-2",1,2,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1997-12-16,1997,"Watford","Torquay United","2-1",2,1,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1997-12-17,1997,"Emley","Lincoln City","3-3",3,3,"2","replay","yes","yes","4-3 Emley",4,3,NA,NA,NA,NA,NA
+1997-12-17,1997,"Emley","Lincoln City","3-3",3,3,"2","replay","yes","yes","4-3 Emley","4","3",NA,NA,NA,NA,NA
 1997-12-17,1997,"Ilkeston Town","Scunthorpe United","1-2",1,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-03,1997,"Arsenal","Port Vale","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-03,1997,"Barnsley","Bolton Wanderers","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13866,8 +13866,8 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1998-01-13,1997,"Wrexham","Wimbledon","2-3",2,3,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-14,1997,"Darlington","Wolverhampton Wanderers","0-4",0,4,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-14,1997,"Aston Villa","Portsmouth","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-01-14,1997,"Port Vale","Arsenal","1-1",1,1,"3","replay","yes","yes","4-3 Arsenal",3,4,NA,NA,NA,NA,NA
-1998-01-14,1997,"Sheffield Wednesday","Watford","0-0",0,0,"3","replay","yes","yes","5-3 Sheffield Wednesday",5,3,NA,NA,NA,NA,NA
+1998-01-14,1997,"Port Vale","Arsenal","1-1",1,1,"3","replay","yes","yes","4-3 Arsenal","3","4",NA,NA,NA,NA,NA
+1998-01-14,1997,"Sheffield Wednesday","Watford","0-0",0,0,"3","replay","yes","yes","5-3 Sheffield Wednesday","5","3",NA,NA,NA,NA,NA
 1998-01-20,1997,"Reading","Cheltenham","2-1",2,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-24,1997,"Aston Villa","West Bromwich Albion","4-0",4,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-24,1997,"Birmingham City","Stockport County","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13885,7 +13885,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1998-01-25,1997,"Manchester City","West Ham United","1-2",1,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-25,1997,"Stevenage Borough","Newcastle United","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-01-26,1997,"Sheffield Wednesday","Blackburn Rovers","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-02-03,1997,"Reading","Cardiff City","1-1",1,1,"4","replay","yes","yes","4-3 Reading",4,3,NA,NA,NA,NA,NA
+1998-02-03,1997,"Reading","Cardiff City","1-1",1,1,"4","replay","yes","yes","4-3 Reading","4","3",NA,NA,NA,NA,NA
 1998-02-03,1997,"Sheffield United","Ipswich Town","1-0",1,0,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-02-03,1997,"Wolverhampton Wanderers","Charlton Athletic","3-0",3,0,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-02-04,1997,"Barnsley","Tottenham Hotspur","3-1",3,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13899,15 +13899,15 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1998-02-15,1997,"Arsenal","Crystal Palace","0-0",0,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-02-15,1997,"Manchester United","Barnsley","1-1",1,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-02-25,1997,"Barnsley","Manchester United","3-2",3,2,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-02-25,1997,"Blackburn Rovers","West Ham United","1-1",1,1,"5","replay","yes","yes","5-4 West Ham United",4,5,NA,NA,NA,NA,NA
+1998-02-25,1997,"Blackburn Rovers","West Ham United","1-1",1,1,"5","replay","yes","yes","5-4 West Ham United","4","5",NA,NA,NA,NA,NA
 1998-02-25,1997,"Crystal Palace","Arsenal","1-2",1,2,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-02-25,1997,"Wolverhampton Wanderers","Wimbledon","2-1",2,1,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-03-07,1997,"Coventry City","Sheffield United","1-1",1,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-03-07,1997,"Leeds United","Wolverhampton Wanderers","0-1",0,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-03-08,1997,"Arsenal","West Ham United","1-1",1,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-03-08,1997,"Newcastle United","Barnsley","3-1",3,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-03-17,1997,"Sheffield United","Coventry City","1-1",1,1,"6","replay","yes","yes","3-1 Sheffield United",3,1,NA,NA,NA,NA,NA
-1998-03-17,1997,"West Ham United","Arsenal","1-1",1,1,"6","replay","yes","yes","4-3 Arsenal",3,4,NA,NA,NA,NA,NA
+1998-03-17,1997,"Sheffield United","Coventry City","1-1",1,1,"6","replay","yes","yes","3-1 Sheffield United","3","1",NA,NA,NA,NA,NA
+1998-03-17,1997,"West Ham United","Arsenal","1-1",1,1,"6","replay","yes","yes","4-3 Arsenal","3","4",NA,NA,NA,NA,NA
 1998-04-05,1997,"Arsenal","Wolverhampton Wanderers","1-0",1,0,"s","initial",NA,NA,NA,NA,NA,"Villa Park, Aston","39,372",NA,NA,"yes"
 1998-04-05,1997,"Newcastle United","Sheffield United","1-0",1,0,"s","initial",NA,NA,NA,NA,NA,"Old Trafford, Manchester","53,452",NA,NA,"yes"
 1998-05-16,1997,"Arsenal","Newcastle United","2-0",2,0,"f","initial",NA,NA,NA,NA,NA,"Wembley (original), London","79,183",NA,NA,"yes"
@@ -13956,10 +13956,10 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1998-11-24,1998,"Leigh RMI","Fulham","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-11-24,1998,"Rochdale","Scarborough","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-11-24,1998,"Rotherham United","Emley","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-11-24,1998,"Slough Town","Macclesfield Town","1-1",1,1,"1","replay","yes","yes","9-8 Slough Town",9,8,NA,NA,NA,NA,NA
-1998-11-24,1998,"West Auckland Town","Yeovil","1-1",1,1,"1","replay","yes","yes","5-3 West Auckland Town",5,3,NA,NA,NA,NA,NA
+1998-11-24,1998,"Slough Town","Macclesfield Town","1-1",1,1,"1","replay","yes","yes","9-8 Slough Town","9","8",NA,NA,NA,NA,NA
+1998-11-24,1998,"West Auckland Town","Yeovil","1-1",1,1,"1","replay","yes","yes","5-3 West Auckland Town","5","3",NA,NA,NA,NA,NA
 1998-11-24,1998,"York City","Enfield","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-12-01,1998,"Kidderminster Harriers","Plymouth Argyle","0-0",0,0,"1","replay","yes","yes","5-4 Plymouth Argyle",4,5,NA,NA,NA,NA,NA
+1998-12-01,1998,"Kidderminster Harriers","Plymouth Argyle","0-0",0,0,"1","replay","yes","yes","5-4 Plymouth Argyle","4","5",NA,NA,NA,NA,NA
 1998-12-01,1998,"Notts County","Hendon","3-0",3,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-04,1998,"Darlington","Manchester City","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-05,1998,"Cardiff City","Hednesford Town","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13981,14 +13981,14 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 1998-12-05,1998,"Wycombe Wanderers","Plymouth Argyle","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-05,1998,"Yeovil","Northampton Town","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-06,1998,"Kingstonian","Leyton Orient","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-12-15,1998,"Brentford","Oldham Athletic","2-2",2,2,"2","replay","yes","yes","4-2 Oldham Athletic",2,4,NA,NA,NA,NA,NA
+1998-12-15,1998,"Brentford","Oldham Athletic","2-2",2,2,"2","replay","yes","yes","4-2 Oldham Athletic","2","4",NA,NA,NA,NA,NA
 1998-12-15,1998,"Bristol Rovers","Exeter City","5-0",5,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-15,1998,"Leyton Orient","Kingstonian","2-1",2,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-15,1998,"Manchester City","Darlington","1-0",1,0,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-15,1998,"Plymouth Argyle","Wycombe Wanderers","3-2",3,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-15,1998,"Rotherham United","Rochdale","4-0",4,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1998-12-15,1998,"Rushden & Diamonds","Doncaster Rovers","4-2",4,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-1998-12-15,1998,"Wigan Athletic","Notts County","0-0",0,0,"2","replay","yes","yes","4-2 Wigan Athletic",4,2,NA,NA,NA,NA,NA
+1998-12-15,1998,"Wigan Athletic","Notts County","0-0",0,0,"2","replay","yes","yes","4-2 Wigan Athletic","4","2",NA,NA,NA,NA,NA
 1999-01-02,1998,"AFC Bournemouth","West Bromwich Albion","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1999-01-02,1998,"Aston Villa","Hull City","3-0",3,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1999-01-02,1998,"Blackburn Rovers","Charlton Athletic","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14201,9 +14201,9 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2000-01-09,1999,"Manchester City","Leeds United","2-5",2,5,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2000-01-10,1999,"Liverpool","Blackburn Rovers","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2000-01-11,1999,"Gillingham","Bradford City","3-1",3,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2000-01-18,1999,"Wolverhampton Wanderers","Sheffield Wednesday","0-0",0,0,"4","replay","yes","yes","4-3 Sheffield Wednesday",3,4,NA,NA,NA,NA,NA
+2000-01-18,1999,"Wolverhampton Wanderers","Sheffield Wednesday","0-0",0,0,"4","replay","yes","yes","4-3 Sheffield Wednesday","3","4",NA,NA,NA,NA,NA
 2000-01-19,1999,"Chelsea","Nottingham Forest","2-0",2,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2000-01-19,1999,"Leicester City","Arsenal","0-0",0,0,"4","replay","yes","yes","6-5 Leicester City",6,5,NA,NA,NA,NA,NA
+2000-01-19,1999,"Leicester City","Arsenal","0-0",0,0,"4","replay","yes","yes","6-5 Leicester City","6","5",NA,NA,NA,NA,NA
 2000-01-29,1999,"Cambridge United","Bolton Wanderers","1-3",1,3,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2000-01-29,1999,"Coventry City","Charlton Athletic","2-3",2,3,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2000-01-29,1999,"Everton","Preston North End","2-0",2,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14216,7 +14216,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2000-02-20,1999,"Chelsea","Gillingham","5-0",5,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2000-02-20,1999,"Everton","Aston Villa","1-2",1,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2000-02-20,1999,"Tranmere Rovers","Newcastle United","2-3",2,3,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2000-04-02,1999,"Aston Villa","Bolton Wanderers","0-0",0,0,"s","initial","yes","yes","4-1 Aston Villa",4,1,"Wembley (original), London","62,828",NA,NA,"yes"
+2000-04-02,1999,"Aston Villa","Bolton Wanderers","0-0",0,0,"s","initial","yes","yes","4-1 Aston Villa","4","1","Wembley (original), London","62,828",NA,NA,"yes"
 2000-04-09,1999,"Chelsea","Newcastle United","2-1",2,1,"s","initial",NA,NA,NA,NA,NA,"Wembley (original), London","73,876",NA,NA,"yes"
 2000-05-20,1999,"Chelsea","Aston Villa","1-0",1,0,"f","initial",NA,NA,NA,NA,NA,"Wembley (original), London","78,217",NA,NA,"yes"
 2000-11-17,2000,"Luton Town","Rushden & Diamonds","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14330,7 +14330,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2001-01-17,2000,"Aston Villa","Newcastle United","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-01-17,2000,"Crystal Palace","Sunderland","2-4",2,4,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-01-17,2000,"Queens Park Rangers","Luton Town","2-1",2,1,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2001-01-23,2000,"Scunthorpe United","Burnley","1-1",1,1,"3","replay","yes","yes","5-4 Scunthorpe United",5,4,NA,NA,NA,NA,NA
+2001-01-23,2000,"Scunthorpe United","Burnley","1-1",1,1,"3","replay","yes","yes","5-4 Scunthorpe United","5","4",NA,NA,NA,NA,NA
 2001-01-27,2000,"Dagenham & Redbridge","Charlton Athletic","0-1",0,1,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-01-27,2000,"Notts County","Wimbledon","0-1",0,1,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-01-27,2000,"Aston Villa","Leicester City","1-2",1,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14359,7 +14359,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2001-02-18,2000,"Arsenal","Chelsea","3-1",3,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-02-18,2000,"Liverpool","Manchester City","4-2",4,2,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-02-20,2000,"Tranmere Rovers","Southampton","4-3",4,3,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2001-02-20,2000,"Wimbledon","Wycombe Wanderers","2-2",2,2,"5","replay","yes","yes","8-7 Wycombe Wanderers",7,8,NA,NA,NA,NA,NA
+2001-02-20,2000,"Wimbledon","Wycombe Wanderers","2-2",2,2,"5","replay","yes","yes","8-7 Wycombe Wanderers","7","8",NA,NA,NA,NA,NA
 2001-03-07,2000,"Blackburn Rovers","Bolton Wanderers","3-0",3,0,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-03-10,2000,"Arsenal","Blackburn Rovers","3-0",3,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-03-10,2000,"Leicester City","Wycombe Wanderers","1-2",1,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14410,15 +14410,15 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2001-11-18,2001,"Swansea City","Queens Park Rangers","4-0",4,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Barrow AFC","Oldham Athletic","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Bristol Rovers","Aldershot Town","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2001-11-27,2001,"Bury","Lincoln City","1-1",1,1,"1","replay","yes","yes","3-2 Lincoln City",2,3,NA,NA,NA,NA,NA
+2001-11-27,2001,"Bury","Lincoln City","1-1",1,1,"1","replay","yes","yes","3-2 Lincoln City","2","3",NA,NA,NA,NA,NA
 2001-11-27,2001,"Carlisle United","Barnet","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Lancaster City","Altrincham","1-4",1,4,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Notts County","Cambridge United","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Peterborough United","Bedford Town","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Plymouth Argyle","Whitby Town","3-2",3,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-11-27,2001,"Rochdale","Tamworth","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2001-11-27,2001,"York City","Colchester United","0-0",0,0,"1","replay","yes","yes","3-2 York City",3,2,NA,NA,NA,NA,NA
-2001-11-28,2001,"Forest Green Rovers","Macclesfield Town","1-1",1,1,"1","replay","yes","yes","11-10 Macclesfield Town",10,11,NA,NA,NA,NA,NA
+2001-11-27,2001,"York City","Colchester United","0-0",0,0,"1","replay","yes","yes","3-2 York City","3","2",NA,NA,NA,NA,NA
+2001-11-28,2001,"Forest Green Rovers","Macclesfield Town","1-1",1,1,"1","replay","yes","yes","11-10 Macclesfield Town","10","11",NA,NA,NA,NA,NA
 2001-11-28,2001,"Newport County","Blackpool","1-4",1,4,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-12-08,2001,"Altrincham","Darlington","1-2",1,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2001-12-08,2001,"Blackpool","Rochdale","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14556,7 +14556,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2002-11-16,2002,"Yeovil","Cheltenham","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2002-11-17,2002,"Forest Green Rovers","Exeter City","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2002-11-26,2002,"York City","Swansea City","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2002-11-27,2002,"Burton Albion","Oldham Athletic","2-2",2,2,"1","replay","yes","yes","5-4 Oldham Athletic",4,5,NA,NA,NA,NA,NA
+2002-11-27,2002,"Burton Albion","Oldham Athletic","2-2",2,2,"1","replay","yes","yes","5-4 Oldham Athletic","4","5",NA,NA,NA,NA,NA
 2002-12-07,2002,"Blackpool","Torquay United","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2002-12-07,2002,"Bristol Rovers","Rochdale","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2002-12-07,2002,"Cambridge United","Northampton Town","2-2",2,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14633,7 +14633,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2003-02-04,2002,"Leeds United","Gillingham","2-1",2,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2003-02-05,2002,"Liverpool","Crystal Palace","0-2",0,2,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2003-02-05,2002,"Millwall","Southampton","1-2",1,2,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2003-02-05,2002,"Sunderland","Blackburn Rovers","2-2",2,2,"4","replay","yes","yes","3-0 Sunderland",3,0,NA,NA,NA,NA,NA
+2003-02-05,2002,"Sunderland","Blackburn Rovers","2-2",2,2,"4","replay","yes","yes","3-0 Sunderland","3","0",NA,NA,NA,NA,NA
 2003-02-15,2002,"Manchester United","Arsenal","0-2",0,2,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2003-02-15,2002,"Sheffield United","Walsall","2-0",2,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2003-02-15,2002,"Southampton","Norwich City","2-0",2,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14715,11 +14715,11 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2003-12-06,2003,"Yeovil","Barnet","5-1",5,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2003-12-07,2003,"Burton Albion","Hartlepool United","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2003-12-07,2003,"Port Vale","Scarborough","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2003-12-15,2003,"Accrington Stanley","AFC Bournemouth","0-0",0,0,"2","replay","yes","yes","5-3 Accrington Stanley",5,3,NA,NA,NA,NA,NA
+2003-12-15,2003,"Accrington Stanley","AFC Bournemouth","0-0",0,0,"2","replay","yes","yes","5-3 Accrington Stanley","5","3",NA,NA,NA,NA,NA
 2003-12-16,2003,"Barnsley","Bristol City","2-1",2,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2003-12-16,2003,"Cambridge United","Macclesfield Town","2-2",2,2,"2","replay","yes","yes","4-2 Macclesfield Town",2,4,NA,NA,NA,NA,NA
+2003-12-16,2003,"Cambridge United","Macclesfield Town","2-2",2,2,"2","replay","yes","yes","4-2 Macclesfield Town","2","4",NA,NA,NA,NA,NA
 2003-12-16,2003,"Mansfield Town","Wycombe Wanderers","3-2",3,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2003-12-17,2003,"Sheffield Wednesday","Scunthorpe United","0-0",0,0,"2","replay","yes","yes","3-1 Scunthorpe United",1,3,NA,NA,NA,NA,NA
+2003-12-17,2003,"Sheffield Wednesday","Scunthorpe United","0-0",0,0,"2","replay","yes","yes","3-1 Scunthorpe United","1","3",NA,NA,NA,NA,NA
 2004-01-03,2003,"Accrington Stanley","Colchester United","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2004-01-03,2003,"Barnsley","Scunthorpe United","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2004-01-03,2003,"Birmingham City","Blackburn Rovers","4-0",4,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14845,7 +14845,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2004-11-23,2004,"Macclesfield Town","Aldershot Town","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2004-11-23,2004,"Yeovil","Darlington","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2004-11-24,2004,"AFC Bournemouth","Forest Green Rovers","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2004-11-25,2004,"Brentford","Bristol City","1-1",1,1,"1","replay","yes","yes","4-3 Brentford",4,3,NA,NA,NA,NA,NA
+2004-11-25,2004,"Brentford","Bristol City","1-1",1,1,"1","replay","yes","yes","4-3 Brentford","4","3",NA,NA,NA,NA,NA
 2004-12-03,2004,"Cambridge City","Milton Keynes Dons","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2004-12-03,2004,"Scunthorpe United","Wrexham","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2004-12-04,2004,"AFC Bournemouth","Carlisle United","2-1",2,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14926,7 +14926,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2005-02-12,2004,"Fulham","Derby County","4-2",4,2,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-02-12,2004,"Hartlepool United","Brentford","0-1",0,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-02-12,2004,"Tottenham Hotspur","West Bromwich Albion","3-1",3,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005-02-13,2004,"Sheffield United","West Ham United","1-1",1,1,"4","replay","yes","yes","3-1 Sheffield United",3,1,NA,NA,NA,NA,NA
+2005-02-13,2004,"Sheffield United","West Ham United","1-1",1,1,"4","replay","yes","yes","3-1 Sheffield United","3","1",NA,NA,NA,NA,NA
 2005-02-19,2004,"Arsenal","Sheffield United","1-1",1,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-02-19,2004,"Bolton Wanderers","Fulham","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-02-19,2004,"Charlton Athletic","Leicester City","1-2",1,2,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14937,7 +14937,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2005-02-20,2004,"Tottenham Hotspur","Nottingham Forest","1-1",1,1,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-03-01,2004,"Blackburn Rovers","Burnley","2-1",2,1,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-03-01,2004,"Brentford","Southampton","1-3",1,3,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005-03-01,2004,"Sheffield United","Arsenal","0-0",0,0,"5","replay","yes","yes","4-2 Arsenal",2,4,NA,NA,NA,NA,NA
+2005-03-01,2004,"Sheffield United","Arsenal","0-0",0,0,"5","replay","yes","yes","4-2 Arsenal","2","4",NA,NA,NA,NA,NA
 2005-03-02,2004,"Nottingham Forest","Tottenham Hotspur","0-3",0,3,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-03-12,2004,"Bolton Wanderers","Arsenal","0-1",0,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-03-12,2004,"Southampton","Manchester United","0-4",0,4,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14945,7 +14945,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2005-03-13,2004,"Newcastle United","Tottenham Hotspur","1-0",1,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-04-16,2004,"Arsenal","Blackburn Rovers","3-0",3,0,"s","initial",NA,NA,NA,NA,NA,"Millennium Stadium, Cardiff","52,077",NA,NA,"yes"
 2005-04-17,2004,"Manchester United","Newcastle United","4-1",4,1,"s","initial",NA,NA,NA,NA,NA,"Millennium Stadium, Cardiff","69,280",NA,NA,"yes"
-2005-05-21,2004,"Arsenal","Manchester United","0-0",0,0,"f","initial","yes","yes","5-4 Arsenal",5,4,"Millennium Stadium, Cardiff","71,876",NA,NA,"yes"
+2005-05-21,2004,"Arsenal","Manchester United","0-0",0,0,"f","initial","yes","yes","5-4 Arsenal","5","4","Millennium Stadium, Cardiff","71,876",NA,NA,"yes"
 2005-11-04,2005,"Cambridge City","Hereford United","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-11-04,2005,"Merthyr Tydfil","Walsall","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-11-04,2005,"Port Vale","Wrexham","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -14988,9 +14988,9 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2005-11-06,2005,"Huddersfield Town","Welling United","4-1",4,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-11-14,2005,"Weymouth","Nottingham Forest","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-11-14,2005,"Worcester City","Chippenham Town","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005-11-15,2005,"Harrogate Town","Torquay United","0-0",0,0,"1","replay","yes","yes","6-5 Torquay United",5,6,NA,NA,NA,NA,NA
+2005-11-15,2005,"Harrogate Town","Torquay United","0-0",0,0,"1","replay","yes","yes","6-5 Torquay United","5","6",NA,NA,NA,NA,NA
 2005-11-15,2005,"Milton Keynes Dons","Lincoln City","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005-11-15,2005,"Rushden & Diamonds","Halifax Town","0-0",0,0,"1","replay","yes","yes","5-4 Rushden & Diamonds",5,4,NA,NA,NA,NA,NA
+2005-11-15,2005,"Rushden & Diamonds","Halifax Town","0-0",0,0,"1","replay","yes","yes","5-4 Rushden & Diamonds","5","4",NA,NA,NA,NA,NA
 2005-11-15,2005,"Scunthorpe United","Bury","1-0",1,0,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-11-15,2005,"Woking","Southport","1-0",1,0,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2005-11-15,2005,"Yeovil","Macclesfield Town","4-0",4,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15060,10 +15060,10 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2006-01-08,2005,"Sunderland","Northwich Victoria","3-0",3,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-01-17,2005,"Birmingham City","Torquay United","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-01-17,2005,"Chester City","Cheltenham","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006-01-17,2005,"Leeds United","Wigan Athletic","3-3",3,3,"3","replay","yes","yes","4-2 Wigan Athletic",2,4,NA,NA,NA,NA,NA
+2006-01-17,2005,"Leeds United","Wigan Athletic","3-3",3,3,"3","replay","yes","yes","4-2 Wigan Athletic","2","4",NA,NA,NA,NA,NA
 2006-01-17,2005,"Middlesbrough","Nuneaton Borough AFC","5-2",5,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-01-17,2005,"Reading","West Bromwich Albion","3-2",3,2,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006-01-17,2005,"Tamworth","Stoke City","1-1",1,1,"3","replay","yes","yes","5-4 Stoke City",4,5,NA,NA,NA,NA,NA
+2006-01-17,2005,"Tamworth","Stoke City","1-1",1,1,"3","replay","yes","yes","5-4 Stoke City","4","5",NA,NA,NA,NA,NA
 2006-01-17,2005,"Walsall","Barnsley","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-01-18,2005,"Everton","Millwall","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-01-18,2005,"Manchester United","Burton Albion","5-0",5,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15104,7 +15104,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2006-04-12,2005,"Middlesbrough","Charlton Athletic","4-2",4,2,"6","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-04-22,2005,"Liverpool","Chelsea","2-1",2,1,"s","initial",NA,NA,NA,NA,NA,"Old Trafford, Manchester","64,575",NA,NA,"yes"
 2006-04-23,2005,"West Ham United","Middlesbrough","1-0",1,0,"s","initial",NA,NA,NA,NA,NA,"Villa Park, Aston","39,148",NA,NA,"yes"
-2006-05-13,2005,"Liverpool","West Ham United","3-3",3,3,"f","initial","yes","yes","3-1 Liverpool",3,1,"Millennium Stadium, Cardiff","71,140",NA,NA,"yes"
+2006-05-13,2005,"Liverpool","West Ham United","3-3",3,3,"f","initial","yes","yes","3-1 Liverpool","3","1","Millennium Stadium, Cardiff","71,140",NA,NA,"yes"
 2006-11-10,2006,"Cheltenham","Scunthorpe United","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-11-11,2006,"AFC Bournemouth","Boston United","4-0",4,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-11-11,2006,"Barrow AFC","Bristol Rovers","2-3",2,3,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15145,7 +15145,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2006-11-12,2006,"Weymouth","Bury","2-2",2,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-11-13,2006,"Havant & Waterlooville","Millwall","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-11-13,2006,"Macclesfield Town","Walsall","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006-11-20,2006,"Hartlepool United","Rochdale","0-0",0,0,"1","replay","yes","yes","4-2 Hartlepool United",4,2,NA,NA,NA,NA,NA
+2006-11-20,2006,"Hartlepool United","Rochdale","0-0",0,0,"1","replay","yes","yes","4-2 Hartlepool United","4","2",NA,NA,NA,NA,NA
 2006-11-21,2006,"Aldershot Town","Chelmsford City","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-11-21,2006,"Bury","Weymouth","4-3",4,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2006-11-21,2006,"Grimsby Town","Northampton Town","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15240,7 +15240,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2007-01-28,2006,"Chelsea","Nottingham Forest","3-0",3,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-01-28,2006,"Manchester City","Southampton","3-1",3,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-01-28,2006,"Wolverhampton Wanderers","West Bromwich Albion","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007-02-13,2006,"Middlesbrough","Bristol City","2-2",2,2,"4","replay","yes","yes","5-4 Middlesbrough",5,4,NA,NA,NA,NA,NA
+2007-02-13,2006,"Middlesbrough","Bristol City","2-2",2,2,"4","replay","yes","yes","5-4 Middlesbrough","5","4",NA,NA,NA,NA,NA
 2007-02-13,2006,"Norwich City","Blackpool","3-2",3,2,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-02-14,2006,"Bolton Wanderers","Arsenal","1-3",1,3,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-02-17,2006,"Arsenal","Blackburn Rovers","0-0",0,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15252,7 +15252,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2007-02-18,2006,"Fulham","Tottenham Hotspur","0-4",0,4,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-02-18,2006,"Preston North End","Manchester City","1-3",1,3,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-02-27,2006,"Reading","Manchester United","2-3",2,3,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007-02-27,2006,"West Bromwich Albion","Middlesbrough","1-1",1,1,"5","replay","yes","yes","5-4 Middlesbrough",4,5,NA,NA,NA,NA,NA
+2007-02-27,2006,"West Bromwich Albion","Middlesbrough","1-1",1,1,"5","replay","yes","yes","5-4 Middlesbrough","4","5",NA,NA,NA,NA,NA
 2007-02-28,2006,"Blackburn Rovers","Arsenal","1-0",1,0,"5","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-03-10,2006,"Middlesbrough","Manchester United","2-2",2,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-03-11,2006,"Blackburn Rovers","Manchester City","2-0",2,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15309,9 +15309,9 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2007-11-20,2007,"Leeds United","Hereford United","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-11-20,2007,"Northampton Town","Darlington","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-11-20,2007,"Rotherham United","Forest Green Rovers","0-3",0,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007-11-22,2007,"Staines Town","Stockport County","1-1",1,1,"1","replay","yes","yes","4-3 Staines Town",4,3,NA,NA,NA,NA,NA
+2007-11-22,2007,"Staines Town","Stockport County","1-1",1,1,"1","replay","yes","yes","4-3 Staines Town","4","3",NA,NA,NA,NA,NA
 2007-11-27,2007,"Brentford","Luton Town","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007-11-27,2007,"Bristol Rovers","Leyton Orient","3-3",3,3,"1","replay","yes","yes","6-5 Bristol Rovers",6,5,NA,NA,NA,NA,NA
+2007-11-27,2007,"Bristol Rovers","Leyton Orient","3-3",3,3,"1","replay","yes","yes","6-5 Bristol Rovers","6","5",NA,NA,NA,NA,NA
 2007-11-27,2007,"Doncaster Rovers","Oldham Athletic","1-2",1,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-11-27,2007,"Nottingham Forest","Lincoln City","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2007-11-30,2007,"Horsham","Swansea City","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15375,14 +15375,14 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2008-01-15,2007,"Liverpool","Luton Town","5-0",5,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-15,2007,"Millwall","Walsall","2-1",2,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-15,2007,"Reading","Tottenham Hotspur","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2008-01-15,2007,"West Bromwich Albion","Charlton Athletic","2-2",2,2,"3","replay","yes","yes","4-3 West Bromwich Albion",4,3,NA,NA,NA,NA,NA
+2008-01-15,2007,"West Bromwich Albion","Charlton Athletic","2-2",2,2,"3","replay","yes","yes","4-3 West Bromwich Albion","4","3",NA,NA,NA,NA,NA
 2008-01-16,2007,"Havant & Waterlooville","Swansea City","4-2",4,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-16,2007,"Hereford United","Tranmere Rovers","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-16,2007,"Manchester City","West Ham United","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-16,2007,"Newcastle United","Stoke City","4-1",4,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2008-01-22,2007,"Barnet","Swindon Town","1-1",1,1,"3","replay","yes","yes","2-0 Barnet",2,0,NA,NA,NA,NA,NA
-2008-01-22,2007,"Bristol Rovers","Fulham","0-0",0,0,"3","replay","yes","yes","5-3 Bristol Rovers",5,3,NA,NA,NA,NA,NA
-2008-01-22,2007,"Sheffield Wednesday","Derby County","1-1",1,1,"3","replay","yes","yes","4-2 Derby County",2,4,NA,NA,NA,NA,NA
+2008-01-22,2007,"Barnet","Swindon Town","1-1",1,1,"3","replay","yes","yes","2-0 Barnet","2","0",NA,NA,NA,NA,NA
+2008-01-22,2007,"Bristol Rovers","Fulham","0-0",0,0,"3","replay","yes","yes","5-3 Bristol Rovers","5","3",NA,NA,NA,NA,NA
+2008-01-22,2007,"Sheffield Wednesday","Derby County","1-1",1,1,"3","replay","yes","yes","4-2 Derby County","2","4",NA,NA,NA,NA,NA
 2008-01-25,2007,"Southend United","Barnsley","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-26,2007,"Arsenal","Newcastle United","3-0",3,0,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-01-26,2007,"Barnet","Bristol Rovers","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15457,7 +15457,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2008-11-10,2008,"AFC Wimbledon","Wycombe Wanderers","1-4",1,4,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-11-13,2008,"Tranmere Rovers","Accrington Stanley","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-11-17,2008,"Northampton Town","Leeds United","2-5",2,5,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2008-11-18,2008,"Altrincham","Luton Town","0-0",0,0,"1","replay","yes","yes","4-2 Luton Town",2,4,NA,NA,NA,NA,NA
+2008-11-18,2008,"Altrincham","Luton Town","0-0",0,0,"1","replay","yes","yes","4-2 Luton Town","2","4",NA,NA,NA,NA,NA
 2008-11-18,2008,"Barrow AFC","Eastbourne Borough","4-0",4,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-11-18,2008,"Dagenham & Redbridge","Hereford Town","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2008-11-18,2008,"Dorchester Town","Oxford United","1-3",1,3,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15569,7 +15569,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2009-03-08,2008,"Everton","Middlesbrough","2-1",2,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2009-03-17,2008,"Arsenal","Hull City","2-1",2,1,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2009-04-18,2008,"Chelsea","Arsenal","2-1",2,1,"s","initial",NA,NA,NA,NA,NA,"Wembley (new), London","88,103",NA,NA,"yes"
-2009-04-19,2008,"Everton","Manchester United","0-0",0,0,"s","initial","yes","yes","4-2 Everton",4,2,"Wembley (new), London","88,141",NA,NA,"yes"
+2009-04-19,2008,"Everton","Manchester United","0-0",0,0,"s","initial","yes","yes","4-2 Everton","4","2","Wembley (new), London","88,141",NA,NA,"yes"
 2009-05-30,2008,"Chelsea","Everton","2-1",2,1,"f","initial",NA,NA,NA,NA,NA,"Wembley (new), London","89,391",NA,NA,"yes"
 2009-11-06,2009,"Bristol Rovers","Southampton","2-3",2,3,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2009-11-06,2009,"Huddersfield Town","Dagenham & Redbridge","6-1",6,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15675,7 +15675,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2010-01-12,2009,"Bristol City","Cardiff City","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-01-12,2009,"Birmingham City","Nottingham Forest","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-01-12,2009,"Coventry City","Portsmouth","1-2",1,2,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010-01-12,2009,"Derby County","Millwall","1-1",1,1,"3","replay","yes","yes","5-3 Derby County",5,3,NA,NA,NA,NA,NA
+2010-01-12,2009,"Derby County","Millwall","1-1",1,1,"3","replay","yes","yes","5-3 Derby County","5","3",NA,NA,NA,NA,NA
 2010-01-12,2009,"Queens Park Rangers","Sheffield United","2-3",2,3,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-01-13,2009,"Liverpool","Reading","1-2",1,2,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-01-13,2009,"Newcastle United","Plymouth Argyle","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15766,13 +15766,13 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2010-11-16,2010,"Charlton Athletic","Barnet","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-11-16,2010,"Huddersfield Town","Cambridge United","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-11-16,2010,"Leyton Orient","Dagenham & Redbridge","3-2",3,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010-11-16,2010,"Milton Keynes Dons","Stevenage Borough","1-1",1,1,"1","replay","yes","yes","7-6 Stevenage",6,7,NA,NA,NA,NA,NA
+2010-11-16,2010,"Milton Keynes Dons","Stevenage Borough","1-1",1,1,"1","replay","yes","yes","7-6 Stevenage","6","7",NA,NA,NA,NA,NA
 2010-11-16,2010,"Peterborough United","Stockport County","4-1",4,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-11-16,2010,"Port Vale","Dartford","4-0",4,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010-11-16,2010,"Southend United","Macclesfield Town","2-2",2,2,"1","replay","yes","yes","5-3 Macclesfield Town",3,5,NA,NA,NA,NA,NA
+2010-11-16,2010,"Southend United","Macclesfield Town","2-2",2,2,"1","replay","yes","yes","5-3 Macclesfield Town","3","5",NA,NA,NA,NA,NA
 2010-11-16,2010,"Vauxhall Motors","Hartlepool United","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-11-16,2010,"Walsall","Fleetwood Town","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010-11-16,2010,"Woking","Brighton & Hove Albion","2-2",2,2,"1","replay","yes","yes","3-0 Brighton & Hove Albion",0,3,NA,NA,NA,NA,NA
+2010-11-16,2010,"Woking","Brighton & Hove Albion","2-2",2,2,"1","replay","yes","yes","3-0 Brighton & Hove Albion","0","3",NA,NA,NA,NA,NA
 2010-11-17,2010,"Luton Town","Corby Town","4-2",4,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-11-17,2010,"York City","Rotherham United","3-0",3,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2010-11-18,2010,"Ebbsfleet United","AFC Wimbledon","2-3",2,3,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15854,7 +15854,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2011-01-30,2010,"West Ham United","Nottingham Forest","3-2",3,2,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-01-30,2010,"Wolverhampton Wanderers","Stoke City","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-02-16,2010,"Wigan Athletic","Bolton Wanderers","0-1",0,1,"4","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2011-02-19,2010,"Chelsea","Everton","1-1",1,1,"4","replay","yes","yes","4-3 Everton",3,4,NA,NA,NA,NA,NA
+2011-02-19,2010,"Chelsea","Everton","1-1",1,1,"4","replay","yes","yes","4-3 Everton","3","4",NA,NA,NA,NA,NA
 2011-02-19,2010,"Birmingham City","Sheffield Wednesday","3-0",3,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-02-19,2010,"Manchester United","Crawley Town","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-02-19,2010,"Stoke City","Brighton & Hove Albion","3-0",3,0,"5","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15944,7 +15944,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2011-12-04,2011,"Sutton United","Notts County","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-12-13,2011,"Grimsby Town","Salisbury City","2-3",2,3,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-12-13,2011,"Oldham Athletic","Southend United","1-0",1,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2011-12-13,2011,"Walsall","Dagenham & Redbridge","0-0",0,0,"2","replay","yes","yes","3-2 Dagenham & Redbridge",2,3,NA,NA,NA,NA,NA
+2011-12-13,2011,"Walsall","Dagenham & Redbridge","0-0",0,0,"2","replay","yes","yes","3-2 Dagenham & Redbridge","2","3",NA,NA,NA,NA,NA
 2011-12-13,2011,"Yeovil","Fleetwood Town","0-2",0,2,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2011-12-14,2011,"Macclesfield Town","Chelmsford City","1-0",1,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-01-06,2011,"Liverpool","Oldham Athletic","5-1",5,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -15984,7 +15984,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2012-01-17,2011,"Millwall","Dagenham & Redbridge","5-0",5,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-01-17,2011,"Queens Park Rangers","Milton Keynes Dons","1-0",1,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-01-18,2011,"Wolverhampton Wanderers","Birmingham City","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012-01-18,2011,"Wrexham","Brighton & Hove Albion","1-1",1,1,"3","replay","yes","yes","5-4 Brighton & Hove Albion",4,5,NA,NA,NA,NA,NA
+2012-01-18,2011,"Wrexham","Brighton & Hove Albion","1-1",1,1,"3","replay","yes","yes","5-4 Brighton & Hove Albion","4","5",NA,NA,NA,NA,NA
 2012-01-27,2011,"Everton","Fulham","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-01-27,2011,"Watford","Tottenham Hotspur","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-01-28,2011,"Blackpool","Sheffield Wednesday","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16062,11 +16062,11 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2012-11-12,2012,"AFC Wimbledon","York City","4-3",4,3,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-11-13,2012,"Braintree Town","Tranmere Rovers","0-3",0,3,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-11-13,2012,"Barrow AFC","Guiseley AFC","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012-11-13,2012,"Bradford City","Northampton Town","3-3",3,3,"1","replay","yes","yes","4-2 Bradford City",4,2,NA,NA,NA,NA,NA
+2012-11-13,2012,"Bradford City","Northampton Town","3-3",3,3,"1","replay","yes","yes","4-2 Bradford City","4","2",NA,NA,NA,NA,NA
 2012-11-13,2012,"Milton Keynes Dons","Cambridge City","6-1",6,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-11-13,2012,"Nuneaton Town","Luton Town","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-11-13,2012,"Rochdale","Morecambe","0-1",0,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012-11-13,2012,"Slough Town","Mansfield Town","1-1",1,1,"1","replay","yes","yes","4-1 Mansfield Town",1,4,NA,NA,NA,NA,NA
+2012-11-13,2012,"Slough Town","Mansfield Town","1-1",1,1,"1","replay","yes","yes","4-1 Mansfield Town","1","4",NA,NA,NA,NA,NA
 2012-11-13,2012,"Walsall","Lincoln City","2-3",2,3,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-11-14,2012,"Gloucester City","Leyton Orient","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-11-15,2012,"Altrincham","Burton Albion","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16090,9 +16090,9 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2012-12-02,2012,"Milton Keynes Dons","AFC Wimbledon","2-1",2,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-12-03,2012,"Cheltenham","Hereford United","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-12-11,2012,"Hereford United","Cheltenham","1-2",1,2,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012-12-11,2012,"Southend United","Bury","1-1",1,1,"2","replay","yes","yes","3-2 Southend United",3,2,NA,NA,NA,NA,NA
+2012-12-11,2012,"Southend United","Bury","1-1",1,1,"2","replay","yes","yes","3-2 Southend United","3","2",NA,NA,NA,NA,NA
 2012-12-12,2012,"Mansfield Town","Lincoln City","2-1",2,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012-12-13,2012,"Hastings United","Harrogate Town","1-1",1,1,"2","replay","yes","yes","5-4 Hastings United",5,4,NA,NA,NA,NA,NA
+2012-12-13,2012,"Hastings United","Harrogate Town","1-1",1,1,"2","replay","yes","yes","5-4 Hastings United","5","4",NA,NA,NA,NA,NA
 2012-12-18,2012,"Barrow AFC","Macclesfield Town","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-12-18,2012,"Brentford","Bradford City","4-2",4,2,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2012-12-18,2012,"Notts County","Rotherham United","0-3",0,3,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16315,7 +16315,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2014-03-09,2013,"Hull City","Sunderland","3-0",3,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2014-03-09,2013,"Manchester City","Wigan Athletic","1-2",1,2,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2014-03-09,2013,"Sheffield United","Charlton Athletic","2-0",2,0,"6","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2014-04-12,2013,"Arsenal","Wigan Athletic","1-1",1,1,"s","initial","yes","yes","4-2 Arsenal",4,2,"Wembley (new), London","82,185",NA,NA,"yes"
+2014-04-12,2013,"Arsenal","Wigan Athletic","1-1",1,1,"s","initial","yes","yes","4-2 Arsenal","4","2","Wembley (new), London","82,185",NA,NA,"yes"
 2014-04-13,2013,"Hull City","Sheffield United","5-3",5,3,"s","initial",NA,NA,NA,NA,NA,"Wembley (new), London","71,820",NA,NA,"yes"
 2014-05-17,2013,"Arsenal","Hull City","3-2",3,2,"f","initial","yes",NA,NA,NA,NA,"Wembley (new), London","89,345",NA,NA,"yes"
 2012-03-27,2011,"Sunderland","Everton","0-2",0,2,"6","replay",NA,NA,NA,NA,NA,NA,"43,140",NA,NA,NA
@@ -16390,10 +16390,10 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2015-01-05,2014,"AFC Wimbledon","Liverpool","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-01-06,2014,"Everton","West Ham United","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-01-06,2014,"Scunthorpe United","Chesterfield","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2015-01-13,2014,"Wolverhampton Wanderers","Fulham","3-3",3,3,"3","replay","yes","yes","5-3 Fulham",3,5,NA,NA,NA,NA,NA
+2015-01-13,2014,"Wolverhampton Wanderers","Fulham","3-3",3,3,"3","replay","yes","yes","5-3 Fulham","3","5",NA,NA,NA,NA,NA
 2015-01-13,2014,"Bristol City","Doncaster Rovers","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-01-13,2014,"Chesterfield","Scunthorpe United","2-0",2,0,"3","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2015-01-13,2014,"West Ham United","Everton","2-2",2,2,"3","replay","yes","yes","9-8 West Ham United",9,8,NA,NA,NA,NA,NA
+2015-01-13,2014,"West Ham United","Everton","2-2",2,2,"3","replay","yes","yes","9-8 West Ham United","9","8",NA,NA,NA,NA,NA
 2015-01-14,2014,"Bradford City","Millwall","4-0",4,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-01-14,2014,"Ipswich Town","Southampton","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-01-14,2014,"Tottenham Hotspur","Burnley","4-2",4,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16423,7 +16423,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2014-12-16,2014,"Chester","Barnsley","0-3",0,3,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2014-12-16,2014,"Mansfield Town","Cambridge United","0-1",0,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2014-12-16,2014,"Rochdale","Aldershot Town","4-1",4,1,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2014-12-17,2014,"Worcester City","Scunthorpe United","1-1",1,1,"2","replay","yes","yes","14-13 Scunthorpe United",13,14,NA,NA,NA,NA,NA
+2014-12-17,2014,"Worcester City","Scunthorpe United","1-1",1,1,"2","replay","yes","yes","14-13 Scunthorpe United","13","14",NA,NA,NA,NA,NA
 2014-11-07,2014,"Warrington Town","Exeter City","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2014-11-08,2014,"Yeovil","Crawley Town","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2014-11-08,2014,"York City","AFC Wimbledon","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16508,7 +16508,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2016-01-31,2015,"Carlisle United","Everton","0-3",0,3,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-31,2015,"Milton Keynes Dons","Chelsea","1-5",1,5,"4","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-02-09,2015,"West Ham United","Liverpool","2-1",2,1,"4","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
-2016-02-10,2015,"Peterborough United","West Bromwich Albion","1-1",1,1,"4","replay","yes","yes","4-3 West Bromwich Albion",3,4,NA,NA,NA,NA,NA
+2016-02-10,2015,"Peterborough United","West Bromwich Albion","1-1",1,1,"4","replay","yes","yes","4-3 West Bromwich Albion","3","4",NA,NA,NA,NA,NA
 2016-01-08,2015,"Exeter City","Liverpool","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-09,2015,"Wycombe Wanderers","Aston Villa","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-09,2015,"Watford","Newcastle United","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16545,8 +16545,8 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2016-01-19,2015,"Bristol City","West Bromwich Albion","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-19,2015,"Milton Keynes Dons","Northampton Town","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-19,2015,"Portsmouth","Ipswich Town","2-1",2,1,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2016-01-19,2015,"Bradford City","Bury","0-0",0,0,"3","replay","yes","yes","4-2 Bury",2,4,NA,NA,NA,NA,NA
-2016-01-19,2015,"Yeovil","Carlisle United","1-1",1,1,"3","replay","yes","yes","5-4 Carlisle United",4,5,NA,NA,NA,NA,NA
+2016-01-19,2015,"Bradford City","Bury","0-0",0,0,"3","replay","yes","yes","4-2 Bury","2","4",NA,NA,NA,NA,NA
+2016-01-19,2015,"Yeovil","Carlisle United","1-1",1,1,"3","replay","yes","yes","5-4 Carlisle United","4","5",NA,NA,NA,NA,NA
 2016-01-19,2015,"Bolton Wanderers","Eastleigh","3-2",3,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-19,2015,"Reading","Huddersfield Town","5-2",5,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-01-20,2015,"Leicester City","Tottenham Hotspur","0-2",0,2,"3","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16572,7 +16572,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2015-12-06,2015,"Oxford United","Forest Green Rovers","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-12-07,2015,"Grimsby Town","Shrewsbury Town","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-12-15,2015,"Scunthorpe United","Leyton Orient","3-0",3,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2015-12-15,2015,"Walsall","Chesterfield","0-0",0,0,"2","replay","yes","yes","5-3 Walsall",5,3,NA,NA,NA,NA,NA
+2015-12-15,2015,"Walsall","Chesterfield","0-0",0,0,"2","replay","yes","yes","5-3 Walsall","5","3",NA,NA,NA,NA,NA
 2015-12-15,2015,"Hartlepool United","Salford City","2-0",2,0,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-12-15,2015,"Shrewsbury Town","Grimsby Town","1-0",1,0,"2","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2015-12-16,2015,"Whitehawk","Dagenham and Redbridge","2-3",2,3,"2","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16766,7 +16766,7 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2016-11-14,2016,"Curzon Ashton","Westfields","3-1",3,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-11-14,2016,"Stourbridge","Whitehawk","3-0",3,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-11-15,2016,"Halifax Town","Dagenham and Redbridge","2-1",2,1,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2016-11-15,2016,"Solihull","Yeovil","1-1",1,1,"1","replay","yes","yes","4-2 Solihull",4,2,NA,NA,NA,NA,NA
+2016-11-15,2016,"Solihull","Yeovil","1-1",1,1,"1","replay","yes","yes","4-2 Solihull","4","2",NA,NA,NA,NA,NA
 2016-11-15,2016,"AFC Wimbledon","Bury","5-0",5,0,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-11-15,2016,"Swindon Town","Eastleigh","1-3",1,3,"1","replay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-11-15,2016,"Bristol Rovers","Crawley Town","4-2",4,2,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16780,3 +16780,302 @@ NA,1992,"Swansea City","Maidstone United",NA,NA,NA,"1","initial",NA,NA,NA,NA,NA,
 2016-11-16,2016,"Brackley Town","Gillingham","4-3",4,3,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2016-11-17,2016,"Dover Athletic","Cambridge United","2-4",2,4,"1","replay","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA
 2017-05-27,2016,"Arsenal","Chelsea","2-1",2,1,"f","initial",NA,NA,NA,NA,NA,"Wembley (new), London","89472",NA,NA,"yes"
+2017-11-03,2017,"Hyde United","Milton Keynes Dons","0-4",0,4,"1","initial",NA,NA,NA,NA,NA,"Ewen Fields, Hyde","3,123",NA,NA,NA
+2017-11-03,2017,"Notts County","Bristol Rovers","4-2",4,2,"1","initial",NA,NA,NA,NA,NA,"Meadow Lane","4,228",NA,NA,NA
+2017-11-03,2017,"Port Vale","Oxford United","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"Vale Park","3,443",NA,NA,NA
+2017-11-04,2017,"AFC Fylde","Kidderminster Harriers","4-2",4,2,"1","initial",NA,NA,NA,NA,NA,"Mill Farm, Wesham","1,482",NA,NA,NA
+2017-11-04,2017,"AFC Wimbledon","Lincoln City","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Cherry Red Records Fans Stadium","3,394",NA,NA,NA
+2017-11-04,2017,"Blackburn Rovers","Barnet","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,"Ewood Park","3,710",NA,NA,NA
+2017-11-04,2017,"Boreham Wood","Blackpool","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Meadow Park, Boreham Wood","1,041",NA,NA,NA
+2017-11-04,2017,"Bradford City","Chesterfield","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"Northern Commercials Stadium","4,747",NA,NA,NA
+2017-11-04,2017,"Carlisle United","Oldham Athletic","3-2",3,2,"1","initial",NA,NA,NA,NA,NA,"Brunton Park","3,965",NA,NA,NA
+2017-11-04,2017,"Cheltenham","Maidstone United","2-4",2,4,"1","initial",NA,NA,NA,NA,NA,"LCI Rail Stadium","2,799",NA,NA,NA
+2017-11-04,2017,"Colchester United","Oxford City","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,"Weston Homes Community Stadium","1,775",NA,NA,NA
+2017-11-04,2017,"Crewe Alexandra","Rotherham United","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Gresty Road","2,597",NA,NA,NA
+2017-11-04,2017,"Ebbsfleet United","Doncaster Rovers","2-6",2,6,"1","initial",NA,NA,NA,NA,NA,"Kuflink Stadium, Northfleet","2,069",NA,NA,NA
+2017-11-04,2017,"Forest Green Rovers","Macclesfield Town","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"The New Lawn, Nailsworth","1,387",NA,NA,NA
+2017-11-04,2017,"Gainsborough Trinity","Slough Town","0-6",0,6,"1","initial",NA,NA,NA,NA,NA,"Gainsborough Martin & Co Arena, Gainsborough","1,630",NA,NA,NA
+2017-11-04,2017,"Gateshead","Chelmsford City","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"International Stadium, Gateshead","732",NA,NA,NA
+2017-11-04,2017,"Gillingham","Leyton Orient","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"MEMS Priestfield Stadium","3,659",NA,NA,NA
+2017-11-04,2017,"Hereford United","AFC Telford United","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Edgar Street, Hereford","4,712",NA,NA,NA
+2017-11-04,2017,"Luton Town","Portsmouth","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Kenilworth Road","5,333",NA,NA,NA
+2017-11-04,2017,"Morecambe","Hartlepool United","3-0",3,0,"1","initial",NA,NA,NA,NA,NA,"Globe Arena","2,004",NA,NA,NA
+2017-11-04,2017,"Newport County","Walsall","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Rodney Parade","2,701",NA,NA,NA
+2017-11-04,2017,"Northampton Town","Scunthorpe United","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Sixfields Stadium","2,820",NA,NA,NA
+2017-11-04,2017,"Peterborough United","Tranmere Rovers","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"ABAX Stadium","3,750",NA,NA,NA
+2017-11-04,2017,"Plymouth Argyle","Grimsby Town","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Home Park","5,137",NA,NA,NA
+2017-11-04,2017,"Rochdale","Bromley","4-0",4,0,"1","initial",NA,NA,NA,NA,NA,"Crown Oil Arena","2,241",NA,NA,NA
+2017-11-04,2017,"Shaw Lane","Mansfield Town","1-3",1,3,"1","initial",NA,NA,NA,NA,NA,"Sheerien Park","1,700",NA,NA,NA
+2017-11-04,2017,"Shrewsbury Town","Aldershot Town","5-0",5,0,"1","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow","3,859",NA,NA,NA
+2017-11-04,2017,"Stevenage Borough","Nantwich Town","5-0",5,0,"1","initial",NA,NA,NA,NA,NA,"Lamex Stadium","1,436",NA,NA,NA
+2017-11-04,2017,"Wigan Athletic","Crawley Town","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"DW Stadium","3,288",NA,NA,NA
+2017-11-04,2017,"Yeovil","Southend United","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Huish Park","2,079",NA,NA,NA
+2017-11-05,2017,"Cambridge United","Sutton United","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Cambs Glass Stadium","3,070",NA,NA,NA
+2017-11-05,2017,"Charlton Athletic","Truro City","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,"The Valley","4,494",NA,NA,NA
+2017-11-05,2017,"Coventry City","Maidenhead United","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"Ricoh Arena","3,370",NA,NA,NA
+2017-11-05,2017,"Dartford","Swindon Town","1-5",1,5,"1","initial",NA,NA,NA,NA,NA,"Princes Park Stadium, Dartford","2,705",NA,NA,NA
+2017-11-05,2017,"Exeter City","Heybridge Swifts","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,"St James Park, Exeter","3,004",NA,NA,NA
+2017-11-05,2017,"Guiseley AFC","Accrington Stanley","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Nethermoor Park, Guiseley","1,611",NA,NA,NA
+2017-11-05,2017,"Leatherhead","Billericay","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"Fetcham Grove, Leatherhead","1,797",NA,NA,NA
+2017-11-05,2017,"Solihull","Wycombe Wanderers","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,"Automated Technology Group Stadium, Solihull","1,544",NA,NA,NA
+2017-11-05,2017,"Woking","Bury","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"Laithwaite Community Stadium, Woking","1,858",NA,NA,NA
+2017-11-06,2017,"Chorley","Fleetwood Town","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,"Chorley Group Victory Park Stadium, Chorley","3,526",NA,NA,NA
+2017-11-14,2017,"Accrington Stanley","Guiseley AFC","1-1",1,1,"1","replay","yes","yes","3-4","3","4","Wham Stadium","1,116",NA,NA,NA
+2017-11-14,2017,"Bury","Woking","0-3",0,3,"1","replay",NA,NA,NA,NA,NA,"Energy Check Stadium at Gigg Lane","1,513",NA,NA,NA
+2017-11-14,2017,"Scunthorpe United","Northampton Town","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,"Glanford Park","1,880",NA,NA,NA
+2017-11-15,2017,"Tranmere Rovers","Peterborough United","0-5",0,5,"1","replay",NA,NA,NA,NA,NA,"Prenton Park","4,199",NA,NA,NA
+2017-11-16,2017,"Billericay","Leatherhead","1-3",1,3,"1","replay",NA,NA,NA,NA,NA,"AGP Arena, Billericay","3,400",NA,NA,NA
+2017-12-01,2017,"AFC Fylde","Wigan Athletic","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"Mill Farm, Wesham","3,351",NA,NA,NA
+2017-12-02,2017,"Bradford City","Plymouth Argyle","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,"Northern Commercials Stadium","4,957",NA,NA,NA
+2017-12-02,2017,"Fleetwood Town","Hereford United","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"Highbury Stadium, Fleetwood","2,567",NA,NA,NA
+2017-12-02,2017,"Forest Green Rovers","Exeter City","3-3",3,3,"2","initial",NA,NA,NA,NA,NA,"The New Lawn, Nailsworth","2,250",NA,NA,NA
+2017-12-02,2017,"Gillingham","Carlisle United","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"MEMS Priestfield Stadium","3,178",NA,NA,NA
+2017-12-02,2017,"Milton Keynes Dons","Maidstone United","4-1",4,1,"2","initial",NA,NA,NA,NA,NA,"Stadium MK","4,804",NA,NA,NA
+2017-12-02,2017,"Notts County","Oxford City","3-2",3,2,"2","initial",NA,NA,NA,NA,NA,"Meadow Lane","5,092",NA,NA,NA
+2017-12-02,2017,"Port Vale","Yeovil","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"Vale Park","3,316",NA,NA,NA
+2017-12-02,2017,"Shrewsbury Town","Morecambe","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow","3,184",NA,NA,NA
+2017-12-02,2017,"Stevenage Borough","Swindon Town","5-2",5,2,"2","initial",NA,NA,NA,NA,NA,"Lamex Stadium","1,883",NA,NA,NA
+2017-12-03,2017,"AFC Wimbledon","Charlton Athletic","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,"Cherry Red Records Fans Stadium","3,270",NA,NA,NA
+2017-12-03,2017,"Blackburn Rovers","Crewe Alexandra","3-3",3,3,"2","initial",NA,NA,NA,NA,NA,"Ewood Park","4,472",NA,NA,NA
+2017-12-03,2017,"Coventry City","Boreham Wood","3-0",3,0,"2","initial",NA,NA,NA,NA,NA,"Ricoh Arena","2,985",NA,NA,NA
+2017-12-03,2017,"Doncaster Rovers","Scunthorpe United","3-0",3,0,"2","initial",NA,NA,NA,NA,NA,"Keepmoat Stadium","5,251",NA,NA,NA
+2017-12-03,2017,"Gateshead","Luton Town","0-5",0,5,"2","initial",NA,NA,NA,NA,NA,"International Stadium, Gateshead","1,339",NA,NA,NA
+2017-12-03,2017,"Mansfield Town","Guiseley AFC","3-0",3,0,"2","initial",NA,NA,NA,NA,NA,"One Call Stadium","4,081",NA,NA,NA
+2017-12-03,2017,"Newport County","Cambridge United","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,"Rodney Parade","2,748",NA,NA,NA
+2017-12-03,2017,"Woking","Peterborough United","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"Laithwaite Community Stadium, Woking","3,072",NA,NA,NA
+2017-12-03,2017,"Wycombe Wanderers","Leatherhead","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,"Adams Park","3,835",NA,NA,NA
+2017-12-04,2017,"Slough Town","Rochdale","0-4",0,4,"2","initial",NA,NA,NA,NA,NA,"Arbour Park, Slough","1,950",NA,NA,NA
+2017-12-12,2017,"Exeter City","Forest Green Rovers","2-1",2,1,"2","replay","yes",NA,NA,NA,NA,"St James Park, Exeter","2,923",NA,NA,NA
+2017-12-12,2017,"Peterborough United","Woking","5-2",5,2,"2","replay",NA,NA,NA,NA,NA,"ABAX Stadium","3,022",NA,NA,NA
+2017-12-12,2017,"Wigan Athletic","AFC Fylde","3-2",3,2,"2","replay",NA,NA,NA,NA,NA,"DW Stadium","3,124",NA,NA,NA
+2017-12-12,2017,"Yeovil","Port Vale","3-2",3,2,"2","replay","yes",NA,NA,NA,NA,"Huish Park","1,588",NA,NA,NA
+2017-12-13,2017,"Crewe Alexandra","Blackburn Rovers","0-1",0,1,"2","replay",NA,NA,NA,NA,NA,"Gresty Road","2,241",NA,NA,NA
+2017-12-14,2017,"Hereford United","Fleetwood Town","0-2",0,2,"2","replay",NA,NA,NA,NA,NA,"Edgar Street, Hereford","4,235",NA,NA,NA
+2017-12-19,2017,"Carlisle United","Gillingham","3-1",3,1,"2","replay",NA,NA,NA,NA,NA,"Brunton Park","2,357",NA,NA,NA
+2018-01-05,2017,"Liverpool","Everton","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Anfield","52,513",NA,NA,NA
+2018-01-05,2017,"Manchester United","Derby County","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,"Old Trafford","73,899",NA,NA,NA
+2018-01-06,2017,"AFC Bournemouth","Wigan Athletic","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,"Vitality Stadium","9,894",NA,NA,NA
+2018-01-06,2017,"Aston Villa","Peterborough United","1-3",1,3,"3","initial",NA,NA,NA,NA,NA,"Villa Park","21,677",NA,NA,NA
+2018-01-06,2017,"Birmingham City","Burton Albion","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"St Andrew's","7,623",NA,NA,NA
+2018-01-06,2017,"Blackburn Rovers","Hull City","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Ewood Park","6,777",NA,NA,NA
+2018-01-06,2017,"Bolton Wanderers","Huddersfield Town","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,"Macron Stadium","11,574",NA,NA,NA
+2018-01-06,2017,"Brentford","Notts County","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Griffin Park","6,935",NA,NA,NA
+2018-01-06,2017,"Cardiff City","Mansfield Town","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Cardiff City Stadium","6,378",NA,NA,NA
+2018-01-06,2017,"Carlisle United","Sheffield Wednesday","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Brunton Park","7,793",NA,NA,NA
+2018-01-06,2017,"Coventry City","Stoke City","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Ricoh Arena","14,199",NA,NA,NA
+2018-01-06,2017,"Doncaster Rovers","Rochdale","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Keepmoat Stadium","4,513",NA,NA,NA
+2018-01-06,2017,"Exeter City","West Bromwich Albion","0-2",0,2,"3","initial",NA,NA,NA,NA,NA,"St James Park, Exeter","5,638",NA,NA,NA
+2018-01-06,2017,"Fleetwood Town","Leicester City","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Highbury Stadium, Fleetwood","5,001",NA,NA,NA
+2018-01-06,2017,"Fulham","Southampton","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Craven Cottage","17,327",NA,NA,NA
+2018-01-06,2017,"Ipswich Town","Sheffield United","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Portman Road","12,057",NA,NA,NA
+2018-01-06,2017,"Manchester City","Burnley","4-1",4,1,"3","initial",NA,NA,NA,NA,NA,"Etihad Stadium","53,356",NA,NA,NA
+2018-01-06,2017,"Middlesbrough","Sunderland","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,"Riverside Stadium","26,399",NA,NA,NA
+2018-01-06,2017,"Millwall","Barnsley","4-1",4,1,"3","initial",NA,NA,NA,NA,NA,"The New Den","5,319",NA,NA,NA
+2018-01-06,2017,"Newcastle United","Luton Town","3-1",3,1,"3","initial",NA,NA,NA,NA,NA,"St James' Park","47,069",NA,NA,NA
+2018-01-06,2017,"Norwich City","Chelsea","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Carrow Road","23,598",NA,NA,NA
+2018-01-06,2017,"Queens Park Rangers","Milton Keynes Dons","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Loftus Road","6,314",NA,NA,NA
+2018-01-06,2017,"Stevenage Borough","Reading","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Lamex Stadium","3,877",NA,NA,NA
+2018-01-06,2017,"Watford","Bristol City","3-0",3,0,"3","initial",NA,NA,NA,NA,NA,"Vicarage Road","13,269",NA,NA,NA
+2018-01-06,2017,"Wolverhampton Wanderers","Swansea City","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Molineux","22,976",NA,NA,NA
+2018-01-06,2017,"Wycombe Wanderers","Preston North End","1-5",1,5,"3","initial",NA,NA,NA,NA,NA,"Adams Park","4,928",NA,NA,NA
+2018-01-06,2017,"Yeovil","Bradford City","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,"Huish Park","3,040",NA,NA,NA
+2018-01-07,2017,"Newport County","Leeds United","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Rodney Parade","6,887",NA,NA,NA
+2018-01-07,2017,"Nottingham Forest","Arsenal","4-2",4,2,"3","initial",NA,NA,NA,NA,NA,"City Ground","27,182",NA,NA,NA
+2018-01-07,2017,"Shrewsbury Town","West Ham United","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow","9,535",NA,NA,NA
+2018-01-07,2017,"Tottenham Hotspur","AFC Wimbledon","3-0",3,0,"3","initial",NA,NA,NA,NA,NA,"Wembley Stadium","47,527",NA,NA,NA
+2018-01-08,2017,"Brighton & Hove Albion","Crystal Palace","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"AMEX Stadium","14,507",NA,NA,NA
+2018-01-16,2017,"Leicester City","Fleetwood Town","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,"King Power Stadium","17,237",NA,NA,NA
+2018-01-16,2017,"Mansfield Town","Cardiff City","1-4",1,4,"3","replay",NA,NA,NA,NA,NA,"One Call Stadium","5,746",NA,NA,NA
+2018-01-16,2017,"Reading","Stevenage Borough","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,"Madejski Stadium","4,986",NA,NA,NA
+2018-01-16,2017,"Sheffield Wednesday","Carlisle United","2-0",2,0,"3","replay",NA,NA,NA,NA,NA,"Hillsborough","12,003",NA,NA,NA
+2018-01-16,2017,"West Ham United","Shrewsbury Town","1-0",1,0,"3","replay","yes",NA,NA,NA,NA,"London Stadium","39,867",NA,NA,NA
+2018-01-17,2017,"Chelsea","Norwich City","1-1",1,1,"3","replay","yes","yes","5-3","5","3","Stamford Bridge","39,684",NA,NA,NA
+2018-01-17,2017,"Swansea City","Wolverhampton Wanderers","2-1",2,1,"3","replay",NA,NA,NA,NA,NA,"Liberty Stadium","8,294",NA,NA,NA
+2018-01-17,2017,"Wigan Athletic","AFC Bournemouth","3-0",3,0,"3","replay",NA,NA,NA,NA,NA,"DW Stadium","4,709",NA,NA,NA
+2018-01-26,2017,"Sheffield Wednesday","Reading","3-1",3,1,"4","initial",NA,NA,NA,NA,NA,"Hillsborough","14,848",NA,NA,NA
+2018-01-26,2017,"Yeovil","Manchester United","0-4",0,4,"4","initial",NA,NA,NA,NA,NA,"Huish Park","9,195",NA,NA,NA
+2018-01-27,2017,"Huddersfield Town","Birmingham City","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,"John Smith's Stadium","12,683",NA,NA,NA
+2018-01-27,2017,"Hull City","Nottingham Forest","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,"KCOM Stadium","13,450",NA,NA,NA
+2018-01-27,2017,"Liverpool","West Bromwich Albion","2-3",2,3,"4","initial",NA,NA,NA,NA,NA,"Anfield","53,342",NA,NA,NA
+2018-01-27,2017,"Middlesbrough","Brighton & Hove Albion","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,"Riverside Stadium","20,475",NA,NA,NA
+2018-01-27,2017,"Millwall","Rochdale","2-2",2,2,"4","initial",NA,NA,NA,NA,NA,"The New Den","8,346",NA,NA,NA
+2018-01-27,2017,"Milton Keynes Dons","Coventry City","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,"Stadium MK","14,925",NA,NA,NA
+2018-01-27,2017,"Newport County","Tottenham Hotspur","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,"Rodney Parade","9,836",NA,NA,NA
+2018-01-27,2017,"Notts County","Swansea City","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,"Meadow Lane","9,802",NA,NA,NA
+2018-01-27,2017,"Peterborough United","Leicester City","1-5",1,5,"4","initial",NA,NA,NA,NA,NA,"ABAX Stadium","13,193",NA,NA,NA
+2018-01-27,2017,"Sheffield United","Preston North End","1-0",1,0,"4","initial",NA,NA,NA,NA,NA,"Bramall Lane","15,680",NA,NA,NA
+2018-01-27,2017,"Southampton","Watford","1-0",1,0,"4","initial",NA,NA,NA,NA,NA,"St Mary's Stadium","25,195",NA,NA,NA
+2018-01-27,2017,"Wigan Athletic","West Ham United","2-0",2,0,"4","initial",NA,NA,NA,NA,NA,"DW Stadium","14,194",NA,NA,NA
+2018-01-28,2017,"Cardiff City","Manchester City","0-2",0,2,"4","initial",NA,NA,NA,NA,NA,"Cardiff City Stadium","32,339",NA,NA,NA
+2018-01-28,2017,"Chelsea","Newcastle United","3-0",3,0,"4","initial",NA,NA,NA,NA,NA,"Stamford Bridge","41,049",NA,NA,NA
+2018-02-06,2017,"Birmingham City","Huddersfield Town","1-4",1,4,"4","replay","yes",NA,NA,NA,NA,"St Andrew's","13,175",NA,NA,NA
+2018-02-06,2017,"Rochdale","Millwall","1-0",1,0,"4","replay",NA,NA,NA,NA,NA,"Crown Oil Arena","2,790",NA,NA,NA
+2018-02-06,2017,"Swansea City","Notts County","8-1",8,1,"4","replay",NA,NA,NA,NA,NA,"Liberty Stadium","7,822",NA,NA,NA
+2018-02-07,2017,"Tottenham Hotspur","Newport County","2-0",2,0,"4","replay",NA,NA,NA,NA,NA,"Wembley Stadium","38,947",NA,NA,NA
+2018-02-16,2017,"Chelsea","Hull City","4-0",4,0,"5","initial",NA,NA,NA,NA,NA,"Stamford Bridge","39,591",NA,NA,NA
+2018-02-16,2017,"Leicester City","Sheffield United","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,"King Power Stadium","28,336",NA,NA,NA
+2018-02-17,2017,"Brighton & Hove Albion","Coventry City","3-1",3,1,"5","initial",NA,NA,NA,NA,NA,"AMEX Stadium","26,966",NA,NA,NA
+2018-02-17,2017,"Huddersfield Town","Manchester United","0-2",0,2,"5","initial",NA,NA,NA,NA,NA,"John Smith's Stadium","17,861",NA,NA,NA
+2018-02-17,2017,"Sheffield Wednesday","Swansea City","0-0",0,0,"5","initial",NA,NA,NA,NA,NA,"Hillsborough","19,427",NA,NA,NA
+2018-02-17,2017,"West Bromwich Albion","Southampton","1-2",1,2,"5","initial",NA,NA,NA,NA,NA,"The Hawthorns","17,600",NA,NA,NA
+2018-02-18,2017,"Rochdale","Tottenham Hotspur","2-2",2,2,"5","initial",NA,NA,NA,NA,NA,"Crown Oil Arena","8,480",NA,NA,NA
+2018-02-19,2017,"Wigan Athletic","Manchester City","1-0",1,0,"5","initial",NA,NA,NA,NA,NA,"DW Stadium","19,242",NA,NA,NA
+2018-02-27,2017,"Swansea City","Sheffield Wednesday","2-0",2,0,"5","replay",NA,NA,NA,NA,NA,"Liberty Stadium","8,198",NA,NA,NA
+2018-02-28,2017,"Tottenham Hotspur","Rochdale","6-1",6,1,"5","replay",NA,NA,NA,NA,NA,"Wembley Stadium","24,627",NA,NA,NA
+2018-03-17,2017,"Manchester United","Brighton & Hove Albion","2-0",2,0,"Quarter-final","initial",NA,NA,NA,NA,NA,"Old Trafford","74,241",NA,NA,NA
+2018-03-17,2017,"Swansea City","Tottenham Hotspur","0-3",0,3,"Quarter-final","initial",NA,NA,NA,NA,NA,"Liberty Stadium","17,498",NA,NA,NA
+2018-03-18,2017,"Leicester City","Chelsea","1-2",1,2,"Quarter-final","initial","yes",NA,NA,NA,NA,"King Power Stadium","31,792",NA,NA,NA
+2018-03-18,2017,"Wigan Athletic","Southampton","0-2",0,2,"Quarter-final","initial",NA,NA,NA,NA,NA,"DW Stadium","17,110",NA,NA,NA
+2018-04-21,2017,"Manchester United","Tottenham Hotspur","2-1",2,1,"Semi-final","initial",NA,NA,NA,NA,NA,"Wembley Stadium","84,667",NA,NA,"yes"
+2018-04-22,2017,"Chelsea","Southampton","2-0",2,0,"Semi-final","initial",NA,NA,NA,NA,NA,"Wembley Stadium","73,416",NA,NA,"yes"
+2018-05-19,2017,"Chelsea","Manchester United","1-0",1,0,"Final","initial",NA,NA,NA,NA,NA,"Wembley Stadium","87,647",NA,NA,"yes"
+2018-11-09,2018,"Haringey Borough","AFC Wimbledon","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,"Coles Park, Tottenham",NA,NA,NA,NA
+2018-11-10,2018,"Accrington Stanley","Colchester United","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Wham Stadium",NA,NA,NA,NA
+2018-11-10,2018,"Aldershot Town","Bradford City","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"EBB Stadium at the Recreation Ground, Aldershot",NA,NA,NA,NA
+2018-11-10,2018,"Barnsley","Notts County","4-0",4,0,"1","initial",NA,NA,NA,NA,NA,"Oakwell",NA,NA,NA,NA
+2018-11-10,2018,"Bromley","Peterborough United","1-3",1,3,"1","initial",NA,NA,NA,NA,NA,"Westminster Waste Stadium, Bromley",NA,NA,NA,NA
+2018-11-10,2018,"Bury","Dover Athletic","5-0",5,0,"1","initial",NA,NA,NA,NA,NA,"Energy Check Stadium at Gigg Lane",NA,NA,NA,NA
+2018-11-10,2018,"Chesterfield","Billericay","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"Proact Stadium",NA,NA,NA,NA
+2018-11-10,2018,"Crewe Alexandra","Carlisle United","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,"Gresty Road",NA,NA,NA,NA
+2018-11-10,2018,"Ebbsfleet United","Cheltenham","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Kuflink Stadium, Northfleet",NA,NA,NA,NA
+2018-11-10,2018,"Exeter City","Blackpool","2-3",2,3,"1","initial",NA,NA,NA,NA,NA,"St James Park, Exeter",NA,NA,NA,NA
+2018-11-10,2018,"Gillingham","Hartlepool United","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Medway Priestfield Stadium",NA,NA,NA,NA
+2018-11-10,2018,"Grimsby Town","Milton Keynes Dons","3-1",3,1,"1","initial",NA,NA,NA,NA,NA,"Blundell Park",NA,NA,NA,NA
+2018-11-10,2018,"Lincoln City","Northampton Town","3-2",3,2,"1","initial",NA,NA,NA,NA,NA,"Sincil Bank",NA,NA,NA,NA
+2018-11-10,2018,"Luton Town","Wycombe Wanderers","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"Kenilworth Road",NA,NA,NA,NA
+2018-11-10,2018,"Maidenhead United","Portsmouth","0-4",0,4,"1","initial",NA,NA,NA,NA,NA,"York Road, Maidenhead",NA,NA,NA,NA
+2018-11-10,2018,"Maidstone United","Macclesfield Town","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Gallagher Stadium, Maidstone",NA,NA,NA,NA
+2018-11-10,2018,"Metropolitan Police","Newport County","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,"Imber Court, East Molesey",NA,NA,NA,NA
+2018-11-10,2018,"Morecambe","Halifax Town","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Globe Arena",NA,NA,NA,NA
+2018-11-10,2018,"Oxford United","Forest Green Rovers","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Kassam Stadium",NA,NA,NA,NA
+2018-11-10,2018,"Plymouth Argyle","Stevenage Borough","1-0",1,0,"1","initial",NA,NA,NA,NA,NA,"Home Park",NA,NA,NA,NA
+2018-11-10,2018,"Rochdale","Gateshead","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Crown Oil Arena",NA,NA,NA,NA
+2018-11-10,2018,"Scunthorpe United","Burton Albion","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Glanford Park",NA,NA,NA,NA
+2018-11-10,2018,"Southend United","Crawley Town","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"Roots Hall",NA,NA,NA,NA
+2018-11-10,2018,"Southport","Boreham Wood","2-0",2,0,"1","initial",NA,NA,NA,NA,NA,"Merseyrail Community Stadium, Southport",NA,NA,NA,NA
+2018-11-10,2018,"Sutton United","Slough Town","0-0",0,0,"1","initial",NA,NA,NA,NA,NA,"Borough Sports Ground, Sutton",NA,NA,NA,NA
+2018-11-10,2018,"Swindon Town","York City","2-1",2,1,"1","initial",NA,NA,NA,NA,NA,"Energy Check County Ground",NA,NA,NA,NA
+2018-11-10,2018,"Torquay United","Woking","0-1",0,1,"1","initial",NA,NA,NA,NA,NA,"Plainmoor, Torquay",NA,NA,NA,NA
+2018-11-10,2018,"Tranmere Rovers","Oxford City","3-3",3,3,"1","initial",NA,NA,NA,NA,NA,"Prenton Park",NA,NA,NA,NA
+2018-11-10,2018,"Walsall","Coventry City","3-2",3,2,"1","initial",NA,NA,NA,NA,NA,"Banks's Stadium",NA,NA,NA,NA
+2018-11-10,2018,"Yeovil","Stockport County","1-3",1,3,"1","initial",NA,NA,NA,NA,NA,"Huish Park",NA,NA,NA,NA
+2018-11-11,2018,"Alfreton Town","Fleetwood Town","1-4",1,4,"1","initial",NA,NA,NA,NA,NA,"Impact Arena, Alfreton",NA,NA,NA,NA
+2018-11-11,2018,"Barnet","Bristol Rovers","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"The Hive, Edgware",NA,NA,NA,NA
+2018-11-11,2018,"Chorley","Doncaster Rovers","2-2",2,2,"1","initial",NA,NA,NA,NA,NA,"Chorley Group Victory Park Stadium, Chorley",NA,NA,NA,NA
+2018-11-11,2018,"Guiseley AFC","Cambridge United","4-3",4,3,"1","initial",NA,NA,NA,NA,NA,"Nethermoor Park, Guiseley",NA,NA,NA,NA
+2018-11-11,2018,"Hitchin Town","Solihull","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,"Top Field, Hitchin",NA,NA,NA,NA
+2018-11-11,2018,"Mansfield Town","Charlton Athletic","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"One Call Stadium",NA,NA,NA,NA
+2018-11-11,2018,"Port Vale","Sunderland","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,"Vale Park",NA,NA,NA,NA
+2018-11-11,2018,"Shrewsbury Town","Salford City","1-1",1,1,"1","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow",NA,NA,NA,NA
+2018-11-11,2018,"Weston-super-Mare","Wrexham","0-2",0,2,"1","initial",NA,NA,NA,NA,NA,"Woodspring Stadium, Weston-super-Mare",NA,NA,NA,NA
+2018-11-12,2018,"Hampton & Richmond","Oldham Athletic","1-2",1,2,"1","initial",NA,NA,NA,NA,NA,"Beveree Stadium, Hampton",NA,NA,NA,NA
+2018-11-20,2018,"Billericay","Chesterfield","1-3",1,3,"1","replay",NA,NA,NA,NA,NA,"AGP Arena, Billericay",NA,NA,NA,NA
+2018-11-20,2018,"Bradford City","Aldershot Town","1-1",1,1,"1","replay","yes","yes","4-1","4","1","Northern Commercials Stadium",NA,NA,NA,NA
+2018-11-20,2018,"Charlton Athletic","Mansfield Town","5-0",5,0,"1","replay",NA,NA,NA,NA,NA,"The Valley",NA,NA,NA,NA
+2018-11-20,2018,"Cheltenham","Ebbsfleet United","2-0",2,0,"1","replay",NA,NA,NA,NA,NA,"Jonny-Rocks Stadium",NA,NA,NA,NA
+2018-11-20,2018,"Crawley Town","Southend United","2-6",2,6,"1","replay","yes",NA,NA,NA,NA,"Checkatrade.com Stadium",NA,NA,NA,NA
+2018-11-20,2018,"Doncaster Rovers","Chorley","7-0",7,0,"1","replay",NA,NA,NA,NA,NA,"Keepmoat Stadium",NA,NA,NA,NA
+2018-11-20,2018,"Halifax Town","Morecambe","1-0",1,0,"1","replay",NA,NA,NA,NA,NA,"MBi Shay Stadium",NA,NA,NA,NA
+2018-11-20,2018,"Forest Green Rovers","Oxford United","0-3",0,3,"1","replay",NA,NA,NA,NA,NA,"The New Lawn, Nailsworth",NA,NA,NA,NA
+2018-11-20,2018,"Oxford City","Tranmere Rovers","0-2",0,2,"1","replay",NA,NA,NA,NA,NA,"Court Place Farm, Oxford",NA,NA,NA,NA
+2018-11-20,2018,"Slough Town","Sutton United","1-1",1,1,"1","replay","yes","yes","8-7","8","7","Arbour Park, Slough",NA,NA,NA,NA
+2018-11-21,2018,"Bristol Rovers","Barnet","1-2",1,2,"1","replay",NA,NA,NA,NA,NA,"Memorial Stadium",NA,NA,NA,NA
+2018-11-21,2018,"Hartlepool United","Gillingham","3-4",3,4,"1","replay","yes",NA,NA,NA,NA,"Super 6 Stadium, Hartlepool",NA,NA,NA,NA
+2018-11-21,2018,"Salford City","Shrewsbury Town","1-3",1,3,"1","replay",NA,NA,NA,NA,NA,"Peninsula Stadium, Salford",NA,NA,NA,NA
+2018-11-30,2018,"Solihull","Blackpool","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,"Automated Technology Group Stadium, Solihull",NA,NA,NA,NA
+2018-12-01,2018,"Accrington Stanley","Cheltenham","3-1",3,1,"2","initial",NA,NA,NA,NA,NA,"Wham Stadium",NA,NA,NA,NA
+2018-12-01,2018,"Charlton Athletic","Doncaster Rovers","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,"The Valley",NA,NA,NA,NA
+2018-12-01,2018,"Halifax Town","AFC Wimbledon","1-3",1,3,"2","initial",NA,NA,NA,NA,NA,"MBi Shay Stadium",NA,NA,NA,NA
+2018-12-01,2018,"Lincoln City","Carlisle United","2-0",2,0,"2","initial",NA,NA,NA,NA,NA,"Sincil Bank",NA,NA,NA,NA
+2018-12-01,2018,"Maidstone United","Oldham Athletic","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,"Gallagher Stadium, Maidstone",NA,NA,NA,NA
+2018-12-01,2018,"Peterborough United","Bradford City","2-2",2,2,"2","initial",NA,NA,NA,NA,NA,"ABAX Stadium",NA,NA,NA,NA
+2018-12-01,2018,"Plymouth Argyle","Oxford United","1-2",1,2,"2","initial",NA,NA,NA,NA,NA,"Home Park",NA,NA,NA,NA
+2018-12-01,2018,"Southend United","Barnsley","2-4",2,4,"2","initial",NA,NA,NA,NA,NA,"Roots Hall",NA,NA,NA,NA
+2018-12-01,2018,"Walsall","Sunderland","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"Banks's Stadium",NA,NA,NA,NA
+2018-12-01,2018,"Wrexham","Newport County","0-0",0,0,"2","initial",NA,NA,NA,NA,NA,"My Racecourse, Wrexham",NA,NA,NA,NA
+2018-12-02,2018,"Barnet","Stockport County","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,"The Hive, Edgware",NA,NA,NA,NA
+2018-12-02,2018,"Bury","Luton Town","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,"Energy Check Stadium at Gigg Lane",NA,NA,NA,NA
+2018-12-02,2018,"Chesterfield","Grimsby Town","0-2",0,2,"2","initial",NA,NA,NA,NA,NA,"Proact Stadium",NA,NA,NA,NA
+2018-12-02,2018,"Rochdale","Portsmouth","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,"Crown Oil Arena",NA,NA,NA,NA
+2018-12-02,2018,"Shrewsbury Town","Scunthorpe United","1-0",1,0,"2","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow",NA,NA,NA,NA
+2018-12-02,2018,"Slough Town","Gillingham","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,"Arbour Park, Slough",NA,NA,NA,NA
+2018-12-02,2018,"Swindon Town","Woking","0-1",0,1,"2","initial",NA,NA,NA,NA,NA,"Energy Check County Ground",NA,NA,NA,NA
+2018-12-02,2018,"Tranmere Rovers","Southport","1-1",1,1,"2","initial",NA,NA,NA,NA,NA,"Prenton Park",NA,NA,NA,NA
+2018-12-03,2018,"Guiseley AFC","Fleetwood Town","1-2",1,2,"2","initial",NA,NA,NA,NA,NA,"Nethermoor Park, Guiseley",NA,NA,NA,NA
+2018-12-11,2018,"Bradford City","Peterborough United","4-4",4,4,"2","replay","yes","yes","2-3","2","3","Northern Commercials Stadium",NA,NA,NA,NA
+2018-12-11,2018,"Newport County","Wrexham","4-0",4,0,"2","replay",NA,NA,NA,NA,NA,"Rodney Parade",NA,NA,NA,NA
+2018-12-11,2018,"Sunderland","Walsall","0-1",0,1,"2","replay",NA,NA,NA,NA,NA,"Stadium of Light",NA,NA,NA,NA
+2018-12-17,2018,"Southport","Tranmere Rovers","0-2",0,2,"2","replay",NA,NA,NA,NA,NA,"Merseyrail Community Stadium, Southport",NA,NA,NA,NA
+2018-12-18,2018,"Blackpool","Solihull","3-2",3,2,"2","replay","yes",NA,NA,NA,NA,"Bloomfield Road",NA,NA,NA,NA
+2019-01-04,2018,"Tranmere Rovers","Tottenham Hotspur","0-7",0,7,"3","initial",NA,NA,NA,NA,NA,"Prenton Park","12,553",NA,NA,NA
+2019-01-05,2018,"Accrington Stanley","Ipswich Town","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"Wham Stadium",NA,NA,NA,NA
+2019-01-05,2018,"AFC Bournemouth","Brighton & Hove Albion","1-3",1,3,"3","initial",NA,NA,NA,NA,NA,"Vitality Stadium","10,522",NA,NA,NA
+2019-01-05,2018,"Aston Villa","Swansea City","0-3",0,3,"3","initial",NA,NA,NA,NA,NA,"Villa Park",NA,NA,NA,NA
+2019-01-05,2018,"Blackpool","Arsenal","0-3",0,3,"3","initial",NA,NA,NA,NA,NA,"Bloomfield Road","8,955",NA,NA,NA
+2019-01-05,2018,"Bolton Wanderers","Walsall","5-2",5,2,"3","initial",NA,NA,NA,NA,NA,"University of Bolton Stadium",NA,NA,NA,NA
+2019-01-05,2018,"Brentford","Oxford United","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"Griffin Park",NA,NA,NA,NA
+2019-01-05,2018,"Bristol City","Huddersfield Town","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"Ashton Gate","12,178",NA,NA,NA
+2019-01-05,2018,"Burnley","Barnsley","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"Turf Moor","11,053",NA,NA,NA
+2019-01-05,2018,"Chelsea","Nottingham Forest","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,"Stamford Bridge","40,544",NA,NA,NA
+2019-01-05,2018,"Crystal Palace","Grimsby Town","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"Selhurst Park","19,967",NA,NA,NA
+2019-01-05,2018,"Derby County","Southampton","2-2",2,2,"3","initial",NA,NA,NA,NA,NA,"Pride Park","17,095",NA,NA,NA
+2019-01-05,2018,"Everton","Lincoln City","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Goodison Park","37,900",NA,NA,NA
+2019-01-05,2018,"Fleetwood Town","AFC Wimbledon","2-3",2,3,"3","initial",NA,NA,NA,NA,NA,"Highbury Stadium, Fleetwood",NA,NA,NA,NA
+2019-01-05,2018,"Gillingham","Cardiff City","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"Medway Priestfield Stadium","7,090",NA,NA,NA
+2019-01-05,2018,"Manchester United","Reading","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,"Old Trafford","73,918",NA,NA,NA
+2019-01-05,2018,"Middlesbrough","Peterborough United","5-0",5,0,"3","initial",NA,NA,NA,NA,NA,"Riverside Stadium",NA,NA,NA,NA
+2019-01-05,2018,"Newcastle United","Blackburn Rovers","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,"St James' Park","36,440",NA,NA,NA
+2019-01-05,2018,"Norwich City","Portsmouth","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Carrow Road",NA,NA,NA,NA
+2019-01-05,2018,"Sheffield Wednesday","Luton Town","0-0",0,0,"3","initial",NA,NA,NA,NA,NA,"Hillsborough",NA,NA,NA,NA
+2019-01-05,2018,"Shrewsbury Town","Stoke City","1-1",1,1,"3","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow",NA,NA,NA,NA
+2019-01-05,2018,"West Bromwich Albion","Wigan Athletic","1-0",1,0,"3","initial",NA,NA,NA,NA,NA,"The Hawthorns",NA,NA,NA,NA
+2019-01-05,2018,"West Ham United","Birmingham City","2-0",2,0,"3","initial",NA,NA,NA,NA,NA,"London Stadium","54,840",NA,NA,NA
+2019-01-06,2018,"Fulham","Oldham Athletic","1-2",1,2,"3","initial",NA,NA,NA,NA,NA,"Craven Cottage","16,134",NA,NA,NA
+2019-01-06,2018,"Manchester City","Rotherham United","7-0",7,0,"3","initial",NA,NA,NA,NA,NA,"Etihad Stadium","52,708",NA,NA,NA
+2019-01-06,2018,"Millwall","Hull City","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"The New Den",NA,NA,NA,NA
+2019-01-06,2018,"Newport County","Leicester City","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Rodney Parade","6,705",NA,NA,NA
+2019-01-06,2018,"Preston North End","Doncaster Rovers","1-3",1,3,"3","initial",NA,NA,NA,NA,NA,"Deepdale",NA,NA,NA,NA
+2019-01-06,2018,"Queens Park Rangers","Leeds United","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Loftus Road",NA,NA,NA,NA
+2019-01-06,2018,"Sheffield United","Barnet","0-1",0,1,"3","initial",NA,NA,NA,NA,NA,"Bramall Lane",NA,NA,NA,NA
+2019-01-06,2018,"Woking","Watford","0-2",0,2,"3","initial",NA,NA,NA,NA,NA,"Laithwaite Community Stadium, Woking","5,717",NA,NA,NA
+2019-01-07,2018,"Wolverhampton Wanderers","Liverpool","2-1",2,1,"3","initial",NA,NA,NA,NA,NA,"Molineux","25,849",NA,NA,NA
+2019-01-15,2018,"Blackburn Rovers","Newcastle United","2-4",2,4,"3","replay","yes",NA,NA,NA,NA,"Ewood Park","14,228",NA,NA,NA
+2019-01-15,2018,"Luton Town","Sheffield Wednesday","0-1",0,1,"3","replay",NA,NA,NA,NA,NA,"Kenilworth Road",NA,NA,NA,NA
+2019-01-15,2018,"Stoke City","Shrewsbury Town","2-3",2,3,"3","replay",NA,NA,NA,NA,NA,"bet365 Stadium",NA,NA,NA,NA
+2019-01-16,2018,"Southampton","Derby County","2-2",2,2,"3","replay","yes","yes","3-5","3","5","St Mary's Stadium","14,651",NA,NA,NA
+2019-01-25,2018,"Arsenal","Manchester United","1-3",1,3,"4","initial",NA,NA,NA,NA,NA,"Emirates Stadium","59,571",NA,NA,NA
+2019-01-25,2018,"Bristol City","Bolton Wanderers","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,"Ashton Gate",NA,NA,NA,NA
+2019-01-26,2018,"Accrington Stanley","Derby County","0-1",0,1,"4","initial",NA,NA,NA,NA,NA,"Wham Stadium",NA,NA,NA,NA
+2019-01-26,2018,"AFC Wimbledon","West Ham United","4-2",4,2,"4","initial",NA,NA,NA,NA,NA,"Cherry Red Records Fans Stadium","4,777",NA,NA,NA
+2019-01-26,2018,"Brighton & Hove Albion","West Bromwich Albion","0-0",0,0,"4","initial",NA,NA,NA,NA,NA,"AMEX Stadium","20,001",NA,NA,NA
+2019-01-26,2018,"Doncaster Rovers","Oldham Athletic","2-1",2,1,"4","initial",NA,NA,NA,NA,NA,"Keepmoat Stadium",NA,NA,NA,NA
+2019-01-26,2018,"Manchester City","Burnley","5-0",5,0,"4","initial",NA,NA,NA,NA,NA,"Etihad Stadium","50,121",NA,NA,NA
+2019-01-26,2018,"Middlesbrough","Newport County","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,"Riverside Stadium",NA,NA,NA,NA
+2019-01-26,2018,"Millwall","Everton","3-2",3,2,"4","initial",NA,NA,NA,NA,NA,"The New Den","16,354",NA,NA,NA
+2019-01-26,2018,"Newcastle United","Watford","0-2",0,2,"4","initial",NA,NA,NA,NA,NA,"St James' Park","34,604",NA,NA,NA
+2019-01-26,2018,"Portsmouth","Queens Park Rangers","1-1",1,1,"4","initial",NA,NA,NA,NA,NA,"Fratton Park",NA,NA,NA,NA
+2019-01-26,2018,"Shrewsbury Town","Wolverhampton Wanderers","2-2",2,2,"4","initial",NA,NA,NA,NA,NA,"Montgomery Waters Meadow","9,503",NA,NA,NA
+2019-01-26,2018,"Swansea City","Gillingham","4-1",4,1,"4","initial",NA,NA,NA,NA,NA,"Liberty Stadium",NA,NA,NA,NA
+2019-01-27,2018,"Chelsea","Sheffield Wednesday","3-0",3,0,"4","initial",NA,NA,NA,NA,NA,"Stamford Bridge","37,433",NA,NA,NA
+2019-01-27,2018,"Crystal Palace","Tottenham Hotspur","2-0",2,0,"4","initial",NA,NA,NA,NA,NA,"Selhurst Park","19,491",NA,NA,NA
+2019-01-28,2018,"Barnet","Brentford","3-3",3,3,"4","initial",NA,NA,NA,NA,NA,"The Hive, Edgware",NA,NA,NA,NA
+2019-02-05,2018,"Brentford","Barnet","3-1",3,1,"4","replay",NA,NA,NA,NA,NA,"Griffin Park",NA,NA,NA,NA
+2019-02-05,2018,"Newport County","Middlesbrough","2-0",2,0,"4","replay",NA,NA,NA,NA,NA,"Rodney Parade",NA,NA,NA,NA
+2019-02-05,2018,"Queens Park Rangers","Portsmouth","2-0",2,0,"4","replay",NA,NA,NA,NA,NA,"Loftus Road",NA,NA,NA,NA
+2019-02-05,2018,"Wolverhampton Wanderers","Shrewsbury Town","3-2",3,2,"4","replay",NA,NA,NA,NA,NA,"Molineux","28,844",NA,NA,NA
+2019-02-06,2018,"West Bromwich Albion","Brighton & Hove Albion","1-3",1,3,"4","replay","yes",NA,NA,NA,NA,"The Hawthorns","8,645",NA,NA,NA
+2019-02-15,2018,"Queens Park Rangers","Watford","0-1",0,1,"5","initial",NA,NA,NA,NA,NA,"Loftus Road","17,212",NA,NA,NA
+2019-02-16,2018,"AFC Wimbledon","Millwall","0-1",0,1,"5","initial",NA,NA,NA,NA,NA,"Cherry Red Records Fans Stadium",NA,NA,NA,NA
+2019-02-16,2018,"Brighton & Hove Albion","Derby County","2-1",2,1,"5","initial",NA,NA,NA,NA,NA,"AMEX Stadium","24,562",NA,NA,NA
+2019-02-16,2018,"Newport County","Manchester City","1-4",1,4,"5","initial",NA,NA,NA,NA,NA,"Rodney Parade","9,680",NA,NA,NA
+2019-02-17,2018,"Bristol City","Wolverhampton Wanderers","0-1",0,1,"5","initial",NA,NA,NA,NA,NA,"Ashton Gate","24,394",NA,NA,NA
+2019-02-17,2018,"Doncaster Rovers","Crystal Palace","0-2",0,2,"5","initial",NA,NA,NA,NA,NA,"Keepmoat Stadium","14,010",NA,NA,NA
+2019-02-17,2018,"Swansea City","Brentford","4-1",4,1,"5","initial",NA,NA,NA,NA,NA,"Liberty Stadium",NA,NA,NA,NA
+2019-02-18,2018,"Chelsea","Manchester United","0-2",0,2,"5","initial",NA,NA,NA,NA,NA,"Stamford Bridge","40,562",NA,NA,NA
+2019-03-16,2018,"Swansea City","Manchester City","2-3",2,3,"Quarter-final","initial",NA,NA,NA,NA,NA,"Liberty Stadium","20,498",NA,NA,NA
+2019-03-16,2018,"Watford","Crystal Palace","2-1",2,1,"Quarter-final","initial",NA,NA,NA,NA,NA,"Vicarage Road","18,104",NA,NA,NA
+2019-03-16,2018,"Wolverhampton Wanderers","Manchester United","2-0",2,0,"Quarter-final","initial",NA,NA,NA,NA,NA,"Molineux","31,004",NA,NA,NA
+2019-03-17,2018,"Millwall","Brighton & Hove Albion","2-2",2,2,"Quarter-final","initial","yes","yes","4-5","4","5","The New Den","17,137",NA,NA,NA
+2019-04-06,2018,"Manchester City","Brighton & Hove Albion","1-0",1,0,"Semi-final","initial",NA,NA,NA,NA,NA,"Wembley Stadium","71,521",NA,NA,"yes"
+2019-04-07,2018,"Watford","Wolverhampton Wanderers","3-2",3,2,"Semi-final","initial","yes",NA,NA,NA,NA,"Wembley Stadium","80,092",NA,NA,"yes"
+2019-05-18,2018,"Manchester City","Watford","6-0",6,0,"Final","initial",NA,NA,NA,NA,NA,"Wembley Stadium","85,854",NA,NA,"yes"

@@ -320,12 +320,12 @@ league_cup_data <- lapply(year_links, function(link) {
 old_data <- engsoccerdata::england %>%
   filter(Season > 2014)
 
-year_links <- c("https://www.11v11.com/competitions/premier-league/2018/",
-                "https://www.11v11.com/competitions/league-championship/2018/",
-                "https://www.11v11.com/competitions/league-one/2018/",
-                "https://www.11v11.com/competitions/league-two/2018/")
+year_links <- c("https://www.11v11.com/competitions/premier-league/2019/",
+                "https://www.11v11.com/competitions/league-championship/2019/",
+                "https://www.11v11.com/competitions/league-one/2019/",
+                "https://www.11v11.com/competitions/league-two/2019/")
 
-league_data <- lapply(year_links, function(link) {
+league_data <- lapply(year_links[4], function(link) {
   league_season <- as.numeric(gsub(".*\\/", "", gsub("\\/$", "", link))) - 1
   if(grepl("premier-league", link)) {
     division <- 1
@@ -351,6 +351,25 @@ league_data <- lapply(year_links, function(link) {
     do.call(rbind, .)
 }) %>%
   do.call(rbind, .)
+
+
+new_data %>%
+    mutate(home = case_when(
+        grepl("Brighton and Hove", home) ~ "Brighton & Hove Albion",
+        grepl("Cheltenham Town", home) ~ "Cheltenham",
+        grepl("Stevenage", home) ~ "Stevenage Borough",
+        grepl("Macclesfield Town", home) ~ "Macclesfield",
+        grepl("Yeovil", home) ~ "Yeovil",
+        TRUE ~ home
+    )) %>%
+      mutate(visitor = case_when(
+        grepl("Brighton and Hove", visitor) ~ "Brighton & Hove Albion",
+        grepl("Cheltenham Town", visitor) ~ "Cheltenham",
+        grepl("Stevenage", visitor) ~ "Stevenage Borough",
+        grepl("Macclesfield Town", visitor) ~ "Macclesfield",
+        grepl("Yeovil", visitor) ~ "Yeovil",
+        TRUE ~ visitor
+    ))
 
 ```
 
