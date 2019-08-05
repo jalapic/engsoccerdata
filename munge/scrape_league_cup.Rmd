@@ -88,12 +88,12 @@ get_match_data <- function(link, cup_year) {
     aet <- NA
   }
 
-  Venue <- read %>%
+  attendance <- read %>%
     html_nodes(".basicData tr:nth-child(4) td+ td") %>%
     html_text()
   
-  attendance <- read %>%
-    html_nodes(".basicData tr:nth-child(5) td+ td") %>%
+  Venue <- read %>%
+    html_nodes(".basicData tr:nth-child(3) td+ td") %>%
     html_text()
   
   northsouth <- NA
@@ -118,7 +118,7 @@ year_links <- c("https://www.11v11.com/competitions/league-cup/2007/",
                 "https://www.11v11.com/competitions/league-cup/2017/",
                 "https://www.11v11.com/competitions/league-cup/2018/")
 
-league_cup_data <- lapply(year_links, function(link) {
+updated_data <- lapply(year_links, function(link) {
   cup_year <- as.numeric(gsub(".*league-cup\\/", "", gsub("\\/$", "", link))) - 1
   match_links <- read_html(paste0(link, "matches/")) %>%
     html_nodes(".score a") %>%
@@ -132,6 +132,11 @@ league_cup_data <- lapply(year_links, function(link) {
 }) %>%
   do.call(rbind, .)
 
+```
+
+```{r}
+new_teams <- unique(c(updated_data$home, updated_data$visitor))
+old_teams <- unique(c(full_league_cup_data$home, full_league_cup_data$visitor))
 ```
 
 
