@@ -374,8 +374,7 @@ new_data %>%
 ```
 
 ```{r scrape_fac_cup, warning=FALSE,message=FALSE}
-old_data <- engsoccerdata::facup %>%
-  filter(Season > 2014)
+old_data <- engsoccerdata::facup %>% filter(Season > 2014)
 
 fa_cup_data <- "https://www.11v11.com/competitions/fa-cup/2018/matches/" %>%
   read_html() %>%
