@@ -7401,94 +7401,94 @@
 2018-01-23,2017,"Bristol City","Manchester City","2-3",2,3,"Semi-final","initial",2,NA,NA,"Ashton Gate",26003,NA
 2018-01-24,2017,"Arsenal","Chelsea","2-1",2,1,"Semi-final","initial",2,NA,NA,"Emirates Stadium",58964,NA
 2018-02-25,2017,"Arsenal","Manchester City","0-3",0,3,"Final","initial",1,NA,NA,"Wembley Stadium",85671,NA
-2018-08-14,2018,"Blackpool","Barnsley","3-1",3,1,"Bloomfield","initial",1,NA,NA,"Bloomfield Road",1937,NA
-2018-08-14,2018,"Bristol City","Plymouth Argyle","0-1",0,1,"Ashton","initial",1,NA,NA,"Ashton Gate",9865,NA
-2018-08-14,2018,"Bristol Rovers","Crawley Town","2-1",2,1,"Memorial","initial",1,NA,NA,"Memorial Stadium",2336,NA
-2018-08-14,2018,"Cambridge United","Newport County","1-4",1,4,"Abbey","initial",1,NA,NA,"Abbey Stadium",1618,NA
-2018-08-14,2018,"Carlisle United","Blackburn Rovers","1-5",1,5,"Brunton","initial",1,NA,NA,"Brunton Park",3156,NA
-2018-08-14,2018,"Cheltenham Town","Colchester United","2-2",2,2,"Jonny-Rocks","initial",1,NA,NA,"Jonny-Rocks Stadium",1179,NA
-2018-08-14,2018,"Crewe Alexandra","Fleetwood Town","1-1",1,1,"Gresty","initial",1,NA,NA,"Gresty Road",1783,NA
-2018-08-14,2018,"Exeter City","Ipswich Town","1-1",1,1,"St","initial",1,NA,NA,"St James Park, Exeter",3675,NA
-2018-08-14,2018,"Grimsby Town","Rochdale","0-2",0,2,"Blundell","initial",1,NA,NA,"Blundell Park",1781,NA
-2018-08-14,2018,"Leeds United","Bolton Wanderers","2-1",2,1,"Elland","initial",1,NA,NA,"Elland Road",19617,NA
-2018-08-14,2018,"Macclesfield Town","Bradford City","1-1",1,1,"Moss","initial",1,NA,NA,"Moss Rose",1422,NA
-2018-08-14,2018,"Mansfield Town","Accrington Stanley","6-1",6,1,"One","initial",1,NA,NA,"One Call Stadium",1565,NA
-2018-08-14,2018,"Middlesbrough","Notts County","3-3",3,3,"Riverside","initial",1,NA,NA,"Riverside Stadium",9942,NA
-2018-08-14,2018,"Millwall","Gillingham","0-0",0,0,"The","initial",1,NA,NA,"The New Den",4401,NA
-2018-08-14,2018,"Milton Keynes Dons","Charlton Athletic","3-0",3,0,"Stadium","initial",1,NA,NA,"Stadium MK",3052,NA
-2018-08-14,2018,"Norwich City","Stevenage Borough","3-1",3,1,"Carrow","initial",1,NA,NA,"Carrow Road",11687,NA
-2018-08-14,2018,"Nottingham Forest","Bury","1-1",1,1,"City","initial",1,NA,NA,"City Ground",8172,NA
-2018-08-14,2018,"Oldham Athletic","Derby County","0-2",0,2,"Boundary","initial",1,NA,NA,"Boundary Park",3376,NA
-2018-08-14,2018,"Oxford United","Coventry City","2-0",2,0,"Kassam","initial",1,NA,NA,"Kassam Stadium",3551,NA
-2018-08-14,2018,"Port Vale","Lincoln City","0-4",0,4,"Vale","initial",1,NA,NA,"Vale Park",2440,NA
-2018-08-14,2018,"Portsmouth","AFC Wimbledon","1-2",1,2,"Fratton","initial",1,NA,NA,"Fratton Park",6588,NA
-2018-08-14,2018,"Preston North End","Morecambe","3-1",3,1,"Deepdale","initial",1,NA,NA,"Deepdale",6077,NA
-2018-08-14,2018,"Queens Park Rangers","Peterborough United","2-0",2,0,"Loftus","initial",1,NA,NA,"Loftus Road",4021,NA
-2018-08-14,2018,"Reading","Birmingham City","2-0",2,0,"Madejski","initial",1,NA,NA,"Madejski Stadium",6934,NA
-2018-08-14,2018,"Rotherham United","Wigan Athletic","3-1",3,1,"AESSEAL","initial",1,NA,NA,"AESSEAL New York Stadium",3017,NA
-2018-08-14,2018,"Scunthorpe United","Doncaster Rovers","1-2",1,2,"Glanford","initial",1,NA,NA,"Glanford Park",3272,NA
-2018-08-14,2018,"Sheffield United","Hull City","1-1",1,1,"Bramall","initial",1,NA,NA,"Bramall Lane",6327,NA
-2018-08-14,2018,"Shrewsbury Town","Burton Albion","1-2",1,2,"Montgomery","initial",1,NA,NA,"Montgomery Waters Meadow",2708,NA
-2018-08-14,2018,"Southend United","Brentford","2-4",2,4,"Roots","initial",1,NA,NA,"Roots Hall",3055,NA
-2018-08-14,2018,"Swindon Town","Forest Green Rovers","0-1",0,1,"Energy","initial",1,NA,NA,"Energy Check County Ground",3451,NA
-2018-08-14,2018,"Tranmere Rovers","Walsall","1-3",1,3,"Prenton","initial",1,NA,NA,"Prenton Park",3817,NA
-2018-08-14,2018,"West Bromwich Albion","Luton Town","1-0",1,0,"The","initial",1,NA,NA,"The Hawthorns",10404,NA
-2018-08-14,2018,"Wycombe Wanderers","Northampton Town","1-1",1,1,"Adams","initial",1,NA,NA,"Adams Park",1999,NA
-2018-08-14,2018,"Yeovil Town","Aston Villa","0-1",0,1,"Huish","initial",1,NA,NA,"Huish Park",6123,NA
-2018-08-16,2018,"Sunderland","Sheffield Wednesday","0-2",0,2,"Stadium","initial",1,NA,NA,"Stadium of Light",13890,NA
-2018-08-28,2018,"AFC Bournemouth","Milton Keynes Dons","3-0",3,0,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"AFC Wimbledon","West Ham United","1-3",1,3,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Blackburn Rovers","Lincoln City","4-1",4,1,"Ewood","initial",1,NA,NA,"Ewood Park",5211,NA
-2018-08-28,2018,"Brentford","Cheltenham Town","1-0",1,0,"Griffin","initial",1,NA,NA,"Griffin Park",4384,NA
-2018-08-28,2018,"Brighton and Hove Albion","Southampton","0-1",0,1,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Burton Albion","Aston Villa","1-0",1,0,"Pirelli","initial",1,NA,NA,"Pirelli Stadium",3411,NA
-2018-08-28,2018,"Cardiff City","Norwich City","1-3",1,3,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Doncaster Rovers","Blackpool","1-2",1,2,"Keepmoat","initial",1,NA,NA,"Keepmoat Stadium",3188,NA
-2018-08-28,2018,"Fulham","Exeter City","2-0",2,0,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Hull City","Derby County","0-4",0,4,"KCOM","initial",1,NA,NA,"KCOM Stadium",4666,NA
-2018-08-28,2018,"Leeds United","Preston North End","0-2",0,2,"Elland","initial",1,NA,NA,"Elland Road",18652,NA
-2018-08-28,2018,"Leicester City","Fleetwood Town","4-0",4,0,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Middlesbrough","Rochdale","2-1",2,1,"Riverside","initial",1,NA,NA,"Riverside Stadium",10344,NA
-2018-08-28,2018,"Newport County","Oxford United","0-3",0,3,"Rodney","initial",1,NA,NA,"Rodney Parade",2228,NA
-2018-08-28,2018,"Queens Park Rangers","Bristol Rovers","3-1",3,1,"Loftus","initial",1,NA,NA,"Loftus Road",5007,NA
-2018-08-28,2018,"Sheffield Wednesday","Wolverhampton Wanderers","0-2",0,2,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Stoke City","Huddersfield Town","2-0",2,0,NA,"initial",1,NA,NA,"League Cup 2nd round",365,NA
-2018-08-28,2018,"Swansea City","Crystal Palace","0-1",0,1,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-28,2018,"Walsall","Macclesfield Town","3-3",3,3,"Banks's","initial",1,NA,NA,"Banks's Stadium",2352,NA
-2018-08-28,2018,"West Bromwich Albion","Mansfield Town","2-1",2,1,"The","initial",1,NA,NA,"The Hawthorns",10574,NA
-2018-08-28,2018,"Wycombe Wanderers","Forest Green Rovers","2-2",2,2,"Adams","initial",1,NA,NA,"Adams Park",1934,NA
-2018-08-29,2018,"Everton","Rotherham United","3-1",3,1,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-29,2018,"Millwall","Plymouth Argyle","3-2",3,2,"The","initial",1,NA,NA,"The New Den",3645,NA
-2018-08-29,2018,"Nottingham Forest","Newcastle United","3-1",3,1,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-08-29,2018,"Reading","Watford","0-2",0,2,NA,"initial",1,NA,NA,"League Cup 2nd round",NA,NA
-2018-09-25,2018,"AFC Bournemouth","Blackburn Rovers","3-2",3,2,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Blackpool","Queens Park Rangers","2-0",2,0,"Bloomfield","initial",1,NA,NA,"Bloomfield Road",1910,NA
-2018-09-25,2018,"Burton Albion","Burnley","2-1",2,1,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Manchester United","Derby County","2-2",2,2,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Millwall","Fulham","1-3",1,3,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Oxford United","Manchester City","0-3",0,3,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Preston North End","Middlesbrough","2-2",2,2,"Deepdale","initial",1,NA,NA,"Deepdale",5095,NA
-2018-09-25,2018,"West Bromwich Albion","Crystal Palace","0-3",0,3,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Wolverhampton Wanderers","Leicester City","0-0",0,0,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-25,2018,"Wycombe Wanderers","Norwich City","3-4",3,4,"Adams","initial",1,NA,NA,"Adams Park",3947,NA
-2018-09-26,2018,"Arsenal","Brentford","3-1",3,1,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-26,2018,"Liverpool","Chelsea","1-2",1,2,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-26,2018,"Nottingham Forest","Stoke City","3-2",3,2,"City","initial",1,NA,NA,"City Ground",12915,NA
-2018-09-26,2018,"Tottenham Hotspur","Watford","2-2",2,2,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-09-26,2018,"West Ham United","Macclesfield Town","8-0",8,0,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-10-02,2018,"Everton","Southampton","1-1",1,1,NA,"initial",1,NA,NA,"League Cup 3rd round",NA,NA
-2018-10-30,2018,"AFC Bournemouth","Norwich City","2-1",2,1,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-10-30,2018,"Burton Albion","Nottingham Forest","3-2",3,2,"Pirelli","initial",1,NA,NA,"Pirelli Stadium",4284,NA
-2018-10-31,2018,"Arsenal","Blackpool","2-1",2,1,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-10-31,2018,"Chelsea","Derby County","3-2",3,2,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-10-31,2018,"Middlesbrough","Crystal Palace","1-0",1,0,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-10-31,2018,"West Ham United","Tottenham Hotspur","1-3",1,3,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-11-01,2018,"Manchester City","Fulham","2-0",2,0,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-11-27,2018,"Leicester City","Southampton","0-0",0,0,NA,"initial",1,NA,NA,"League Cup 4th round",NA,NA
-2018-12-18,2018,"Leicester City","Manchester City","1-1",1,1,NA,"initial",1,NA,NA,"League Cup 5th round",NA,NA
-2018-12-18,2018,"Middlesbrough","Burton Albion","0-1",0,1,"Riverside","initial",1,NA,NA,"Riverside Stadium",17342,NA
-2018-12-19,2018,"Arsenal","Tottenham Hotspur","0-2",0,2,NA,"initial",1,NA,NA,"League Cup 5th round",NA,NA
-2018-12-19,2018,"Chelsea","AFC Bournemouth","1-0",1,0,NA,"initial",1,NA,NA,"League Cup 5th round",NA,NA
+2018-08-14,2018,"Blackpool","Barnsley","3-1",3,1,"1","initial",1,NA,NA,"Bloomfield Road",1937,NA
+2018-08-14,2018,"Bristol City","Plymouth Argyle","0-1",0,1,"1","initial",1,NA,NA,"Ashton Gate",9865,NA
+2018-08-14,2018,"Bristol Rovers","Crawley Town","2-1",2,1,"1","initial",1,NA,NA,"Memorial Stadium",2336,NA
+2018-08-14,2018,"Cambridge United","Newport County","1-4",1,4,"1","initial",1,NA,NA,"Abbey Stadium",1618,NA
+2018-08-14,2018,"Carlisle United","Blackburn Rovers","1-5",1,5,"1","initial",1,NA,NA,"Brunton Park",3156,NA
+2018-08-14,2018,"Cheltenham Town","Colchester United","2-2",2,2,"1","initial",1,NA,NA,"Jonny-Rocks Stadium",1179,NA
+2018-08-14,2018,"Crewe Alexandra","Fleetwood Town","1-1",1,1,"1","initial",1,NA,NA,"Gresty Road",1783,NA
+2018-08-14,2018,"Exeter City","Ipswich Town","1-1",1,1,"1","initial",1,NA,NA,"St James Park, Exeter",3675,NA
+2018-08-14,2018,"Grimsby Town","Rochdale","0-2",0,2,"1","initial",1,NA,NA,"Blundell Park",1781,NA
+2018-08-14,2018,"Leeds United","Bolton Wanderers","2-1",2,1,"1","initial",1,NA,NA,"Elland Road",19617,NA
+2018-08-14,2018,"Macclesfield Town","Bradford City","1-1",1,1,"1","initial",1,NA,NA,"Moss Rose",1422,NA
+2018-08-14,2018,"Mansfield Town","Accrington Stanley","6-1",6,1,"1","initial",1,NA,NA,"One Call Stadium",1565,NA
+2018-08-14,2018,"Middlesbrough","Notts County","3-3",3,3,"1","initial",1,NA,NA,"Riverside Stadium",9942,NA
+2018-08-14,2018,"Millwall","Gillingham","0-0",0,0,"1","initial",1,NA,NA,"The New Den",4401,NA
+2018-08-14,2018,"Milton Keynes Dons","Charlton Athletic","3-0",3,0,"1","initial",1,NA,NA,"Stadium MK",3052,NA
+2018-08-14,2018,"Norwich City","Stevenage Borough","3-1",3,1,"1","initial",1,NA,NA,"Carrow Road",11687,NA
+2018-08-14,2018,"Nottingham Forest","Bury","1-1",1,1,"1","initial",1,NA,NA,"City Ground",8172,NA
+2018-08-14,2018,"Oldham Athletic","Derby County","0-2",0,2,"1","initial",1,NA,NA,"Boundary Park",3376,NA
+2018-08-14,2018,"Oxford United","Coventry City","2-0",2,0,"1","initial",1,NA,NA,"Kassam Stadium",3551,NA
+2018-08-14,2018,"Port Vale","Lincoln City","0-4",0,4,"1","initial",1,NA,NA,"Vale Park",2440,NA
+2018-08-14,2018,"Portsmouth","AFC Wimbledon","1-2",1,2,"1","initial",1,NA,NA,"Fratton Park",6588,NA
+2018-08-14,2018,"Preston North End","Morecambe","3-1",3,1,"1","initial",1,NA,NA,"Deepdale",6077,NA
+2018-08-14,2018,"Queens Park Rangers","Peterborough United","2-0",2,0,"1","initial",1,NA,NA,"Loftus Road",4021,NA
+2018-08-14,2018,"Reading","Birmingham City","2-0",2,0,"1","initial",1,NA,NA,"Madejski Stadium",6934,NA
+2018-08-14,2018,"Rotherham United","Wigan Athletic","3-1",3,1,"1","initial",1,NA,NA,"AESSEAL New York Stadium",3017,NA
+2018-08-14,2018,"Scunthorpe United","Doncaster Rovers","1-2",1,2,"1","initial",1,NA,NA,"Glanford Park",3272,NA
+2018-08-14,2018,"Sheffield United","Hull City","1-1",1,1,"1","initial",1,NA,NA,"Bramall Lane",6327,NA
+2018-08-14,2018,"Shrewsbury Town","Burton Albion","1-2",1,2,"1","initial",1,NA,NA,"Montgomery Waters Meadow",2708,NA
+2018-08-14,2018,"Southend United","Brentford","2-4",2,4,"1","initial",1,NA,NA,"Roots Hall",3055,NA
+2018-08-14,2018,"Swindon Town","Forest Green Rovers","0-1",0,1,"1","initial",1,NA,NA,"Energy Check County Ground",3451,NA
+2018-08-14,2018,"Tranmere Rovers","Walsall","1-3",1,3,"1","initial",1,NA,NA,"Prenton Park",3817,NA
+2018-08-14,2018,"West Bromwich Albion","Luton Town","1-0",1,0,"1","initial",1,NA,NA,"The Hawthorns",10404,NA
+2018-08-14,2018,"Wycombe Wanderers","Northampton Town","1-1",1,1,"1","initial",1,NA,NA,"Adams Park",1999,NA
+2018-08-14,2018,"Yeovil Town","Aston Villa","0-1",0,1,"1","initial",1,NA,NA,"Huish Park",6123,NA
+2018-08-16,2018,"Sunderland","Sheffield Wednesday","0-2",0,2,"1","initial",1,NA,NA,"Stadium of Light",13890,NA
+2018-08-28,2018,"AFC Bournemouth","Milton Keynes Dons","3-0",3,0,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"AFC Wimbledon","West Ham United","1-3",1,3,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Blackburn Rovers","Lincoln City","4-1",4,1,"2","initial",1,NA,NA,"Ewood Park",5211,NA
+2018-08-28,2018,"Brentford","Cheltenham Town","1-0",1,0,"2","initial",1,NA,NA,"Griffin Park",4384,NA
+2018-08-28,2018,"Brighton and Hove Albion","Southampton","0-1",0,1,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Burton Albion","Aston Villa","1-0",1,0,"2","initial",1,NA,NA,"Pirelli Stadium",3411,NA
+2018-08-28,2018,"Cardiff City","Norwich City","1-3",1,3,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Doncaster Rovers","Blackpool","1-2",1,2,"2","initial",1,NA,NA,"Keepmoat Stadium",3188,NA
+2018-08-28,2018,"Fulham","Exeter City","2-0",2,0,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Hull City","Derby County","0-4",0,4,"2","initial",1,NA,NA,"KCOM Stadium",4666,NA
+2018-08-28,2018,"Leeds United","Preston North End","0-2",0,2,"2","initial",1,NA,NA,"Elland Road",18652,NA
+2018-08-28,2018,"Leicester City","Fleetwood Town","4-0",4,0,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Middlesbrough","Rochdale","2-1",2,1,"2","initial",1,NA,NA,"Riverside Stadium",10344,NA
+2018-08-28,2018,"Newport County","Oxford United","0-3",0,3,"2","initial",1,NA,NA,"Rodney Parade",2228,NA
+2018-08-28,2018,"Queens Park Rangers","Bristol Rovers","3-1",3,1,"2","initial",1,NA,NA,"Loftus Road",5007,NA
+2018-08-28,2018,"Sheffield Wednesday","Wolverhampton Wanderers","0-2",0,2,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Stoke City","Huddersfield Town","2-0",2,0,"2","initial",1,NA,NA,"League Cup 2nd round",365,NA
+2018-08-28,2018,"Swansea City","Crystal Palace","0-1",0,1,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-28,2018,"Walsall","Macclesfield Town","3-3",3,3,"2","initial",1,NA,NA,"Banks's Stadium",2352,NA
+2018-08-28,2018,"West Bromwich Albion","Mansfield Town","2-1",2,1,"2","initial",1,NA,NA,"The Hawthorns",10574,NA
+2018-08-28,2018,"Wycombe Wanderers","Forest Green Rovers","2-2",2,2,"2","initial",1,NA,NA,"Adams Park",1934,NA
+2018-08-29,2018,"Everton","Rotherham United","3-1",3,1,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-29,2018,"Millwall","Plymouth Argyle","3-2",3,2,"2","initial",1,NA,NA,"The New Den",3645,NA
+2018-08-29,2018,"Nottingham Forest","Newcastle United","3-1",3,1,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-08-29,2018,"Reading","Watford","0-2",0,2,"2","initial",1,NA,NA,"League Cup 2nd round",NA,NA
+2018-09-25,2018,"AFC Bournemouth","Blackburn Rovers","3-2",3,2,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Blackpool","Queens Park Rangers","2-0",2,0,"3","initial",1,NA,NA,"Bloomfield Road",1910,NA
+2018-09-25,2018,"Burton Albion","Burnley","2-1",2,1,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Manchester United","Derby County","2-2",2,2,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Millwall","Fulham","1-3",1,3,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Oxford United","Manchester City","0-3",0,3,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Preston North End","Middlesbrough","2-2",2,2,"3","initial",1,NA,NA,"Deepdale",5095,NA
+2018-09-25,2018,"West Bromwich Albion","Crystal Palace","0-3",0,3,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Wolverhampton Wanderers","Leicester City","0-0",0,0,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-25,2018,"Wycombe Wanderers","Norwich City","3-4",3,4,"3","initial",1,NA,NA,"Adams Park",3947,NA
+2018-09-26,2018,"Arsenal","Brentford","3-1",3,1,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-26,2018,"Liverpool","Chelsea","1-2",1,2,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-26,2018,"Nottingham Forest","Stoke City","3-2",3,2,"3","initial",1,NA,NA,"City Ground",12915,NA
+2018-09-26,2018,"Tottenham Hotspur","Watford","2-2",2,2,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-09-26,2018,"West Ham United","Macclesfield Town","8-0",8,0,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-10-02,2018,"Everton","Southampton","1-1",1,1,"3","initial",1,NA,NA,"League Cup 3rd round",NA,NA
+2018-10-30,2018,"AFC Bournemouth","Norwich City","2-1",2,1,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-10-30,2018,"Burton Albion","Nottingham Forest","3-2",3,2,"4","initial",1,NA,NA,"Pirelli Stadium",4284,NA
+2018-10-31,2018,"Arsenal","Blackpool","2-1",2,1,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-10-31,2018,"Chelsea","Derby County","3-2",3,2,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-10-31,2018,"Middlesbrough","Crystal Palace","1-0",1,0,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-10-31,2018,"West Ham United","Tottenham Hotspur","1-3",1,3,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-11-01,2018,"Manchester City","Fulham","2-0",2,0,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-11-27,2018,"Leicester City","Southampton","0-0",0,0,"4","initial",1,NA,NA,"League Cup 4th round",NA,NA
+2018-12-18,2018,"Leicester City","Manchester City","1-1",1,1,"5","initial",1,NA,NA,"League Cup 5th round",NA,NA
+2018-12-18,2018,"Middlesbrough","Burton Albion","0-1",0,1,"5","initial",1,NA,NA,"Riverside Stadium",17342,NA
+2018-12-19,2018,"Arsenal","Tottenham Hotspur","0-2",0,2,"5","initial",1,NA,NA,"League Cup 5th round",NA,NA
+2018-12-19,2018,"Chelsea","AFC Bournemouth","1-0",1,0,"5","initial",1,NA,NA,"League Cup 5th round",NA,NA
 2019-01-08,2018,"Tottenham Hotspur","Chelsea","1-0",1,0,"Semi-final","initial",1,NA,NA,"League Cup Semi-final 1st leg",NA,NA
 2019-01-09,2018,"Manchester City","Burton Albion","9-0",9,0,"Semi-final","initial",1,NA,NA,"League Cup Semi-final 1st leg",NA,NA
 2019-01-23,2018,"Burton Albion","Manchester City","0-1",0,1,"Semi-final","initial",2,NA,NA,"League Cup Semi-final 2nd leg",NA,NA

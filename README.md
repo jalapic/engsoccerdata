@@ -93,7 +93,7 @@ Last update: 1 Oct 2017,  v0.1.6
 
 I would love help in collating more results.  If anyone wants to work on a particular league or competition please let me know.  These are the things I'd like to work on:
 
-- English League Cup  - there is a csv in `data-raw` that has league cup data up to 2013/14 but it needs error checking
+- English League Cup  - data from the league cup is included but still is missing some fields. For instance the aet and pens and also northsouth data are missing. Data also generally needs checking.
 - European competitions - don't currently have this data
 - English Conference - need to add dates to results for seasons 1979/80-1998/98.
 - English FA Cup pre-qualifying round - also no data yet.
