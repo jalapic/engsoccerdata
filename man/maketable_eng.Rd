@@ -4,8 +4,8 @@
 \alias{maketable_eng}
 \title{Make an English league table}
 \usage{
-maketable_eng(df = NULL, Season = NULL, tier = NULL, division = NULL,
-  penalties = FALSE)
+maketable_eng(df = NULL, Season = NULL, tier = NULL,
+  division = NULL, penalties = FALSE)
 }
 \arguments{
 \item{df}{The results dataframe}
