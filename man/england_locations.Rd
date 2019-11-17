@@ -4,7 +4,7 @@
 \name{england_locations}
 \alias{england_locations}
 \title{English football ground locations 1880-2019}
-\format{A data frame with 194040 rows and 12 variables:
+\format{A data frame with 449 rows and 5 variables:
 \describe{
   \item{location}{the identifier of the location, e.g. a team name}
   \item{lat}{the latitude coordinate of the data}
