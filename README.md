@@ -1,5 +1,5 @@
 On CRAN v0.1.5 as of June 12 2016 <br>
-Latest GitHub version: 28 Nov 2017,  v0.1.61
+Latest GitHub version: 17/11/2019,  v0.1.7
 
 #### engsoccerdata
 
@@ -272,7 +272,7 @@ Any help in improving the quality of these datasets is appreciated.
 - http://www.11v11.com
 - http://www.worldfootball.net
 - http://www.football-data.co.uk
-
+- http://www.historicalkits.co.uk/English_Football_League/index.html 
 
 
 ## Shiny apps:
