@@ -495,3 +495,271 @@
 "2016-05-15",2015,"Plymouth Argyle","Portsmouth","1-0",1,0,"4","s","leg2",4,4,NA,NA,NA,NA,"15,011",NA
 "2016-05-18",2015,"Accrington","AFC Wimbledon","2-2",2,2,"4","s","leg2",4,4,"yes",NA,NA,NA,"4,634",NA
 "2016-05-30",2015,"AFC Wimbledon","Plymouth Argyle","2-0",2,0,"4","f","initial",4,4,NA,NA,NA,"Wembley, London (new)","57,956","yes"
+"18017",2018,"AFC Fylde","Harrogate Town","3-1",3,1,"conference","q","initial",5,5,NA,NA,NA,NA,"1560",NA
+"18018",2018,"Wrexham","Eastleigh","0-1",0,1,"conference","q","initial",5,5,NA,NA,NA,NA,"6723",NA
+"18020",2018,"Solihull","AFC Fylde","0-1",0,1,"conference","s","initial",5,5,NA,NA,NA,NA,"3681",NA
+"18021",2018,"Salford City","Eastleigh","1-1",1,1,"conference","s","initial",5,5,NA,NA,NA,NA,"2963",NA
+"18027",2018,"AFC Fylde","Salford City","0-3",0,3,"conference","f","initial",5,5,NA,NA,NA,NA,"8049",NA
+"18027",2018,"Salford City","AFC Fylde","3-0",3,0,"conference","f","initial",5,5,NA,NA,NA,NA,NA,NA
+"18017",2018,"Altrincham","Blyth Spartans","2-2",2,2,"N","q","initial",6,6,NA,NA,NA,NA,NA,NA
+"18017",2018,"Spennymoor Town","Bradford Park Avenue","1-0",1,0,"N","q","initial",6,6,NA,NA,NA,NA,"1509",NA
+"18021",2018,"Brackley Town","Spennymoor Town","0-0",0,0,"N","s","initial",6,6,NA,NA,NA,NA,"1271",NA
+"18021",2018,"Chorley","Altrincham","1-1",1,1,"N","s","initial",6,6,NA,NA,NA,NA,"3446",NA
+"18028",2018,"Chorley","Spennymoor Town","1-1",1,1,"N","f","initial",6,6,NA,NA,NA,NA,"3594",NA
+"18017",2018,"Bath City","Wealdstone","1-3",1,3,"S","q","initial",6,6,NA,NA,NA,NA,"2201",NA
+"18021",2018,"Welling United","Chelmsford City","3-2",3,2,"S","s","initial",6,6,NA,NA,NA,NA,"1912",NA
+"18021",2018,"Woking","Wealdstone","3-2",3,2,"S","s","initial",6,6,NA,NA,NA,NA,"2917",NA
+"18028",2018,"Woking","Welling United","1-0",1,0,"S","f","initial",6,6,NA,NA,NA,NA,"4865",NA
+"18016",2018,"South Shields","Buxton","4-2",4,2,"N","s","initial",7,7,NA,NA,NA,NA,NA,NA
+"18016",2018,"Warrington Town","Nantwich Town","4-1",4,1,"N","s","initial",7,7,NA,NA,NA,NA,"1424",NA
+"18020",2018,"South Shields","Warrington Town","1-2",1,2,"N","f","initial",7,7,NA,NA,NA,NA,"2337",NA
+"18027",2018,"Warrington Town","King's Lynn Town","2-3",2,3,"N","spf","initial",7,7,NA,NA,NA,NA,"2200",NA
+"18016",2018,"Brighouse Town","Sheffield","3-1",3,1,"N.E","s","initial",8,8,NA,NA,NA,NA,"489",NA
+"18016",2018,"Pontefract Collieries","Ossett United","3-1",3,1,"N.E","s","initial",8,8,NA,NA,NA,NA,"486",NA
+"18020",2018,"Pontefract Collieries","Brighouse Town","0-3",0,3,"N.E","f","initial",8,8,NA,NA,NA,NA,"836",NA
+"18016",2018,"Radcliffe","Ramsbottom United","3-0",3,0,"N.W","s","initial",8,8,NA,NA,NA,NA,"736",NA
+"18017",2018,"Leek Town","Colne","2-1",2,1,"N.W","s","initial",8,8,NA,NA,NA,NA,"1047",NA
+"18020",2018,"Radcliffe","Leek Town","2-1",2,1,"N.W","f","initial",8,8,NA,NA,NA,NA,"1147",NA
+"18018",2018,"Carshalton Athletic","Merstham","1-2",1,2,"I","s","initial",7,7,NA,NA,NA,NA,"1151",NA
+"18018",2018,"Haringey Borough","Tonbridge Angels","1-2",1,2,"I","s","initial",7,7,NA,NA,NA,NA,"810",NA
+"18022",2018,"Tonbridge Angels","Merstham","2-0",2,0,"I","f","initial",7,7,NA,NA,NA,NA,"2268",NA
+"18027",2018,"Metropolitan Police","Tonbridge Angels","2-3",2,3,"I","spf","initial",7,7,NA,NA,NA,NA,"1268",NA
+"18017",2018,"Aveley","Heybridge Swifts","0-2",0,2,"I.N","s","initial",8,8,NA,NA,NA,NA,"573",NA
+"18017",2018,"Maldon & Tiptree","Coggeshall Town","1-0",1,0,"I.N","s","initial",8,8,NA,NA,NA,NA,"494",NA
+"18021",2018,"Maldon & Tiptree","Heybridge Swifts","2-2",2,2,"I.N","f","initial",8,8,NA,NA,NA,NA,"945",NA
+"18016",2018,"Bracknell Town","Westfield","2-1",2,1,"I.SC","s","initial",8,8,NA,NA,NA,NA,"564",NA
+"18016",2018,"Cheshunt","Marlow","2-1",2,1,"I.SC","s","initial",8,8,NA,NA,NA,NA,"271",NA
+"18020",2018,"Bracknell Town","Cheshunt","0-3",0,3,"I.SC","f","initial",8,8,NA,NA,NA,NA,"837",NA
+"18015",2018,"Horsham","Haywards Heath Town","3-0",3,0,"I.SE","s","initial",8,8,NA,NA,NA,NA,"547",NA
+"18015",2018,"Hastings United","Ashford United","2-3",2,3,"I.SE","s","initial",8,8,NA,NA,NA,NA,"1123",NA
+"18019",2018,"Horsham","Ashford United","2-1",2,1,"I.SE","f","initial",8,8,NA,NA,NA,NA,"880",NA
+"18020",2018,"Alvechurch","Stourbridge","2-1",2,1,"C","s","initial",7,7,NA,NA,NA,NA,"894",NA
+"18020",2018,"King's Lynn Town","Stratford Town","3-1",3,1,"C","s","initial",7,7,NA,NA,NA,NA,"1253",NA
+"18022",2018,"King's Lynn Town","Alvechurch","3-0",3,0,"C","f","initial",7,7,NA,NA,NA,NA,"1617",NA
+"18017",2018,"Metropolitan Police","Salisbury","3-2",3,2,"S","s","initial",7,7,NA,NA,NA,NA,"448",NA
+"18017",2018,"Taunton Town","Poole Town","1-1",1,1,"S","s","initial",7,7,NA,NA,NA,NA,"1053",NA
+"18022",2018,"Metropolitan Police","Poole Town","1-0",1,0,"S","f","initial",7,7,NA,NA,NA,NA,"1025",NA
+"18017",2018,"Bromsgrove Rovers","Sutton Coldfield Town","3-2",3,2,"S.C","s","initial",8,8,NA,NA,NA,NA,"1849",NA
+"18017",2018,"Corby Town","Bedford Town","5-3",5,3,"S.C","s","initial",8,8,NA,NA,NA,NA,"738",NA
+"18022",2018,"Bromsgrove Sporting","Corby Town","4-3",4,3,"S.C","f","initial",8,8,NA,NA,NA,NA,"2943",NA
+"18017",2018,"Cirencester Town","Cinderford Town","1-2",1,2,"S.S","s","initial",8,8,NA,NA,NA,NA,"411",NA
+"18017",2018,"Yate Town","Moneyfields","1-1",1,1,"S.S","s","initial",8,8,NA,NA,NA,NA,"337",NA
+"18022",2018,"Yate Town","Cinderford Town","3-1",3,1,"S.S","f","initial",8,8,NA,NA,NA,NA,"1091",NA
+"17656",2017,"Tranmere Rovers","Ebbsfleet United","4-2",4,2,"conference","s","initial",5,5,NA,NA,NA,NA,"8898",NA
+"17657",2017,"Sutton United","Boreham Wood","2-3",2,3,"conference","s","initial",5,5,NA,NA,NA,NA,"2730",NA
+"17663",2017,"Boreham Wood","Tranmere Rovers","1-2",1,2,"conference","f","initial",5,5,NA,NA,NA,NA,"16306",NA
+"17657",2017,"Brackley Town","Bradford Park Avenue","1-0",1,0,"N","s","initial",6,6,NA,NA,NA,NA,"923",NA
+"17657",2017,"Harrogate Town","Chorley","2-1",2,1,"N","s","initial",6,6,NA,NA,NA,NA,"2307",NA
+"17664",2017,"Harrogate Town","Brackley Town","3-0",3,0,"N","f","initial",6,6,NA,NA,NA,NA,"0",NA
+"17657",2017,"Chelmsford City","Hampton & Richmond Borough","0-1",0,1,"S","s","initial",6,6,NA,NA,NA,NA,"1651",NA
+"17657",2017,"Dartford","Braintree Town","0-1",0,1,"S","s","initial",6,6,NA,NA,NA,NA,"1704",NA
+"17664",2017,"Hampton & Richmond Borough","Braintree Town","1-1",1,1,"S","f","initial",6,6,NA,NA,NA,NA,"0",NA
+"17652",2017,"Ashton United","Farsley","2-1",2,1,"N","s","initial",7,7,NA,NA,NA,NA,"604",NA
+"17652",2017,"Warrington Town","Grantham Town","0-3",0,3,"N","s","initial",7,7,NA,NA,NA,NA,"737",NA
+"17656",2017,"Ashton United","Grantham Town","2-0",2,0,"N","f","initial",7,7,NA,NA,NA,NA,"931",NA
+"17652",2017,"Bamber Bridge","Tadcaster Albion","2-1",2,1,"N.N","s","initial",8,8,NA,NA,NA,NA,"613",NA
+"17652",2017,"Prescot Cables","Trafford","3-0",3,0,"N.N","s","initial",8,8,NA,NA,NA,NA,"695",NA
+"17656",2017,"Bamber Bridge","Prescot Cables","1-0",1,0,"N.N","f","initial",8,8,NA,NA,NA,NA,"1628",NA
+"17652",2017,"Bedworth United","Chasetown","2-1",2,1,"N.S","s","initial",8,8,NA,NA,NA,NA,"517",NA
+"17652",2017,"Frickley Athletic","Stamford","1-2",1,2,"N.S","s","initial",8,8,NA,NA,NA,NA,"536",NA
+"17656",2017,"Bedworth United","Stamford","2-1",2,1,"N.S","f","initial",8,8,NA,NA,NA,NA,"598",NA
+"17654",2017,"Hendon","Folkestone Invicta","4-0",4,0,"I","s","initial",7,7,NA,NA,NA,NA,"722",NA
+"17654",2017,"Dulwich Hamlet","Leiston","1-0",1,0,"I","s","initial",7,7,NA,NA,NA,NA,"1285",NA
+"17658",2017,"Dulwich Hamlet","Hendon","1-1",1,1,"I","f","initial",7,7,NA,NA,NA,NA,"3321",NA
+"17653",2017,"Bowers & Pitsea","Canvey Island","0-2",0,2,"I.N","s","initial",8,8,NA,NA,NA,NA,"567",NA
+"17653",2017,"Haringey Borough","Heybridge Swifts","2-0",2,0,"I.N","s","initial",8,8,NA,NA,NA,NA,"442",NA
+"17657",2017,"Haringey Borough","Canvey Island","3-1",3,1,"I.N","f","initial",8,8,NA,NA,NA,NA,"809",NA
+"17652",2017,"Cray Wanderers","Walton Casuals","2-5",2,5,"I.S","s","initial",8,8,NA,NA,NA,NA,"446",NA
+"17652",2017,"Greenwich Borough","Corinthian-Casuals","0-3",0,3,"I.S","s","initial",8,8,NA,NA,NA,NA,"375",NA
+"17656",2017,"Corinthian-Casuals","Walton Casuals","0-0",0,0,"I.S","f","initial",8,8,NA,NA,NA,NA,"930",NA
+"17653",2017,"King's Lynn Town","Weymouth","3-0",3,0,"S","s","initial",7,7,NA,NA,NA,NA,"1223",NA
+"17653",2017,"Slough Town","Kettering Town","3-1",3,1,"S","s","initial",7,7,NA,NA,NA,NA,"1246",NA
+"17658",2017,"King's Lynn Town","Slough Town","1-2",1,2,"S","f","initial",7,7,NA,NA,NA,NA,"2842",NA
+"17653",2017,"Hartley Wintney","AFC Dunstable","2-0",2,0,"S.E","s","initial",8,8,NA,NA,NA,NA,"310",NA
+"17653",2017,"Hayes & Yeading","Cambridge City","0-1",0,1,"S.E","s","initial",8,8,NA,NA,NA,NA,"415",NA
+"17658",2017,"Hartley Wintney","Cambridge City","1-0",1,0,"S.E","f","initial",8,8,NA,NA,NA,NA,"710",NA
+"17653",2017,"Evesham United","Swindon Supermarine","1-1",1,1,"S.W","s","initial",8,8,NA,NA,NA,NA,"437",NA
+"17653",2017,"Wimborne Town","Didcot Town","2-0",2,0,"S.W","s","initial",8,8,NA,NA,NA,NA,"618",NA
+"17658",2017,"Wimborne Town","Swindon Supermarine","0-0",0,0,"S.W","f","initial",8,8,NA,NA,NA,NA,"1272",NA
+"17300",2016,"Tranmere Rovers","Forest Green Rovers","1-3",1,3,"conference","f","initial",5,5,NA,NA,NA,NA,"18801",NA
+"17282",2016,"AP Leamington","Slough Town","1-0",1,0,"S","s","initial",7,7,NA,NA,NA,NA,"1032",NA
+"17282",2016,"Merthyr Town","Hitchin Town","1-1",1,1,"S","s","initial",7,7,NA,NA,NA,NA,"1453",NA
+"17287",2016,"AP Leamington","Hitchin Town","2-1",2,1,"S","f","initial",7,7,NA,NA,NA,NA,"2102",NA
+"17282",2016,"Barton Rovers","Marlow","2-0",2,0,"S.C","s","initial",8,8,NA,NA,NA,NA,"319",NA
+"17282",2016,"Farnborough Town","Egham Town","4-0",4,0,"S.C","s","initial",8,8,NA,NA,NA,NA,"523",NA
+"17287",2016,"Farnborough Town","Barton Rovers","2-0",2,0,"S.C","f","initial",8,8,NA,NA,NA,NA,"1084",NA
+"17282",2016,"Salisbury","Evesham United","2-1",2,1,"S.SW","s","initial",8,8,NA,NA,NA,NA,"1395",NA
+"17282",2016,"Tiverton Town","Taunton Town","3-1",3,1,"S.SW","s","initial",8,8,NA,NA,NA,NA,"934",NA
+"17287",2016,"Salisbury","Tiverton Town","0-2",0,2,"S.SW","f","initial",8,8,NA,NA,NA,NA,"2247",NA
+"17283",2016,"Bognor Regis Town","Wingate & Finchley","2-1",2,1,"I","s","initial",7,7,NA,NA,NA,NA,"1001",NA
+"17283",2016,"Dulwich Hamlet","Enfield Town","4-2",4,2,"I","s","initial",7,7,NA,NA,NA,NA,"2517",NA
+"17287",2016,"Bognor Regis Town","Dulwich Hamlet","2-1",2,1,"I","f","initial",7,7,NA,NA,NA,NA,"3119",NA
+"17282",2016,"Maldon & Tiptree","Haringey Borough","5-4",5,4,"I.N","s","initial",8,8,NA,NA,NA,NA,"412",NA
+"17282",2016,"Thurrock","AFC Hornchurch","1-0",1,0,"I.N","s","initial",8,8,NA,NA,NA,NA,"481",NA
+"17286",2016,"Maldon & Tiptree","Thurrock","0-1",0,1,"I.N","f","initial",8,8,NA,NA,NA,NA,"719",NA
+"17281",2016,"Dorking Wanderers","Hastings United","1-1",1,1,"I.S","s","initial",8,8,NA,NA,NA,NA,"597",NA
+"17281",2016,"Greenwich Borough","Corinthian-Casuals","3-4",3,4,"I.S","s","initial",8,8,NA,NA,NA,NA,"427",NA
+"17285",2016,"Dorking Wanderers","Corinthian-Casuals","0-0",0,0,"I.S","f","initial",8,8,NA,NA,NA,NA,"967",NA
+"17280",2016,"Stourbridge","Workington","3-2",3,2,"N","s","initial",7,7,NA,NA,NA,NA,"1628",NA
+"17281",2016,"Spennymoor Town","Nantwich Town","2-0",2,0,"N","s","initial",7,7,NA,NA,NA,NA,"882",NA
+"17285",2016,"Spennymoor Town","Stourbridge","1-0",1,0,"N","f","initial",7,7,NA,NA,NA,NA,"1699",NA
+"17281",2016,"Farsley","Colne","4-0",4,0,"N.N","s","initial",8,8,NA,NA,NA,NA,"405",NA
+"17281",2016,"Scarborough Athletic","Ossett Town","1-3",1,3,"N.N","s","initial",8,8,NA,NA,NA,NA,"1004",NA
+"17285",2016,"Farsley","Ossett Town","4-2",4,2,"N.N","f","initial",8,8,NA,NA,NA,NA,"829",NA
+"17281",2016,"Spalding United","Stocksbridge Park Steels","3-2",3,2,"N.S","s","initial",8,8,NA,NA,NA,NA,"448",NA
+"17281",2016,"Witton Albion","AFC Rushden & Diamonds","1-0",1,0,"N.S","s","initial",8,8,NA,NA,NA,NA,"580",NA
+"17285",2016,"Witton Albion","Spalding United","2-1",2,1,"N.S","f","initial",8,8,NA,NA,NA,NA,"811",NA
+"16925",2015,"Dover Athletic","Forest Green Rovers","0-1",0,1,"conference","s","initial",5,5,NA,NA,NA,NA,"2071",NA
+"16926",2015,"Grimsby Town","Braintree Town","0-1",0,1,"conference","s","initial",5,5,NA,NA,NA,NA,"5271",NA
+"16928",2015,"Forest Green Rovers","Dover Athletic","1-1",1,1,"conference","s","initial",5,5,NA,NA,NA,NA,"2755",NA
+"16929",2015,"Braintree Town","Grimsby Town","0-2",0,2,"conference","s","initial",5,5,NA,NA,NA,NA,"3102",NA
+"16936",2015,"Forest Green Rovers","Grimsby Town","1-3",1,3,"conference","f","initial",5,5,NA,NA,NA,NA,"17198",NA
+"16925",2015,"Boston United","North Ferriby","2-0",2,0,"N","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16925",2015,"Harrogate Town","AFC Fylde","0-1",0,1,"N","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16929",2015,"AFC Fylde","Harrogate Town","1-1",1,1,"N","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16929",2015,"North Ferriby","Boston United","3-0",3,0,"N","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16935",2015,"North Ferriby","AFC Fylde","2-1",2,1,"N","f","initial",6,6,NA,NA,NA,NA,NA,NA
+"16925",2015,"Truro City","Maidstone United","0-2",0,2,"S","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16925",2015,"Whitehawk","Ebbsfleet United","1-2",1,2,"S","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16929",2015,"Ebbsfleet United","Whitehawk","1-2",1,2,"S","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16929",2015,"Maidstone United","Truro City","1-0",1,0,"S","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"16935",2015,"Ebbsfleet United","Maidstone United","2-2",2,2,"S","f","initial",6,6,NA,NA,NA,NA,NA,NA
+"16918",2015,"Hitchin Town","Hungerford Town","2-3",2,3,"S","s","initial",7,7,NA,NA,NA,NA,"1305",NA
+"16918",2015,"Redditch United","AP Leamington","1-1",1,1,"S","s","initial",7,7,NA,NA,NA,NA,"1303",NA
+"16923",2015,"Hungerford Town","AP Leamington","2-1",2,1,"S","f","initial",7,7,NA,NA,NA,NA,"1363",NA
+"16917",2015,"Egham Town","St Ives Town","2-2",2,2,"S.C","s","initial",8,8,NA,NA,NA,NA,"258",NA
+"16917",2015,"Royston Town","AFC Rushden & Diamonds","1-2",1,2,"S.C","s","initial",8,8,NA,NA,NA,NA,"655",NA
+"16923",2015,"St Ives Town","AFC Rushden & Diamonds","2-1",2,1,"S.C","f","initial",8,8,NA,NA,NA,NA,"1523",NA
+"16917",2015,"Banbury United","Winchester City","1-0",1,0,"S.SW","s","initial",8,8,NA,NA,NA,NA,"596",NA
+"16917",2015,"Taunton Town","Swindon Supermarine","2-1",2,1,"S.SW","s","initial",8,8,NA,NA,NA,NA,"506",NA
+"16923",2015,"Banbury United","Taunton Town","2-0",2,0,"S.SW","f","initial",8,8,NA,NA,NA,NA,"1228",NA
+"16919",2015,"Bognor Regis Town","Dulwich Hamlet","0-1",0,1,"I","s","initial",7,7,NA,NA,NA,NA,"1403",NA
+"16919",2015,"East Thurrock United","Tonbridge Angels","2-0",2,0,"I","s","initial",7,7,NA,NA,NA,NA,"849",NA
+"16923",2015,"East Thurrock United","Dulwich Hamlet","3-1",3,1,"I","f","initial",7,7,NA,NA,NA,NA,"1661",NA
+"16918",2015,"Harlow Town","Cray Wanderers","3-0",3,0,"I.N","s","initial",8,8,NA,NA,NA,NA,"832",NA
+"16918",2015,"Thurrock","AFC Hornchurch","0-2",0,2,"I.N","s","initial",8,8,NA,NA,NA,NA,"514",NA
+"16922",2015,"Harlow Town","AFC Hornchurch","3-1",3,1,"I.N","f","initial",8,8,NA,NA,NA,NA,"1655",NA
+"16917",2015,"Dorking Wanderers","Faversham Town","1-2",1,2,"I.S","s","initial",8,8,NA,NA,NA,NA,"316",NA
+"16917",2015,"Worthing","Hythe Town","7-0",7,0,"I.S","s","initial",8,8,NA,NA,NA,NA,"948",NA
+"16921",2015,"Worthing","Faversham Town","3-0",3,0,"I.S","f","initial",8,8,NA,NA,NA,NA,"1889",NA
+"16917",2015,"Blyth Spartans","Workington","3-4",3,4,"N","s","initial",7,7,NA,NA,NA,NA,"1124",NA
+"16917",2015,"Salford City","Ashton United","3-1",3,1,"N","s","initial",7,7,NA,NA,NA,NA,"866",NA
+"16921",2015,"Salford City","Workington","3-2",3,2,"N","f","initial",7,7,NA,NA,NA,NA,"1967",NA
+"16917",2015,"Spennymoor Town","Burscough","3-1",3,1,"N.N","s","initial",8,8,NA,NA,NA,NA,"662",NA
+"16918",2015,"Northwich Victoria","Glossop North End","2-1",2,1,"N.N","s","initial",8,8,NA,NA,NA,NA,"376",NA
+"16921",2015,"Spennymoor Town","Northwich Victoria","2-0",2,0,"N.N","f","initial",8,8,NA,NA,NA,NA,"1129",NA
+"16917",2015,"Coalville Town","Basford United","5-0",5,0,"N.S","s","initial",8,8,NA,NA,NA,NA,"317",NA
+"16918",2015,"Shaw Lane Aquaforce","Lincoln United","3-2",3,2,"N.S","s","initial",8,8,NA,NA,NA,NA,"374",NA
+"16921",2015,"Shaw Lane Aquaforce","Coalville Town","1-3",1,3,"N.S","f","initial",8,8,NA,NA,NA,NA,"407",NA
+"16554",2014,"Forest Green Rovers","Bristol Rovers","0-1",0,1,"conference","s","initial",5,5,NA,NA,NA,NA,"3336",NA
+"16555",2014,"Eastleigh","Grimsby Town","1-2",1,2,"conference","s","initial",5,5,NA,NA,NA,NA,"3251",NA
+"16558",2014,"Bristol Rovers","Forest Green Rovers","2-0",2,0,"conference","s","initial",5,5,NA,NA,NA,NA,"10563",NA
+"16558",2014,"Grimsby Town","Eastleigh","3-0",3,0,"conference","s","initial",5,5,NA,NA,NA,NA,"6286",NA
+"16572",2014,"Bristol Rovers","Grimsby Town","1-1",1,1,"conference","f","initial",5,5,NA,NA,NA,NA,"47029",NA
+"16554",2014,"Chorley","Boston United","0-0",0,0,"N","s","initial",6,6,NA,NA,NA,NA,"2022",NA
+"16554",2014,"Guiseley","AFC Fylde","1-0",1,0,"N","s","initial",6,6,NA,NA,NA,NA,"1025",NA
+"16557",2014,"AFC Fylde","Guiseley","1-2",1,2,"N","s","initial",6,6,NA,NA,NA,NA,"950",NA
+"16557",2014,"Boston United","Chorley","2-2",2,2,"N","s","initial",6,6,NA,NA,NA,NA,"3174",NA
+"16564",2014,"Chorley","Guiseley","2-3",2,3,"N","f","initial",6,6,NA,NA,NA,NA,"3418",NA
+"16554",2014,"Havant & Waterlooville","Boreham Wood","0-2",0,2,"S","s","initial",6,6,NA,NA,NA,NA,"1296",NA
+"16554",2014,"Whitehawk","Basingstoke Town","1-1",1,1,"S","s","initial",6,6,NA,NA,NA,NA,"629",NA
+"16557",2014,"Basingstoke Town","Whitehawk","0-1",0,1,"S","s","initial",6,6,NA,NA,NA,NA,"1749",NA
+"16557",2014,"Boreham Wood","Havant & Waterlooville","2-2",2,2,"S","s","initial",6,6,NA,NA,NA,NA,"906",NA
+"16564",2014,"Boreham Wood","Whitehawk","2-1",2,1,"S","f","initial",6,6,NA,NA,NA,NA,NA,NA
+"16553",2014,"Poole Town","St Neots Town","0-1",0,1,"S","s","initial",7,7,NA,NA,NA,NA,"841",NA
+"16553",2014,"Truro City","Hungerford Town","1-0",1,0,"S","s","initial",7,7,NA,NA,NA,NA,"820",NA
+"16559",2014,"Truro City","St Neots Town","1-0",1,0,"S","f","initial",7,7,NA,NA,NA,NA,"1450",NA
+"16553",2014,"Aylesbury","Bedworth United","1-2",1,2,"S.C","s","initial",8,8,NA,NA,NA,NA,"278",NA
+"16553",2014,"Royston Town","Barton Rovers","0-0",0,0,"S.C","s","initial",8,8,NA,NA,NA,NA,"457",NA
+"16559",2014,"Bedworth United","Barton Rovers","2-0",2,0,"S.C","f","initial",8,8,NA,NA,NA,NA,"919",NA
+"16553",2014,"Evesham United","Larkhall Athletic","0-3",0,3,"S.SW","s","initial",8,8,NA,NA,NA,NA,"686",NA
+"16553",2014,"Stratford Town","Taunton Town","2-1",2,1,"S.SW","s","initial",8,8,NA,NA,NA,NA,"617",NA
+"16559",2014,"Stratford Town","Larkhall Athletic","3-2",3,2,"S.SW","f","initial",8,8,NA,NA,NA,NA,"1054",NA
+"16569",2014,"Hendon","Metropolitan Police","2-1",2,1,"I","s","initial",7,7,NA,NA,NA,NA,"367",NA
+"16569",2014,"Margate","Dulwich Hamlet","2-1",2,1,"I","s","initial",7,7,NA,NA,NA,NA,"1073",NA
+"16572",2014,"Hendon","Margate","0-1",0,1,"I","f","initial",7,7,NA,NA,NA,NA,"1228",NA
+"16554",2014,"AFC Sudbury","Brentwood Town","0-0",0,0,"I.N","s","initial",8,8,NA,NA,NA,NA,"543",NA
+"16554",2014,"Harlow Town","Thurrock","3-4",3,4,"I.N","s","initial",8,8,NA,NA,NA,NA,"901",NA
+"16558",2014,"Brentwood Town","Thurrock","5-0",5,0,"I.N","f","initial",8,8,NA,NA,NA,NA,"763",NA
+"16553",2014,"Faversham Town","Merstham","0-0",0,0,"I.S","s","initial",8,8,NA,NA,NA,NA,"628",NA
+"16553",2014,"Folkestone Invicta","Whyteleafe","2-1",2,1,"I.S","s","initial",8,8,NA,NA,NA,NA,"788",NA
+"16557",2014,"Folkestone Invicta","Merstham","0-3",0,3,"I.S","f","initial",8,8,NA,NA,NA,NA,"1465",NA
+"16553",2014,"Ashton United","Curzon Ashton","1-1",1,1,"N","s","initial",7,7,NA,NA,NA,NA,"1049",NA
+"16553",2014,"Workington","Ilkeston","0-1",0,1,"N","s","initial",7,7,NA,NA,NA,NA,"1391",NA
+"16557",2014,"Curzon Ashton","Ilkeston","1-0",1,0,"N","f","initial",7,7,NA,NA,NA,NA,"1212",NA
+"16553",2014,"Bamber Bridge","Northwich Victoria","2-1",2,1,"N.N","s","initial",8,8,NA,NA,NA,NA,"550",NA
+"16554",2014,"Darlington","Spennymoor Town","3-2",3,2,"N.N","s","initial",8,8,NA,NA,NA,NA,"1987",NA
+"16557",2014,"Darlington","Bamber Bridge","2-0",2,0,"N.N","f","initial",8,8,NA,NA,NA,NA,"1876",NA
+"16553",2014,"Newcastle Town","Sutton Coldfield Town","1-3",1,3,"N.S","s","initial",8,8,NA,NA,NA,NA,"384",NA
+"16554",2014,"Leek Town","Gresley","1-0",1,0,"N.S","s","initial",8,8,NA,NA,NA,NA,"873",NA
+"16557",2014,"Leek Town","Sutton Coldfield Town","0-2",0,2,"N.S","f","initial",8,8,NA,NA,NA,NA,"1237",NA
+"16190",2013,"FC Halifax Town","Cambridge United","1-0",1,0,"conference","s","initial",5,5,NA,NA,NA,NA,"3668",NA
+"16191",2013,"Grimsby Town","Gateshead","1-1",1,1,"conference","s","initial",5,5,NA,NA,NA,NA,"5234",NA
+"16194",2013,"Cambridge United","FC Halifax Town","2-0",2,0,"conference","s","initial",5,5,NA,NA,NA,NA,"6262",NA
+"16194",2013,"Gateshead","Grimsby Town","3-1",3,1,"conference","s","initial",5,5,NA,NA,NA,NA,"8144",NA
+"16208",2013,"Cambridge United","Gateshead","2-1",2,1,"conference","f","initial",5,5,NA,NA,NA,NA,"19613",NA
+"16190",2013,"Guiseley","North Ferriby","2-0",2,0,"N","s","initial",6,6,NA,NA,NA,NA,"1164",NA
+"16190",2013,"Hednesford Town","Altrincham","2-2",2,2,"N","s","initial",6,6,NA,NA,NA,NA,"1209",NA
+"16193",2013,"Altrincham","Hednesford Town","2-1",2,1,"N","s","initial",6,6,NA,NA,NA,NA,"1974",NA
+"16193",2013,"North Ferriby","Guiseley","0-1",0,1,"N","s","initial",6,6,NA,NA,NA,NA,"924",NA
+"16200",2013,"Altrincham","Guiseley","2-1",2,1,"N","f","initial",6,6,NA,NA,NA,NA,"4632",NA
+"16190",2013,"Dover Athletic","Sutton United","1-1",1,1,"S","s","initial",6,6,NA,NA,NA,NA,"1273",NA
+"16190",2013,"Ebbsfleet United","Bromley","4-0",4,0,"S","s","initial",6,6,NA,NA,NA,NA,"1693",NA
+"16193",2013,"Bromley","Ebbsfleet United","1-0",1,0,"S","s","initial",6,6,NA,NA,NA,NA,"1441",NA
+"16193",2013,"Sutton United","Dover Athletic","0-3",0,3,"S","s","initial",6,6,NA,NA,NA,NA,"1671",NA
+"16200",2013,"Ebbsfleet United","Dover Athletic","0-1",0,1,"S","f","initial",6,6,NA,NA,NA,NA,"4294",NA
+"16189",2013,"Chesham United","Stourbridge","2-1",2,1,"S","s","initial",7,7,NA,NA,NA,NA,"728",NA
+"16190",2013,"Cambridge City","St Albans","2-4",2,4,"S","s","initial",7,7,NA,NA,NA,NA,"768",NA
+"16195",2013,"Chesham United","St Albans","1-3",1,3,"S","f","initial",7,7,NA,NA,NA,NA,"1000",NA
+"16189",2013,"Kettering Town","Daventry Town","1-0",1,0,"S.C","s","initial",8,8,NA,NA,NA,NA,"1446",NA
+"16189",2013,"Rugby Town","Slough Town","0-3",0,3,"S.C","s","initial",8,8,NA,NA,NA,NA,"522",NA
+"16195",2013,"Kettering Town","Slough Town","2-3",2,3,"S.C","f","initial",8,8,NA,NA,NA,NA,"2331",NA
+"16189",2013,"Tiverton Town","Paulton Rovers","1-3",1,3,"S.SW","s","initial",8,8,NA,NA,NA,NA,"354",NA
+"16189",2013,"Merthyr Town","Swindon Supermarine","5-2",5,2,"S.SW","s","initial",8,8,NA,NA,NA,NA,"920",NA
+"16195",2013,"Merthyr Town","Paulton Rovers","0-2",0,2,"S.SW","f","initial",8,8,NA,NA,NA,NA,"2201",NA
+"16190",2013,"Bognor Regis Town","Lowestoft Town","1-2",1,2,"I","s","initial",7,7,NA,NA,NA,NA,"1025",NA
+"16190",2013,"Kingstonian","AFC Hornchurch","0-1",0,1,"I","s","initial",7,7,NA,NA,NA,NA,"641",NA
+"16195",2013,"Lowestoft Town","AFC Hornchurch","3-0",3,0,"I","f","initial",7,7,NA,NA,NA,NA,"2697",NA
+"16189",2013,"Heybridge Swifts","Harlow Town","0-3",0,3,"I.N","s","initial",8,8,NA,NA,NA,NA,"423",NA
+"16189",2013,"Witham Town","Needham Market","1-0",1,0,"I.N","s","initial",8,8,NA,NA,NA,NA,"305",NA
+"16194",2013,"Witham Town","Harlow Town","3-0",3,0,"I.N","f","initial",8,8,NA,NA,NA,NA,"898",NA
+"16189",2013,"Folkestone Invicta","Hastings United","3-2",3,2,"I.S","s","initial",8,8,NA,NA,NA,NA,"951",NA
+"16189",2013,"Leatherhead","Guernsey","3-2",3,2,"I.S","s","initial",8,8,NA,NA,NA,NA,NA,NA
+"16193",2013,"Folkestone Invicta","Leatherhead","1-1",1,1,"I.S","f","initial",8,8,NA,NA,NA,NA,"1287",NA
+"16189",2013,"AFC Fylde","Worksop Town","3-1",3,1,"N","s","initial",7,7,NA,NA,NA,NA,"576",NA
+"16189",2013,"FC United of Manchester","Ashton United","1-2",1,2,"N","s","initial",7,7,NA,NA,NA,NA,"2956",NA
+"16193",2013,"AFC Fylde","Ashton United","1-1",1,1,"N","f","initial",7,7,NA,NA,NA,NA,"1191",NA
+"16189",2013,"Warrington Town","Bamber Bridge","0-1",0,1,"N.N","s","initial",8,8,NA,NA,NA,NA,"477",NA
+"16190",2013,"Darlington","Ramsbottom United","0-2",0,2,"N.N","s","initial",8,8,NA,NA,NA,NA,"1926",NA
+"16193",2013,"Bamber Bridge","Ramsbottom United","2-3",2,3,"N.N","f","initial",8,8,NA,NA,NA,NA,"1206",NA
+"16189",2013,"Coalville Town","Mickleover Sports","2-3",2,3,"N.S","s","initial",8,8,NA,NA,NA,NA,"516",NA
+"16190",2013,"Leek Town","Belper Town","0-2",0,2,"N.S","s","initial",8,8,NA,NA,NA,NA,"814",NA
+"16193",2013,"Belper Town","Mickleover Sports","1-0",1,0,"N.S","f","initial",8,8,NA,NA,NA,NA,"1021",NA
+"15818",2012,"Wrexham","Kidderminster Harriers","2-1",2,1,"conference","s","initial",5,5,NA,NA,NA,NA,"6315",NA
+"15819",2012,"Grimsby Town","Newport County","0-1",0,1,"conference","s","initial",5,5,NA,NA,NA,NA,"5414",NA
+"15823",2012,"Kidderminster Harriers","Wrexham","1-3",1,3,"conference","s","initial",5,5,NA,NA,NA,NA,"6202",NA
+"15823",2012,"Newport County","Grimsby Town","1-0",1,0,"conference","s","initial",5,5,NA,NA,NA,NA,"6615",NA
+"15830",2012,"Wrexham","Newport County","0-2",0,2,"conference","f","initial",5,5,NA,NA,NA,NA,"16346",NA
+"15825",2012,"Altrincham","Brackley Town","2-1",2,1,"N","s","initial",6,6,NA,NA,NA,NA,"1618",NA
+"15825",2012,"FC Halifax Town","Guiseley","1-1",1,1,"N","s","initial",6,6,NA,NA,NA,NA,"2367",NA
+"15829",2012,"Brackley Town","Altrincham","3-0",3,0,"N","s","initial",6,6,NA,NA,NA,NA,"1353",NA
+"15829",2012,"Guiseley","FC Halifax Town","0-2",0,2,"N","s","initial",6,6,NA,NA,NA,NA,"2424",NA
+"15837",2012,"Brackley Town","FC Halifax Town","0-1",0,1,"N","f","initial",6,6,NA,NA,NA,NA,"2604",NA
+"15825",2012,"Chelmsford City","Salisbury","1-0",1,0,"S","s","initial",6,6,NA,NA,NA,NA,"1248",NA
+"15825",2012,"Eastleigh","Dover Athletic","1-3",1,3,"S","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"15829",2012,"Dover Athletic","Eastleigh","0-2",0,2,"S","s","initial",6,6,NA,NA,NA,NA,NA,NA
+"15829",2012,"Salisbury","Chelmsford City","2-0",2,0,"S","s","initial",6,6,NA,NA,NA,NA,"1554",NA
+"15837",2012,"Salisbury","Dover Athletic","3-2",3,2,"S","f","initial",6,6,NA,NA,NA,NA,"3408",NA
+"15831",2012,"Hemel Hempstead Town","Gosport Borough","2-2",2,2,"S","f","initial",7,7,NA,NA,NA,NA,NA,NA
+"15831",2012,"Rugby Town","Biggleswade Town","1-3",1,3,"S.C","f","initial",8,8,NA,NA,NA,NA,"1126",NA
+"15831",2012,"Hungerford Town","Merthyr Town","3-1",3,1,"S.SW","f","initial",8,8,NA,NA,NA,NA,"813",NA
+"15826",2012,"Lowestoft Town","East Thurrock United","1-0",1,0,"I","s","initial",7,7,NA,NA,NA,NA,"1110",NA
+"15826",2012,"Wealdstone","Concord Rangers","1-2",1,2,"I","s","initial",7,7,NA,NA,NA,NA,"1055",NA
+"15831",2012,"Lowestoft Town","Concord Rangers","1-2",1,2,"I","f","initial",7,7,NA,NA,NA,NA,"2490",NA
+"15830",2012,"Maldon & Tiptree","Thamesmead Town","2-2",2,2,"I.N","f","initial",8,8,NA,NA,NA,NA,"324",NA
+"15825",2012,"Faversham Town","Hythe Town","3-0",3,0,"I.S","s","initial",8,8,NA,NA,NA,NA,"606",NA
+"15825",2012,"Maidstone United","Folkestone Invicta","1-0",1,0,"I.S","s","initial",8,8,NA,NA,NA,NA,"2195",NA
+"15829",2012,"Maidstone United","Faversham Town","3-0",3,0,"I.S","f","initial",8,8,NA,NA,NA,NA,"2226",NA
+"15832",2012,"FC United of Manchester","Witton Albion","3-1",3,1,"N","s","initial",7,7,NA,NA,NA,NA,"2492",NA
+"15832",2012,"Hednesford Town","AFC Fylde","3-3",3,3,"N","s","initial",7,7,NA,NA,NA,NA,"1360",NA
+"15836",2012,"Hednesford Town","FC United of Manchester","2-1",2,1,"N","f","initial",7,7,NA,NA,NA,NA,"4412",NA
