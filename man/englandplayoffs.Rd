@@ -4,7 +4,8 @@
 \name{englandplayoffs}
 \alias{englandplayoffs}
 \title{English league playoff results 1892-2016}
-\format{A data frame with 496 rows and 18 variables:
+\format{
+A data frame with 496 rows and 18 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -24,7 +25,8 @@
   \item{Venue}{Venue}
   \item{attendance}{Attendance}
   \item{neutral}{Was game played at neutal venue?}
-}}
+}
+}
 \usage{
 englandplayoffs
 }

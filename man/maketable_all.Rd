@@ -4,8 +4,15 @@
 \alias{maketable_all}
 \title{Make a league table - not limited by seasons or tiers}
 \usage{
-maketable_all(df = NULL, Season = NULL, tier = NULL, pts = 3,
-  begin = NULL, end = NULL, type = c("both", "home", "away"))
+maketable_all(
+  df = NULL,
+  Season = NULL,
+  tier = NULL,
+  pts = 3,
+  begin = NULL,
+  end = NULL,
+  type = c("both", "home", "away")
+)
 }
 \arguments{
 \item{df}{The results dataframe}

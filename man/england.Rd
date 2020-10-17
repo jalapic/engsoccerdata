@@ -3,8 +3,9 @@
 \docType{data}
 \name{england}
 \alias{england}
-\title{English league results 1888-2017}
-\format{A data frame with 194040 rows and 12 variables:
+\title{English league results 1888-2020}
+\format{
+A data frame with 200628 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -18,13 +19,14 @@
   \item{totgoal}{Total goals in game}
   \item{goaldif}{Goal difference in game home goals - visitor goals}
   \item{result}{Result: H-Home Win, A-Away Win, D-Draw}
-}}
+}
+}
 \usage{
 england
 }
 \description{
 All results for English soccer games in the top 4 tiers
-from 1888/89 season to 2016/17 season.  For playoff games
+from 1888/89 season to 2019/20 season.  For playoff games
 see separate dataset `englandplayoffs`
 }
 \keyword{datasets}

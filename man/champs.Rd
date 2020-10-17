@@ -4,7 +4,8 @@
 \name{champs}
 \alias{champs}
 \title{European Cup and Champions League Results 1955-2016}
-\format{A data frame with 6554 rows and 23 variables:
+\format{
+A data frame with 6554 rows and 23 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -29,7 +30,8 @@
   \item{tiewinner}{Eventual Tie Winner - group matched excepted}
   \item{hcountry}{Home team country}
   \item{vcountry}{Visitor team country}
-}}
+}
+}
 \usage{
 champs
 }

@@ -4,7 +4,8 @@
 \name{spain}
 \alias{spain}
 \title{Spanish league results 1928-2017}
-\format{A data frame with 24295 rows and 12 variables:
+\format{
+A data frame with 24295 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -18,7 +19,8 @@
   \item{round}{Whether league or playoff play}
   \item{group}{League group - certain seasons had league sub-groups}
   \item{notes}{Notes about fixture}
-}}
+}
+}
 \usage{
 spain
 }

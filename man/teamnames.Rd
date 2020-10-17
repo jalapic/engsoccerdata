@@ -4,13 +4,15 @@
 \name{teamnames}
 \alias{teamnames}
 \title{A dataframe of teamnames and their variants}
-\format{A data frame with 1403 rows and 4 variables:
+\format{
+A data frame with 1403 rows and 4 variables:
 \describe{
   \item{country}{Country of team}
   \item{name}{Name of team used in engsoccerdata}
   \item{name_other}{Name variants found in data sources}
   \item{most_recent}{Whether the name is the most recently used one}
-}}
+}
+}
 \usage{
 teamnames
 }

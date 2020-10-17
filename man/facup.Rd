@@ -4,7 +4,8 @@
 \name{facup}
 \alias{facup}
 \title{English league playoff results 1892-2017}
-\format{A data frame with 16871 rows and 19 variables:
+\format{
+A data frame with 16871 rows and 19 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -25,7 +26,8 @@
   \item{nonmatch}{Was game nonmatch?}
   \item{notes}{Notes}
   \item{neutral}{Was game played at neutal venue?}
-}}
+}
+}
 \usage{
 facup
 }

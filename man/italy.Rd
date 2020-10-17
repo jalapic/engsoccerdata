@@ -4,7 +4,8 @@
 \name{italy}
 \alias{italy}
 \title{Italy league results 1934-2017}
-\format{A data frame with 25784 rows and 8 variables:
+\format{
+A data frame with 25784 rows and 8 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -14,7 +15,8 @@
   \item{hgoal}{Goals scored by home team}
   \item{vgoal}{Goals scored by visiting team}
   \item{tier}{Tier of football pyramid: 1}
-}}
+}
+}
 \usage{
 italy
 }
