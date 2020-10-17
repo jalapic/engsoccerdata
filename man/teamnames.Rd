@@ -5,7 +5,7 @@
 \alias{teamnames}
 \title{A dataframe of teamnames and their variants}
 \format{
-A data frame with 1403 rows and 4 variables:
+A data frame with 1414 rows and 4 variables:
 \describe{
   \item{country}{Country of team}
   \item{name}{Name of team used in engsoccerdata}

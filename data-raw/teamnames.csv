@@ -1,1411 +1,1406 @@
-"","country","name","name_other","most_recent"
-"1","England","Sutton United","Sutton United",NA
-"2","England","Aberdare Athletic","Aberdare Athletic",NA
-"3","England","Aberdare Athletic","Aat",NA
-"4","England","Aberdare Athletic","Aberdare",NA
-"5","England","Accrington","Accrington",NA
-"6","England","Accrington",NA,NA
-"7","England","Accrington F.C.","Accrington F.C.",NA
-"8","England","Accrington F.C.","accr",NA
-"9","England","Accrington F.C.","Accrington",NA
-"10","England","Accrington Stanley","Accrington Stanley",NA
-"11","England","Accrington Stanley","Acc",NA
-"12","England","Accrington Stanley","Accrington S.",NA
-"13","England","AFC Bournemouth","AFC Bournemouth",NA
-"14","England","AFC Bournemouth","B&B",NA
-"15","England","AFC Bournemouth","Bou",NA
-"16","England","AFC Bournemouth","Bournemouth",NA
-"17","England","AFC Bournemouth","Bournemouth&B",NA
-"18","England","AFC Wimbledon","AFC Wimbledon",NA
-"19","England","AFC Wimbledon","Wmb",NA
-"20","England","Aldershot","Aldershot",NA
-"21","England","Aldershot","Ald",NA
-"22","England","Aldershot","Aldershot Tn.",NA
-"23","England","Arsenal","Arsenal",NA
-"24","England","Arsenal","Ars",NA
-"25","England","Arsenal","WlA",NA
-"26","England","Arsenal","Woolwich A",NA
-"27","England","Ashington","Ashington",NA
-"28","England","Ashington","Agt",NA
-"29","England","Aston Villa","Aston Villa",NA
-"30","England","Aston Villa","AV",NA
-"31","England","Barnet","Barnet",NA
-"32","England","Barnet","Bnt",NA
-"33","England","Barnsley","Barnsley",NA
-"34","England","Barnsley","Brn",NA
-"35","England","Barrow","Barrow",NA
-"36","England","Barrow","Brw",NA
-"37","England","Birmingham City","Birmingham City",NA
-"38","England","Birmingham City","Bir",NA
-"39","England","Birmingham City","Birmingham",NA
-"40","England","Birmingham City","Birmingham C.",NA
-"41","England","Birmingham City","Brm",NA
-"42","England","Birmingham City","Small Heath",NA
-"43","England","Birmingham City","SmH",NA
-"44","England","Blackburn Rovers","Blackburn Rovers",NA
-"45","England","Blackburn Rovers","Blackburn R.",NA
-"46","England","Blackburn Rovers","Blk",NA
-"47","England","Blackburn Rovers","Blackburn",NA
-"48","England","Blackpool","Blackpool",NA
-"49","England","Blackpool","Blp",NA
-"50","England","Bolton Wanderers","Bolton Wanderers",NA
-"51","England","Bolton Wanderers","Bol",NA
-"52","England","Bolton Wanderers","Bolton Wdrs.",NA
-"53","England","Bolton Wanderers","Bolton",NA
-"54","England","Bootle","Bootle",NA
-"55","England","Bootle","Boo",NA
-"56","England","Boston United","Boston United",NA
-"57","England","Boston United","Bos",NA
-"58","England","Boston United","Boston Utd.",NA
-"59","England","Bradford City","Bradford City",NA
-"60","England","Bradford City","Brd",NA
-"61","England","Bradford City","Bradford",NA
-"62","England","Bradford Park Avenue","Bradford Park Avenue",NA
-"63","England","Bradford Park Avenue","BPA",NA
-"64","England","Bradford Park Avenue","Bradford P.A.",NA
-"65","England","Brentford","Brentford",NA
-"66","England","Brentford","Bre",NA
-"67","England","Brighton & Hove Albion","Brighton & Hove Albion",NA
-"68","England","Brighton & Hove Albion","Brg",NA
-"69","England","Brighton & Hove Albion","Brighton & HA",NA
-"70","England","Brighton & Hove Albion","Brighton",NA
-"71","England","Bristol City","Bristol City",NA
-"72","England","Bristol City","BrC",NA
-"73","England","Bristol Rovers","Bristol Rovers",NA
-"74","England","Bristol Rovers","Bristol Rvs.",NA
-"75","England","Bristol Rovers","BrR",NA
-"76","England","Bristol Rovers","Bristol Rvs",NA
-"77","England","Burnley","Burnley",NA
-"78","England","Burnley","Bly",NA
-"79","England","Burton Albion","Burton Albion",NA
-"80","England","Burton Albion","Brt",NA
-"81","England","Burton Albion","Burton",NA
-"82","England","Burton Swifts","Burton Swifts",NA
-"83","England","Burton Swifts","BtS",NA
-"84","England","Burton United","Burton United",NA
-"85","England","Burton United","BtU",NA
-"86","England","Burton United","Burton Utd.",NA
-"87","England","Burton Wanderers","Burton Wanderers",NA
-"88","England","Burton Wanderers","BtW",NA
-"89","England","Burton Wanderers","Burton Wdrs.",NA
-"90","England","Bury","Bury",NA
-"91","England","Bury","Bry",NA
-"92","England","Cambridge United","Cambridge United",NA
-"93","England","Cambridge United","Cambridge U.",NA
-"94","England","Cambridge United","CmU",NA
-"95","England","Cambridge United","Cambridge",NA
-"96","England","Cardiff City","Cardiff City",NA
-"97","England","Cardiff City","Cdf",NA
-"98","England","Cardiff City","Cardiff",NA
-"99","England","Carlisle United","Carlisle United",NA
-"100","England","Carlisle United","Carlisle Utd.",NA
-"101","England","Carlisle United","Crl",NA
-"102","England","Carlisle United","Carlisle",NA
-"103","England","Charlton Athletic","Charlton Athletic",NA
-"104","England","Charlton Athletic","ChA",NA
-"105","England","Charlton Athletic","Charlton Ath.",NA
-"106","England","Charlton Athletic","Charlton",NA
-"107","England","Chelsea","Chelsea",NA
-"108","England","Chelsea","Che",NA
-"109","England","Cheltenham","Cheltenham",NA
-"110","England","Cheltenham","Cheltenham T.",NA
-"111","England","Cheltenham","ChT",NA
-"112","England","Chester","Chester",NA
-"113","England","Chester","Chester City",NA
-"114","England","Chester","Chr",NA
-"115","England","Chesterfield","Chesterfield",NA
-"116","England","Chesterfield","Chs",NA
-"117","England","Colchester United","Colchester United",NA
-"118","England","Colchester United","Col",NA
-"119","England","Colchester United","Colchester U.",NA
-"120","England","Colchester United","Colchester",NA
-"121","England","Coventry City","Coventry City",NA
-"122","England","Coventry City","Cov",NA
-"123","England","Coventry City","Coventry",NA
-"124","England","Crawley Town","Crawley Town",NA
-"125","England","Crawley Town","CrT",NA
-"126","England","Crewe Alexandra","Crewe Alexandra",NA
-"127","England","Crewe Alexandra","Crewe Alex.",NA
-"128","England","Crewe Alexandra","Crw",NA
-"129","England","Crewe Alexandra","Crewe",NA
-"130","England","Crystal Palace","Crystal Palace",NA
-"131","England","Crystal Palace","Cry",NA
-"132","England","Dagenham and Redbridge","Dagenham and Redbridge",NA
-"133","England","Dagenham and Redbridge","Dag",NA
-"134","England","Dagenham and Redbridge","Dag. & Red.",NA
-"135","England","Darlington","Darlington",NA
-"136","England","Darlington","Dar",NA
-"137","England","Darwen","Darwen",NA
-"138","England","Darwen","Drw",NA
-"139","England","Derby County","Derby County",NA
-"140","England","Derby County","Der",NA
-"141","England","Derby County","Derby",NA
-"142","England","Doncaster Rovers","Doncaster Rovers",NA
-"143","England","Doncaster Rovers","Don",NA
-"144","England","Doncaster Rovers","Doncaster Rvs.",NA
-"145","England","Doncaster Rovers","Doncaster",NA
-"146","England","Durham City","Durham City",NA
-"147","England","Durham City","Drh",NA
-"148","England","Everton","Everton",NA
-"149","England","Everton","Evr",NA
-"150","England","Exeter City","Exeter City",NA
-"151","England","Exeter City","Ext",NA
-"152","England","Exeter City","Exeter",NA
-"153","England","Fleetwood Town","Fleetwood Town",NA
-"154","England","Fleetwood Town","Fleetwood Tn.",NA
-"155","England","Fleetwood Town","Flt",NA
-"156","England","Fulham","Fulham",NA
-"157","England","Fulham","Ful",NA
-"158","England","Gainsborough Trinity","Gainsborough Trinity",NA
-"159","England","Gainsborough Trinity","Gainsborough",NA
-"160","England","Gainsborough Trinity","Gns",NA
-"161","England","Gateshead","Gateshead",NA
-"162","England","Gateshead","Gts",NA
-"163","England","Gillingham","Gillingham",NA
-"164","England","Gillingham","Gil",NA
-"165","England","Glossop North End","Glossop North End",NA
-"166","England","Glossop North End","Glossop N. E.",NA
-"167","England","Glossop North End","GNE",NA
-"168","England","Grimsby Town","Grimsby Town",NA
-"169","England","Grimsby Town","Grm",NA
-"170","England","Grimsby Town","Grimsby",NA
-"171","England","Halifax Town","Halifax Town",NA
-"172","England","Halifax Town","Hfx",NA
-"173","England","Hartlepool United","Hartlepool United",NA
-"174","England","Hartlepool United","Hartlepool",NA
-"175","England","Hartlepool United","Hartlepool U.",NA
-"176","England","Hartlepool United","Hartlepools",NA
-"177","England","Hartlepool United","Hrt",NA
-"178","England","Hereford United","Hereford United",NA
-"179","England","Hereford United","Her",NA
-"180","England","Hereford United","Hereford Utd.",NA
-"181","England","Huddersfield Town","Huddersfield Town",NA
-"182","England","Huddersfield Town","Hud",NA
-"183","England","Huddersfield Town","Huddersfield",NA
-"184","England","Hull City","Hull City",NA
-"185","England","Hull City","Hul",NA
-"186","England","Hull City","Hull",NA
-"187","England","Ipswich Town","Ipswich Town",NA
-"188","England","Ipswich Town","Ips",NA
-"189","England","Ipswich Town","Ipswich",NA
-"190","England","Kidderminster Harriers","Kidderminster Harriers",NA
-"191","England","Kidderminster Harriers","Kid",NA
-"192","England","Kidderminster Harriers","Kidderminster",NA
-"193","England","Leeds City","Leeds City",NA
-"194","England","Leeds City","LdC",NA
-"195","England","Leeds United","Leeds United",NA
-"196","England","Leeds United","Lee",NA
-"197","England","Leeds United","Leeds Utd.",NA
-"198","England","Leeds United","Leeds",NA
-"199","England","Leicester City","Leicester City",NA
-"200","England","Leicester City","LcF",NA
-"201","England","Leicester City","Lei",NA
-"202","England","Leicester City","Leicester F",NA
-"203","England","Leicester City","Leicester",NA
-"204","England","Leyton Orient","Leyton Orient",NA
-"205","England","Leyton Orient","Clapton Ornt.",NA
-"206","England","Leyton Orient","Clp",NA
-"207","England","Leyton Orient","Ley",NA
-"208","England","Leyton Orient","Orient",NA
-"209","England","Leyton Orient","Ort",NA
-"210","England","Lincoln City","Lincoln City",NA
-"211","England","Lincoln City","LnC",NA
-"212","England","Liverpool","Liverpool",NA
-"213","England","Liverpool","Liv",NA
-"214","England","Loughborough","Loughborough",NA
-"215","England","Loughborough","Lou",NA
-"216","England","Luton Town","Luton Town",NA
-"217","England","Luton Town","Lut",NA
-"218","England","Luton Town","Luton",NA
-"219","England","Macclesfield","Macclesfield",NA
-"220","England","Macclesfield","Mac",NA
-"221","England","Maidstone United","Maidstone United",NA
-"222","England","Maidstone United","Mai",NA
-"223","England","Maidstone United","Maidstone Utd.",NA
-"224","England","Manchester City","Manchester City",NA
-"225","England","Manchester City","Ard",NA
-"226","England","Manchester City","Ardwick",NA
-"227","England","Manchester City","Man. City",NA
-"228","England","Manchester City","MnC",NA
-"229","England","Manchester City","Man City",NA
-"230","England","Manchester United","Manchester United",NA
-"231","England","Manchester United","Man. Utd.",NA
-"232","England","Manchester United","MnU",NA
-"233","England","Manchester United","Newton Heath",NA
-"234","England","Manchester United","NwH",NA
-"235","England","Manchester United","Man United",NA
-"236","England","Mansfield Town","Mansfield Town",NA
-"237","England","Mansfield Town","Mns",NA
-"238","England","Mansfield Town","Mansfield",NA
-"239","England","Merthyr Town","Merthyr Town",NA
-"240","England","Merthyr Town","Merthyr Tn.",NA
-"241","England","Merthyr Town","MTw",NA
-"242","England","Middlesbrough","Middlesbrough",NA
-"243","England","Middlesbrough","Mid",NA
-"244","England","Middlesbrough Ironopolis","Middlesbrough Ironopolis",NA
-"245","England","Middlesbrough Ironopolis","Middlesbro Ir",NA
-"246","England","Middlesbrough Ironopolis","Mir",NA
-"247","England","Millwall","Millwall",NA
-"248","England","Millwall","Mil",NA
-"249","England","Milton Keynes Dons","Milton Keynes Dons",NA
-"250","England","Milton Keynes Dons","Milton Keynes",NA
-"251","England","Milton Keynes Dons","MKD",NA
-"252","England","Morecambe","Morecambe",NA
-"253","England","Morecambe","Mrc",NA
-"254","England","Nelson","Nelson",NA
-"255","England","Nelson","Nel",NA
-"256","England","New Brighton","New Brighton",NA
-"257","England","New Brighton","NBr",NA
-"258","England","New Brighton Tower","New Brighton Tower",NA
-"259","England","New Brighton Tower","NBT",NA
-"260","England","New Brighton Tower","New Brghtn T",NA
-"261","England","Newcastle United","Newcastle United",NA
-"262","England","Newcastle United","Newcastle Utd.",NA
-"263","England","Newcastle United","Nwc",NA
-"264","England","Newcastle United","Newcastle",NA
-"265","England","Newport County","Newport County",NA
-"266","England","Newport County","Newport Co.",NA
-"267","England","Newport County","Nwp",NA
-"268","England","Northampton Town","Northampton Town",NA
-"269","England","Northampton Town","Nor",NA
-"270","England","Northampton Town","Northampton",NA
-"271","England","Northwich Victoria","Northwich Victoria",NA
-"272","England","Northwich Victoria","Northwich Vic.",NA
-"273","England","Northwich Victoria","NVc",NA
-"274","England","Norwich City","Norwich City",NA
-"275","England","Norwich City","Nrw",NA
-"276","England","Norwich City","Norwich",NA
-"277","England","Nottingham Forest","Nottingham Forest",NA
-"278","England","Nottingham Forest","Nottm. Forest",NA
-"279","England","Nottingham Forest","Ntm",NA
-"280","England","Nottingham Forest","Nott'm Forest",NA
-"281","England","Notts County","Notts County",NA
-"282","England","Notts County","Notts. County",NA
-"283","England","Notts County","Nts",NA
-"284","England","Oldham Athletic","Oldham Athletic",NA
-"285","England","Oldham Athletic","Old",NA
-"286","England","Oldham Athletic","Oldham Ath.",NA
-"287","England","Oldham Athletic","Oldham",NA
-"288","England","Oxford United","Oxford United",NA
-"289","England","Oxford United","Oxf",NA
-"290","England","Oxford United","Oxford Utd.",NA
-"291","England","Oxford United","Oxford",NA
-"292","England","Peterborough United","Peterborough United",NA
-"293","England","Peterborough United","Pet",NA
-"294","England","Peterborough United","Peterborough",NA
-"295","England","Peterborough United","Peterboro",NA
-"296","England","Plymouth Argyle","Plymouth Argyle",NA
-"297","England","Plymouth Argyle","Ply",NA
-"298","England","Plymouth Argyle","Plymouth Arg.",NA
-"299","England","Plymouth Argyle","Plymouth",NA
-"300","England","Port Vale","Port Vale",NA
-"301","England","Port Vale","BPV",NA
-"302","England","Port Vale","Burslem P.V.",NA
-"303","England","Port Vale","PVl",NA
-"304","England","Portsmouth","Portsmouth",NA
-"305","England","Portsmouth","Prt",NA
-"306","England","Preston North End","Preston North End",NA
-"307","England","Preston North End","PNE",NA
-"308","England","Preston North End","Preston N.E.",NA
-"309","England","Preston North End","Preston",NA
-"310","England","Queens Park Rangers","Queens Park Rangers",NA
-"311","England","Queens Park Rangers","Q.P.R.",NA
-"312","England","Queens Park Rangers","QPR",NA
-"313","England","Reading","Reading",NA
-"314","England","Reading","Rdg",NA
-"315","England","Rochdale","Rochdale",NA
-"316","England","Rochdale","Rch",NA
-"317","England","Rotherham County","Rotherham County",NA
-"318","England","Rotherham County","Rotherham C.",NA
-"319","England","Rotherham County","RtC",NA
-"320","England","Rotherham Town","Rotherham Town",NA
-"321","England","Rotherham Town","Rotherham T.",NA
-"322","England","Rotherham Town","RTw",NA
-"323","England","Rotherham United","Rotherham United",NA
-"324","England","Rotherham United","Rotherham U.",NA
-"325","England","Rotherham United","Rth",NA
-"326","England","Rotherham United","Rotherham",NA
-"327","England","Rushden & Diamonds","Rushden & Diamonds",NA
-"328","England","Rushden & Diamonds","R&D",NA
-"329","England","Rushden & Diamonds","Rushden & D.",NA
-"330","England","Scarborough","Scarborough",NA
-"331","England","Scarborough","Sca",NA
-"332","England","Scunthorpe United","Scunthorpe United",NA
-"333","England","Scunthorpe United","Scn",NA
-"334","England","Scunthorpe United","Scunthorpe U.",NA
-"335","England","Scunthorpe United","Scunthorpe",NA
-"336","England","Sheffield United","Sheffield United",NA
-"337","England","Sheffield United","Sheff. Utd.",NA
-"338","England","Sheffield United","ShU",NA
-"339","England","Sheffield Wednesday","Sheffield Wednesday",NA
-"340","England","Sheffield Wednesday","Sheff. Wed.",NA
-"341","England","Sheffield Wednesday","ShW",NA
-"342","England","Sheffield Wednesday","The Wednesday",NA
-"343","England","Sheffield Wednesday","TWe",NA
-"344","England","Sheffield Wednesday","Sheffield Weds",NA
-"345","England","Shrewsbury Town","Shrewsbury Town",NA
-"346","England","Shrewsbury Town","Shr",NA
-"347","England","Shrewsbury Town","Shrewsbury Tn.",NA
-"348","England","Shrewsbury Town","Shrewsbury",NA
-"349","England","South Shields","South Shields",NA
-"350","England","South Shields","SSh",NA
-"351","England","Southampton","Southampton",NA
-"352","England","Southampton","Sou",NA
-"353","England","Southend United","Southend United",NA
-"354","England","Southend United","Southend Utd.",NA
-"355","England","Southend United","Sth",NA
-"356","England","Southend United","Southend",NA
-"357","England","Southport","Southport",NA
-"358","England","Southport","Spt",NA
-"359","England","Stalybridge Celtic","Stalybridge Celtic",NA
-"360","England","Stalybridge Celtic","Stalybridge C.",NA
-"361","England","Stalybridge Celtic","Stl",NA
-"362","England","Stevenage Borough","Stevenage Borough",NA
-"363","England","Stevenage Borough","Stevenage",NA
-"364","England","Stevenage Borough","Stv",NA
-"365","England","Stockport County","Stockport County",NA
-"366","England","Stockport County","Stc",NA
-"367","England","Stockport County","Stockport Co.",NA
-"368","England","Stoke City","Stoke City",NA
-"369","England","Stoke City","Stk",NA
-"370","England","Stoke City","Stoke",NA
-"371","England","Sunderland","Sunderland",NA
-"372","England","Sunderland","Sun",NA
-"373","England","Swansea City","Swansea City",NA
-"374","England","Swansea City","Swa",NA
-"375","England","Swansea City","Swansea Tn.",NA
-"376","England","Swansea City","SwT",NA
-"377","England","Swansea City","Swansea",NA
-"378","England","Swindon Town","Swindon Town",NA
-"379","England","Swindon Town","Swi",NA
-"380","England","Swindon Town","Swindon",NA
-"381","England","Thames","Thames",NA
-"382","England","Thames","Tha",NA
-"383","England","Torquay United","Torquay United",NA
-"384","England","Torquay United","Torquay Utd.",NA
-"385","England","Torquay United","Trq",NA
-"386","England","Tottenham Hotspur","Tottenham Hotspur",NA
-"387","England","Tottenham Hotspur","Tot",NA
-"388","England","Tottenham Hotspur","Tottenham H.",NA
-"389","England","Tottenham Hotspur","Tottenham",NA
-"390","England","Tranmere Rovers","Tranmere Rovers",NA
-"391","England","Tranmere Rovers","Tra",NA
-"392","England","Tranmere Rovers","Tranmere Rvs.",NA
-"393","England","Walsall","Walsall",NA
-"394","England","Walsall","Walsall T.S.",NA
-"395","England","Walsall","Wls",NA
-"396","England","Walsall","WTS",NA
-"397","England","Watford","Watford",NA
-"398","England","Watford","Wtf",NA
-"399","England","West Bromwich Albion","West Bromwich Albion",NA
-"400","England","West Bromwich Albion","WBA",NA
-"401","England","West Bromwich Albion","West Brom.",NA
-"402","England","West Bromwich Albion","West Brom",NA
-"403","England","West Ham United","West Ham United",NA
-"404","England","West Ham United","West Ham Utd.",NA
-"405","England","West Ham United","WHU",NA
-"406","England","West Ham United","West Ham",NA
-"407","England","Wigan Athletic","Wigan Athletic",NA
-"408","England","Wigan Athletic","Wig",NA
-"409","England","Wigan Athletic","Wigan Ath.",NA
-"410","England","Wigan Athletic","Wigan",NA
-"411","England","Wigan Borough","Wigan Borough",NA
-"412","England","Wigan Borough","WgB",NA
-"413","England","Wigan Borough","Wigan Boro.",NA
-"414","England","Wimbledon","Wimbledon",NA
-"415","England","Wimbledon","Wim",NA
-"416","England","Wolverhampton Wanderers","Wolverhampton Wanderers",NA
-"417","England","Wolverhampton Wanderers","Wlv",NA
-"418","England","Wolverhampton Wanderers","Wolves",NA
-"419","England","Workington","Workington",NA
-"420","England","Workington","Wkn",NA
-"421","England","Wrexham","Wrexham",NA
-"422","England","Wrexham","Wre",NA
-"423","England","Wycombe Wanderers","Wycombe Wanderers",NA
-"424","England","Wycombe Wanderers","Wyc",NA
-"425","England","Wycombe Wanderers","Wycombe Wdrs.",NA
-"426","England","Wycombe Wanderers","Wycombe",NA
-"427","England","Yeovil","Yeovil",NA
-"428","England","Yeovil","Yeovil Town",NA
-"429","England","Yeovil","Yvl",NA
-"430","England","York City","York City",NA
-"431","England","York City","Yrk",NA
-"432","France","AC Ajaccio","AC Ajaccio",NA
-"433","France","AC Arles-Avignon","AC Arles-Avignon",NA
-"434","France","AJ Auxerre","AJ Auxerre",NA
-"435","France","Angers SCO","Angers SCO",NA
-"436","France","AS Aixoise","AS Aixoise",NA
-"437","France","AS Angouleme","AS Angouleme",NA
-"438","France","AS Beziers","AS Beziers",NA
-"439","France","AS Cannes","AS Cannes",NA
-"440","France","AS Cannes-Grasse","AS Cannes-Grasse",NA
-"441","France","AS Monaco","AS Monaco",NA
-"442","France","AS Nancy","AS Nancy",NA
-"443","France","AS Saint-Etienne","AS Saint-Etienne",NA
-"444","France","AS Troyes-Savinienne","AS Troyes-Savinienne",NA
-"445","France","Association Sportive Avignonaise","Association Sportive Avignonaise",NA
-"446","France","ATAC Troyes","ATAC Troyes",NA
-"447","France","Brest Armorique FC","Brest Armorique FC",NA
-"448","France","CA Paris (alt)","CA Paris (alt)",NA
-"449","France","Chamois Niortais","Chamois Niortais",NA
-"450","France","CS Sedan","CS Sedan",NA
-"451","France","Dijon FCO","Dijon FCO",NA
-"452","France","EA Guingamp","EA Guingamp",NA
-"453","France","ESTAC Troyes","ESTAC Troyes",NA
-"454","France","Evian Thonon Gaillard","Evian Thonon Gaillard",NA
-"455","France","Excelsior Roubaix","Excelsior Roubaix",NA
-"456","France","FC Antibes","FC Antibes",NA
-"457","France","FC Gueugnon","FC Gueugnon",NA
-"458","France","FC Istres","FC Istres",NA
-"459","France","FC Lorient","FC Lorient",NA
-"460","France","FC Martigues","FC Martigues",NA
-"461","France","FC Metz","FC Metz",NA
-"462","France","FC Mulhouse","FC Mulhouse",NA
-"463","France","FC Nantes","FC Nantes",NA
-"464","France","FC Rouen","FC Rouen",NA
-"465","France","FC Sete","FC Sete",NA
-"466","France","FC Sochaux","FC Sochaux",NA
-"467","France","Girondins Bordeaux","Girondins Bordeaux",NA
-"468","France","Grenoble Foot 38","Grenoble Foot 38",NA
-"469","France","LB Chateauroux","LB Chateauroux",NA
-"470","France","Le Havre AC","Le Havre AC",NA
-"471","France","Le Mans UC 72","Le Mans UC 72",NA
-"472","France","Lille OSC","Lille OSC",NA
-"473","France","Limoges FC","Limoges FC",NA
-"474","France","Matra Racing","Matra Racing",NA
-"475","France","Montpellier HSC","Montpellier HSC",NA
-"476","France","Montpellier La Paillade SC","Montpellier La Paillade SC",NA
-"477","France","Nimes Olympique","Nimes Olympique",NA
-"478","France","OGC Nice","OGC Nice",NA
-"479","France","Olympique Ales","Olympique Ales",NA
-"480","France","Olympique Lillois Lille","Olympique Lillois Lille",NA
-"481","France","Olympique Lyon","Olympique Lyon",NA
-"482","France","Olympique Marseille","Olympique Marseille",NA
-"483","France","Paris FC","Paris FC",NA
-"484","France","Paris Saint-Germain","Paris Saint-Germain",NA
-"485","France","Racing Club de France","Racing Club de France",NA
-"486","France","RC Lens","RC Lens",NA
-"487","France","RC Roubaix","RC Roubaix",NA
-"488","France","RC Strasbourg","RC Strasbourg",NA
-"489","France","Red Star FC","Red Star FC",NA
-"490","France","Red Star Olympique","Red Star Olympique",NA
-"491","France","Red Star Olympique Audonien","Red Star Olympique Audonien",NA
-"492","France","SC Bastia","SC Bastia",NA
-"493","France","SC Fives Lille","SC Fives Lille",NA
-"494","France","SC Nimes","SC Nimes",NA
-"495","France","SM Caen","SM Caen",NA
-"496","France","Sporting Toulon Var","Sporting Toulon Var",NA
-"497","France","SR Colmar","SR Colmar",NA
-"498","France","Stade Brest","Stade Brest",NA
-"499","France","Stade de Paris FC","Stade de Paris FC",NA
-"500","France","Stade Francais","Stade Francais",NA
-"501","France","Stade Francais FC","Stade Francais FC",NA
-"502","France","Stade Laval","Stade Laval",NA
-"503","France","Stade Olympique Montpellierain","Stade Olympique Montpellierain",NA
-"504","France","Stade Red Star","Stade Red Star",NA
-"505","France","Stade Reims","Stade Reims",NA
-"506","France","Stade Rennes","Stade Rennes",NA
-"507","France","Toulouse FC","Toulouse FC",NA
-"508","France","Tours FC","Tours FC",NA
-"509","France","Troyes AF","Troyes AF",NA
-"510","France","UA Sedan-Torcy","UA Sedan-Torcy",NA
-"511","France","US Boulogne","US Boulogne",NA
-"512","France","US Valenciennes-Anzin","US Valenciennes-Anzin",NA
-"513","France","Valenciennes FC","Valenciennes FC",NA
-"514","Germany","1. FC Bocholt","1. FC Bocholt",NA
-"515","Germany","1. FC Heidenheim","1. FC Heidenheim",NA
-"516","Germany","1. FC Kaiserslautern","1. FC Kaiserslautern",NA
-"517","Germany","1. FC Koln","1. FC Koln",NA
-"518","Germany","1. FC Mulheim","1. FC Mulheim",NA
-"519","Germany","1. FC Nurnberg","1. FC Nurnberg",NA
-"520","Germany","1. FC Saarbrucken","1. FC Saarbrucken",NA
-"521","Germany","1. FC Schweinfurt 05","1. FC Schweinfurt 05",NA
-"522","Germany","1. FC Union Berlin","1. FC Union Berlin",NA
-"523","Germany","1. FSV Mainz 05","1. FSV Mainz 05",NA
-"524","Germany","1860 Munchen","1860 Munchen",NA
-"525","Germany","1899 Hoffenheim","1899 Hoffenheim",NA
-"526","Germany","Alemannia Aachen","Alemannia Aachen",NA
-"527","Germany","Arminia Bielefeld","Arminia Bielefeld",NA
-"528","Germany","Arminia Hannover","Arminia Hannover",NA
-"529","Germany","Bayer 05 Uerdingen","Bayer 05 Uerdingen",NA
-"530","Germany","Bayer Leverkusen","Bayer Leverkusen",NA
-"531","Germany","Bayern Munchen","Bayern Munchen",NA
-"532","Germany","Blau-Weiss 90 Berlin","Blau-Weiss 90 Berlin",NA
-"533","Germany","Bonner SC","Bonner SC",NA
-"534","Germany","Bor. Monchengladbach","Bor. Monchengladbach",NA
-"535","Germany","Borussia Dortmund","Borussia Dortmund",NA
-"536","Germany","Borussia Neunkirchen","Borussia Neunkirchen",NA
-"537","Germany","BSV Schwenningen","BSV Schwenningen",NA
-"538","Germany","BSV Stahl Brandenburg","BSV Stahl Brandenburg",NA
-"539","Germany","Carl Zeiss Jena","Carl Zeiss Jena",NA
-"540","Germany","Chemnitzer FC","Chemnitzer FC",NA
-"541","Germany","DJK Gutersloh","DJK Gutersloh",NA
-"542","Germany","DSC Wanne-Eickel","DSC Wanne-Eickel",NA
-"543","Germany","Dynamo Dresden","Dynamo Dresden",NA
-"544","Germany","Eintracht Bad Kreuznach","Eintracht Bad Kreuznach",NA
-"545","Germany","Eintracht Braunschweig","Eintracht Braunschweig",NA
-"546","Germany","Eintracht Frankfurt","Eintracht Frankfurt",NA
-"547","Germany","Eintracht Trier","Eintracht Trier",NA
-"548","Germany","Energie Cottbus","Energie Cottbus",NA
-"549","Germany","Erzgebirge Aue","Erzgebirge Aue",NA
-"550","Germany","ESV Ingolstadt","ESV Ingolstadt",NA
-"551","Germany","FC 08 Homburg","FC 08 Homburg",NA
-"552","Germany","FC Augsburg","FC Augsburg",NA
-"553","Germany","FC Bayern Hof","FC Bayern Hof",NA
-"554","Germany","FC Gutersloh","FC Gutersloh",NA
-"555","Germany","FC Hanau 93","FC Hanau 93",NA
-"556","Germany","FC Ingolstadt 04","FC Ingolstadt 04",NA
-"557","Germany","FC Remscheid","FC Remscheid",NA
-"558","Germany","FC Schalke 04","FC Schalke 04",NA
-"559","Germany","FC St. Pauli","FC St. Pauli",NA
-"560","Germany","FK Pirmasens","FK Pirmasens",NA
-"561","Germany","Fortuna Dusseldorf","Fortuna Dusseldorf",NA
-"562","Germany","Fortuna Koln","Fortuna Koln",NA
-"563","Germany","Frankfurter SG Eintracht","Frankfurter SG Eintracht",NA
-"564","Germany","Freiburger FC","Freiburger FC",NA
-"565","Germany","FSV Frankfurt","FSV Frankfurt",NA
-"566","Germany","FSV Salmrohr","FSV Salmrohr",NA
-"567","Germany","FSV Zwickau","FSV Zwickau",NA
-"568","Germany","FV Wurzburg 04","FV Wurzburg 04",NA
-"569","Germany","Hallescher FC","Hallescher FC",NA
-"570","Germany","Hamburger SV","Hamburger SV",NA
-"571","Germany","Hannover 96","Hannover 96",NA
-"572","Germany","Hansa Rostock","Hansa Rostock",NA
-"573","Germany","Hertha BSC","Hertha BSC",NA
-"574","Germany","Hessen Kassel","Hessen Kassel",NA
-"575","Germany","Holstein Kiel","Holstein Kiel",NA
-"576","Germany","HSV Barmbek-Uhlenhorst","HSV Barmbek-Uhlenhorst",NA
-"577","Germany","Jahn Regensburg","Jahn Regensburg",NA
-"578","Germany","Karlsruher SC","Karlsruher SC",NA
-"579","Germany","KFC Uerdingen 05","KFC Uerdingen 05",NA
-"580","Germany","Kickers Offenbach","Kickers Offenbach",NA
-"581","Germany","KSV Baunatal","KSV Baunatal",NA
-"582","Germany","Meidericher SV","Meidericher SV",NA
-"583","Germany","MSV Duisburg","MSV Duisburg",NA
-"584","Germany","MTV Ingolstadt","MTV Ingolstadt",NA
-"585","Germany","Olympia Wilhelmshaven","Olympia Wilhelmshaven",NA
-"586","Germany","OSC Bremerhaven","OSC Bremerhaven",NA
-"587","Germany","OSV Hannover","OSV Hannover",NA
-"588","Germany","Preussen Munster","Preussen Munster",NA
-"589","Germany","RasenBallsport Leipzig","RasenBallsport Leipzig",NA
-"590","Germany","Rot-Weiss Erfurt","Rot-Weiss Erfurt",NA
-"591","Germany","Rot-Weiss Essen","Rot-Weiss Essen",NA
-"592","Germany","Rot-Weiss Ludenscheid","Rot-Weiss Ludenscheid",NA
-"593","Germany","Rot-Weiss Oberhausen","Rot-Weiss Oberhausen",NA
-"594","Germany","Rot Weiss Ahlen","Rot Weiss Ahlen",NA
-"595","Germany","SC Charlottenburg","SC Charlottenburg",NA
-"596","Germany","SC Freiburg","SC Freiburg",NA
-"597","Germany","SC Gottingen 05","SC Gottingen 05",NA
-"598","Germany","SC Herford","SC Herford",NA
-"599","Germany","SC Paderborn 07","SC Paderborn 07",NA
-"600","Germany","SC Viktoria 04 Koln","SC Viktoria 04 Koln",NA
-"601","Germany","Schwarz-Weiss Essen","Schwarz-Weiss Essen",NA
-"602","Germany","SG Union Solingen","SG Union Solingen",NA
-"603","Germany","SG Wattenscheid 09","SG Wattenscheid 09",NA
-"604","Germany","Spandauer SV","Spandauer SV",NA
-"605","Germany","Sportfreunde Siegen","Sportfreunde Siegen",NA
-"606","Germany","SpVgg Bayreuth","SpVgg Bayreuth",NA
-"607","Germany","SpVgg Erkenschwick","SpVgg Erkenschwick",NA
-"608","Germany","SpVgg Greuther Furth","SpVgg Greuther Furth",NA
-"609","Germany","SpVgg Unterhaching","SpVgg Unterhaching",NA
-"610","Germany","SSV Reutlingen","SSV Reutlingen",NA
-"611","Germany","SSV Ulm 1846","SSV Ulm 1846",NA
-"612","Germany","Stuttgarter Kickers","Stuttgarter Kickers",NA
-"613","Germany","SV Babelsberg 03","SV Babelsberg 03",NA
-"614","Germany","SV Bayer 04 Leverkusen","SV Bayer 04 Leverkusen",NA
-"615","Germany","SV Darmstadt 98","SV Darmstadt 98",NA
-"616","Germany","SV Meppen","SV Meppen",NA
-"617","Germany","SV Rochling Volklingen","SV Rochling Volklingen",NA
-"618","Germany","SV Sandhausen","SV Sandhausen",NA
-"619","Germany","SV Wehen Wiesbaden","SV Wehen Wiesbaden",NA
-"620","Germany","Tasmania 1900 Berlin","Tasmania 1900 Berlin",NA
-"621","Germany","TeBe Berlin","TeBe Berlin",NA
-"622","Germany","Tennis Borussia Berlin","Tennis Borussia Berlin",NA
-"623","Germany","TSG Hoffenheim","TSG Hoffenheim",NA
-"624","Germany","TSV 1860 Munchen","TSV 1860 Munchen",NA
-"625","Germany","TSV Havelse","TSV Havelse",NA
-"626","Germany","TuS Koblenz","TuS Koblenz",NA
-"627","Germany","TuS Schloss-Neuhaus","TuS Schloss-Neuhaus",NA
-"628","Germany","VfB Eppingen","VfB Eppingen",NA
-"629","Germany","VfB Leipzig","VfB Leipzig",NA
-"630","Germany","VfB Lubeck","VfB Lubeck",NA
-"631","Germany","VfB Oldenburg","VfB Oldenburg",NA
-"632","Germany","VfB Stuttgart","VfB Stuttgart",NA
-"633","Germany","VfL Bochum","VfL Bochum",NA
-"634","Germany","VfL Osnabruck","VfL Osnabruck",NA
-"635","Germany","VfL Wolfsburg","VfL Wolfsburg",NA
-"636","Germany","VfR Aalen","VfR Aalen",NA
-"637","Germany","VfR Burstadt","VfR Burstadt",NA
-"638","Germany","VfR Heilbronn","VfR Heilbronn",NA
-"639","Germany","VfR Mannheim","VfR Mannheim",NA
-"640","Germany","Viktoria Aschaffenburg","Viktoria Aschaffenburg",NA
-"641","Germany","Wacker 04 Berlin","Wacker 04 Berlin",NA
-"642","Germany","Wacker Burghausen","Wacker Burghausen",NA
-"643","Germany","Waldhof Mannheim","Waldhof Mannheim",NA
-"644","Germany","Werder Bremen","Werder Bremen",NA
-"645","Germany","Westfalia Herne","Westfalia Herne",NA
-"646","Germany","Wormatia Worms","Wormatia Worms",NA
-"647","Germany","Wuppertaler SV","Wuppertaler SV",NA
-"648","Germany","Wurzburger Kickers","Wurzburger Kickers",NA
-"649","Holland","ADO Den Haag","ADO Den Haag",NA
-"650","Holland","AFC Ajax","AFC Ajax",NA
-"651","Holland","AZ '67 Alkmaar","AZ '67 Alkmaar",NA
-"652","Holland","AZ Alkmaar","AZ Alkmaar",NA
-"653","Holland","Blauw Wit","Blauw Wit",NA
-"654","Holland","BV Veendam","BV Veendam",NA
-"655","Holland","BVV","BVV",NA
-"656","Holland","BVV Den Bosch","BVV Den Bosch",NA
-"657","Holland","De Graafschap","De Graafschap",NA
-"658","Holland","De Volewijckers","De Volewijckers",NA
-"659","Holland","Dordrecht '90","Dordrecht '90",NA
-"660","Holland","DOS Utrecht","DOS Utrecht",NA
-"661","Holland","Drechtsteden '79","Drechtsteden '79",NA
-"662","Holland","DWS Amsterdam","DWS Amsterdam",NA
-"663","Holland","FC Amsterdam","FC Amsterdam",NA
-"664","Holland","FC Den Bosch","FC Den Bosch",NA
-"665","Holland","FC Den Bosch '67","FC Den Bosch '67",NA
-"666","Holland","FC Den Haag","FC Den Haag",NA
-"667","Holland","FC Den Haag-ADO","FC Den Haag-ADO",NA
-"668","Holland","FC Dordrecht","FC Dordrecht",NA
-"669","Holland","FC Groningen","FC Groningen",NA
-"670","Holland","FC Twente","FC Twente",NA
-"671","Holland","FC Utrecht","FC Utrecht",NA
-"672","Holland","FC Volendam","FC Volendam",NA
-"673","Holland","FC Wageningen","FC Wageningen",NA
-"674","Holland","FC Xerxes","FC Xerxes",NA
-"675","Holland","FC Zwolle","FC Zwolle",NA
-"676","Holland","Feijenoord","Feijenoord",NA
-"677","Holland","Feyenoord","Feyenoord",NA
-"678","Holland","Fortuna Sittard","Fortuna Sittard",NA
-"679","Holland","FSC Geleen","FSC Geleen",NA
-"680","Holland","Go Ahead Eagles","Go Ahead Eagles",NA
-"681","Holland","Groninger VAV","Groninger VAV",NA
-"682","Holland","GVAV Groningen","GVAV Groningen",NA
-"683","Holland","Helmond Sport","Helmond Sport",NA
-"684","Holland","Heracles Almelo","Heracles Almelo",NA
-"685","Holland","HFC Haarlem","HFC Haarlem",NA
-"686","Holland","Holland Sport","Holland Sport",NA
-"687","Holland","MVV","MVV",NA
-"688","Holland","NAC Breda","NAC Breda",NA
-"689","Holland","NEC Nijmegen","NEC Nijmegen",NA
-"690","Holland","NOAD Tilburg","NOAD Tilburg",NA
-"691","Holland","PEC Zwolle","PEC Zwolle",NA
-"692","Holland","PEC Zwolle '82","PEC Zwolle '82",NA
-"693","Holland","PSV Eindhoven","PSV Eindhoven",NA
-"694","Holland","Rapid JC Heerlen","Rapid JC Heerlen",NA
-"695","Holland","RBC Roosendaal","RBC Roosendaal",NA
-"696","Holland","RKC Waalwijk","RKC Waalwijk",NA
-"697","Holland","Roda JC Kerkrade","Roda JC Kerkrade",NA
-"698","Holland","S.V.V./Dordrecht '90","S.V.V./Dordrecht '90",NA
-"699","Holland","SBV Excelsior","SBV Excelsior",NA
-"700","Holland","SBV Haarlem","SBV Haarlem",NA
-"701","Holland","SC Cambuur","SC Cambuur",NA
-"702","Holland","SC Eindhoven","SC Eindhoven",NA
-"703","Holland","sc Heerenveen","sc Heerenveen",NA
-"704","Holland","SHS","SHS",NA
-"705","Holland","Sittardia","Sittardia",NA
-"706","Holland","Sparta Rotterdam","Sparta Rotterdam",NA
-"707","Holland","Sportclub Enschede","Sportclub Enschede",NA
-"708","Holland","SVV Schiedam","SVV Schiedam",NA
-"709","Holland","Telstar","Telstar",NA
-"710","Holland","USV Elinkwijk","USV Elinkwijk",NA
-"711","Holland","Vitesse","Vitesse",NA
-"712","Holland","VV Alkmaar '54","VV Alkmaar '54",NA
-"713","Holland","VVV-Venlo","VVV-Venlo",NA
-"714","Holland","Willem II","Willem II",NA
-"715","Holland","WVV Wageningen","WVV Wageningen",NA
-"716","Holland","Xerxes/D.H.C.","Xerxes/D.H.C.",NA
-"717","Italy","A.C.R. Messina","A.C.R. Messina",NA
-"718","Italy","AC Cesena","AC Cesena",NA
-"719","Italy","AC Liguria","AC Liguria",NA
-"720","Italy","AC Mantova","AC Mantova",NA
-"721","Italy","AC Milan","AC Milan",NA
-"722","Italy","AC Perugia","AC Perugia",NA
-"723","Italy","AC Pistoiese","AC Pistoiese",NA
-"724","Italy","AC Reggiana","AC Reggiana",NA
-"725","Italy","AC Siena","AC Siena",NA
-"726","Italy","AC Venezia","AC Venezia",NA
-"727","Italy","ACF Fiorentina","ACF Fiorentina",NA
-"728","Italy","Ancona Calcio","Ancona Calcio",NA
-"729","Italy","Andrea Doria","Andrea Doria",NA
-"730","Italy","AS Bari","AS Bari",NA
-"731","Italy","AS Livorno","AS Livorno",NA
-"732","Italy","AS Roma","AS Roma",NA
-"733","Italy","AS Varese 1910","AS Varese 1910",NA
-"734","Italy","Ascoli Calcio","Ascoli Calcio",NA
-"735","Italy","Atalanta","Atalanta",NA
-"736","Italy","Bologna FC","Bologna FC",NA
-"737","Italy","Brescia Calcio","Brescia Calcio",NA
-"738","Italy","Cagliari Calcio","Cagliari Calcio",NA
-"739","Italy","Calcio Catania","Calcio Catania",NA
-"740","Italy","Calcio Lecco 1912","Calcio Lecco 1912",NA
-"741","Italy","Calcio Padova","Calcio Padova",NA
-"742","Italy","Carpi FC","Carpi FC",NA
-"743","Italy","Casale","Casale",NA
-"744","Italy","Chievo Verona","Chievo Verona",NA
-"745","Italy","Como Calcio","Como Calcio",NA
-"746","Italy","Empoli FC","Empoli FC",NA
-"747","Italy","FC Messina","FC Messina",NA
-"748","Italy","Frosinone Calcio","Frosinone Calcio",NA
-"749","Italy","Genoa CFC","Genoa CFC",NA
-"750","Italy","Genova 1893 Circolo del Calcio","Genova 1893 Circolo del Calcio",NA
-"751","Italy","Hellas Verona","Hellas Verona",NA
-"752","Italy","Inter","Inter",NA
-"753","Italy","Juventus","Juventus",NA
-"754","Italy","Lanerossi Vicenza","Lanerossi Vicenza",NA
-"755","Italy","Lazio Roma","Lazio Roma",NA
-"756","Italy","Legnano","Legnano",NA
-"757","Italy","Lucchese","Lucchese",NA
-"758","Italy","Modena FC","Modena FC",NA
-"759","Italy","Novara Calcio","Novara Calcio",NA
-"760","Italy","Parma AC","Parma AC",NA
-"761","Italy","Parma FC","Parma FC",NA
-"762","Italy","Pescara Calcio","Pescara Calcio",NA
-"763","Italy","Piacenza Calcio","Piacenza Calcio",NA
-"764","Italy","Pisa SC","Pisa SC",NA
-"765","Italy","Pro Patria","Pro Patria",NA
-"766","Italy","Pro Vercelli","Pro Vercelli",NA
-"767","Italy","Reggina Calcio","Reggina Calcio",NA
-"768","Italy","Salernitana Calcio 1919","Salernitana Calcio 1919",NA
-"769","Italy","Salernitana Sport","Salernitana Sport",NA
-"770","Italy","Sampdoria","Sampdoria",NA
-"771","Italy","Sampierdarenese","Sampierdarenese",NA
-"772","Italy","Sassuolo Calcio","Sassuolo Calcio",NA
-"773","Italy","SPAL 1907 Ferrara","SPAL 1907 Ferrara",NA
-"774","Italy","SSC Napoli","SSC Napoli",NA
-"775","Italy","Ternana Calcio","Ternana Calcio",NA
-"776","Italy","Torino FC","Torino FC",NA
-"777","Italy","Treviso FBC","Treviso FBC",NA
-"778","Italy","Udinese Calcio","Udinese Calcio",NA
-"779","Italy","Unione Triestina","Unione Triestina",NA
-"780","Italy","US Alessandria 1912","US Alessandria 1912",NA
-"781","Italy","US Anconitana","US Anconitana",NA
-"782","Italy","US Avellino","US Avellino",NA
-"783","Italy","US Catanzaro","US Catanzaro",NA
-"784","Italy","US Cremonese","US Cremonese",NA
-"785","Italy","US Foggia","US Foggia",NA
-"786","Italy","US Lecce","US Lecce",NA
-"787","Italy","US Livorno","US Livorno",NA
-"788","Italy","US Palermo","US Palermo",NA
-"789","Italy","Vicenza Calcio","Vicenza Calcio",NA
-"790","spain","Albacete","Albacete",TRUE
-"791","spain","Arenas de Getxo","Arenas de Getxo",TRUE
-"792","spain","Athletic Bilbao","Athletic Bilbao",TRUE
-"793","spain","Atletico Madrid","Atletico Madrid",TRUE
-"794","spain","Atletico Tetuan","Atletico Tetuan",TRUE
-"795","spain","Burgos CF","Burgos CF",TRUE
-"796","spain","CA Osasuna","CA Osasuna",TRUE
-"797","spain","Cadiz CF","Cadiz CF",TRUE
-"798","spain","CD Alaves","CD Alaves",TRUE
-"799","spain","CD Alcoyano","CD Alcoyano",TRUE
-"800","spain","CD Castellon","CD Castellon",TRUE
-"801","spain","CD Condal","CD Condal",FALSE
-"802","spain","CD Leonesa","CD Leonesa",TRUE
-"803","spain","CD Logrones","CD Logrones",FALSE
-"804","spain","CD Numancia","CD Numancia",TRUE
-"805","spain","CD Tenerife","CD Tenerife",TRUE
-"806","spain","CE Europa","CE Europa",TRUE
-"807","spain","CE Sabadell","CE Sabadell",TRUE
-"808","spain","Celta Vigo","Celta Vigo",TRUE
-"809","spain","CF Extremadura","CF Extremadura",FALSE
-"810","spain","Cordoba CF","Cordoba CF",TRUE
-"811","spain","Deportivo La Coruna","Deportivo La Coruna",TRUE
-"812","spain","Elche CF","Elche CF",TRUE
-"813","spain","Espanyol Barcelona","Espanyol Barcelona",TRUE
-"814","spain","FC Barcelona","FC Barcelona",TRUE
-"815","spain","Getafe CF","Getafe CF",TRUE
-"816","spain","Gimnastic","Gimnastic",TRUE
-"817","spain","Granada CF","Granada CF",TRUE
-"818","spain","Hercules CF","Hercules CF",TRUE
-"819","spain","Levante UD","Levante UD",TRUE
-"820","spain","Malaga CF","CD Malaga",FALSE
-"821","spain","Malaga CF","Malaga CF",TRUE
-"822","spain","Merida UD","CP Merida",FALSE
-"823","spain","Pontevedra CF","Pontevedra CF",TRUE
-"824","spain","Racing Santander","Racing Santander",TRUE
-"825","spain","Rayo Vallecano","Rayo Vallecano",TRUE
-"826","spain","RCD Mallorca","RCD Mallorca",TRUE
-"827","spain","Real Betis","Real Betis",TRUE
-"828","spain","Real Burgos","Real Burgos",FALSE
-"829","spain","Real Jaen","Real Jaen",TRUE
-"830","spain","Real Madrid","Real Madrid",TRUE
-"831","spain","Real Murcia","Real Murcia",TRUE
-"832","spain","Real Oviedo","Real Oviedo",TRUE
-"833","spain","Real Sociedad","Real Sociedad",TRUE
-"834","spain","Real Union","Real Union",TRUE
-"835","spain","Real Valladolid","Real Valladolid",TRUE
-"836","spain","Real Zaragoza","Real Zaragoza",TRUE
-"837","spain","Recreativo Huelva","Recreativo Huelva",TRUE
-"838","spain","SD Compostela","SD Compostela",TRUE
-"839","spain","SD Eibar","SD Eibar",TRUE
-"840","spain","Sevilla FC","Sevilla FC",TRUE
-"841","spain","Sporting Gijon","Sporting Gijon",TRUE
-"842","spain","UD Almeria","AD Almeria",FALSE
-"843","spain","UD Almeria","UD Almeria",TRUE
-"844","spain","UD Las Palmas","UD Las Palmas",TRUE
-"845","spain","UD Salamanca","UD Salamanca",FALSE
-"846","spain","UE Lleida","UE Lleida",FALSE
-"847","spain","Valencia CF","Valencia CF",TRUE
-"848","spain","Villarreal CF","Villarreal CF",TRUE
-"849","spain","Xerez CD","Xerez CD",TRUE
-"850","Scotland","Aberdeen","Aberdeen",NA
-"851","Scotland","Falkirk","Falkirk",NA
-"852","Scotland","Hibernian","Hibernian",NA
-"853","Scotland","Partick","Partick",NA
-"854","Scotland","Rangers","Rangers",NA
-"855","Scotland","Celtic","Celtic",NA
-"856","Scotland","Motherwell","Motherwell",NA
-"857","Scotland","Dundee United","Dundee United",NA
-"858","Scotland","Hearts","Hearts",NA
-"859","Scotland","Kilmarnock","Kilmarnock",NA
-"860","Scotland","Raith Rvs","Raith Rvs",NA
-"861","Scotland","Dunfermline","Dunfermline",NA
-"862","Scotland","St Johnstone","St Johnstone",NA
-"863","Scotland","Dundee","Dundee",NA
-"864","Scotland","St Mirren","St Mirren",NA
-"865","Scotland","Livingston","Livingston",NA
-"866","Scotland","Inverness C","Inverness C",NA
-"867","Scotland","Gretna","Gretna",NA
-"868","Scotland","Hamilton","Hamilton",NA
-"869","Scotland","Ross County","Ross County",NA
-"870","Scotland","Airdrie","Airdrie",NA
-"871","Scotland","Ayr","Ayr",NA
-"872","Scotland","Clydebank","Clydebank",NA
-"873","Scotland","Stranraer","Stranraer",NA
-"874","Scotland","Dumbarton","Dumbarton",NA
-"875","Scotland","Morton","Morton",NA
-"876","Scotland","East Fife","East Fife",NA
-"877","Scotland","Stirling","Stirling",NA
-"878","Scotland","Clyde","Clyde",NA
-"879","Scotland","Alloa","Alloa",NA
-"880","Scotland","Arbroath","Arbroath",NA
-"881","Scotland","Queen of Sth","Queen of Sth",NA
-"882","Scotland","Brechin","Brechin",NA
-"883","Scotland","Airdrie Utd","Airdrie Utd",NA
-"884","Scotland","Cowdenbeath","Cowdenbeath",NA
-"885","Scotland","Stenhousemuir","Stenhousemuir",NA
-"886","Scotland","Forfar","Forfar",NA
-"887","Scotland","Queens Park","Queens Park",NA
-"888","Scotland","Berwick","Berwick",NA
-"889","Scotland","Peterhead","Peterhead",NA
-"890","Scotland","Albion Rvs","Albion Rvs",NA
-"891","Scotland","East Stirling","East Stirling",NA
-"892","Scotland","Montrose","Montrose",NA
-"893","Scotland","Elgin","Elgin",NA
-"894","Scotland","Annan Athletic","Annan Athletic",NA
-"895","Scotland","Edinburgh City","Edinburgh City",NA
-"896","Scotland","Raith","Raith",NA
-"897","Turkey","Zeytinburnu","Zeytinburnu",NA
-"898","Turkey","Ad. Demirspor","Ad. Demirspor",NA
-"899","Turkey","Ankaragucu","Ankaragucu",NA
-"900","Turkey","Bursaspor","Bursaspor",NA
-"901","Turkey","Denizlispor","Denizlispor",NA
-"902","Turkey","Galatasaray","Galatasaray",NA
-"903","Turkey","Kocaelispor","Kocaelispor",NA
-"904","Turkey","Trabzonspor","Trabzonspor",NA
-"905","Turkey","Vanspor","Vanspor",NA
-"906","Turkey","Fenerbahce","Fenerbahce",NA
-"907","Turkey","P. Ofisi","P. Ofisi",NA
-"908","Turkey","Altay","Altay",NA
-"909","Turkey","Antalya","Antalya",NA
-"910","Turkey","Besiktas","Besiktas",NA
-"911","Turkey","Gaziantepspor","Gaziantepspor",NA
-"912","Turkey","Genclerbirligi","Genclerbirligi",NA
-"913","Turkey","Kayseri","Kayseri",NA
-"914","Turkey","Samsunspor","Samsunspor",NA
-"915","Turkey","Istanbulspor","Istanbulspor",NA
-"916","Turkey","Antalyaspor","Antalyaspor",NA
-"917","Turkey","Eskisehirspor","Eskisehirspor",NA
-"918","Turkey","Karsiyaka","Karsiyaka",NA
-"919","Turkey","Sariyer","Sariyer",NA
-"920","Turkey","Dardanelspor","Dardanelspor",NA
-"921","Turkey","Karabukspor","Karabukspor",NA
-"922","Turkey","Sekerspor","Sekerspor",NA
-"923","Turkey","Adanaspor","Adanaspor",NA
-"924","Turkey","Sakaryaspor","Sakaryaspor",NA
-"925","Turkey","Erzurum","Erzurum",NA
-"926","Turkey","Erzurumspor","Erzurumspor",NA
-"927","Turkey","Goztep","Goztep",NA
-"928","Turkey","Siirt Jet-PA","Siirt Jet-PA",NA
-"929","Turkey","Yozgatspor","Yozgatspor",NA
-"930","Turkey","Rizespor","Rizespor",NA
-"931","Turkey","Diyarbakirspor","Diyarbakirspor",NA
-"932","Turkey","Malatyaspor","Malatyaspor",NA
-"933","Turkey","Elazigspor","Elazigspor",NA
-"934","Turkey","Konyaspor","Konyaspor",NA
-"935","Turkey","A. Sebatspor","A. Sebatspor",NA
-"936","Turkey","Kayserispor","Kayserispor",NA
-"937","Turkey","Ankaraspor","Ankaraspor",NA
-"938","Turkey","Erciyesspor","Erciyesspor",NA
-"939","Turkey","Sivasspor","Sivasspor",NA
-"940","Turkey","Manisaspor","Manisaspor",NA
-"941","Turkey","Buyuksehyr","Buyuksehyr",NA
-"942","Turkey","Oftasspor","Oftasspor",NA
-"943","Turkey","Kasimpasa","Kasimpasa",NA
-"944","Turkey","Hacettepespor","Hacettepespor",NA
-"945","Turkey","Bucaspor","Bucaspor",NA
-"946","Turkey","Orduspor","Orduspor",NA
-"947","Turkey","Mersin Idman Yurdu","Mersin Idman Yurdu",NA
-"948","Turkey","Akhisar Belediyespor","Akhisar Belediyespor",NA
-"949","Turkey","Balikesirspor","Balikesirspor",NA
-"950","Turkey","Osmanlispor","Osmanlispor",NA
-"951","Turkey","Alanyaspor","Alanyaspor",NA
-"952","Greece","AEK","AEK",NA
-"953","Greece","Apollon","Apollon",NA
-"954","Greece","Doxa","Doxa",NA
-"955","Greece","Edessaikos","Edessaikos",NA
-"956","Greece","Ethnikos","Ethnikos",NA
-"957","Greece","Iraklis","Iraklis",NA
-"958","Greece","Larisa","Larisa",NA
-"959","Greece","PAOK","PAOK",NA
-"960","Greece","Xanthi","Xanthi",NA
-"961","Greece","Aris","Aris",NA
-"962","Greece","Athinaikos","Athinaikos",NA
-"963","Greece","Ionikos","Ionikos",NA
-"964","Greece","Kavala","Kavala",NA
-"965","Greece","OFI","OFI",NA
-"966","Greece","Olympiakos","Olympiakos",NA
-"967","Greece","Panathinaikos","Panathinaikos",NA
-"968","Greece","Panionios","Panionios",NA
-"969","Greece","Levadiakos","Levadiakos",NA
-"970","Greece","Kalamata","Kalamata",NA
-"971","Greece","Panahaiki","Panahaiki",NA
-"972","Greece","Paniliakos","Paniliakos",NA
-"973","Greece","Kastoria","Kastoria",NA
-"974","Greece","Heracles","Heracles",NA
-"975","Greece","Veroia","Veroia",NA
-"976","Greece","Proodeytiki","Proodeytiki",NA
-"977","Greece","Ethnikos Piraeus","Ethnikos Piraeus",NA
-"978","Greece","Eleysina","Eleysina",NA
-"979","Greece","Ethnikos Asteras","Ethnikos Asteras",NA
-"980","Greece","Trikala","Trikala",NA
-"981","Greece","Eth Asteras","Eth Asteras",NA
-"982","Greece","Yiannina","Yiannina",NA
-"983","Greece","Akratitos","Akratitos",NA
-"984","Greece","Egaleo","Egaleo",NA
-"985","Greece","Proodeftiki","Proodeftiki",NA
-"986","Greece","Kalithea","Kalithea",NA
-"987","Greece","Giannina","Giannina",NA
-"988","Greece","Chalkidona","Chalkidona",NA
-"989","Greece","Ergotelis","Ergotelis",NA
-"990","Greece","Kalamaria","Kalamaria",NA
-"991","Greece","Kerkyra","Kerkyra",NA
-"992","Greece","Kallithea","Kallithea",NA
-"993","Greece","Atromitos","Atromitos",NA
-"994","Greece","Levadeiakos","Levadeiakos",NA
-"995","Greece","Asteras Tripolis","Asteras Tripolis",NA
-"996","Greece","Veria","Veria",NA
-"997","Greece","Panthrakikos","Panthrakikos",NA
-"998","Greece","Panserraikos","Panserraikos",NA
-"999","Greece","Thrasyvoulos","Thrasyvoulos",NA
-"1000","Greece","Olympiakos Volou","Olympiakos Volou",NA
-"1001","Greece","Panetolikos","Panetolikos",NA
-"1002","Greece","Doxa Dramas","Doxa Dramas",NA
-"1003","Greece","Platanias","Platanias",NA
-"1004","Greece","Kallonis","Kallonis",NA
-"1005","Greece","Niki Volos","Niki Volos",NA
-"1006","Portugal","Farense","Farense",NA
-"1007","Portugal","Belenenses","Belenenses",NA
-"1008","Portugal","Benfica","Benfica",NA
-"1009","Portugal","Desp. Chaves","Desp. Chaves",NA
-"1010","Portugal","Gil Vicente","Gil Vicente",NA
-"1011","Portugal","Guimaraes","Guimaraes",NA
-"1012","Portugal","Leiria","Leiria",NA
-"1013","Portugal","Maritimo","Maritimo",NA
-"1014","Portugal","Porto","Porto",NA
-"1015","Portugal","Sp Lisbon","Sp Lisbon",NA
-"1016","Portugal","Beira Mar","Beira Mar",NA
-"1017","Portugal","Boavista","Boavista",NA
-"1018","Portugal","Est Amadora","Est Amadora",NA
-"1019","Portugal","Madeira","Madeira",NA
-"1020","Portugal","Salgueiros","Salgueiros",NA
-"1021","Portugal","Setubal","Setubal",NA
-"1022","Portugal","Sp Braga","Sp Braga",NA
-"1023","Portugal","Tirsense","Tirsense",NA
-"1024","Portugal","Campomaior","Campomaior",NA
-"1025","Portugal","Felgueiras","Felgueiras",NA
-"1026","Portugal","Leca","Leca",NA
-"1027","Portugal","Espinho","Espinho",NA
-"1028","Portugal","Rio Ave","Rio Ave",NA
-"1029","Portugal","Varzim","Varzim",NA
-"1030","Portugal","Academica","Academica",NA
-"1031","Portugal","Campomaiorense","Campomaiorense",NA
-"1032","Portugal","Chaves","Chaves",NA
-"1033","Portugal","Alverca","Alverca",NA
-"1034","Portugal","Santa Clara","Santa Clara",NA
-"1035","Portugal","Aves","Aves",NA
-"1036","Portugal","Pacos Ferreira","Pacos Ferreira",NA
-"1037","Portugal","Moreirense","Moreirense",NA
-"1038","Portugal","Nacional","Nacional",NA
-"1039","Portugal","Estoril","Estoril",NA
-"1040","Portugal","Penafiel","Penafiel",NA
-"1041","Portugal","Naval","Naval",NA
-"1042","Portugal","Leixoes","Leixoes",NA
-"1043","Portugal","Trofense","Trofense",NA
-"1044","Portugal","Olhanense","Olhanense",NA
-"1045","Portugal","Portimonense","Portimonense",NA
-"1046","Portugal","Feirense","Feirense",NA
-"1047","Portugal","Feirense","Feirense",NA
-"1048","Portugal","Arouca","Arouca",NA
-"1049","Portugal","Tondela","Tondela",NA
-"1050","Portugal","Uniao Madeira","Uniao Madeira",NA
-"1051","Belgium","Aalst","Aalst",NA
-"1052","Belgium","Cercle Brugge","Cercle Brugge",NA
-"1053","Belgium","Charleroi","Charleroi",NA
-"1054","Belgium","Lierse","Lierse",NA
-"1055","Belgium","Molenbeek","Molenbeek",NA
-"1056","Belgium","St Truiden","St Truiden",NA
-"1057","Belgium","Standard","Standard",NA
-"1058","Belgium","Waregem","Waregem",NA
-"1059","Belgium","Germinal","Germinal",NA
-"1060","Belgium","Club Brugge","Club Brugge",NA
-"1061","Belgium","Anderlecht","Anderlecht",NA
-"1062","Belgium","Antwerp","Antwerp",NA
-"1063","Belgium","Beveren","Beveren",NA
-"1064","Belgium","Gent","Gent",NA
-"1065","Belgium","Lommel","Lommel",NA
-"1066","Belgium","Mechelen","Mechelen",NA
-"1067","Belgium","Seraing","Seraing",NA
-"1068","Belgium","Harelbeke","Harelbeke",NA
-"1069","Belgium","Lokeren","Lokeren",NA
-"1070","Belgium","Genk","Genk",NA
-"1071","Belgium","Mouscron","Mouscron",NA
-"1072","Belgium","Westerlo","Westerlo",NA
-"1073","Belgium","Oostende","Oostende",NA
-"1074","Belgium","Kortrijk","Kortrijk",NA
-"1075","Belgium","Geel","Geel",NA
-"1076","Belgium","Louvieroise","Louvieroise",NA
-"1077","Belgium","Bergen","Bergen",NA
-"1078","Belgium","Heusden Zolder","Heusden Zolder",NA
-"1079","Belgium","FC Brussels","FC Brussels",NA
-"1080","Belgium","Roeselare","Roeselare",NA
-"1081","Belgium","Dender","Dender",NA
-"1082","Belgium","Tubize","Tubize",NA
-"1083","Belgium","Eupen","Eupen",NA
-"1084","Belgium","Oud-Heverlee Leuven","Oud-Heverlee Leuven",NA
-"1085","Belgium","Waasland-Beveren","Waasland-Beveren",NA
-"1086","Belgium","Mouscron-Peruwelz","Mouscron-Peruwelz",NA
-"1087","MLS","CD Chivas USA","CD Chivas USA",TRUE
-"1088","MLS","New York Red Bulls","New York Metrostars",FALSE
-"1089","MLS","Columbus Crew","Columbus Crew",TRUE
-"1090","MLS","Sporting Kansas City","Kansas City Wizards",FALSE
-"1091","MLS","FC Dallas","FC Dallas",TRUE
-"1092","MLS","San Jose Earthquakes","San Jose",FALSE
-"1093","MLS","DC United","Washington D.C. United",FALSE
-"1094","MLS","New England Revolution","N.E. Revolution",FALSE
-"1095","MLS","Colorado Rapids","Colorado Rapids",TRUE
-"1096","MLS","LA Galaxy","Los Angeles Galaxy",FALSE
-"1097","MLS","Real Salt Lake","Real Salt Lake",TRUE
-"1098","MLS","Chicago Fire","Chicago Fire",TRUE
-"1099","MLS","Houston Dynamo","Houston Dynamo",TRUE
-"1100","MLS","New England Revolution","New England Revolution",TRUE
-"1101","MLS","New York Red Bulls","New York Red Bulls",TRUE
-"1102","MLS","Toronto FC","Toronto FC",TRUE
-"1103","MLS","San Jose Earthquakes","San Jose Earthquakes",TRUE
-"1104","MLS","Seattle Sounders","Seattle Sounders",TRUE
-"1105","MLS","Philadelphia Union","Philadelphia Union",TRUE
-"1106","MLS","Vancouver Whitecaps","Vancouver Whitecaps FC",FALSE
-"1107","MLS","Portland Timbers","Portland Timbers",TRUE
-"1108","MLS","Sporting Kansas City","Sporting Kansas City",TRUE
-"1109","MLS","Montreal Impact","Montreal Impact",TRUE
-"1110","MLS","LA Galaxy","LA Galaxy",TRUE
-"1111","MLS","DC United","D.C. United",FALSE
-"1112","MLS","Orlando City","Orlando City SC",FALSE
-"1113","MLS","Seattle Sounders","Seattle Sounders FC",FALSE
-"1114","MLS","Columbus Crew","Columbus Crew SC",FALSE
-"1115","MLS","New York City FC","New York City FC",TRUE
-"1116","MLS","Orlando City","Orlando City",TRUE
-"1117","MLS","Vancouver Whitecaps","Vancouver Whitecaps",TRUE
-"1118","MLS","New York City FC","New York City",FALSE
-"1119","MLS","DC United","DC United",TRUE
-"1120","MLS","CD Chivas USA","CD Chivas USA",TRUE
-"1121","MLS","New York Red Bulls","New York Metrostars",FALSE
-"1122","MLS","Columbus Crew","Columbus Crew",TRUE
-"1123","MLS","Sporting Kansas City","Kansas City Wizards",FALSE
-"1124","MLS","FC Dallas","FC Dallas",TRUE
-"1125","MLS","San Jose Earthquakes","San Jose",FALSE
-"1126","MLS","DC United","Washington D.C. United",FALSE
-"1127","MLS","New England Revolution","N.E. Revolution",FALSE
-"1128","MLS","Colorado Rapids","Colorado Rapids",TRUE
-"1129","MLS","LA Galaxy","Los Angeles Galaxy",FALSE
-"1130","MLS","Real Salt Lake","Real Salt Lake",TRUE
-"1131","MLS","Chicago Fire","Chicago Fire",TRUE
-"1132","MLS","Houston Dynamo","Houston Dynamo",TRUE
-"1133","MLS","New England Revolution","New England Revolution",TRUE
-"1134","MLS","New York Red Bulls","New York Red Bulls",TRUE
-"1135","MLS","Toronto FC","Toronto FC",TRUE
-"1136","MLS","San Jose Earthquakes","San Jose Earthquakes",TRUE
-"1137","MLS","Seattle Sounders","Seattle Sounders",TRUE
-"1138","MLS","Philadelphia Union","Philadelphia Union",TRUE
-"1139","MLS","Vancouver Whitecaps","Vancouver Whitecaps FC",FALSE
-"1140","MLS","Portland Timbers","Portland Timbers",TRUE
-"1141","MLS","Sporting Kansas City","Sporting Kansas City",TRUE
-"1142","MLS","Montreal Impact","Montreal Impact",TRUE
-"1143","MLS","LA Galaxy","LA Galaxy",TRUE
-"1144","MLS","DC United","D.C. United",FALSE
-"1145","MLS","Orlando City","Orlando City SC",FALSE
-"1146","MLS","Seattle Sounders","Seattle Sounders FC",FALSE
-"1147","MLS","Columbus Crew","Columbus Crew SC",FALSE
-"1148","MLS","New York City FC","New York City FC",TRUE
-"1149","MLS","Orlando City","Orlando City",TRUE
-"1150","MLS","Vancouver Whitecaps","Vancouver Whitecaps",TRUE
-"1151","MLS","New York City FC","New York City",FALSE
-"1152","MLS","DC United","DC United",TRUE
-"1153","Germany","Bayern Munchen","Bayern Munich",NA
-"1154","Germany","FC Augsburg","Augsburg",NA
-"1155","Germany","Borussia Dortmund","Dortmund",NA
-"1156","Germany","Eintracht Frankfurt","Ein Frankfurt",NA
-"1157","Germany","1. FC Koln","FC Koln",NA
-"1158","Germany","Hamburger SV","Hamburg",NA
-"1159","Germany","Bor. Monchengladbach","M'gladbach",NA
-"1160","Germany","Hertha BSC","Hertha",NA
-"1161","Germany","1899 Hoffenheim","Hoffenheim",NA
-"1162","Germany","FC Schalke 04","Schalke 04",NA
-"1163","Germany","SV Darmstadt 98","Darmstadt",NA
-"1164","Germany","SC Freiburg","Freiburg",NA
-"1165","Germany","FC Ingolstadt 04","Ingolstadt",NA
-"1166","Germany","Bayer Leverkusen","Leverkusen",NA
-"1167","Germany","RasenBallsport Leipzig","RB Leipzig",NA
-"1168","Germany","VfL Wolfsburg","Wolfsburg",NA
-"1169","Germany","1. FSV Mainz 05","Mainz",NA
-"1170","Germany","1. FC Kaiserslautern","Kaiserslautern",NA
-"1171","Germany","VfL Bochum","Bochum",NA
-"1172","Germany","Dynamo Dresden","Dresden",NA
-"1173","Germany","SV Sandhausen","Sandhausen",NA
-"1174","Germany","Arminia Bielefeld","Bielefeld",NA
-"1175","Germany","Eintracht Braunschweig","Braunschweig",NA
-"1176","Germany","SpVgg Greuther Furth","Greuther Furth",NA
-"1177","Germany","1. FC Heidenheim","Heidenheim",NA
-"1178","Germany","VfB Stuttgart","Stuttgart",NA
-"1179","Germany","1. FC Nurnberg","Nurnberg",NA
-"1180","Germany","Karlsruher SC","Karlsruhe",NA
-"1181","Germany","FC St. Pauli","St Pauli",NA
-"1182","Germany","Hannover 96","Hannover",NA
-"1183","Germany","1860 Munchen","Munich 1860",NA
-"1184","Germany","1. FC Union Berlin","Union Berlin",NA
-"1185","Italy","AS Roma","Roma",NA
-"1186","Italy","Bologna FC","Bologna",NA
-"1187","Italy","Chievo Verona","Chievo",NA
-"1188","Italy","Empoli FC","Empoli",NA
-"1189","Italy","Genoa CFC","Genoa",NA
-"1190","Italy","AC Milan","Milan",NA
-"1191","Italy","US Palermo","Palermo",NA
-"1192","Italy","Pescara Calcio","Pescara",NA
-"1193","Italy","Lazio Roma","Lazio",NA
-"1194","Italy","SSC Napoli","Napoli",NA
-"1195","Italy","Cagliari Calcio","Cagliari",NA
-"1196","Italy","FC Crotone","Crotone",NA
-"1197","Italy","ACF Fiorentina","Fiorentina",NA
-"1198","Italy","Sassuolo Calcio","Sassuolo",NA
-"1199","Italy","Torino FC","Torino",NA
-"1200","Italy","Udinese Calcio","Udinese",NA
-"1201","France","Lille OSC","Lille",NA
-"1202","France","SC Bastia","Bastia",NA
-"1203","France","Olympique Marseille","Marseille",NA
-"1204","France","Montpellier HSC","Montpellier",NA
-"1205","France","FC Nantes","Nantes",NA
-"1206","France","OGC Nice","Nice",NA
-"1207","France","ESTAC Troyes","Troyes",NA
-"1208","France","Girondins Bordeaux","Bordeaux",NA
-"1209","France","Olympique Lyon","Lyon",NA
-"1210","France","Toulouse FC","Toulouse",NA
-"1211","France","AS Monaco","Monaco",NA
-"1212","France","Angers SCO","Angers",NA
-"1213","France","SM Caen","Caen",NA
-"1214","France","EA Guingamp","Guingamp",NA
-"1215","France","Stade Rennes","Rennes",NA
-"1216","France","AS Saint-Etienne","St Etienne",NA
-"1217","France","FC Lorient","Lorient",NA
-"1218","France","Paris Saint-Germain","Paris SG",NA
-"1219","France","Stade Reims","Reims",NA
-"1220","France","AC Ajaccio","Ajaccio GFCO",NA
-"1221","France","Dijon FCO","Dijon",NA
-"1222","France","FC Metz","Metz",NA
-"1223","France","AS Nancy","Nancy",NA
-"1224","Holland","NEC Nijmegen","Nijmegen",NA
-"1225","Holland","ADO Den Haag","Den Haag",NA
-"1226","Holland","FC Twente","Twente",NA
-"1227","Holland","FC Utrecht","Utrecht",NA
-"1228","Holland","FC Groningen","Groningen",NA
-"1229","Holland","Roda JC Kerkrade","Roda",NA
-"1230","Holland","sc Heerenveen","Heerenveen",NA
-"1231","Holland","AFC Ajax","Ajax",NA
-"1232","Holland","SBV Excelsior","Excelsior",NA
-"1233","Holland","PEC Zwolle","Zwolle",NA
-"1234","Holland","Heracles Almelo","Heracles",NA
-"1235","Spain","Deportivo La Coruna","La Coruna",NA
-"1236","Spain","Malaga CF","Malaga",NA
-"1237","Spain","FC Barcelona","Barcelona",NA
-"1238","Spain","Granada CF","Granada",NA
-"1239","Spain","Sevilla FC","Sevilla",NA
-"1240","Spain","Atletico Madrid","Ath Madrid",NA
-"1241","Spain","Real Sociedad","Sociedad",NA
-"1242","Spain","Sporting Gijon","Sp Gijon",NA
-"1243","Spain","Celta Vigo","Celta",NA
-"1244","Spain","Valencia CF","Valencia",NA
-"1245","Spain","Real Betis","Betis",NA
-"1246","Spain","Espanyol Barcelona","Espanol",NA
-"1247","Spain","SD Eibar","Eibar",NA
-"1248","Spain","CD Leganes","Leganes",NA
-"1249","Spain","CA Osasuna","Osasuna",NA
-"1250","Spain","Real Madrid","Real Madrid",NA
-"1251","Spain","CD Alaves","Alaves",NA
-"1252","Spain","Athletic Bilbao","Ath Bilbao",NA
-"1253","Spain","UD Las Palmas","Las Palmas",NA
-"1254","Spain","Villarreal CF","Villarreal",NA
-"1255","England","Telford United","AFC Telford United",NA
-"1256","England","Telford United","AFC Telford Utd",NA
-"1257","England","Aldershot","Aldershot Town",NA
-"1258","England","Alfreton Town","Alfreton Town",NA
-"1259","England","Altrincham","Altrincham",NA
-"1260","England","Barnet","Barnet FC",NA
-"1261","England","Bath City","Bath City",NA
-"1262","England","Boreham Wood","Boreham Wood",NA
-"1263","England","Boston United","Boston",NA
-"1264","England","Braintree Town","Braintree Town",NA
-"1265","England","Bristol Rovers","Bristol Rvs",NA
-"1266","England","Bromley","Bromley",NA
-"1267","England","Burton Albion","Burton",NA
-"1268","England","Cambrdige United","Cambridge",NA
-"1269","England","Canvey Island","Canvey Island",NA
-"1270","England","Chester","Chester City",NA
-"1271","England","Dagenham and Redbridge","Dag and Red",NA
-"1272","England","Dagenham and Redbridge","Dagenham & Red.",NA
-"1273","England","Dagenham and Redbridge","Dagenham & Redbridge",NA
-"1274","England","Dartford","Dartford",NA
-"1275","England","Doncaster Rovers","Doncaster",NA
-"1276","England","Dover Athletic","Dover",NA
-"1277","England","Dover Athletic","Dover Ath.",NA
-"1278","England","Dover Athletic","Dover Athletic",NA
-"1279","England","Droylsden","Droylsden",NA
-"1280","England","Eastbourne Borough","Eastbourne Borough",NA
-"1281","England","Eastleigh","Eastleigh",NA
-"1282","England","Ebbsfleet United","Ebbsfleet",NA
-"1283","England","Exeter City","Exeter",NA
-"1284","England","Farnborough Town","Farnborough",NA
-"1285","England","Farnborough Town","Farnborough Town",NA
-"1286","England","Farsley","Farsley",NA
-"1287","England","Forest Green Rovers","Forest Green",NA
-"1288","England","Forest Green Rovers","Forest Green Rovers",NA
-"1289","England","Ebbsfleet United","Gravesend",NA
-"1290","England","Ebbsfleet United","Gravesend & Northfleet",NA
-"1291","England","Grays Athletic","Grays",NA
-"1292","England","Grimsby Town","Grimsby",NA
-"1293","England","Guiseley","Guiseley",NA
-"1294","England","Halifax Town","Halifax",NA
-"1295","England","Hayes & Yeading","Hayes",NA
-"1296","England","Hayes & Yeading","Hayes & Yeading",NA
-"1297","England","Hednesford Town","Hednesford",NA
-"1298","England","Hednesford Town","Hednesford Town",NA
-"1299","England","Hereford United","Hereford",NA
-"1300","England","Hereford United","Hereford Utd",NA
-"1301","England","Histon","Histon",NA
-"1302","England","Hyde United","Hyde United",NA
-"1303","England","Kettering Town","Kettering",NA
-"1304","England","Kettering Town","Kettering Town",NA
-"1305","England","Kidderminster Harriers","Kidderminster",NA
-"1306","England","Kingstonian","Kingstonian",NA
-"1307","England","Leigh Genesis","Leigh Genesis",NA
-"1308","England","Leigh Genesis","Leigh RMI",NA
-"1309","England","Lewes","Lewes",NA
-"1310","England","Lincoln City","Lincoln",NA
-"1311","England","Luton Town","Luton",NA
-"1312","England","Maidstone United","Maidstone",NA
-"1313","England","Mansfield Town","Mansfield",NA
-"1314","England","Margate","Margate",NA
-"1315","England","Morecambe","Morecambe FC",NA
-"1316","England","North Ferriby","North Ferriby",NA
-"1317","England","Northwich Victoria","Northwich",NA
-"1318","England","Nuneaton Town","Nuneaton",NA
-"1319","England","Nuneaton Town","Nuneaton Borough AFC",NA
-"1320","England","Nuneaton Town","Nuneaton Town",NA
-"1321","England","Oxford United","Oxford",NA
-"1322","England","Rushden & Diamonds","Rushden",NA
-"1323","England","Rushden & Diamonds","Rushden & D",NA
-"1324","England","Rushden & Diamonds","Rushden & D.",NA
-"1325","England","Salisbury","Salisbury",NA
-"1326","England","Scarborough","Scarborough FC",NA
-"1327","England","Solihull","Solihull",NA
-"1328","England","Southport","Southport FC",NA
-"1329","England","St Albans","St. Albans",NA
-"1330","England","Stafford Rangers","Stafford Rangers",NA
-"1331","England","Stalybridge Celtic","Stalybridge",NA
-"1332","England","Stevenage Borough","Stevenage",NA
-"1333","England","Stevenage Borough","Stevenage Borough FC",NA
-"1334","England","Stevenage Borough","Stevenage FC",NA
-"1335","England","Stockport County","Stockport",NA
-"1336","England","Sutton United","Sutton",NA
-"1337","England","Sutton United","Sutton Utd",NA
-"1338","England","Tamworth","Tamworth",NA
-"1339","England","Tamworth","Tamworth FC",NA
-"1340","England","Telford United","Telford",NA
-"1341","England","Telford United","Telford United",NA
-"1342","England","Torquay United","Torquay",NA
-"1343","England","Tranmere Rovers","Tranmere",NA
-"1344","England","Welling United","Welling",NA
-"1345","England","Welling United","Welling United",NA
-"1346","England","Weymouth","Weymouth",NA
-"1347","England","Woking","Woking",NA
-"1348","England","Woking","Woking FC",NA
-"1349","England","Yeovil","Yeovil Town",NA
-"1350","England","York City","York",NA
-"1351","England","AP Leamington","AP Leamington",NA
-"1352","England","Aylesbury United","Aylesbury United",NA
-"1353","England","Bangor City","Bangor City",NA
-"1354","England","Bromsgrove Rovers","Bromsgrove Rovers",NA
-"1355","England","Cheltenham","Cheltenham Town",NA
-"1356","England","Chorley","Chorley",NA
-"1357","England","Dagenham","Dagenham",NA
-"1358","England","Dagenham and Redbridge","Dagenham & Redbridge",NA
-"1359","England","Enfield","Enfield",NA
-"1360","England","Fisher Athletic","Fisher Athletic",NA
-"1361","England","Frickley Athletic","Frickley Athletic",NA
-"1362","England","Ebbsfleet United","Gravesend & Northfleet",NA
-"1363","England","Hayes","Hayes",NA
-"1364","England","Leek Town","Leek Town",NA
-"1365","England","Macclesfield","Macclesfield Town",NA
-"1366","England","Merthyr Tydfil","Merthyr Tydfil",NA
-"1367","England","Nuneaton Town","Nuneaton Borough",NA
-"1368","England","Redbridge Forest","Redbridge Forest",NA
-"1369","England","Redditch United","Redditch United",NA
-"1370","England","Runcorn","Runcorn",NA
-"1371","England","Slough Town","Slough Town",NA
-"1372","England","Trowbridge Town","Trowbridge Town",NA
-"1373","England","Wealdstone","Wealdstone",NA
-"1374","England","Witton Albion","Witton Albion",NA
-"1375","England","Worcester City","Worcester City",NA
-"1376","England","Yeovil","Yeovil Town",NA
-"1377","Turkey","Yeni Malatyaspor","Yeni Malatyaspor",NA
-"1378","Spain","Girona","Girona",NA
-"1379","Spain","Getafe CF","Getafe",NA
-"1380","Spain","Levante UD","Levante",NA
-"1381","Italy","SPAL 1907 Ferrara","Spal",NA
-"1382","Italy","Benevento","Benevento",NA
-"1383","Italy","Hellas Verona","Verona",NA
-"1384","Holland","VVV-Venlo","VVV Venlo",NA
-"1385","Greece","Lamia","Lamia",NA
-"1386","France","RC Strasbourg","Strasbourg",NA
-"1387","France","Amiens SC","Amiens",NA
-"1388","Germany","Jahn Regensburg","Regensburg",NA
-"1389","Germany","MSV Duisburg","Duisburg",NA
-"1390","England","Tottenham Hotspur","Spurs",NA
-"1391","England","Curzon Ashton","Curzon Ashton",NA
-"1392","England","Stourbridge","Stourbridge",NA
-"1393","England","Merstham","Merstham",NA
-"1394","England","Westfields","Westfields",NA
-"1395","England","Whitehawk","Whitehawk",NA
-"1396","England","Taunton Town","Taunton Town",NA
-"1397","England","Brackley Town","Brackley Town",NA
-"1398","England","Harrow Borough","Harrow Borough",NA
-"1399","England","Spennymoor United","Spennymoor United",NA
-"1400","England","Chesham United","Chesham United",NA
-"1401","England","Stamford","Stamford",NA
-"1402","England","Fylde","Fylde",NA
-"1403","England","Maidenhead","Maidenhead",NA
-"1404","Portugal","SC Farense","SC Farense",TRUE
-"1405","Portugal","Oliveirense","Oliveirense",TRUE
-"1406","Portugal","Academica","Academica",TRUE
-"1407","Portugal","Mafra","Mafra",TRUE 
-"1408","Portugal","CD Cova da Piedade","CD Cova da Piedade",TRUE 
-"1409","Italy","Parma Calcio 1913", "Parma",NA
-"1410","Italy","Parma", "Parma",NA
+"country","name","name_other","most_recent"
+"England","Sutton United","Sutton United",NA
+"England","Aberdare Athletic","Aberdare Athletic",NA
+"England","Aberdare Athletic","Aat",NA
+"England","Aberdare Athletic","Aberdare",NA
+"England","Accrington","Accrington",NA
+"England","Accrington",NA,NA
+"England","Accrington F.C.","Accrington F.C.",NA
+"England","Accrington F.C.","accr",NA
+"England","Accrington F.C.","Accrington",NA
+"England","Accrington Stanley","Accrington Stanley",NA
+"England","Accrington Stanley","Acc",NA
+"England","Accrington Stanley","Accrington S.",NA
+"England","AFC Bournemouth","AFC Bournemouth",NA
+"England","AFC Bournemouth","B&B",NA
+"England","AFC Bournemouth","Bou",NA
+"England","AFC Bournemouth","Bournemouth",NA
+"England","AFC Bournemouth","Bournemouth&B",NA
+"England","AFC Wimbledon","AFC Wimbledon",NA
+"England","AFC Wimbledon","Wmb",NA
+"England","Aldershot","Aldershot",NA
+"England","Aldershot","Ald",NA
+"England","Aldershot","Aldershot Tn.",NA
+"England","Arsenal","Arsenal",NA
+"England","Arsenal","Ars",NA
+"England","Arsenal","WlA",NA
+"England","Arsenal","Woolwich A",NA
+"England","Ashington","Ashington",NA
+"England","Ashington","Agt",NA
+"England","Aston Villa","Aston Villa",NA
+"England","Aston Villa","AV",NA
+"England","Barnet","Barnet",NA
+"England","Barnet","Bnt",NA
+"England","Barnsley","Barnsley",NA
+"England","Barnsley","Brn",NA
+"England","Barrow","Barrow",NA
+"England","Barrow","Brw",NA
+"England","Birmingham City","Birmingham City",NA
+"England","Birmingham City","Bir",NA
+"England","Birmingham City","Birmingham",NA
+"England","Birmingham City","Birmingham C.",NA
+"England","Birmingham City","Brm",NA
+"England","Birmingham City","Small Heath",NA
+"England","Birmingham City","SmH",NA
+"England","Blackburn Rovers","Blackburn Rovers",NA
+"England","Blackburn Rovers","Blackburn R.",NA
+"England","Blackburn Rovers","Blk",NA
+"England","Blackburn Rovers","Blackburn",NA
+"England","Blackpool","Blackpool",NA
+"England","Blackpool","Blp",NA
+"England","Bolton Wanderers","Bolton Wanderers",NA
+"England","Bolton Wanderers","Bol",NA
+"England","Bolton Wanderers","Bolton Wdrs.",NA
+"England","Bolton Wanderers","Bolton",NA
+"England","Bootle","Bootle",NA
+"England","Bootle","Boo",NA
+"England","Boston United","Boston United",NA
+"England","Boston United","Bos",NA
+"England","Boston United","Boston Utd.",NA
+"England","Bradford City","Bradford City",NA
+"England","Bradford City","Brd",NA
+"England","Bradford City","Bradford",NA
+"England","Bradford Park Avenue","Bradford Park Avenue",NA
+"England","Bradford Park Avenue","BPA",NA
+"England","Bradford Park Avenue","Bradford P.A.",NA
+"England","Brentford","Brentford",NA
+"England","Brentford","Bre",NA
+"England","Brighton & Hove Albion","Brighton & Hove Albion",NA
+"England","Brighton & Hove Albion","Brg",NA
+"England","Brighton & Hove Albion","Brighton & HA",NA
+"England","Brighton & Hove Albion","Brighton",NA
+"England","Bristol City","Bristol City",NA
+"England","Bristol City","BrC",NA
+"England","Bristol Rovers","Bristol Rovers",NA
+"England","Bristol Rovers","Bristol Rvs.",NA
+"England","Bristol Rovers","BrR",NA
+"England","Bristol Rovers","Bristol Rvs",NA
+"England","Burnley","Burnley",NA
+"England","Burnley","Bly",NA
+"England","Burton Albion","Burton Albion",NA
+"England","Burton Albion","Brt",NA
+"England","Burton Albion","Burton",NA
+"England","Burton Swifts","Burton Swifts",NA
+"England","Burton Swifts","BtS",NA
+"England","Burton United","Burton United",NA
+"England","Burton United","BtU",NA
+"England","Burton United","Burton Utd.",NA
+"England","Burton Wanderers","Burton Wanderers",NA
+"England","Burton Wanderers","BtW",NA
+"England","Burton Wanderers","Burton Wdrs.",NA
+"England","Bury","Bury",NA
+"England","Bury","Bry",NA
+"England","Cambridge United","Cambridge United",NA
+"England","Cambridge United","Cambridge U.",NA
+"England","Cambridge United","CmU",NA
+"England","Cambridge United","Cambridge",NA
+"England","Cardiff City","Cardiff City",NA
+"England","Cardiff City","Cdf",NA
+"England","Cardiff City","Cardiff",NA
+"England","Carlisle United","Carlisle United",NA
+"England","Carlisle United","Carlisle Utd.",NA
+"England","Carlisle United","Crl",NA
+"England","Carlisle United","Carlisle",NA
+"England","Charlton Athletic","Charlton Athletic",NA
+"England","Charlton Athletic","ChA",NA
+"England","Charlton Athletic","Charlton Ath.",NA
+"England","Charlton Athletic","Charlton",NA
+"England","Chelsea","Chelsea",NA
+"England","Chelsea","Che",NA
+"England","Cheltenham","Cheltenham",NA
+"England","Cheltenham","Cheltenham T.",NA
+"England","Cheltenham","ChT",NA
+"England","Chester","Chester",NA
+"England","Chester","Chester City",NA
+"England","Chester","Chr",NA
+"England","Chesterfield","Chesterfield",NA
+"England","Chesterfield","Chs",NA
+"England","Colchester United","Colchester United",NA
+"England","Colchester United","Col",NA
+"England","Colchester United","Colchester U.",NA
+"England","Colchester United","Colchester",NA
+"England","Coventry City","Coventry City",NA
+"England","Coventry City","Cov",NA
+"England","Coventry City","Coventry",NA
+"England","Crawley Town","Crawley Town",NA
+"England","Crawley Town","CrT",NA
+"England","Crewe Alexandra","Crewe Alexandra",NA
+"England","Crewe Alexandra","Crewe Alex.",NA
+"England","Crewe Alexandra","Crw",NA
+"England","Crewe Alexandra","Crewe",NA
+"England","Crystal Palace","Crystal Palace",NA
+"England","Crystal Palace","Cry",NA
+"England","Dagenham and Redbridge","Dagenham and Redbridge",NA
+"England","Dagenham and Redbridge","Dag",NA
+"England","Dagenham and Redbridge","Dag. & Red.",NA
+"England","Darlington","Darlington",NA
+"England","Darlington","Dar",NA
+"England","Darwen","Darwen",NA
+"England","Darwen","Drw",NA
+"England","Derby County","Derby County",NA
+"England","Derby County","Der",NA
+"England","Derby County","Derby",NA
+"England","Doncaster Rovers","Doncaster Rovers",NA
+"England","Doncaster Rovers","Don",NA
+"England","Doncaster Rovers","Doncaster Rvs.",NA
+"England","Doncaster Rovers","Doncaster",NA
+"England","Durham City","Durham City",NA
+"England","Durham City","Drh",NA
+"England","Everton","Everton",NA
+"England","Everton","Evr",NA
+"England","Exeter City","Exeter City",NA
+"England","Exeter City","Ext",NA
+"England","Exeter City","Exeter",NA
+"England","Fleetwood Town","Fleetwood Town",NA
+"England","Fleetwood Town","Fleetwood Tn.",NA
+"England","Fleetwood Town","Flt",NA
+"England","Fulham","Fulham",NA
+"England","Fulham","Ful",NA
+"England","Gainsborough Trinity","Gainsborough Trinity",NA
+"England","Gainsborough Trinity","Gainsborough",NA
+"England","Gainsborough Trinity","Gns",NA
+"England","Gateshead","Gateshead",NA
+"England","Gateshead","Gts",NA
+"England","Gillingham","Gillingham",NA
+"England","Gillingham","Gil",NA
+"England","Glossop North End","Glossop North End",NA
+"England","Glossop North End","Glossop N. E.",NA
+"England","Glossop North End","GNE",NA
+"England","Grimsby Town","Grimsby Town",NA
+"England","Grimsby Town","Grm",NA
+"England","Grimsby Town","Grimsby",NA
+"England","Halifax Town","Halifax Town",NA
+"England","Halifax Town","Hfx",NA
+"England","Hartlepool United","Hartlepool United",NA
+"England","Hartlepool United","Hartlepool",NA
+"England","Hartlepool United","Hartlepool U.",NA
+"England","Hartlepool United","Hartlepools",NA
+"England","Hartlepool United","Hrt",NA
+"England","Hereford United","Hereford United",NA
+"England","Hereford United","Her",NA
+"England","Hereford United","Hereford Utd.",NA
+"England","Huddersfield Town","Huddersfield Town",NA
+"England","Huddersfield Town","Hud",NA
+"England","Huddersfield Town","Huddersfield",NA
+"England","Hull City","Hull City",NA
+"England","Hull City","Hul",NA
+"England","Hull City","Hull",NA
+"England","Ipswich Town","Ipswich Town",NA
+"England","Ipswich Town","Ips",NA
+"England","Ipswich Town","Ipswich",NA
+"England","Kidderminster Harriers","Kidderminster Harriers",NA
+"England","Kidderminster Harriers","Kid",NA
+"England","Kidderminster Harriers","Kidderminster",NA
+"England","Leeds City","Leeds City",NA
+"England","Leeds City","LdC",NA
+"England","Leeds United","Leeds United",NA
+"England","Leeds United","Lee",NA
+"England","Leeds United","Leeds Utd.",NA
+"England","Leeds United","Leeds",NA
+"England","Leicester City","Leicester City",NA
+"England","Leicester City","LcF",NA
+"England","Leicester City","Lei",NA
+"England","Leicester City","Leicester F",NA
+"England","Leicester City","Leicester",NA
+"England","Leyton Orient","Leyton Orient",NA
+"England","Leyton Orient","Clapton Ornt.",NA
+"England","Leyton Orient","Clp",NA
+"England","Leyton Orient","Ley",NA
+"England","Leyton Orient","Orient",NA
+"England","Leyton Orient","Ort",NA
+"England","Lincoln City","Lincoln City",NA
+"England","Lincoln City","LnC",NA
+"England","Liverpool","Liverpool",NA
+"England","Liverpool","Liv",NA
+"England","Loughborough","Loughborough",NA
+"England","Loughborough","Lou",NA
+"England","Luton Town","Luton Town",NA
+"England","Luton Town","Lut",NA
+"England","Luton Town","Luton",NA
+"England","Macclesfield","Macclesfield",NA
+"England","Macclesfield","Mac",NA
+"England","Maidstone United","Maidstone United",NA
+"England","Maidstone United","Mai",NA
+"England","Maidstone United","Maidstone Utd.",NA
+"England","Manchester City","Manchester City",NA
+"England","Manchester City","Ard",NA
+"England","Manchester City","Ardwick",NA
+"England","Manchester City","Man. City",NA
+"England","Manchester City","MnC",NA
+"England","Manchester City","Man City",NA
+"England","Manchester United","Manchester United",NA
+"England","Manchester United","Man. Utd.",NA
+"England","Manchester United","MnU",NA
+"England","Manchester United","Newton Heath",NA
+"England","Manchester United","NwH",NA
+"England","Manchester United","Man United",NA
+"England","Mansfield Town","Mansfield Town",NA
+"England","Mansfield Town","Mns",NA
+"England","Mansfield Town","Mansfield",NA
+"England","Merthyr Town","Merthyr Town",NA
+"England","Merthyr Town","Merthyr Tn.",NA
+"England","Merthyr Town","MTw",NA
+"England","Middlesbrough","Middlesbrough",NA
+"England","Middlesbrough","Mid",NA
+"England","Middlesbrough Ironopolis","Middlesbrough Ironopolis",NA
+"England","Middlesbrough Ironopolis","Middlesbro Ir",NA
+"England","Middlesbrough Ironopolis","Mir",NA
+"England","Millwall","Millwall",NA
+"England","Millwall","Mil",NA
+"England","Milton Keynes Dons","Milton Keynes Dons",NA
+"England","Milton Keynes Dons","Milton Keynes",NA
+"England","Milton Keynes Dons","MKD",NA
+"England","Morecambe","Morecambe",NA
+"England","Morecambe","Mrc",NA
+"England","Nelson","Nelson",NA
+"England","Nelson","Nel",NA
+"England","New Brighton","New Brighton",NA
+"England","New Brighton","NBr",NA
+"England","New Brighton Tower","New Brighton Tower",NA
+"England","New Brighton Tower","NBT",NA
+"England","New Brighton Tower","New Brghtn T",NA
+"England","Newcastle United","Newcastle United",NA
+"England","Newcastle United","Newcastle Utd.",NA
+"England","Newcastle United","Nwc",NA
+"England","Newcastle United","Newcastle",NA
+"England","Newport County","Newport County",NA
+"England","Newport County","Newport Co.",NA
+"England","Newport County","Nwp",NA
+"England","Northampton Town","Northampton Town",NA
+"England","Northampton Town","Nor",NA
+"England","Northampton Town","Northampton",NA
+"England","Northwich Victoria","Northwich Victoria",NA
+"England","Northwich Victoria","Northwich Vic.",NA
+"England","Northwich Victoria","NVc",NA
+"England","Norwich City","Norwich City",NA
+"England","Norwich City","Nrw",NA
+"England","Norwich City","Norwich",NA
+"England","Nottingham Forest","Nottingham Forest",NA
+"England","Nottingham Forest","Nottm. Forest",NA
+"England","Nottingham Forest","Ntm",NA
+"England","Nottingham Forest","Nott'm Forest",NA
+"England","Notts County","Notts County",NA
+"England","Notts County","Notts. County",NA
+"England","Notts County","Nts",NA
+"England","Oldham Athletic","Oldham Athletic",NA
+"England","Oldham Athletic","Old",NA
+"England","Oldham Athletic","Oldham Ath.",NA
+"England","Oldham Athletic","Oldham",NA
+"England","Oxford United","Oxford United",NA
+"England","Oxford United","Oxf",NA
+"England","Oxford United","Oxford Utd.",NA
+"England","Oxford United","Oxford",NA
+"England","Peterborough United","Peterborough United",NA
+"England","Peterborough United","Pet",NA
+"England","Peterborough United","Peterborough",NA
+"England","Peterborough United","Peterboro",NA
+"England","Plymouth Argyle","Plymouth Argyle",NA
+"England","Plymouth Argyle","Ply",NA
+"England","Plymouth Argyle","Plymouth Arg.",NA
+"England","Plymouth Argyle","Plymouth",NA
+"England","Port Vale","Port Vale",NA
+"England","Port Vale","BPV",NA
+"England","Port Vale","Burslem P.V.",NA
+"England","Port Vale","PVl",NA
+"England","Portsmouth","Portsmouth",NA
+"England","Portsmouth","Prt",NA
+"England","Preston North End","Preston North End",NA
+"England","Preston North End","PNE",NA
+"England","Preston North End","Preston N.E.",NA
+"England","Preston North End","Preston",NA
+"England","Queens Park Rangers","Queens Park Rangers",NA
+"England","Queens Park Rangers","Q.P.R.",NA
+"England","Queens Park Rangers","QPR",NA
+"England","Reading","Reading",NA
+"England","Reading","Rdg",NA
+"England","Rochdale","Rochdale",NA
+"England","Rochdale","Rch",NA
+"England","Rotherham County","Rotherham County",NA
+"England","Rotherham County","Rotherham C.",NA
+"England","Rotherham County","RtC",NA
+"England","Rotherham Town","Rotherham Town",NA
+"England","Rotherham Town","Rotherham T.",NA
+"England","Rotherham Town","RTw",NA
+"England","Rotherham United","Rotherham United",NA
+"England","Rotherham United","Rotherham U.",NA
+"England","Rotherham United","Rth",NA
+"England","Rotherham United","Rotherham",NA
+"England","Rushden & Diamonds","Rushden & Diamonds",NA
+"England","Rushden & Diamonds","R&D",NA
+"England","Rushden & Diamonds","Rushden & D.",NA
+"England","Scarborough","Scarborough",NA
+"England","Scarborough","Sca",NA
+"England","Scunthorpe United","Scunthorpe United",NA
+"England","Scunthorpe United","Scn",NA
+"England","Scunthorpe United","Scunthorpe U.",NA
+"England","Scunthorpe United","Scunthorpe",NA
+"England","Sheffield United","Sheffield United",NA
+"England","Sheffield United","Sheff. Utd.",NA
+"England","Sheffield United","ShU",NA
+"England","Sheffield Wednesday","Sheffield Wednesday",NA
+"England","Sheffield Wednesday","Sheff. Wed.",NA
+"England","Sheffield Wednesday","ShW",NA
+"England","Sheffield Wednesday","The Wednesday",NA
+"England","Sheffield Wednesday","TWe",NA
+"England","Sheffield Wednesday","Sheffield Weds",NA
+"England","Shrewsbury Town","Shrewsbury Town",NA
+"England","Shrewsbury Town","Shr",NA
+"England","Shrewsbury Town","Shrewsbury Tn.",NA
+"England","Shrewsbury Town","Shrewsbury",NA
+"England","South Shields","South Shields",NA
+"England","South Shields","SSh",NA
+"England","Southampton","Southampton",NA
+"England","Southampton","Sou",NA
+"England","Southend United","Southend United",NA
+"England","Southend United","Southend Utd.",NA
+"England","Southend United","Sth",NA
+"England","Southend United","Southend",NA
+"England","Southport","Southport",NA
+"England","Southport","Spt",NA
+"England","Stalybridge Celtic","Stalybridge Celtic",NA
+"England","Stalybridge Celtic","Stalybridge C.",NA
+"England","Stalybridge Celtic","Stl",NA
+"England","Stevenage Borough","Stevenage Borough",NA
+"England","Stevenage Borough","Stevenage",NA
+"England","Stevenage Borough","Stv",NA
+"England","Stockport County","Stockport County",NA
+"England","Stockport County","Stc",NA
+"England","Stockport County","Stockport Co.",NA
+"England","Stoke City","Stoke City",NA
+"England","Stoke City","Stk",NA
+"England","Stoke City","Stoke",NA
+"England","Sunderland","Sunderland",NA
+"England","Sunderland","Sun",NA
+"England","Swansea City","Swansea City",NA
+"England","Swansea City","Swa",NA
+"England","Swansea City","Swansea Tn.",NA
+"England","Swansea City","SwT",NA
+"England","Swansea City","Swansea",NA
+"England","Swindon Town","Swindon Town",NA
+"England","Swindon Town","Swi",NA
+"England","Swindon Town","Swindon",NA
+"England","Thames","Thames",NA
+"England","Thames","Tha",NA
+"England","Torquay United","Torquay United",NA
+"England","Torquay United","Torquay Utd.",NA
+"England","Torquay United","Trq",NA
+"England","Tottenham Hotspur","Tottenham Hotspur",NA
+"England","Tottenham Hotspur","Tot",NA
+"England","Tottenham Hotspur","Tottenham H.",NA
+"England","Tottenham Hotspur","Tottenham",NA
+"England","Tranmere Rovers","Tranmere Rovers",NA
+"England","Tranmere Rovers","Tra",NA
+"England","Tranmere Rovers","Tranmere Rvs.",NA
+"England","Walsall","Walsall",NA
+"England","Walsall","Walsall T.S.",NA
+"England","Walsall","Wls",NA
+"England","Walsall","WTS",NA
+"England","Watford","Watford",NA
+"England","Watford","Wtf",NA
+"England","West Bromwich Albion","West Bromwich Albion",NA
+"England","West Bromwich Albion","WBA",NA
+"England","West Bromwich Albion","West Brom.",NA
+"England","West Bromwich Albion","West Brom",NA
+"England","West Ham United","West Ham United",NA
+"England","West Ham United","West Ham Utd.",NA
+"England","West Ham United","WHU",NA
+"England","West Ham United","West Ham",NA
+"England","Wigan Athletic","Wigan Athletic",NA
+"England","Wigan Athletic","Wig",NA
+"England","Wigan Athletic","Wigan Ath.",NA
+"England","Wigan Athletic","Wigan",NA
+"England","Wigan Borough","Wigan Borough",NA
+"England","Wigan Borough","WgB",NA
+"England","Wigan Borough","Wigan Boro.",NA
+"England","Wimbledon","Wimbledon",NA
+"England","Wimbledon","Wim",NA
+"England","Wolverhampton Wanderers","Wolverhampton Wanderers",NA
+"England","Wolverhampton Wanderers","Wlv",NA
+"England","Wolverhampton Wanderers","Wolves",NA
+"England","Workington","Workington",NA
+"England","Workington","Wkn",NA
+"England","Wrexham","Wrexham",NA
+"England","Wrexham","Wre",NA
+"England","Wycombe Wanderers","Wycombe Wanderers",NA
+"England","Wycombe Wanderers","Wyc",NA
+"England","Wycombe Wanderers","Wycombe Wdrs.",NA
+"England","Wycombe Wanderers","Wycombe",NA
+"England","Yeovil","Yeovil",NA
+"England","Yeovil","Yeovil Town",NA
+"England","Yeovil","Yvl",NA
+"England","York City","York City",NA
+"England","York City","Yrk",NA
+"France","AC Ajaccio","AC Ajaccio",NA
+"France","AC Arles-Avignon","AC Arles-Avignon",NA
+"France","AJ Auxerre","AJ Auxerre",NA
+"France","Angers SCO","Angers SCO",NA
+"France","AS Aixoise","AS Aixoise",NA
+"France","AS Angouleme","AS Angouleme",NA
+"France","AS Beziers","AS Beziers",NA
+"France","AS Cannes","AS Cannes",NA
+"France","AS Cannes-Grasse","AS Cannes-Grasse",NA
+"France","AS Monaco","AS Monaco",NA
+"France","AS Nancy","AS Nancy",NA
+"France","AS Saint-Etienne","AS Saint-Etienne",NA
+"France","AS Troyes-Savinienne","AS Troyes-Savinienne",NA
+"France","Association Sportive Avignonaise","Association Sportive Avignonaise",NA
+"France","ATAC Troyes","ATAC Troyes",NA
+"France","Brest Armorique FC","Brest Armorique FC",NA
+"France","CA Paris (alt)","CA Paris (alt)",NA
+"France","Chamois Niortais","Chamois Niortais",NA
+"France","CS Sedan","CS Sedan",NA
+"France","Dijon FCO","Dijon FCO",NA
+"France","EA Guingamp","EA Guingamp",NA
+"France","ESTAC Troyes","ESTAC Troyes",NA
+"France","Evian Thonon Gaillard","Evian Thonon Gaillard",NA
+"France","Excelsior Roubaix","Excelsior Roubaix",NA
+"France","FC Antibes","FC Antibes",NA
+"France","FC Gueugnon","FC Gueugnon",NA
+"France","FC Istres","FC Istres",NA
+"France","FC Lorient","FC Lorient",NA
+"France","FC Martigues","FC Martigues",NA
+"France","FC Metz","FC Metz",NA
+"France","FC Mulhouse","FC Mulhouse",NA
+"France","FC Nantes","FC Nantes",NA
+"France","FC Rouen","FC Rouen",NA
+"France","FC Sete","FC Sete",NA
+"France","FC Sochaux","FC Sochaux",NA
+"France","Girondins Bordeaux","Girondins Bordeaux",NA
+"France","Grenoble Foot 38","Grenoble Foot 38",NA
+"France","LB Chateauroux","LB Chateauroux",NA
+"France","Le Havre AC","Le Havre AC",NA
+"France","Le Mans UC 72","Le Mans UC 72",NA
+"France","Lille OSC","Lille OSC",NA
+"France","Limoges FC","Limoges FC",NA
+"France","Matra Racing","Matra Racing",NA
+"France","Montpellier HSC","Montpellier HSC",NA
+"France","Montpellier La Paillade SC","Montpellier La Paillade SC",NA
+"France","Nimes Olympique","Nimes Olympique",NA
+"France","OGC Nice","OGC Nice",NA
+"France","Olympique Ales","Olympique Ales",NA
+"France","Olympique Lillois Lille","Olympique Lillois Lille",NA
+"France","Olympique Lyon","Olympique Lyon",NA
+"France","Olympique Marseille","Olympique Marseille",NA
+"France","Paris FC","Paris FC",NA
+"France","Paris Saint-Germain","Paris Saint-Germain",NA
+"France","Racing Club de France","Racing Club de France",NA
+"France","RC Lens","RC Lens",NA
+"France","RC Roubaix","RC Roubaix",NA
+"France","RC Strasbourg","RC Strasbourg",NA
+"France","Red Star FC","Red Star FC",NA
+"France","Red Star Olympique","Red Star Olympique",NA
+"France","Red Star Olympique Audonien","Red Star Olympique Audonien",NA
+"France","SC Bastia","SC Bastia",NA
+"France","SC Fives Lille","SC Fives Lille",NA
+"France","SC Nimes","SC Nimes",NA
+"France","SM Caen","SM Caen",NA
+"France","Sporting Toulon Var","Sporting Toulon Var",NA
+"France","SR Colmar","SR Colmar",NA
+"France","Stade Brest","Stade Brest",NA
+"France","Stade de Paris FC","Stade de Paris FC",NA
+"France","Stade Francais","Stade Francais",NA
+"France","Stade Francais FC","Stade Francais FC",NA
+"France","Stade Laval","Stade Laval",NA
+"France","Stade Olympique Montpellierain","Stade Olympique Montpellierain",NA
+"France","Stade Red Star","Stade Red Star",NA
+"France","Stade Reims","Stade Reims",NA
+"France","Stade Rennes","Stade Rennes",NA
+"France","Toulouse FC","Toulouse FC",NA
+"France","Tours FC","Tours FC",NA
+"France","Troyes AF","Troyes AF",NA
+"France","UA Sedan-Torcy","UA Sedan-Torcy",NA
+"France","US Boulogne","US Boulogne",NA
+"France","US Valenciennes-Anzin","US Valenciennes-Anzin",NA
+"France","Valenciennes FC","Valenciennes FC",NA
+"Germany","1. FC Bocholt","1. FC Bocholt",NA
+"Germany","1. FC Heidenheim","1. FC Heidenheim",NA
+"Germany","1. FC Kaiserslautern","1. FC Kaiserslautern",NA
+"Germany","1. FC Koln","1. FC Koln",NA
+"Germany","1. FC Mulheim","1. FC Mulheim",NA
+"Germany","1. FC Nurnberg","1. FC Nurnberg",NA
+"Germany","1. FC Saarbrucken","1. FC Saarbrucken",NA
+"Germany","1. FC Schweinfurt 05","1. FC Schweinfurt 05",NA
+"Germany","1. FC Union Berlin","1. FC Union Berlin",NA
+"Germany","1. FSV Mainz 05","1. FSV Mainz 05",NA
+"Germany","1860 Munchen","1860 Munchen",NA
+"Germany","1899 Hoffenheim","1899 Hoffenheim",NA
+"Germany","Alemannia Aachen","Alemannia Aachen",NA
+"Germany","Arminia Bielefeld","Arminia Bielefeld",NA
+"Germany","Arminia Hannover","Arminia Hannover",NA
+"Germany","Bayer 05 Uerdingen","Bayer 05 Uerdingen",NA
+"Germany","Bayer Leverkusen","Bayer Leverkusen",NA
+"Germany","Bayern Munchen","Bayern Munchen",NA
+"Germany","Blau-Weiss 90 Berlin","Blau-Weiss 90 Berlin",NA
+"Germany","Bonner SC","Bonner SC",NA
+"Germany","Bor. Monchengladbach","Bor. Monchengladbach",NA
+"Germany","Borussia Dortmund","Borussia Dortmund",NA
+"Germany","Borussia Neunkirchen","Borussia Neunkirchen",NA
+"Germany","BSV Schwenningen","BSV Schwenningen",NA
+"Germany","BSV Stahl Brandenburg","BSV Stahl Brandenburg",NA
+"Germany","Carl Zeiss Jena","Carl Zeiss Jena",NA
+"Germany","Chemnitzer FC","Chemnitzer FC",NA
+"Germany","DJK Gutersloh","DJK Gutersloh",NA
+"Germany","DSC Wanne-Eickel","DSC Wanne-Eickel",NA
+"Germany","Dynamo Dresden","Dynamo Dresden",NA
+"Germany","Eintracht Bad Kreuznach","Eintracht Bad Kreuznach",NA
+"Germany","Eintracht Braunschweig","Eintracht Braunschweig",NA
+"Germany","Eintracht Frankfurt","Eintracht Frankfurt",NA
+"Germany","Eintracht Trier","Eintracht Trier",NA
+"Germany","Energie Cottbus","Energie Cottbus",NA
+"Germany","Erzgebirge Aue","Erzgebirge Aue",NA
+"Germany","ESV Ingolstadt","ESV Ingolstadt",NA
+"Germany","FC 08 Homburg","FC 08 Homburg",NA
+"Germany","FC Augsburg","FC Augsburg",NA
+"Germany","FC Bayern Hof","FC Bayern Hof",NA
+"Germany","FC Gutersloh","FC Gutersloh",NA
+"Germany","FC Hanau 93","FC Hanau 93",NA
+"Germany","FC Ingolstadt 04","FC Ingolstadt 04",NA
+"Germany","FC Remscheid","FC Remscheid",NA
+"Germany","FC Schalke 04","FC Schalke 04",NA
+"Germany","FC St. Pauli","FC St. Pauli",NA
+"Germany","FK Pirmasens","FK Pirmasens",NA
+"Germany","Fortuna Dusseldorf","Fortuna Dusseldorf",NA
+"Germany","Fortuna Koln","Fortuna Koln",NA
+"Germany","Frankfurter SG Eintracht","Frankfurter SG Eintracht",NA
+"Germany","Freiburger FC","Freiburger FC",NA
+"Germany","FSV Frankfurt","FSV Frankfurt",NA
+"Germany","FSV Salmrohr","FSV Salmrohr",NA
+"Germany","FSV Zwickau","FSV Zwickau",NA
+"Germany","FV Wurzburg 04","FV Wurzburg 04",NA
+"Germany","Hallescher FC","Hallescher FC",NA
+"Germany","Hamburger SV","Hamburger SV",NA
+"Germany","Hannover 96","Hannover 96",NA
+"Germany","Hansa Rostock","Hansa Rostock",NA
+"Germany","Hertha BSC","Hertha BSC",NA
+"Germany","Hessen Kassel","Hessen Kassel",NA
+"Germany","Holstein Kiel","Holstein Kiel",NA
+"Germany","HSV Barmbek-Uhlenhorst","HSV Barmbek-Uhlenhorst",NA
+"Germany","Jahn Regensburg","Jahn Regensburg",NA
+"Germany","Karlsruher SC","Karlsruher SC",NA
+"Germany","KFC Uerdingen 05","KFC Uerdingen 05",NA
+"Germany","Kickers Offenbach","Kickers Offenbach",NA
+"Germany","KSV Baunatal","KSV Baunatal",NA
+"Germany","Meidericher SV","Meidericher SV",NA
+"Germany","MSV Duisburg","MSV Duisburg",NA
+"Germany","MTV Ingolstadt","MTV Ingolstadt",NA
+"Germany","Olympia Wilhelmshaven","Olympia Wilhelmshaven",NA
+"Germany","OSC Bremerhaven","OSC Bremerhaven",NA
+"Germany","OSV Hannover","OSV Hannover",NA
+"Germany","Preussen Munster","Preussen Munster",NA
+"Germany","RasenBallsport Leipzig","RasenBallsport Leipzig",NA
+"Germany","Rot-Weiss Erfurt","Rot-Weiss Erfurt",NA
+"Germany","Rot-Weiss Essen","Rot-Weiss Essen",NA
+"Germany","Rot-Weiss Ludenscheid","Rot-Weiss Ludenscheid",NA
+"Germany","Rot-Weiss Oberhausen","Rot-Weiss Oberhausen",NA
+"Germany","Rot Weiss Ahlen","Rot Weiss Ahlen",NA
+"Germany","SC Charlottenburg","SC Charlottenburg",NA
+"Germany","SC Freiburg","SC Freiburg",NA
+"Germany","SC Gottingen 05","SC Gottingen 05",NA
+"Germany","SC Herford","SC Herford",NA
+"Germany","SC Paderborn 07","SC Paderborn 07",NA
+"Germany","SC Viktoria 04 Koln","SC Viktoria 04 Koln",NA
+"Germany","Schwarz-Weiss Essen","Schwarz-Weiss Essen",NA
+"Germany","SG Union Solingen","SG Union Solingen",NA
+"Germany","SG Wattenscheid 09","SG Wattenscheid 09",NA
+"Germany","Spandauer SV","Spandauer SV",NA
+"Germany","Sportfreunde Siegen","Sportfreunde Siegen",NA
+"Germany","SpVgg Bayreuth","SpVgg Bayreuth",NA
+"Germany","SpVgg Erkenschwick","SpVgg Erkenschwick",NA
+"Germany","SpVgg Greuther Furth","SpVgg Greuther Furth",NA
+"Germany","SpVgg Unterhaching","SpVgg Unterhaching",NA
+"Germany","SSV Reutlingen","SSV Reutlingen",NA
+"Germany","SSV Ulm 1846","SSV Ulm 1846",NA
+"Germany","Stuttgarter Kickers","Stuttgarter Kickers",NA
+"Germany","SV Babelsberg 03","SV Babelsberg 03",NA
+"Germany","SV Bayer 04 Leverkusen","SV Bayer 04 Leverkusen",NA
+"Germany","SV Darmstadt 98","SV Darmstadt 98",NA
+"Germany","SV Meppen","SV Meppen",NA
+"Germany","SV Rochling Volklingen","SV Rochling Volklingen",NA
+"Germany","SV Sandhausen","SV Sandhausen",NA
+"Germany","SV Wehen Wiesbaden","SV Wehen Wiesbaden",NA
+"Germany","Tasmania 1900 Berlin","Tasmania 1900 Berlin",NA
+"Germany","TeBe Berlin","TeBe Berlin",NA
+"Germany","Tennis Borussia Berlin","Tennis Borussia Berlin",NA
+"Germany","TSG Hoffenheim","TSG Hoffenheim",NA
+"Germany","TSV 1860 Munchen","TSV 1860 Munchen",NA
+"Germany","TSV Havelse","TSV Havelse",NA
+"Germany","TuS Koblenz","TuS Koblenz",NA
+"Germany","TuS Schloss-Neuhaus","TuS Schloss-Neuhaus",NA
+"Germany","VfB Eppingen","VfB Eppingen",NA
+"Germany","VfB Leipzig","VfB Leipzig",NA
+"Germany","VfB Lubeck","VfB Lubeck",NA
+"Germany","VfB Oldenburg","VfB Oldenburg",NA
+"Germany","VfB Stuttgart","VfB Stuttgart",NA
+"Germany","VfL Bochum","VfL Bochum",NA
+"Germany","VfL Osnabruck","VfL Osnabruck",NA
+"Germany","VfL Wolfsburg","VfL Wolfsburg",NA
+"Germany","VfR Aalen","VfR Aalen",NA
+"Germany","VfR Burstadt","VfR Burstadt",NA
+"Germany","VfR Heilbronn","VfR Heilbronn",NA
+"Germany","VfR Mannheim","VfR Mannheim",NA
+"Germany","Viktoria Aschaffenburg","Viktoria Aschaffenburg",NA
+"Germany","Wacker 04 Berlin","Wacker 04 Berlin",NA
+"Germany","Wacker Burghausen","Wacker Burghausen",NA
+"Germany","Waldhof Mannheim","Waldhof Mannheim",NA
+"Germany","Werder Bremen","Werder Bremen",NA
+"Germany","Westfalia Herne","Westfalia Herne",NA
+"Germany","Wormatia Worms","Wormatia Worms",NA
+"Germany","Wuppertaler SV","Wuppertaler SV",NA
+"Germany","Wurzburger Kickers","Wurzburger Kickers",NA
+"Holland","ADO Den Haag","ADO Den Haag",NA
+"Holland","AFC Ajax","AFC Ajax",NA
+"Holland","AZ '67 Alkmaar","AZ '67 Alkmaar",NA
+"Holland","AZ Alkmaar","AZ Alkmaar",NA
+"Holland","Blauw Wit","Blauw Wit",NA
+"Holland","BV Veendam","BV Veendam",NA
+"Holland","BVV","BVV",NA
+"Holland","BVV Den Bosch","BVV Den Bosch",NA
+"Holland","De Graafschap","De Graafschap",NA
+"Holland","De Volewijckers","De Volewijckers",NA
+"Holland","Dordrecht '90","Dordrecht '90",NA
+"Holland","DOS Utrecht","DOS Utrecht",NA
+"Holland","Drechtsteden '79","Drechtsteden '79",NA
+"Holland","DWS Amsterdam","DWS Amsterdam",NA
+"Holland","FC Amsterdam","FC Amsterdam",NA
+"Holland","FC Den Bosch","FC Den Bosch",NA
+"Holland","FC Den Bosch '67","FC Den Bosch '67",NA
+"Holland","FC Den Haag","FC Den Haag",NA
+"Holland","FC Den Haag-ADO","FC Den Haag-ADO",NA
+"Holland","FC Dordrecht","FC Dordrecht",NA
+"Holland","FC Groningen","FC Groningen",NA
+"Holland","FC Twente","FC Twente",NA
+"Holland","FC Utrecht","FC Utrecht",NA
+"Holland","FC Volendam","FC Volendam",NA
+"Holland","FC Wageningen","FC Wageningen",NA
+"Holland","FC Xerxes","FC Xerxes",NA
+"Holland","FC Zwolle","FC Zwolle",NA
+"Holland","Feijenoord","Feijenoord",NA
+"Holland","Feyenoord","Feyenoord",NA
+"Holland","Fortuna Sittard","Fortuna Sittard",NA
+"Holland","FSC Geleen","FSC Geleen",NA
+"Holland","Go Ahead Eagles","Go Ahead Eagles",NA
+"Holland","Groninger VAV","Groninger VAV",NA
+"Holland","GVAV Groningen","GVAV Groningen",NA
+"Holland","Helmond Sport","Helmond Sport",NA
+"Holland","Heracles Almelo","Heracles Almelo",NA
+"Holland","HFC Haarlem","HFC Haarlem",NA
+"Holland","Holland Sport","Holland Sport",NA
+"Holland","MVV","MVV",NA
+"Holland","NAC Breda","NAC Breda",NA
+"Holland","NEC Nijmegen","NEC Nijmegen",NA
+"Holland","NOAD Tilburg","NOAD Tilburg",NA
+"Holland","PEC Zwolle","PEC Zwolle",NA
+"Holland","PEC Zwolle '82","PEC Zwolle '82",NA
+"Holland","PSV Eindhoven","PSV Eindhoven",NA
+"Holland","Rapid JC Heerlen","Rapid JC Heerlen",NA
+"Holland","RBC Roosendaal","RBC Roosendaal",NA
+"Holland","RKC Waalwijk","RKC Waalwijk",NA
+"Holland","Roda JC Kerkrade","Roda JC Kerkrade",NA
+"Holland","S.V.V./Dordrecht '90","S.V.V./Dordrecht '90",NA
+"Holland","SBV Excelsior","SBV Excelsior",NA
+"Holland","SBV Haarlem","SBV Haarlem",NA
+"Holland","SC Cambuur","SC Cambuur",NA
+"Holland","SC Eindhoven","SC Eindhoven",NA
+"Holland","sc Heerenveen","sc Heerenveen",NA
+"Holland","SHS","SHS",NA
+"Holland","Sittardia","Sittardia",NA
+"Holland","Sparta Rotterdam","Sparta Rotterdam",NA
+"Holland","Sportclub Enschede","Sportclub Enschede",NA
+"Holland","SVV Schiedam","SVV Schiedam",NA
+"Holland","Telstar","Telstar",NA
+"Holland","USV Elinkwijk","USV Elinkwijk",NA
+"Holland","Vitesse","Vitesse",NA
+"Holland","VV Alkmaar '54","VV Alkmaar '54",NA
+"Holland","VVV-Venlo","VVV-Venlo",NA
+"Holland","Willem II","Willem II",NA
+"Holland","WVV Wageningen","WVV Wageningen",NA
+"Holland","Xerxes/D.H.C.","Xerxes/D.H.C.",NA
+"Italy","A.C.R. Messina","A.C.R. Messina",NA
+"Italy","AC Cesena","AC Cesena",NA
+"Italy","AC Liguria","AC Liguria",NA
+"Italy","AC Mantova","AC Mantova",NA
+"Italy","AC Milan","AC Milan",NA
+"Italy","AC Perugia","AC Perugia",NA
+"Italy","AC Pistoiese","AC Pistoiese",NA
+"Italy","AC Reggiana","AC Reggiana",NA
+"Italy","AC Siena","AC Siena",NA
+"Italy","AC Venezia","AC Venezia",NA
+"Italy","ACF Fiorentina","ACF Fiorentina",NA
+"Italy","Ancona Calcio","Ancona Calcio",NA
+"Italy","Andrea Doria","Andrea Doria",NA
+"Italy","AS Bari","AS Bari",NA
+"Italy","AS Livorno","AS Livorno",NA
+"Italy","AS Roma","AS Roma",NA
+"Italy","AS Varese 1910","AS Varese 1910",NA
+"Italy","Ascoli Calcio","Ascoli Calcio",NA
+"Italy","Atalanta","Atalanta",NA
+"Italy","Bologna FC","Bologna FC",NA
+"Italy","Brescia Calcio","Brescia Calcio",NA
+"Italy","Cagliari Calcio","Cagliari Calcio",NA
+"Italy","Calcio Catania","Calcio Catania",NA
+"Italy","Calcio Lecco 1912","Calcio Lecco 1912",NA
+"Italy","Calcio Padova","Calcio Padova",NA
+"Italy","Carpi FC","Carpi FC",NA
+"Italy","Casale","Casale",NA
+"Italy","Chievo Verona","Chievo Verona",NA
+"Italy","Como Calcio","Como Calcio",NA
+"Italy","Empoli FC","Empoli FC",NA
+"Italy","FC Messina","FC Messina",NA
+"Italy","Frosinone Calcio","Frosinone Calcio",NA
+"Italy","Genoa CFC","Genoa CFC",NA
+"Italy","Genova 1893 Circolo del Calcio","Genova 1893 Circolo del Calcio",NA
+"Italy","Hellas Verona","Hellas Verona",NA
+"Italy","Inter","Inter",NA
+"Italy","Juventus","Juventus",NA
+"Italy","Lanerossi Vicenza","Lanerossi Vicenza",NA
+"Italy","Lazio Roma","Lazio Roma",NA
+"Italy","Legnano","Legnano",NA
+"Italy","Lucchese","Lucchese",NA
+"Italy","Modena FC","Modena FC",NA
+"Italy","Novara Calcio","Novara Calcio",NA
+"Italy","Parma AC","Parma AC",NA
+"Italy","Parma FC","Parma FC",NA
+"Italy","Pescara Calcio","Pescara Calcio",NA
+"Italy","Piacenza Calcio","Piacenza Calcio",NA
+"Italy","Pisa SC","Pisa SC",NA
+"Italy","Pro Patria","Pro Patria",NA
+"Italy","Pro Vercelli","Pro Vercelli",NA
+"Italy","Reggina Calcio","Reggina Calcio",NA
+"Italy","Salernitana Calcio 1919","Salernitana Calcio 1919",NA
+"Italy","Salernitana Sport","Salernitana Sport",NA
+"Italy","Sampdoria","Sampdoria",NA
+"Italy","Sampierdarenese","Sampierdarenese",NA
+"Italy","Sassuolo Calcio","Sassuolo Calcio",NA
+"Italy","SPAL 1907 Ferrara","SPAL 1907 Ferrara",NA
+"Italy","SSC Napoli","SSC Napoli",NA
+"Italy","Ternana Calcio","Ternana Calcio",NA
+"Italy","Torino FC","Torino FC",NA
+"Italy","Treviso FBC","Treviso FBC",NA
+"Italy","Udinese Calcio","Udinese Calcio",NA
+"Italy","Unione Triestina","Unione Triestina",NA
+"Italy","US Alessandria 1912","US Alessandria 1912",NA
+"Italy","US Anconitana","US Anconitana",NA
+"Italy","US Avellino","US Avellino",NA
+"Italy","US Catanzaro","US Catanzaro",NA
+"Italy","US Cremonese","US Cremonese",NA
+"Italy","US Foggia","US Foggia",NA
+"Italy","US Lecce","US Lecce",NA
+"Italy","US Livorno","US Livorno",NA
+"Italy","US Palermo","US Palermo",NA
+"Italy","Vicenza Calcio","Vicenza Calcio",NA
+"spain","Albacete","Albacete",TRUE
+"spain","Arenas de Getxo","Arenas de Getxo",TRUE
+"spain","Athletic Bilbao","Athletic Bilbao",TRUE
+"spain","Atletico Madrid","Atletico Madrid",TRUE
+"spain","Atletico Tetuan","Atletico Tetuan",TRUE
+"spain","Burgos CF","Burgos CF",TRUE
+"spain","CA Osasuna","CA Osasuna",TRUE
+"spain","Cadiz CF","Cadiz CF",TRUE
+"spain","CD Alaves","CD Alaves",TRUE
+"spain","CD Alcoyano","CD Alcoyano",TRUE
+"spain","CD Castellon","CD Castellon",TRUE
+"spain","CD Condal","CD Condal",FALSE
+"spain","CD Leonesa","CD Leonesa",TRUE
+"spain","CD Logrones","CD Logrones",FALSE
+"spain","CD Numancia","CD Numancia",TRUE
+"spain","CD Tenerife","CD Tenerife",TRUE
+"spain","CE Europa","CE Europa",TRUE
+"spain","CE Sabadell","CE Sabadell",TRUE
+"spain","Celta Vigo","Celta Vigo",TRUE
+"spain","CF Extremadura","CF Extremadura",FALSE
+"spain","Cordoba CF","Cordoba CF",TRUE
+"spain","Deportivo La Coruna","Deportivo La Coruna",TRUE
+"spain","Elche CF","Elche CF",TRUE
+"spain","Espanyol Barcelona","Espanyol Barcelona",TRUE
+"spain","FC Barcelona","FC Barcelona",TRUE
+"spain","Getafe CF","Getafe CF",TRUE
+"spain","Gimnastic","Gimnastic",TRUE
+"spain","Granada CF","Granada CF",TRUE
+"spain","Hercules CF","Hercules CF",TRUE
+"spain","Levante UD","Levante UD",TRUE
+"spain","Malaga CF","CD Malaga",FALSE
+"spain","Malaga CF","Malaga CF",TRUE
+"spain","Merida UD","CP Merida",FALSE
+"spain","Pontevedra CF","Pontevedra CF",TRUE
+"spain","Racing Santander","Racing Santander",TRUE
+"spain","Rayo Vallecano","Rayo Vallecano",TRUE
+"spain","RCD Mallorca","RCD Mallorca",TRUE
+"spain","Real Betis","Real Betis",TRUE
+"spain","Real Burgos","Real Burgos",FALSE
+"spain","Real Jaen","Real Jaen",TRUE
+"spain","Real Madrid","Real Madrid",TRUE
+"spain","Real Murcia","Real Murcia",TRUE
+"spain","Real Oviedo","Real Oviedo",TRUE
+"spain","Real Sociedad","Real Sociedad",TRUE
+"spain","Real Union","Real Union",TRUE
+"spain","Real Valladolid","Real Valladolid",TRUE
+"spain","Real Zaragoza","Real Zaragoza",TRUE
+"spain","Recreativo Huelva","Recreativo Huelva",TRUE
+"spain","SD Compostela","SD Compostela",TRUE
+"spain","SD Eibar","SD Eibar",TRUE
+"spain","Sevilla FC","Sevilla FC",TRUE
+"spain","Sporting Gijon","Sporting Gijon",TRUE
+"spain","UD Almeria","AD Almeria",FALSE
+"spain","UD Almeria","UD Almeria",TRUE
+"spain","UD Las Palmas","UD Las Palmas",TRUE
+"spain","UD Salamanca","UD Salamanca",FALSE
+"spain","UE Lleida","UE Lleida",FALSE
+"spain","Valencia CF","Valencia CF",TRUE
+"spain","Villarreal CF","Villarreal CF",TRUE
+"spain","Xerez CD","Xerez CD",TRUE
+"Scotland","Aberdeen","Aberdeen",NA
+"Scotland","Falkirk","Falkirk",NA
+"Scotland","Hibernian","Hibernian",NA
+"Scotland","Partick","Partick",NA
+"Scotland","Rangers","Rangers",NA
+"Scotland","Celtic","Celtic",NA
+"Scotland","Motherwell","Motherwell",NA
+"Scotland","Dundee United","Dundee United",NA
+"Scotland","Hearts","Hearts",NA
+"Scotland","Kilmarnock","Kilmarnock",NA
+"Scotland","Raith Rvs","Raith Rvs",NA
+"Scotland","Dunfermline","Dunfermline",NA
+"Scotland","St Johnstone","St Johnstone",NA
+"Scotland","Dundee","Dundee",NA
+"Scotland","St Mirren","St Mirren",NA
+"Scotland","Livingston","Livingston",NA
+"Scotland","Inverness C","Inverness C",NA
+"Scotland","Gretna","Gretna",NA
+"Scotland","Hamilton","Hamilton",NA
+"Scotland","Ross County","Ross County",NA
+"Scotland","Airdrie","Airdrie",NA
+"Scotland","Ayr","Ayr",NA
+"Scotland","Clydebank","Clydebank",NA
+"Scotland","Stranraer","Stranraer",NA
+"Scotland","Dumbarton","Dumbarton",NA
+"Scotland","Morton","Morton",NA
+"Scotland","East Fife","East Fife",NA
+"Scotland","Stirling","Stirling",NA
+"Scotland","Clyde","Clyde",NA
+"Scotland","Alloa","Alloa",NA
+"Scotland","Arbroath","Arbroath",NA
+"Scotland","Queen of Sth","Queen of Sth",NA
+"Scotland","Brechin","Brechin",NA
+"Scotland","Airdrie Utd","Airdrie Utd",NA
+"Scotland","Cowdenbeath","Cowdenbeath",NA
+"Scotland","Stenhousemuir","Stenhousemuir",NA
+"Scotland","Forfar","Forfar",NA
+"Scotland","Queens Park","Queens Park",NA
+"Scotland","Berwick","Berwick",NA
+"Scotland","Peterhead","Peterhead",NA
+"Scotland","Albion Rvs","Albion Rvs",NA
+"Scotland","East Stirling","East Stirling",NA
+"Scotland","Montrose","Montrose",NA
+"Scotland","Elgin","Elgin",NA
+"Scotland","Annan Athletic","Annan Athletic",NA
+"Scotland","Edinburgh City","Edinburgh City",NA
+"Scotland","Raith","Raith",NA
+"Turkey","Zeytinburnu","Zeytinburnu",NA
+"Turkey","Ad. Demirspor","Ad. Demirspor",NA
+"Turkey","Ankaragucu","Ankaragucu",NA
+"Turkey","Bursaspor","Bursaspor",NA
+"Turkey","Denizlispor","Denizlispor",NA
+"Turkey","Galatasaray","Galatasaray",NA
+"Turkey","Kocaelispor","Kocaelispor",NA
+"Turkey","Trabzonspor","Trabzonspor",NA
+"Turkey","Vanspor","Vanspor",NA
+"Turkey","Fenerbahce","Fenerbahce",NA
+"Turkey","P. Ofisi","P. Ofisi",NA
+"Turkey","Altay","Altay",NA
+"Turkey","Antalya","Antalya",NA
+"Turkey","Besiktas","Besiktas",NA
+"Turkey","Gaziantepspor","Gaziantepspor",NA
+"Turkey","Genclerbirligi","Genclerbirligi",NA
+"Turkey","Kayseri","Kayseri",NA
+"Turkey","Samsunspor","Samsunspor",NA
+"Turkey","Istanbulspor","Istanbulspor",NA
+"Turkey","Antalyaspor","Antalyaspor",NA
+"Turkey","Eskisehirspor","Eskisehirspor",NA
+"Turkey","Karsiyaka","Karsiyaka",NA
+"Turkey","Sariyer","Sariyer",NA
+"Turkey","Dardanelspor","Dardanelspor",NA
+"Turkey","Karabukspor","Karabukspor",NA
+"Turkey","Sekerspor","Sekerspor",NA
+"Turkey","Adanaspor","Adanaspor",NA
+"Turkey","Sakaryaspor","Sakaryaspor",NA
+"Turkey","Erzurum","Erzurum",NA
+"Turkey","Erzurumspor","Erzurumspor",NA
+"Turkey","Goztep","Goztep",NA
+"Turkey","Siirt Jet-PA","Siirt Jet-PA",NA
+"Turkey","Yozgatspor","Yozgatspor",NA
+"Turkey","Rizespor","Rizespor",NA
+"Turkey","Diyarbakirspor","Diyarbakirspor",NA
+"Turkey","Malatyaspor","Malatyaspor",NA
+"Turkey","Elazigspor","Elazigspor",NA
+"Turkey","Konyaspor","Konyaspor",NA
+"Turkey","A. Sebatspor","A. Sebatspor",NA
+"Turkey","Kayserispor","Kayserispor",NA
+"Turkey","Ankaraspor","Ankaraspor",NA
+"Turkey","Erciyesspor","Erciyesspor",NA
+"Turkey","Sivasspor","Sivasspor",NA
+"Turkey","Manisaspor","Manisaspor",NA
+"Turkey","Buyuksehyr","Buyuksehyr",NA
+"Turkey","Oftasspor","Oftasspor",NA
+"Turkey","Kasimpasa","Kasimpasa",NA
+"Turkey","Hacettepespor","Hacettepespor",NA
+"Turkey","Bucaspor","Bucaspor",NA
+"Turkey","Orduspor","Orduspor",NA
+"Turkey","Mersin Idman Yurdu","Mersin Idman Yurdu",NA
+"Turkey","Akhisar Belediyespor","Akhisar Belediyespor",NA
+"Turkey","Balikesirspor","Balikesirspor",NA
+"Turkey","Osmanlispor","Osmanlispor",NA
+"Turkey","Alanyaspor","Alanyaspor",NA
+"Greece","AEK","AEK",NA
+"Greece","Apollon","Apollon",NA
+"Greece","Doxa","Doxa",NA
+"Greece","Edessaikos","Edessaikos",NA
+"Greece","Ethnikos","Ethnikos",NA
+"Greece","Iraklis","Iraklis",NA
+"Greece","Larisa","Larisa",NA
+"Greece","PAOK","PAOK",NA
+"Greece","Xanthi","Xanthi",NA
+"Greece","Aris","Aris",NA
+"Greece","Athinaikos","Athinaikos",NA
+"Greece","Ionikos","Ionikos",NA
+"Greece","Kavala","Kavala",NA
+"Greece","OFI","OFI",NA
+"Greece","Olympiakos","Olympiakos",NA
+"Greece","Panathinaikos","Panathinaikos",NA
+"Greece","Panionios","Panionios",NA
+"Greece","Levadiakos","Levadiakos",NA
+"Greece","Kalamata","Kalamata",NA
+"Greece","Panahaiki","Panahaiki",NA
+"Greece","Paniliakos","Paniliakos",NA
+"Greece","Kastoria","Kastoria",NA
+"Greece","Heracles","Heracles",NA
+"Greece","Veroia","Veroia",NA
+"Greece","Proodeytiki","Proodeytiki",NA
+"Greece","Ethnikos Piraeus","Ethnikos Piraeus",NA
+"Greece","Eleysina","Eleysina",NA
+"Greece","Ethnikos Asteras","Ethnikos Asteras",NA
+"Greece","Trikala","Trikala",NA
+"Greece","Eth Asteras","Eth Asteras",NA
+"Greece","Yiannina","Yiannina",NA
+"Greece","Akratitos","Akratitos",NA
+"Greece","Egaleo","Egaleo",NA
+"Greece","Proodeftiki","Proodeftiki",NA
+"Greece","Kalithea","Kalithea",NA
+"Greece","Giannina","Giannina",NA
+"Greece","Chalkidona","Chalkidona",NA
+"Greece","Ergotelis","Ergotelis",NA
+"Greece","Kalamaria","Kalamaria",NA
+"Greece","Kerkyra","Kerkyra",NA
+"Greece","Kallithea","Kallithea",NA
+"Greece","Atromitos","Atromitos",NA
+"Greece","Levadeiakos","Levadeiakos",NA
+"Greece","Asteras Tripolis","Asteras Tripolis",NA
+"Greece","Veria","Veria",NA
+"Greece","Panthrakikos","Panthrakikos",NA
+"Greece","Panserraikos","Panserraikos",NA
+"Greece","Thrasyvoulos","Thrasyvoulos",NA
+"Greece","Olympiakos Volou","Olympiakos Volou",NA
+"Greece","Panetolikos","Panetolikos",NA
+"Greece","Doxa Dramas","Doxa Dramas",NA
+"Greece","Platanias","Platanias",NA
+"Greece","Kallonis","Kallonis",NA
+"Greece","Niki Volos","Niki Volos",NA
+"Portugal","Farense","Farense",NA
+"Portugal","Belenenses","Belenenses",NA
+"Portugal","Benfica","Benfica",NA
+"Portugal","Desp. Chaves","Desp. Chaves",NA
+"Portugal","Gil Vicente","Gil Vicente",NA
+"Portugal","Guimaraes","Guimaraes",NA
+"Portugal","Leiria","Leiria",NA
+"Portugal","Maritimo","Maritimo",NA
+"Portugal","Porto","Porto",NA
+"Portugal","Sp Lisbon","Sp Lisbon",NA
+"Portugal","Beira Mar","Beira Mar",NA
+"Portugal","Boavista","Boavista",NA
+"Portugal","Est Amadora","Est Amadora",NA
+"Portugal","Madeira","Madeira",NA
+"Portugal","Salgueiros","Salgueiros",NA
+"Portugal","Setubal","Setubal",NA
+"Portugal","Sp Braga","Sp Braga",NA
+"Portugal","Tirsense","Tirsense",NA
+"Portugal","Campomaior","Campomaior",NA
+"Portugal","Felgueiras","Felgueiras",NA
+"Portugal","Leca","Leca",NA
+"Portugal","Espinho","Espinho",NA
+"Portugal","Rio Ave","Rio Ave",NA
+"Portugal","Varzim","Varzim",NA
+"Portugal","Academica","Academica",NA
+"Portugal","Campomaiorense","Campomaiorense",NA
+"Portugal","Chaves","Chaves",NA
+"Portugal","Alverca","Alverca",NA
+"Portugal","Santa Clara","Santa Clara",NA
+"Portugal","Aves","Aves",NA
+"Portugal","Pacos Ferreira","Pacos Ferreira",NA
+"Portugal","Moreirense","Moreirense",NA
+"Portugal","Nacional","Nacional",NA
+"Portugal","Estoril","Estoril",NA
+"Portugal","Penafiel","Penafiel",NA
+"Portugal","Naval","Naval",NA
+"Portugal","Leixoes","Leixoes",NA
+"Portugal","Trofense","Trofense",NA
+"Portugal","Olhanense","Olhanense",NA
+"Portugal","Portimonense","Portimonense",NA
+"Portugal","Feirense","Feirense",NA
+"Portugal","Feirense","Feirense",NA
+"Portugal","Arouca","Arouca",NA
+"Portugal","Tondela","Tondela",NA
+"Portugal","Uniao Madeira","Uniao Madeira",NA
+"Belgium","Aalst","Aalst",NA
+"Belgium","Cercle Brugge","Cercle Brugge",NA
+"Belgium","Charleroi","Charleroi",NA
+"Belgium","Lierse","Lierse",NA
+"Belgium","Molenbeek","Molenbeek",NA
+"Belgium","St Truiden","St Truiden",NA
+"Belgium","Standard","Standard",NA
+"Belgium","Waregem","Waregem",NA
+"Belgium","Germinal","Germinal",NA
+"Belgium","Club Brugge","Club Brugge",NA
+"Belgium","Anderlecht","Anderlecht",NA
+"Belgium","Antwerp","Antwerp",NA
+"Belgium","Beveren","Beveren",NA
+"Belgium","Gent","Gent",NA
+"Belgium","Lommel","Lommel",NA
+"Belgium","Mechelen","Mechelen",NA
+"Belgium","Seraing","Seraing",NA
+"Belgium","Harelbeke","Harelbeke",NA
+"Belgium","Lokeren","Lokeren",NA
+"Belgium","Genk","Genk",NA
+"Belgium","Mouscron","Mouscron",NA
+"Belgium","Westerlo","Westerlo",NA
+"Belgium","Oostende","Oostende",NA
+"Belgium","Kortrijk","Kortrijk",NA
+"Belgium","Geel","Geel",NA
+"Belgium","Louvieroise","Louvieroise",NA
+"Belgium","Bergen","Bergen",NA
+"Belgium","Heusden Zolder","Heusden Zolder",NA
+"Belgium","FC Brussels","FC Brussels",NA
+"Belgium","Roeselare","Roeselare",NA
+"Belgium","Dender","Dender",NA
+"Belgium","Tubize","Tubize",NA
+"Belgium","Eupen","Eupen",NA
+"Belgium","Oud-Heverlee Leuven","Oud-Heverlee Leuven",NA
+"Belgium","Waasland-Beveren","Waasland-Beveren",NA
+"Belgium","Mouscron-Peruwelz","Mouscron-Peruwelz",NA
+"MLS","CD Chivas USA","CD Chivas USA",TRUE
+"MLS","New York Red Bulls","New York Metrostars",FALSE
+"MLS","Columbus Crew","Columbus Crew",TRUE
+"MLS","Sporting Kansas City","Kansas City Wizards",FALSE
+"MLS","FC Dallas","FC Dallas",TRUE
+"MLS","San Jose Earthquakes","San Jose",FALSE
+"MLS","DC United","Washington D.C. United",FALSE
+"MLS","New England Revolution","N.E. Revolution",FALSE
+"MLS","Colorado Rapids","Colorado Rapids",TRUE
+"MLS","LA Galaxy","Los Angeles Galaxy",FALSE
+"MLS","Real Salt Lake","Real Salt Lake",TRUE
+"MLS","Chicago Fire","Chicago Fire",TRUE
+"MLS","Houston Dynamo","Houston Dynamo",TRUE
+"MLS","New England Revolution","New England Revolution",TRUE
+"MLS","New York Red Bulls","New York Red Bulls",TRUE
+"MLS","Toronto FC","Toronto FC",TRUE
+"MLS","San Jose Earthquakes","San Jose Earthquakes",TRUE
+"MLS","Seattle Sounders","Seattle Sounders",TRUE
+"MLS","Philadelphia Union","Philadelphia Union",TRUE
+"MLS","Vancouver Whitecaps","Vancouver Whitecaps FC",FALSE
+"MLS","Portland Timbers","Portland Timbers",TRUE
+"MLS","Sporting Kansas City","Sporting Kansas City",TRUE
+"MLS","Montreal Impact","Montreal Impact",TRUE
+"MLS","LA Galaxy","LA Galaxy",TRUE
+"MLS","DC United","D.C. United",FALSE
+"MLS","Orlando City","Orlando City SC",FALSE
+"MLS","Seattle Sounders","Seattle Sounders FC",FALSE
+"MLS","Columbus Crew","Columbus Crew SC",FALSE
+"MLS","New York City FC","New York City FC",TRUE
+"MLS","Orlando City","Orlando City",TRUE
+"MLS","Vancouver Whitecaps","Vancouver Whitecaps",TRUE
+"MLS","New York City FC","New York City",FALSE
+"MLS","DC United","DC United",TRUE
+"MLS","CD Chivas USA","CD Chivas USA",TRUE
+"MLS","New York Red Bulls","New York Metrostars",FALSE
+"MLS","Columbus Crew","Columbus Crew",TRUE
+"MLS","Sporting Kansas City","Kansas City Wizards",FALSE
+"MLS","FC Dallas","FC Dallas",TRUE
+"MLS","San Jose Earthquakes","San Jose",FALSE
+"MLS","DC United","Washington D.C. United",FALSE
+"MLS","New England Revolution","N.E. Revolution",FALSE
+"MLS","Colorado Rapids","Colorado Rapids",TRUE
+"MLS","LA Galaxy","Los Angeles Galaxy",FALSE
+"MLS","Real Salt Lake","Real Salt Lake",TRUE
+"MLS","Chicago Fire","Chicago Fire",TRUE
+"MLS","Houston Dynamo","Houston Dynamo",TRUE
+"MLS","New England Revolution","New England Revolution",TRUE
+"MLS","New York Red Bulls","New York Red Bulls",TRUE
+"MLS","Toronto FC","Toronto FC",TRUE
+"MLS","San Jose Earthquakes","San Jose Earthquakes",TRUE
+"MLS","Seattle Sounders","Seattle Sounders",TRUE
+"MLS","Philadelphia Union","Philadelphia Union",TRUE
+"MLS","Vancouver Whitecaps","Vancouver Whitecaps FC",FALSE
+"MLS","Portland Timbers","Portland Timbers",TRUE
+"MLS","Sporting Kansas City","Sporting Kansas City",TRUE
+"MLS","Montreal Impact","Montreal Impact",TRUE
+"MLS","LA Galaxy","LA Galaxy",TRUE
+"MLS","DC United","D.C. United",FALSE
+"MLS","Orlando City","Orlando City SC",FALSE
+"MLS","Seattle Sounders","Seattle Sounders FC",FALSE
+"MLS","Columbus Crew","Columbus Crew SC",FALSE
+"MLS","New York City FC","New York City FC",TRUE
+"MLS","Orlando City","Orlando City",TRUE
+"MLS","Vancouver Whitecaps","Vancouver Whitecaps",TRUE
+"MLS","New York City FC","New York City",FALSE
+"MLS","DC United","DC United",TRUE
+"Germany","Bayern Munchen","Bayern Munich",NA
+"Germany","FC Augsburg","Augsburg",NA
+"Germany","Borussia Dortmund","Dortmund",NA
+"Germany","Eintracht Frankfurt","Ein Frankfurt",NA
+"Germany","1. FC Koln","FC Koln",NA
+"Germany","Hamburger SV","Hamburg",NA
+"Germany","Bor. Monchengladbach","M'gladbach",NA
+"Germany","Hertha BSC","Hertha",NA
+"Germany","1899 Hoffenheim","Hoffenheim",NA
+"Germany","FC Schalke 04","Schalke 04",NA
+"Germany","SV Darmstadt 98","Darmstadt",NA
+"Germany","SC Freiburg","Freiburg",NA
+"Germany","FC Ingolstadt 04","Ingolstadt",NA
+"Germany","Bayer Leverkusen","Leverkusen",NA
+"Germany","RasenBallsport Leipzig","RB Leipzig",NA
+"Germany","VfL Wolfsburg","Wolfsburg",NA
+"Germany","1. FSV Mainz 05","Mainz",NA
+"Germany","1. FC Kaiserslautern","Kaiserslautern",NA
+"Germany","VfL Bochum","Bochum",NA
+"Germany","Dynamo Dresden","Dresden",NA
+"Germany","SV Sandhausen","Sandhausen",NA
+"Germany","Arminia Bielefeld","Bielefeld",NA
+"Germany","Eintracht Braunschweig","Braunschweig",NA
+"Germany","SpVgg Greuther Furth","Greuther Furth",NA
+"Germany","1. FC Heidenheim","Heidenheim",NA
+"Germany","VfB Stuttgart","Stuttgart",NA
+"Germany","1. FC Nurnberg","Nurnberg",NA
+"Germany","Karlsruher SC","Karlsruhe",NA
+"Germany","FC St. Pauli","St Pauli",NA
+"Germany","Hannover 96","Hannover",NA
+"Germany","1860 Munchen","Munich 1860",NA
+"Germany","1. FC Union Berlin","Union Berlin",NA
+"Italy","AS Roma","Roma",NA
+"Italy","Bologna FC","Bologna",NA
+"Italy","Chievo Verona","Chievo",NA
+"Italy","Empoli FC","Empoli",NA
+"Italy","Genoa CFC","Genoa",NA
+"Italy","AC Milan","Milan",NA
+"Italy","US Palermo","Palermo",NA
+"Italy","Pescara Calcio","Pescara",NA
+"Italy","Lazio Roma","Lazio",NA
+"Italy","SSC Napoli","Napoli",NA
+"Italy","Cagliari Calcio","Cagliari",NA
+"Italy","FC Crotone","Crotone",NA
+"Italy","ACF Fiorentina","Fiorentina",NA
+"Italy","Sassuolo Calcio","Sassuolo",NA
+"Italy","Torino FC","Torino",NA
+"Italy","Udinese Calcio","Udinese",NA
+"France","Lille OSC","Lille",NA
+"France","SC Bastia","Bastia",NA
+"France","Olympique Marseille","Marseille",NA
+"France","Montpellier HSC","Montpellier",NA
+"France","FC Nantes","Nantes",NA
+"France","OGC Nice","Nice",NA
+"France","ESTAC Troyes","Troyes",NA
+"France","Girondins Bordeaux","Bordeaux",NA
+"France","Olympique Lyon","Lyon",NA
+"France","Toulouse FC","Toulouse",NA
+"France","AS Monaco","Monaco",NA
+"France","Angers SCO","Angers",NA
+"France","SM Caen","Caen",NA
+"France","EA Guingamp","Guingamp",NA
+"France","Stade Rennes","Rennes",NA
+"France","AS Saint-Etienne","St Etienne",NA
+"France","FC Lorient","Lorient",NA
+"France","Paris Saint-Germain","Paris SG",NA
+"France","Stade Reims","Reims",NA
+"France","AC Ajaccio","Ajaccio GFCO",NA
+"France","Dijon FCO","Dijon",NA
+"France","FC Metz","Metz",NA
+"France","AS Nancy","Nancy",NA
+"Holland","NEC Nijmegen","Nijmegen",NA
+"Holland","ADO Den Haag","Den Haag",NA
+"Holland","FC Twente","Twente",NA
+"Holland","FC Utrecht","Utrecht",NA
+"Holland","FC Groningen","Groningen",NA
+"Holland","Roda JC Kerkrade","Roda",NA
+"Holland","sc Heerenveen","Heerenveen",NA
+"Holland","AFC Ajax","Ajax",NA
+"Holland","SBV Excelsior","Excelsior",NA
+"Holland","PEC Zwolle","Zwolle",NA
+"Holland","Heracles Almelo","Heracles",NA
+"Spain","Deportivo La Coruna","La Coruna",NA
+"Spain","Malaga CF","Malaga",NA
+"Spain","FC Barcelona","Barcelona",NA
+"Spain","Granada CF","Granada",NA
+"Spain","Sevilla FC","Sevilla",NA
+"Spain","Atletico Madrid","Ath Madrid",NA
+"Spain","Real Sociedad","Sociedad",NA
+"Spain","Sporting Gijon","Sp Gijon",NA
+"Spain","Celta Vigo","Celta",NA
+"Spain","Valencia CF","Valencia",NA
+"Spain","Real Betis","Betis",NA
+"Spain","Espanyol Barcelona","Espanol",NA
+"Spain","SD Eibar","Eibar",NA
+"Spain","CD Leganes","Leganes",NA
+"Spain","CA Osasuna","Osasuna",NA
+"Spain","Real Madrid","Real Madrid",NA
+"Spain","CD Alaves","Alaves",NA
+"Spain","Athletic Bilbao","Ath Bilbao",NA
+"Spain","UD Las Palmas","Las Palmas",NA
+"Spain","Villarreal CF","Villarreal",NA
+"England","Telford United","AFC Telford United",NA
+"England","Telford United","AFC Telford Utd",NA
+"England","Aldershot","Aldershot Town",NA
+"England","Alfreton Town","Alfreton Town",NA
+"England","Altrincham","Altrincham",NA
+"England","Barnet","Barnet FC",NA
+"England","Bath City","Bath City",NA
+"England","Boreham Wood","Boreham Wood",NA
+"England","Boston United","Boston",NA
+"England","Braintree Town","Braintree Town",NA
+"England","Bristol Rovers","Bristol Rvs",NA
+"England","Bromley","Bromley",NA
+"England","Burton Albion","Burton",NA
+"England","Cambrdige United","Cambridge",NA
+"England","Canvey Island","Canvey Island",NA
+"England","Chester","Chester City",NA
+"England","Dagenham and Redbridge","Dag and Red",NA
+"England","Dagenham and Redbridge","Dagenham & Red.",NA
+"England","Dagenham and Redbridge","Dagenham & Redbridge",NA
+"England","Dartford","Dartford",NA
+"England","Doncaster Rovers","Doncaster",NA
+"England","Dover Athletic","Dover",NA
+"England","Dover Athletic","Dover Ath.",NA
+"England","Dover Athletic","Dover Athletic",NA
+"England","Droylsden","Droylsden",NA
+"England","Eastbourne Borough","Eastbourne Borough",NA
+"England","Eastleigh","Eastleigh",NA
+"England","Ebbsfleet United","Ebbsfleet",NA
+"England","Exeter City","Exeter",NA
+"England","Farnborough Town","Farnborough",NA
+"England","Farnborough Town","Farnborough Town",NA
+"England","Farsley","Farsley",NA
+"England","Forest Green Rovers","Forest Green",NA
+"England","Forest Green Rovers","Forest Green Rovers",NA
+"England","Ebbsfleet United","Gravesend",NA
+"England","Ebbsfleet United","Gravesend & Northfleet",NA
+"England","Grays Athletic","Grays",NA
+"England","Grimsby Town","Grimsby",NA
+"England","Guiseley","Guiseley",NA
+"England","Halifax Town","Halifax",NA
+"England","Hayes & Yeading","Hayes",NA
+"England","Hayes & Yeading","Hayes & Yeading",NA
+"England","Hednesford Town","Hednesford",NA
+"England","Hednesford Town","Hednesford Town",NA
+"England","Hereford United","Hereford",NA
+"England","Hereford United","Hereford Utd",NA
+"England","Histon","Histon",NA
+"England","Hyde United","Hyde United",NA
+"England","Kettering Town","Kettering",NA
+"England","Kettering Town","Kettering Town",NA
+"England","Kidderminster Harriers","Kidderminster",NA
+"England","Kingstonian","Kingstonian",NA
+"England","Leigh Genesis","Leigh Genesis",NA
+"England","Leigh Genesis","Leigh RMI",NA
+"England","Lewes","Lewes",NA
+"England","Lincoln City","Lincoln",NA
+"England","Luton Town","Luton",NA
+"England","Maidstone United","Maidstone",NA
+"England","Mansfield Town","Mansfield",NA
+"England","Margate","Margate",NA
+"England","Morecambe","Morecambe FC",NA
+"England","North Ferriby","North Ferriby",NA
+"England","Northwich Victoria","Northwich",NA
+"England","Nuneaton Town","Nuneaton",NA
+"England","Nuneaton Town","Nuneaton Borough AFC",NA
+"England","Nuneaton Town","Nuneaton Town",NA
+"England","Oxford United","Oxford",NA
+"England","Rushden & Diamonds","Rushden",NA
+"England","Rushden & Diamonds","Rushden & D",NA
+"England","Rushden & Diamonds","Rushden & D.",NA
+"England","Salisbury","Salisbury",NA
+"England","Scarborough","Scarborough FC",NA
+"England","Solihull","Solihull",NA
+"England","Southport","Southport FC",NA
+"England","St Albans","St. Albans",NA
+"England","Stafford Rangers","Stafford Rangers",NA
+"England","Stalybridge Celtic","Stalybridge",NA
+"England","Stevenage Borough","Stevenage",NA
+"England","Stevenage Borough","Stevenage Borough FC",NA
+"England","Stevenage Borough","Stevenage FC",NA
+"England","Stockport County","Stockport",NA
+"England","Sutton United","Sutton",NA
+"England","Sutton United","Sutton Utd",NA
+"England","Tamworth","Tamworth",NA
+"England","Tamworth","Tamworth FC",NA
+"England","Telford United","Telford",NA
+"England","Telford United","Telford United",NA
+"England","Torquay United","Torquay",NA
+"England","Tranmere Rovers","Tranmere",NA
+"England","Welling United","Welling",NA
+"England","Welling United","Welling United",NA
+"England","Weymouth","Weymouth",NA
+"England","Woking","Woking",NA
+"England","Woking","Woking FC",NA
+"England","Yeovil","Yeovil Town",NA
+"England","York City","York",NA
+"England","AP Leamington","AP Leamington",NA
+"England","Aylesbury United","Aylesbury United",NA
+"England","Bangor City","Bangor City",NA
+"England","Bromsgrove Rovers","Bromsgrove Rovers",NA
+"England","Cheltenham","Cheltenham Town",NA
+"England","Chorley","Chorley",NA
+"England","Dagenham","Dagenham",NA
+"England","Dagenham and Redbridge","Dagenham & Redbridge",NA
+"England","Enfield","Enfield",NA
+"England","Fisher Athletic","Fisher Athletic",NA
+"England","Frickley Athletic","Frickley Athletic",NA
+"England","Ebbsfleet United","Gravesend & Northfleet",NA
+"England","Hayes","Hayes",NA
+"England","Leek Town","Leek Town",NA
+"England","Macclesfield","Macclesfield Town",NA
+"England","Merthyr Tydfil","Merthyr Tydfil",NA
+"England","Nuneaton Town","Nuneaton Borough",NA
+"England","Redbridge Forest","Redbridge Forest",NA
+"England","Redditch United","Redditch United",NA
+"England","Runcorn","Runcorn",NA
+"England","Slough Town","Slough Town",NA
+"England","Trowbridge Town","Trowbridge Town",NA
+"England","Wealdstone","Wealdstone",NA
+"England","Witton Albion","Witton Albion",NA
+"England","Worcester City","Worcester City",NA
+"England","Yeovil","Yeovil Town",NA
+"Turkey","Yeni Malatyaspor","Yeni Malatyaspor",NA
+"Spain","Girona","Girona",NA
+"Spain","Getafe CF","Getafe",NA
+"Spain","Levante UD","Levante",NA
+"Italy","SPAL 1907 Ferrara","Spal",NA
+"Italy","Benevento","Benevento",NA
+"Italy","Hellas Verona","Verona",NA
+"Holland","VVV-Venlo","VVV Venlo",NA
+"Greece","Lamia","Lamia",NA
+"France","RC Strasbourg","Strasbourg",NA
+"France","Amiens SC","Amiens",NA
+"Germany","Jahn Regensburg","Regensburg",NA
+"Germany","MSV Duisburg","Duisburg",NA
+"England","Tottenham Hotspur","Spurs",NA
+"England","Curzon Ashton","Curzon Ashton",NA
+"England","Stourbridge","Stourbridge",NA
+"England","Merstham","Merstham",NA
+"England","Westfields","Westfields",NA
+"England","Whitehawk","Whitehawk",NA
+"England","Taunton Town","Taunton Town",NA
+"England","Brackley Town","Brackley Town",NA
+"England","Harrow Borough","Harrow Borough",NA
+"England","Spennymoor United","Spennymoor United",NA
+"England","Chesham United","Chesham United",NA
+"England","Stamford","Stamford",NA
+"England","Fylde","Fylde",NA
+"England","Maidenhead","Maidenhead",NA
+"England","Harrogate Town A.F.C.","Harrogate",NA
+"England","Salford City","Salford",NA
