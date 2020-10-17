@@ -107,6 +107,8 @@ england <- rbind(england,tiers)
 ## update steps
 usethis::use_data(england, overwrite = T)
 write.csv(england,'data-raw/england.csv',row.names=F)
+devtools::load_all()
+
 # redo documentation   devtools::document()
 # rebuild
 # redo checks
