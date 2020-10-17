@@ -45,8 +45,8 @@ df1[i] <- lapply(df1[i], as.character)
 df1$Date <- as.character(df1$Date)
 
 #fix teamnames
-df1$home <- as.character(teamnames$name[match(df1$home, teamnames$name_other)])
-df1$visitor <- as.character(teamnames$name[match(df1$visitor, teamnames$name_other)])
+df1$home <- as.character(as.character(teamnames$name)[match(as.character(df1$home), as.character(teamnames$name_other))])
+df1$visitor <- as.character(as.character(teamnames$name)[match(as.character(df1$visitor), as.character(teamnames$name_other))])
 
 
 return(df1)
