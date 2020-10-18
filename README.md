@@ -1,5 +1,4 @@
-On CRAN v0.1.5 as of June 12 2016 <br>
-Latest GitHub version: 17/11/2019,  v0.1.7
+Latest GitHub version: 10/17/2020,  v0.1.7
 
 #### engsoccerdata
 
@@ -26,8 +25,7 @@ To install this directly into R.
 
 ```
 library(devtools)
-install_github('jalapic/engsoccerdata', username = "jalapic")
-library(engsoccerdata)
+install_github("jalapic/engsoccerdata")
 
 data(package="engsoccerdata")    # lists datasets currently available
 
