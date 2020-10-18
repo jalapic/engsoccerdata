@@ -4,10 +4,7 @@
 \alias{england_current}
 \title{Get current England season data for all tiers}
 \usage{
-england_current(Season = 2020)
-}
-\arguments{
-\item{Season}{the current Season}
+england_current()
 }
 \value{
 a dataframe with results for current

@@ -4,7 +4,7 @@
 #' for teams in the engsoccerdata dataset
 #' currently beta and needs filling in
 #'
-#' @format A data frame with 401 rows and 9 variables:
+#' @format A data frame with 660 rows and 10 variables:
 #' \describe{
 #'   \item{team}{the name of the team in the matches dataset}
 #'   \item{lat}{the latitude of the teams ground (beta- drawn from the locations file)}
@@ -15,5 +15,6 @@
 #'   \item{short_name}{an abbreviated name for the team in case of long names}
 #'   \item{three_letter_name}{a 3 letter code for the team (not added)}
 #'   \item{nicknames}{a list of nicknames for the team (not added- see team names file)}
+#'   \item{extinct}{Whether club no longer exist or not}
 #' }
 "england_club_data"

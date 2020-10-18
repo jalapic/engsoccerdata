@@ -2,7 +2,7 @@
 % Please edit documentation in R/england5_current.R
 \name{england5_current}
 \alias{england5_current}
-\title{Get current Enland season data for tier 5}
+\title{Get current England season data for tier 5}
 \usage{
 england5_current(Season = 2017)
 }
@@ -14,8 +14,5 @@ a dataframe with results for current
 season for top two divisions
 }
 \description{
-Get current Enland season data for tier 5
-}
-\examples{
-england5_current()
+Get current England season data for tier 5
 }

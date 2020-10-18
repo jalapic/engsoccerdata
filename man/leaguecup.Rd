@@ -18,7 +18,6 @@ A data frame with 16871 rows and 19 variables:
   \item{tie}{Initial tie or replay}
   \item{leg}{Which leg of a two legged match}
   \item{aet}{Did game go to extra time?}
-  \item{pen}{Did game go to penalties?}
   \item{pens}{Result of penalties}
   \item{Venue}{Venue}
   \item{attendance}{Attendance}

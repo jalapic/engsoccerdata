@@ -2,33 +2,36 @@
 #'
 #' @return a dataframe with results for current
 #' season for all top four divisions
-#' @param Season the current Season
-#' @importFrom utils "read.csv"
+#' @importFrom rvest "html_table"
+#' @importFrom xml2 "read_html"
+#' @importFrom dplyr "case_when"
+#' @importFrom dplyr "mutate"
+#' @importFrom magrittr "%>%"
 #' @examples
 #' england_current()
 #' @export
 
-england_current <- function(Season = 2020){
+england_current <- function(){
 
-  library(tidyverse)
-  library(rvest)
+
+  home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-NULL
 
   url1 <- "https://www.11v11.com/competitions/premier-league/2021/matches/"
   url2 <- "https://www.11v11.com/competitions/league-championship/2021/matches/"
   url3 <- "https://www.11v11.com/competitions/league-one/2021/matches/"
   url4 <- "https://www.11v11.com/competitions/league-two/2021/matches/"
 
-  x1 <- read_html(url1) %>% html_table(fill = TRUE)
-  x2 <- read_html(url2) %>% html_table(fill = TRUE)
-  x3 <- read_html(url3) %>% html_table(fill = TRUE)
-  x4 <- read_html(url4) %>% html_table(fill = TRUE)
+  x1 <- xml2::read_html(url1) %>% rvest::html_table(fill = TRUE)
+  x2 <- xml2::read_html(url2) %>% rvest::html_table(fill = TRUE)
+  x3 <- xml2::read_html(url3) %>% rvest::html_table(fill = TRUE)
+  x4 <- xml2::read_html(url4) %>% rvest::html_table(fill = TRUE)
 
   make_data <- function(x){
     x <- x[[1]][,1:4]
     x <-x[grepl("([0-9]+).*$", x[,1]),]#get rid of months text
     colnames(x)<-c("Date","home","FT","visitor")
     x$Date <- as.character(as.Date(x$Date, format="%d %b %Y"))
-    x$Season <- as.numeric(Season)
+    x$Season <- 2020
     x$FT <- gsub(":", "-", x$FT)
     x <- x[nchar(x$FT)>1,]
     hgvg <- matrix(unlist(strsplit(x$FT, "-")), ncol=2, byrow = T)
@@ -55,10 +58,10 @@ england_current <- function(Season = 2020){
   x4d$tier <- 4
 
   xd <- rbind(x1d,x2d,x3d,x4d)
-  xd <- xd[colnames(england)]
+  xd <- xd[colnames(engsoccerdata::england)]
 
   xd %>%
-    mutate(home = case_when(
+    dplyr::mutate(home = dplyr::case_when(
       grepl("Brighton and Hove", home) ~ "Brighton & Hove Albion",
       grepl("Cheltenham Town", home) ~ "Cheltenham",
       grepl("Stevenage", home) ~ "Stevenage Borough",
@@ -67,7 +70,7 @@ england_current <- function(Season = 2020){
       grepl("Yeovil", home) ~ "Yeovil",
       TRUE ~ home
     )) %>%
-    mutate(visitor = case_when(
+    dplyr::mutate(visitor = dplyr::case_when(
       grepl("Brighton and Hove", visitor) ~ "Brighton & Hove Albion",
       grepl("Cheltenham Town", visitor) ~ "Cheltenham",
       grepl("Stevenage", visitor) ~ "Stevenage Borough",
@@ -79,7 +82,7 @@ england_current <- function(Season = 2020){
 
   return(xd)
 
-
+}
 
 
 ## this is a nightmare with the teamnames Tranmere, Forest Green Rovers, Harrogate, Salford, Lincoln
@@ -123,4 +126,4 @@ england_current <- function(Season = 2020){
 # df1$visitor <- as.character(as.character(teamnames$name)[match(as.character(df1$visitor), as.character(teamnames$name_other))])
 #
 # return(df1)
-}
+
