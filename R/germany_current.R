@@ -25,8 +25,8 @@ df1$Date <- as.Date(df1$Date, format="%Y-%m-%d")
 germ <- engsoccerdata::germany
 if(identical(max(df1$Date), max(germ$Date))) warning("The returned dataframe contains data already included in 'germany' dataframe")
 tm <- engsoccerdata::teamnames
-df1$home <- tm$name[match(df1$home,tm$name_other)]
-df1$visitor <- tm$name[match(df1$visitor,tm$name_other)]
+df1$home <- as.character(tm$name[match(df1$home,tm$name_other)])
+df1$visitor <- as.character(tm$name[match(df1$visitor,tm$name_other)])
 df1<-df1[c(1:7,9,8)]
 return(df1)
 }

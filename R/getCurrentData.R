@@ -9,6 +9,8 @@
 #' @export
 
 getCurrentData <- function(df,division,tier,Season){
+
+  if(Season>2017){
   data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%Y")),
              "Season" = Season,
              "home" = as.character(df$HomeTeam),
@@ -24,3 +26,20 @@ getCurrentData <- function(df,division,tier,Season){
                                             ifelse(df$FTHG < df$FTAG, "A", "D")))
              , stringsAsFactors = FALSE)
 }
+ else
+{
+  data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%y")),
+             "Season" = Season,
+             "home" = as.character(df$HomeTeam),
+             "visitor" = as.character(df$AwayTeam),
+             "FT" = paste0(df$FTHG, "-", df$FTAG),
+             "hgoal" = df$FTHG,
+             "vgoal" = df$FTAG,
+             "division" = division,
+             "tier" = tier,
+             "totgoal" = df$FTHG + df$FTAG,
+             "goaldif" = df$FTHG - df$FTAG,
+             "result" = as.character(ifelse(df$FTHG > df$FTAG, "H",
+                                            ifelse(df$FTHG < df$FTAG, "A", "D")))
+             , stringsAsFactors = FALSE)
+}}
