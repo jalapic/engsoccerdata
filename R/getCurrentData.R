@@ -9,7 +9,7 @@
 #' @export
 
 getCurrentData <- function(df,division,tier,Season){
-  data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%y")),
+  data.frame("Date" = as.character(as.Date(df$Date, "%d/%m/%Y")),
              "Season" = Season,
              "home" = as.character(df$HomeTeam),
              "visitor" = as.character(df$AwayTeam),
