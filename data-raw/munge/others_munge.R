@@ -162,3 +162,41 @@ belgium_current(Season=2020)  #one NA  Beerschot   aka  K Beerschot VA
 
 engsoccerdata::teamnames[grepl("eer", engsoccerdata::teamnames$name),]  #  "Beerschot VA"
 engsoccerdata::teamnames[grepl("ilr", engsoccerdata::teamnames$name),]  #
+
+
+
+# bind
+
+ex<-
+  rbind(
+    belgium_current(Season=2017),
+    belgium_current(Season=2018),
+    belgium_current(Season=2019)
+  )
+
+belgium <- rbind(belgium,ex)
+
+
+belgium %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+tail(belgium)
+
+## update steps
+usethis::use_data(belgium, overwrite = T)
+write.csv(germany,'data-raw/belgium.csv',row.names=F)
+devtools::load_all()
+
+dim(belgium)
+
+#update current
+
+# redo documentation   devtools::document()
+devtools::load_all()
+
+devtools::document()
+
+#rebuild
+#redo checks

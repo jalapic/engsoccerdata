@@ -3,9 +3,9 @@
 \docType{data}
 \name{belgium}
 \alias{belgium}
-\title{Belgian league results 1995-2016}
+\title{Belgian league results 1995-2020}
 \format{
-A data frame with 6140 rows and 12 variables:
+A data frame with 6852 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -26,7 +26,7 @@ belgium
 }
 \description{
 All results for Scottish soccer games in the top tier
-from 1995/96 season to 2015/16 season.  Doesn't include
+from 1995/96 season to 2019/20 season.  Doesn't include
 playoff games.
 }
 \keyword{datasets}
