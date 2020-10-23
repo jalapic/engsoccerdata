@@ -382,11 +382,6 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 
 ### Acknowledgements
 
-Hakon Malmedal
-Joe Gallagher
-Ben Dilday
-Aaron Smith
-Michael Thompson
-Andrew Clark
-S'busiso Mkhondwane
-Robert Hickman
+Many thanks to the following for their assistance - apologies to anyone I have omitted (please let me know!):
+
+Hakon Malmedal, Joe Gallagher, Ben Dilday, Aaron Smith, Michael Thompson, Andrew Clark, S'busiso Mkhondwane, Robert Hickman
