@@ -88,7 +88,7 @@ Last update: 1 Oct 2017,  v0.1.6
 -  france               - French Ligue 1 results 1933-2020
 -  scotland             - Scotland top 4 tiers 1994-2017
 -  portugal             - Portugal top tier 1994-2017
--  belgium              - Belgium top tier 1994-2017
+-  belgium              - Belgium top tier 1994-2020
 -  turkey               - Turkey top tier 1994-2017
 -  greece               - Greece top tier 1994-2017
 -  mls                  - MLS regular and postseason 1996-2016
