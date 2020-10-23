@@ -139,3 +139,26 @@ devtools::document()
 
 #rebuild
 #redo checks
+
+
+
+####----------------------------------------------------#####
+head(belgium)
+tail(belgium)
+
+library(tidyverse)
+belgium %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+belgium_current(Season=2017)
+belgium_current(Season=2018)
+belgium_current(Season=2019)
+
+belgium_current(Season=2020)  #one NA  Beerschot   aka  K Beerschot VA
+
+#use check current teamnames
+
+engsoccerdata::teamnames[grepl("eer", engsoccerdata::teamnames$name),]  #  "Beerschot VA"
+engsoccerdata::teamnames[grepl("ilr", engsoccerdata::teamnames$name),]  #
