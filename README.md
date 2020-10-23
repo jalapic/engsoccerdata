@@ -161,7 +161,7 @@ Some built-in functions:
 
 ## What does england.csv contain?
 
-all top 4 tier games ever played 1888-2016
+all top 4 tier games ever played 1888-2020
 
 - FL = Football League
 - PL = Premier League
@@ -270,7 +270,6 @@ These dataframes contain all league results played in regular season.  They don'
 Any help in improving the quality of these datasets is appreciated.
 
 
-
 ## List of Sources
 
 - https://github.com/footballcsv/en-england  
@@ -341,6 +340,7 @@ http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-im
 
 
 
+If you use these data --- please cite and let me know. I'll add a link to the links at the bottom.
 
 
 
@@ -373,6 +373,8 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 
 -  Austin Wehrwein's modeling of soccer results - http://austinwehrwein.com/soccer/
 
+-  Robert Hickman has several nice posts looking at football trivia using the data in this package - https://www.robert-hickman.eu/post/five_min_trivia_invincibles/
+
 
 
 ### Acknowledgements
@@ -384,3 +386,4 @@ Aaron Smith
 Michael Thompson
 Andrew Clark
 S'busiso Mkhondwane
+Robert Hickman
