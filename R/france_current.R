@@ -11,7 +11,7 @@
 
 
 
-france_current <- function(Season=2017){
+france_current <- function(Season=2020){
 
   s1<-s2<-myseason<-f1<-f2<-df1<-NULL
   myseason<-Season
