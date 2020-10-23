@@ -1,5 +1,5 @@
 
-Season=2017
+Season=2020
 myseason<-Season
 division<-1
 tier<-1
@@ -9,9 +9,10 @@ s2<-as.numeric(substr(myseason,3,4))
 
   #b1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/D1.csv"))
   #b2=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/D2.csv"))
-  f1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/F1.csv"))
+ # f1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/F1.csv"))
+  b1<- read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/B1.csv"))
 
-  df<-f1
+  df<-b1
 
   head(df)
 

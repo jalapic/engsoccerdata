@@ -152,6 +152,20 @@ teamnames<-
 tail(teamnames)
 ## update steps
 
+
+teamnames<-
+  rbind(xx,
+        data.frame(
+          country = c(rep("Belgium",1)),
+          name = c("Beerschot VA"),
+          name_other = c("Beerschot"),
+          most_recent = c(NA)
+        )
+  )
+tail(teamnames)
+## update steps
+
+
 usethis::use_data(teamnames, overwrite = T)
 write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
 nrow(teamnames)
