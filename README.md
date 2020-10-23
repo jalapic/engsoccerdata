@@ -375,6 +375,9 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 
 -  Robert Hickman has several nice posts looking at football trivia using the data in this package - https://www.robert-hickman.eu/post/five_min_trivia_invincibles/
 
+- Stefan Gouyet looked at one-sided matches in the EPL - https://worldsocceranalytics.com/2018/10/10/one-sided-matches-in-the-english-premier-league/
+
+
 
 
 ### Acknowledgements
