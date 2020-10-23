@@ -1,5 +1,14 @@
 Latest GitHub version: 10/17/2020,  v0.1.7
 
+Oct/Nov 2020 update:   I am slowly but surely updating all the datasets to include the last couple of years that I missed.  Those that are currently completely up to date:
+england, england_current(), germany, germany_current().
+
+Others will be updated shortly - they still have data up to 2017/2018.
+
+Any help appreciated - please get in touch.
+
+
+
 #### engsoccerdata
 
 This R package is mainly a repository for complete soccer datasets, along with some built-in functions for analyzing parts of the data. Currently I include three English ones (League data, FA Cup data, Playoff data - described below), several European leagues (Spain, Germany, Italy, Holland, France, Belgium, Portugal, Turkey, Scotland, Greece) as well as South Africa and MLS. 
