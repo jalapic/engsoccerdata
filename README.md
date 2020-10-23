@@ -1,7 +1,7 @@
 Latest GitHub version: 10/17/2020,  v0.1.7
 
 Oct/Nov 2020 update:   I am slowly but surely updating all the datasets to include the last couple of years that I missed.  Those that are currently completely up to date:
-england, england_current(), germany, germany_current().
+england, england_current(), germany, germany_current(), france, france_current().
 
 Others will be updated shortly - they still have data up to 2017/2018.
 
