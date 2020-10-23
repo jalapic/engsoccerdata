@@ -158,7 +158,7 @@ teamnames<-
         data.frame(
           country = c(rep("Belgium",1)),
           name = c("Beerschot VA"),
-          name_other = c("Beerschot"),
+          name_other = c("Beerschot VA"),
           most_recent = c(NA)
         )
   )
