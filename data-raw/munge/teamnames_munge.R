@@ -132,25 +132,33 @@ tail(teamnames)
 
 
 library(tidyverse)
-xx<-read_csv("https://raw.githubusercontent.com/jalapic/engsoccerdata/master/data-raw/teamnames.csv")
+#nrow(teamnames)
+xx<-read.csv("https://raw.githubusercontent.com/jalapic/engsoccerdata/master/data-raw/teamnames.csv")
+head(xx)
+str(xx)
+#xx <- engsoccerdata::teamnames
 nrow(xx)
 tail(xx)
 
 teamnames<-
   rbind(xx,
         data.frame(
-          country = c(rep("Germany",4)),
-          name = c("1. FC Magdeburg", "SC Paderborn 07", "SV Wehen Wiesbaden", "VfL Osnabruck"),
-          name_other = c("Magdeburg", "Paderborn", "Wehen","Osnabruck"),
-          most_recent = c(NA,NA,NA,NA)
+          country = c(rep("France",3)),
+          name = c("Stade Brest", "Nimes Olympique", "RC Lens"),
+          name_other = c("Brest", "Nimes", "Lens"),
+          most_recent = c(NA,NA,NA)
         )
   )
 tail(teamnames)
 ## update steps
+
 usethis::use_data(teamnames, overwrite = T)
 write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
 nrow(teamnames)
+
+#have to save data, then close R, then Install/Restart, then do this:
 devtools::load_all()
+devtools::document()
 
 # redo documentation   devtools::document()
 # rebuild
