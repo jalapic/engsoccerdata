@@ -77,7 +77,7 @@ Last update:24 Oct 2020, v 0.1.7
 -  playoffs             - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards) for top 4 tiers in England
 -  spain                - Top flight Spanish League match results 1929-2020
 -  italy                - Top flight Italian Serie A League match results 1934-2020
--  germany              - Top flight German Bundesliga 1 League match results 1963-2020 & Bundelsiga 2 league match results 1974-2017
+-  germany              - Top flight German Bundesliga 1 League match results 1963-2020 & Bundelsiga 2 league match results 1974-2020
 -  holland              - Dutch Eredivisie league match results 1956-2020
 -  champs               - European Cup and Champions League results 1955-2017 includes qualifiers and playoffs
 -  france               - French Ligue 1 results 1933-2020
