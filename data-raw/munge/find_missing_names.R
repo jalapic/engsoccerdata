@@ -13,9 +13,10 @@ s2<-as.numeric(substr(myseason,3,4))
   #b1<- read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/B1.csv"))
   #g1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/G1.csv"))
   #n1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/N1.csv"))
-  i1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/I1.csv"))
+ # i1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/I1.csv"))
+  p1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/P1.csv"))
 
-  df<-i1
+  df<-p1
 
   head(df)
 
