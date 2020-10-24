@@ -1,7 +1,7 @@
 Latest GitHub version: 10/17/2020,  v0.1.7
 
 Oct/Nov 2020 update:   I am slowly but surely updating all the datasets to include the last couple of years that I missed.  Those that are currently completely up to date:
-england, england_current(), germany, germany_current(), france, france_current(), belgium, belgium_current().
+england, england_current(), germany, germany_current(), france, france_current(), belgium, belgium_current(), greece, greece_current(), italy, italy_current()
 
 Others will be updated shortly - they still have data up to 2017/2018.
 
@@ -81,7 +81,7 @@ Last update: 1 Oct 2017,  v0.1.6
 -  facup                - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2016
 -  playoffs             - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
 -  spain                - Top flight Spanish League match results 1929-2017
--  italy                - Top flight Italian Serie A League match results 1934-2017
+-  italy                - Top flight Italian Serie A League match results 1934-2020
 -  germany              - Top flight German Bundesliga 1 League match results 1963-2020 & Bundelsiga 2 league match results 1974-2017
 -  holland              - Dutch Eredivisie league match results 1956-2017
 -  champs               - European Cup and Champions League results 1955-2017 includes qualifiers and playoffs
@@ -90,7 +90,7 @@ Last update: 1 Oct 2017,  v0.1.6
 -  portugal             - Portugal top tier 1994-2017
 -  belgium              - Belgium top tier 1994-2020
 -  turkey               - Turkey top tier 1994-2017
--  greece               - Greece top tier 1994-2017
+-  greece               - Greece top tier 1994-2020
 -  mls                  - MLS regular and postseason 1996-2016
 -  safrica              - South African  top tier - 2004-2017
 -  teamnames            - dataframe of alternative names and abbreviations for each team in all league data
