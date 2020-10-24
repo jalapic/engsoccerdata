@@ -3,9 +3,9 @@
 \docType{data}
 \name{italy}
 \alias{italy}
-\title{Italy league results 1934-2017}
+\title{Italy league results 1934-2020}
 \format{
-A data frame with 25784 rows and 8 variables:
+A data frame with 26924 rows and 8 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -22,6 +22,6 @@ italy
 }
 \description{
 All results for Italian soccer games in the top tier
-from 1934/35 season to 2016/17 season.
+from 1934/35 season to 2019/20 season.
 }
 \keyword{datasets}

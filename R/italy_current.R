@@ -8,7 +8,7 @@
 #' italy_current()
 #' @export
 
-italy_current <- function(Season=2017){
+italy_current <- function(Season=2020){
 
 
    s1<-s2<-myseason<-i1<-i2<-df1<-NULL
