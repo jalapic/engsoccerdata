@@ -186,8 +186,16 @@ tail(belgium)
 
 ## update steps
 usethis::use_data(belgium, overwrite = T)
-write.csv(germany,'data-raw/belgium.csv',row.names=F)
+write.csv(belgium,'data-raw/belgium.csv',row.names=F)
 devtools::load_all()
+
+#redoing screwup
+df <- read.csv("data-raw/belgium.csv")
+tail(df)
+
+
+load("data/belgium.rda")
+tail(belgium)
 
 dim(belgium)
 
@@ -251,6 +259,67 @@ write.csv(greece,'data-raw/greece.csv',row.names=F)
 devtools::load_all()
 
 dim(greece)
+
+#update current
+
+# redo documentation   devtools::document()
+devtools::load_all()
+
+devtools::document()
+
+#rebuild
+#redo checks
+
+
+####---------------------------------------------------------------------------####
+
+
+head(holland)
+tail(holland)
+
+library(tidyverse)
+holland %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+holland_current(Season=2017)  # 2017... date needs fixing.
+holland_current(Season=2018)  #"Graafschap"  "For Sittard" "FC Emmen"
+holland_current(Season=2019)  # "FC Emmen"    "For Sittard" "Waalwijk"
+
+holland_current(Season=2020)  # "FC Emmen"    "Waalwijk"    "For Sittard"
+
+#use check current teamnames
+
+engsoccerdata::teamnames[grepl("itt", engsoccerdata::teamnames$name),]  #
+engsoccerdata::teamnames[grepl("aaf", engsoccerdata::teamnames$name),]  #
+
+
+# bind
+
+ex<-
+  rbind(
+    holland_current(Season=2017),
+    holland_current(Season=2018),
+    holland_current(Season=2019)
+  )
+
+holland <- rbind(holland,ex)
+
+library(tidyverse)
+holland %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+tail(holland)
+
+## update steps
+usethis::use_data(holland, overwrite = T)
+write.csv(holland,'data-raw/holland.csv',row.names=F)
+devtools::load_all()
+
+dim(holland)
 
 #update current
 
