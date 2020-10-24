@@ -170,7 +170,7 @@ all top 4 tier games ever played 1888-2020
 - 1946/7-1957/8   FL Divisions 1, 2, 3a North & 3b South
 - 1958/9-1991/2   FL Divisions 1, 2, 3 & 4
 - 1992/3-2004/5   PL, FL Divisions 1, 2 & 3
-- 2004/5-2015/6   PL, FL Championship, FL Divisions 1 & 2
+- 2004/5-present   PL, FL Championship, FL Divisions 1 & 2
  
  In the csv file, I've used divisions 1,2,3,3a,3b, 4 as the notation
  I've also used tier 1,2,3,4  - to refer to 3,3a & 3b all belonging to tier 3
@@ -239,7 +239,7 @@ Finally, team names.  There are great disputes about which teams branch off from
 
 ## What does spain.csv contain?
 
-* top flight matches 1929 - 2015/16 season
+* top flight matches 1929 - present
 * The 1929 season only took place in 1929 but is denoted as 1928 Season in keeping with the package's style format.  The 1929/30 season is noted as 1929
 * Promotion/relegation matches are not included - will be in a separate csv soon
 * 1979/80 season does not include "CD Málaga 0-3 UD Salamanca" match that was annulled because of match fixing
@@ -253,7 +253,7 @@ Please refer to the spainliga rpubs below for further information.
 
 ## Other Leagues:
 
-I've added complete all top tier results for Holland (1956-2017), Germany (1963-2017), Italy (1934-2017), France (1933-2017). Additionally all tier 2 results for Germany. Finally, we have results from the all tiers of Scotland, and top tier of  Belgium, Turkey, Greece, Portugal since 1994/1995.
+I've added complete all top tier results for Holland (1956-present), Germany (1963-present), Italy (1934-present), France (1933-present). Additionally all tier 2 results for Germany. Finally, we have results from the all tiers of Scotland, and top tier of  Belgium, Turkey, Greece, Portugal since 1994/1995.
 
 These dataframes contain all league results played in regular season.  They don't yet include relegation/promotion playoff fixtures.  Further, I have not yet completed all final checks of the data. I believe they are error free - but if others want to test and check, I'd welcome this.
 
