@@ -14,7 +14,7 @@ A data frame with 200628 rows and 12 variables:
   \item{FT}{Full-time result}
   \item{hgoal}{Goals scored by home team}
   \item{vgoal}{Goals scored by visiting team}
-  \item{division}{Division: 1,2,3,4 or 3a (Old 3-North) or 3b (Old 3-South)}
+  \item{division}{Division: 1,2,3,4 or 3N (Old 3-North) or 3S (Old 3-South)}
   \item{tier}{Tier of football pyramid: 1,2,3,4}
   \item{totgoal}{Total goals in game}
   \item{goaldif}{Goal difference in game home goals - visitor goals}
