@@ -331,3 +331,69 @@ devtools::document()
 
 #rebuild
 #redo checks
+
+
+
+####---------------------------------------------------------------------------####
+
+
+head(italy)
+tail(italy)
+
+library(tidyverse)
+italy %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+italy_current(Season=2017)  #
+italy_current(Season=2018)  # "Parma"     "Frosinone"
+italy_current(Season=2019)  # "Parma"   "Lecce"   "Brescia"
+
+italy_current(Season=2020)  # "Parma"  "Spezia"
+
+#use check current teamnames
+
+engsoccerdata::teamnames[grepl("arm", engsoccerdata::teamnames$name),]  #
+engsoccerdata::teamnames[grepl("ecc", engsoccerdata::teamnames$name),]  #
+engsoccerdata::teamnames[grepl("esci", engsoccerdata::teamnames$name),]  #
+engsoccerdata::teamnames[grepl("pez", engsoccerdata::teamnames$name),]  #
+engsoccerdata::teamnames[grepl("rosi", engsoccerdata::teamnames$name),]  #
+
+
+# bind
+
+ex<-
+  rbind(
+    italy_current(Season=2017),
+    italy_current(Season=2018),
+    italy_current(Season=2019)
+  )
+
+italy <- rbind(italy,ex)
+
+library(tidyverse)
+italy %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+tail(italy)
+
+
+## update steps
+usethis::use_data(italy, overwrite = T)
+write.csv(italy,'data-raw/italy.csv',row.names=F)
+devtools::load_all()
+
+dim(italy)
+
+#update current
+
+# redo documentation   devtools::document()
+devtools::load_all()
+
+devtools::document()
+
+#rebuild
+#redo checks
