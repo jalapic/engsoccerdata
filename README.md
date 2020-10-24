@@ -1,11 +1,6 @@
 Latest GitHub version: 10/17/2020,  v0.1.7
 
-Oct/Nov 2020 update:   I am slowly but surely updating all the datasets to include the last couple of years that I missed.  Those that are currently completely up to date:
-england, england_current(), germany, germany_current(), france, france_current(), belgium, belgium_current(), greece, greece_current(), italy, italy_current(), portugal, portugal_current(), scotland, scotland_current(), spain, spain_current()
-
-Others will be updated shortly - they still have data up to 2017/2018.
-
-Any help appreciated - please get in touch.
+Oct/Nov 2020 update:   All European league datasets (and their _current()_ functions) are up to date for the 20/21 season.  MLS and South Africa data are still only up to 2017. Cup data is also only available up to 2017.  These will be updated shortly. Any help appreciated - please get in touch.
 
 
 
