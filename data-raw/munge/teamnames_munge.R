@@ -140,28 +140,31 @@ str(xx)
 nrow(xx)
 tail(xx)
 
-# teamnames<-
-#   rbind(xx,
-#         data.frame(
-#           country = c(rep("Italy",5)),
-#           name = c( "Parma FC" ,    "US Lecce", "Brescia Calcio", "Spezia Calcio", "Frosinone Calcio"),
-#           name_other = c( "Parma"  ,  "Lecce"  ,  "Brescia","Spezia", "Frosinone" ),
-#           most_recent = c(NA,NA,NA,NA,NA)
-#         )
-#   )
-
 teamnames<-
   rbind(xx,
         data.frame(
-          country = c(rep("Scotland",1)),
-          name = c( "Cove Rangers"),
-          name_other = c( "Cove Rangers"),
-          most_recent = c(NA)
+          country = c(rep("Spain",6)),
+          name = c( "Cadiz CF" ,    "Real Valladolid", "SD Huesca", "Elche CF", "RCD Mallorca",
+                    "Rayo Vallecano"),
+          name_other = c( "Cadiz"  ,  "Valladolid"  ,  "Huesca","Elche", "Mallorca",
+                          "Vallecano"),
+          most_recent = c(NA,NA,NA,NA,NA,NA)
         )
   )
 
+# teamnames<-
+#   rbind(xx,
+#         data.frame(
+#           country = c(rep("Scotland",1)),
+#           name = c( "Cove Rangers"),
+#           name_other = c( "Cove Rangers"),
+#           most_recent = c(NA)
+#         )
+#   )
+
 
 tail(teamnames)
+dim(teamnames)
 ## update steps
 
 

@@ -8,7 +8,7 @@
 #' spain_current()
 #' @export
 
-spain_current <- function(Season=2017){
+spain_current <- function(Season=2020){
 
     s1<-s2<-myseason<-sp1<-df1<-NULL
     myseason<-Season
