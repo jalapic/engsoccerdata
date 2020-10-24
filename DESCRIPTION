@@ -1,11 +1,11 @@
-Title: English and European Soccer Results 1871-2016
+Title: English and European Soccer Results 1871-2020
 Type: Package
 Package: engsoccerdata
-Version: 0.1.6
-Date: 2017-01-22
+Version: 0.1.7
+Date: 2020-10-24
 Author: James Curley
-Maintainer: James Curley <jc3181@columbia.edu>
-Description: Analyzing English & European soccer results data from 1871-2016.
+Maintainer: James Curley <curley@utexas.edu>
+Description: Soccer club results data from 1871-2020.
 Depends: R (>= 3.50)
 License: GPL (>= 2)
 Encoding: UTF-8
