@@ -71,7 +71,7 @@ library(engsoccerdata)
 engsoccerdata
 =============
 
-Last update: 1 Oct 2017,  v0.1.6
+Last update:24 Oct 2020, v 0.1.7
 
 
 ## Datasets
