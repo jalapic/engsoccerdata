@@ -8,7 +8,7 @@
 #' scotland_current()
 #' @export
 
-scotland_current <- function(Season=2017){
+scotland_current <- function(Season=2020){
 
    ss1<-ss2<-myseason<-s1<-s2<-s3<-s4<-df1<-NULL
    myseason<-Season

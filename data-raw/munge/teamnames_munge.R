@@ -153,9 +153,9 @@ tail(xx)
 teamnames<-
   rbind(xx,
         data.frame(
-          country = c(rep("Portugal",1)),
-          name = c( "Famalicao"),
-          name_other = c( "Famalicao"),
+          country = c(rep("Scotland",1)),
+          name = c( "Cove Rangers"),
+          name_other = c( "Cove Rangers"),
           most_recent = c(NA)
         )
   )
