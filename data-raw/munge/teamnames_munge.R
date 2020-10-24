@@ -143,9 +143,9 @@ tail(xx)
 teamnames<-
   rbind(xx,
         data.frame(
-          country = c(rep("France",3)),
-          name = c("Stade Brest", "Nimes Olympique", "RC Lens"),
-          name_other = c("Brest", "Nimes", "Lens"),
+          country = c(rep("Greece",3)),
+          name = c( "Lamia" ,    "Volos NFC", "OFI"),
+          name_other = c( "Lamia" ,    "Volos NFC", "OFI Crete"),
           most_recent = c(NA,NA,NA)
         )
   )
@@ -153,16 +153,7 @@ tail(teamnames)
 ## update steps
 
 
-teamnames<-
-  rbind(xx,
-        data.frame(
-          country = c(rep("Belgium",1)),
-          name = c("Beerschot VA"),
-          name_other = c("Beerschot VA"),
-          most_recent = c(NA)
-        )
-  )
-tail(teamnames)
+
 ## update steps
 
 
