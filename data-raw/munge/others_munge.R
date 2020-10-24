@@ -200,3 +200,28 @@ devtools::document()
 
 #rebuild
 #redo checks
+
+
+
+#####------------------------------------------------------------------------------------#####
+
+head(greece)
+tail(greece)
+
+library(tidyverse)
+greece %>%
+  filter(Season>2011) %>%
+  group_by(tier,Season) %>%
+  count()
+
+greece_current(Season=2017)  #"Lamia"
+greece_current(Season=2018)  # "Lamia"     "OFI Crete" (should be OFI)
+greece_current(Season=2019)  # "Lamia"     "Volos NFC" "OFI Crete"  (Volos NFC are a new team, not old Volos)
+
+greece_current(Season=2020)  # "OFI Crete" "Lamia"     "Volos NFC"
+
+#use check current teamnames
+
+engsoccerdata::teamnames[grepl("eer", engsoccerdata::teamnames$name),]  #  "Beerschot VA"
+engsoccerdata::teamnames[grepl("ilr", engsoccerdata::teamnames$name),]  #
+
