@@ -157,8 +157,8 @@ tail(teamnames)
 ## update steps
 
 
-usethis::use_data(teamnames, overwrite = T)
 write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
+usethis::use_data(teamnames, overwrite = T)
 nrow(teamnames)
 
 #have to save data, then close R, then Install/Restart, then do this:
