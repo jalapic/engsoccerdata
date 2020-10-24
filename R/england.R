@@ -4,7 +4,7 @@
 #' from 1888/89 season to 2019/20 season.  For playoff games
 #' see separate dataset `englandplayoffs`
 #'
-#' @format A data frame with 200628 rows and 12 variables:
+#' @format A data frame with 199884 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}

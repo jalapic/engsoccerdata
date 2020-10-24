@@ -5,7 +5,7 @@
 \alias{england}
 \title{English league results 1888-2020}
 \format{
-A data frame with 200628 rows and 12 variables:
+A data frame with 199884 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
