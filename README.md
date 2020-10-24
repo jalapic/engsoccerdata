@@ -1,7 +1,7 @@
 Latest GitHub version: 10/17/2020,  v0.1.7
 
 Oct/Nov 2020 update:   I am slowly but surely updating all the datasets to include the last couple of years that I missed.  Those that are currently completely up to date:
-england, england_current(), germany, germany_current(), france, france_current(), belgium, belgium_current(), greece, greece_current(), italy, italy_current(), portugal, portugal_current(), scotland, scotland_current()
+england, england_current(), germany, germany_current(), france, france_current(), belgium, belgium_current(), greece, greece_current(), italy, italy_current(), portugal, portugal_current(), scotland, scotland_current(), spain, spain_current()
 
 Others will be updated shortly - they still have data up to 2017/2018.
 
@@ -79,8 +79,8 @@ Last update: 1 Oct 2017,  v0.1.6
 -  england1939          - Contains results of abandoned 1939/40 season.
 -  england_5_nonleague  - Results of 5th tier (conference) from 1999/2000 - 2016/17
 -  facup                - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2016
--  playoffs             - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards)
--  spain                - Top flight Spanish League match results 1929-2017
+-  playoffs             - Incldues 'test-matches' 1892-1897 and modern playoffs (1986/87 onwards) for top 4 tiers in England
+-  spain                - Top flight Spanish League match results 1929-2020
 -  italy                - Top flight Italian Serie A League match results 1934-2020
 -  germany              - Top flight German Bundesliga 1 League match results 1963-2020 & Bundelsiga 2 league match results 1974-2017
 -  holland              - Dutch Eredivisie league match results 1956-2017
