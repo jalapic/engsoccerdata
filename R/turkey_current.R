@@ -8,7 +8,7 @@
 #' turkey_current()
 #' @export
 
-turkey_current <- function(Season=2017){
+turkey_current <- function(Season=2020){
 
   s1<-s2<-myseason<-t1<-df1<-NULL
   myseason<-Season

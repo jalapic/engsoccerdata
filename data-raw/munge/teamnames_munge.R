@@ -143,12 +143,10 @@ tail(xx)
 teamnames<-
   rbind(xx,
         data.frame(
-          country = c(rep("Spain",6)),
-          name = c( "Cadiz CF" ,    "Real Valladolid", "SD Huesca", "Elche CF", "RCD Mallorca",
-                    "Rayo Vallecano"),
-          name_other = c( "Cadiz"  ,  "Valladolid"  ,  "Huesca","Elche", "Mallorca",
-                          "Vallecano"),
-          most_recent = c(NA,NA,NA,NA,NA,NA)
+          country = c(rep("Turkey",4)),
+          name = c( "Gaziantep FK" ,    "Erzurum", "Hatayspor", "Karagumruk SK"),
+          name_other = c( "Gaziantep"  ,  "Erzurum BB"  ,  "Hatayspor","Karagumruk"),
+          most_recent = c(NA,NA,NA,NA)
         )
   )
 
