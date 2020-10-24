@@ -11,7 +11,7 @@
 
 
 
-holland_current <- function(Season=2017){
+holland_current <- function(Season=2020){
 
      s1<-s2<-myseason<-n1<-df1<-NULL
      myseason<-Season
