@@ -39,11 +39,11 @@ maketable_all <- function(df=NULL, Season=NULL, tier=NULL, pts=3, begin=NULL, en
 
     #dates
     if(!is.null(begin) & is.null(end)) {
-      dfx <- dfx[(dfx$Date >= begin & dfx$Date <= end), ]
+      dfx <- dfx[(dfx$Date >= begin), ]
     } else if(is.null(begin) & !is.null(end)) {
       dfx <- dfx[(dfx$Date <= end), ]
     } else if(!is.null(begin) & !is.null(end)) {
-      dfx <- dfx[(dfx$Date >= begin), ]
+      dfx <- dfx[(dfx$Date >= begin & dfx$Date <= end), ]
     }
 
 
