@@ -6,7 +6,7 @@ Date: 2020-10-24
 Author: James Curley
 Maintainer: James Curley <curley@utexas.edu>
 Description: Soccer club results data from 1871-2020.
-Depends: R (>= 3.50)
+Depends: R (>= 3.5.0)
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
