@@ -16,10 +16,10 @@ england_current <- function(){
 
   home<-visitor<-hgoal<-vgoal<-goaldif<-FT<-Season<-division<-result<-NULL
 
-  url1 <- "https://www.11v11.com/competitions/premier-league/2021/matches/"
-  url2 <- "https://www.11v11.com/competitions/league-championship/2021/matches/"
-  url3 <- "https://www.11v11.com/competitions/league-one/2021/matches/"
-  url4 <- "https://www.11v11.com/competitions/league-two/2021/matches/"
+  url1 <- "https://www.11v11.com/competitions/premier-league/2022/matches/"
+  url2 <- "https://www.11v11.com/competitions/league-championship/2022/matches/"
+  url3 <- "https://www.11v11.com/competitions/league-one/2022/matches/"
+  url4 <- "https://www.11v11.com/competitions/league-two/2022/matches/"
 
   x1 <- xml2::read_html(url1) %>% rvest::html_table(fill = TRUE)
   x2 <- xml2::read_html(url2) %>% rvest::html_table(fill = TRUE)
@@ -28,10 +28,11 @@ england_current <- function(){
 
   make_data <- function(x){
     x <- x[[1]][,1:4]
-    x <-x[grepl("([0-9]+).*$", x[,1]),]#get rid of months text
+#    x <-x[grepl("([0-9]+).*$", x[,1]),]#get rid of months text
+    x <-x[grepl("([0-9]+).*$", unlist(x[,3])),]#get rid of months text
     colnames(x)<-c("Date","home","FT","visitor")
     x$Date <- as.character(as.Date(x$Date, format="%d %b %Y"))
-    x$Season <- 2020
+    x$Season <- 2021
     x$FT <- gsub(":", "-", x$FT)
     x <- x[nchar(x$FT)>1,]
     hgvg <- matrix(unlist(strsplit(x$FT, "-")), ncol=2, byrow = T)
