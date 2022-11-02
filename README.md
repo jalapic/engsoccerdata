@@ -331,7 +331,7 @@ http://www.skysports.com/football/news/11661/9829828/home-advantage-is-not-as-im
 
 - March 10 2017 - Discussion of PSG-Barcelona 2017 Champions League tie in historical perspective (in Portuguese) - https://www.nexojornal.com.br/grafico/2017/03/10/O-que-as-bolsas-de-apostas-diziam-sobre-Barcelona-e-PSG
  
-
+- 2022 - Deutsche Welle piece on most common scorelines in soccer: https://www.youtube.com/watch?v=UyaFCkgZYCI&ab_channel=DWKickoff%21
 
 
 
@@ -366,11 +366,13 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 - Ryan Estrellado's analysis of Liverpool FC Managers - https://restrellado.github.io/liverpoolfc/lfc_managers.html
 & https://ryanestrellado.netlify.com/post/lfc-home-and-away-odds/
 
--  Austin Wehrwein's modeling of soccer results - http://austinwehrwein.com/soccer/
+-  Austin Wehrwein's modeling of soccer results - http://austinwehrwein.com/soccer/  and here https://austinwehrwein.com/tutorials/xgforeveryone/
 
 -  Robert Hickman has several nice posts looking at football trivia using the data in this package - https://www.robert-hickman.eu/post/five_min_trivia_invincibles/
 
 - Stefan Gouyet looked at one-sided matches in the EPL - https://worldsocceranalytics.com/2018/10/10/one-sided-matches-in-the-english-premier-league/
+
+- Xiang Ao's analysis of head to head matches between title contenders: https://xiangao.netlify.app/2019/01/17/soccer-epl/
 
 
 
