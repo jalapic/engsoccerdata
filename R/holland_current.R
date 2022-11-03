@@ -11,14 +11,14 @@
 
 
 
-holland_current <- function(Season=2020){
+holland_current <- function(Season=2022){
 
      s1<-s2<-myseason<-n1<-df1<-NULL
      myseason<-Season
      s2<-as.numeric(substr(myseason,3,4))
      s1 <- s2+1
 
-     n1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/N1.csv"))
+     n1=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",s2,s1,"/N1.csv"))
     df1 <- rbind(engsoccerdata::getCurrentData(n1,'N1',1,Season=myseason))
   df1$Date <- as.Date(df1$Date, format="%Y-%m-%d")
   holl <- engsoccerdata::holland

@@ -19245,3 +19245,615 @@
 2020-03-08,2019,"Feyenoord","Willem II","2-0",2,0,1
 2020-03-08,2019,"Heracles","RKC Waalwijk","4-2",4,2,1
 2020-03-08,2019,"FC Groningen","PSV Eindhoven","0-1",0,1,1
+2020-09-12,2020,"sc Heerenveen","Willem II","2-0",2,0,1
+2020-09-12,2020,"PEC Zwolle","Feyenoord","0-2",0,2,1
+2020-09-12,2020,"FC Twente","Fortuna Sittard","2-0",2,0,1
+2020-09-13,2020,"FC Emmen","VVV-Venlo","3-5",3,5,1
+2020-09-13,2020,"Heracles","ADO Den Haag","2-0",2,0,1
+2020-09-13,2020,"Sparta Rotterdam","AFC Ajax","0-1",0,1,1
+2020-09-13,2020,"FC Groningen","PSV Eindhoven","1-3",1,3,1
+2020-09-13,2020,"RKC Waalwijk","Vitesse","0-1",0,1,1
+2020-09-18,2020,"VVV-Venlo","FC Utrecht","1-1",1,1,1
+2020-09-19,2020,"AZ Alkmaar","PEC Zwolle","1-1",1,1,1
+2020-09-19,2020,"Vitesse","Sparta Rotterdam","2-0",2,0,1
+2020-09-19,2020,"PSV Eindhoven","FC Emmen","2-1",2,1,1
+2020-09-19,2020,"Fortuna Sittard","sc Heerenveen","1-3",1,3,1
+2020-09-20,2020,"ADO Den Haag","FC Groningen","0-1",0,1,1
+2020-09-20,2020,"Feyenoord","FC Twente","1-1",1,1,1
+2020-09-20,2020,"Willem II","Heracles","4-0",4,0,1
+2020-09-20,2020,"AFC Ajax","RKC Waalwijk","3-0",3,0,1
+2020-09-25,2020,"FC Twente","FC Groningen","3-1",3,1,1
+2020-09-26,2020,"PEC Zwolle","Sparta Rotterdam","4-0",4,0,1
+2020-09-26,2020,"Fortuna Sittard","AZ Alkmaar","3-3",3,3,1
+2020-09-26,2020,"sc Heerenveen","VVV-Venlo","1-0",1,0,1
+2020-09-26,2020,"AFC Ajax","Vitesse","2-1",2,1,1
+2020-09-27,2020,"Feyenoord","ADO Den Haag","4-2",4,2,1
+2020-09-27,2020,"FC Utrecht","RKC Waalwijk","3-1",3,1,1
+2020-09-27,2020,"FC Emmen","Willem II","1-1",1,1,1
+2020-09-27,2020,"Heracles","PSV Eindhoven","1-1",1,1,1
+2020-10-02,2020,"FC Utrecht","sc Heerenveen","1-1",1,1,1
+2020-10-03,2020,"Vitesse","Heracles","3-0",3,0,1
+2020-10-03,2020,"VVV-Venlo","ADO Den Haag","1-2",1,2,1
+2020-10-03,2020,"FC Twente","FC Emmen","1-1",1,1,1
+2020-10-04,2020,"FC Groningen","AFC Ajax","1-0",1,0,1
+2020-10-04,2020,"Sparta Rotterdam","AZ Alkmaar","4-4",4,4,1
+2020-10-04,2020,"Willem II","Feyenoord","1-4",1,4,1
+2020-10-04,2020,"PSV Eindhoven","Fortuna Sittard","2-0",2,0,1
+2020-10-17,2020,"Heracles","RKC Waalwijk","0-1",0,1,1
+2020-10-17,2020,"AZ Alkmaar","VVV-Venlo","2-2",2,2,1
+2020-10-17,2020,"Willem II","FC Twente","0-3",0,3,1
+2020-10-18,2020,"Feyenoord","Sparta Rotterdam","1-1",1,1,1
+2020-10-18,2020,"AFC Ajax","sc Heerenveen","5-1",5,1,1
+2020-10-18,2020,"ADO Den Haag","Vitesse","0-2",0,2,1
+2020-10-18,2020,"FC Groningen","FC Utrecht","0-0",0,0,1
+2020-10-18,2020,"PEC Zwolle","PSV Eindhoven","0-3",0,3,1
+2020-10-18,2020,"FC Emmen","Fortuna Sittard","2-2",2,2,1
+2020-10-21,2020,"RKC Waalwijk","PEC Zwolle","1-1",1,1,1
+2020-10-24,2020,"VVV-Venlo","AFC Ajax","0-13",0,13,1
+2020-10-24,2020,"FC Utrecht","FC Twente","2-1",2,1,1
+2020-10-24,2020,"PEC Zwolle","Willem II","0-0",0,0,1
+2020-10-24,2020,"sc Heerenveen","FC Emmen","4-0",4,0,1
+2020-10-25,2020,"Fortuna Sittard","FC Groningen","1-3",1,3,1
+2020-10-25,2020,"Sparta Rotterdam","Heracles","1-1",1,1,1
+2020-10-25,2020,"Vitesse","PSV Eindhoven","2-1",2,1,1
+2020-10-25,2020,"RKC Waalwijk","Feyenoord","2-2",2,2,1
+2020-10-25,2020,"ADO Den Haag","AZ Alkmaar","2-2",2,2,1
+2020-10-31,2020,"FC Twente","PEC Zwolle","5-1",5,1,1
+2020-10-31,2020,"AFC Ajax","Fortuna Sittard","5-2",5,2,1
+2020-10-31,2020,"FC Groningen","VVV-Venlo","2-1",2,1,1
+2020-10-31,2020,"Willem II","Vitesse","1-3",1,3,1
+2020-11-01,2020,"Heracles","FC Utrecht","4-1",4,1,1
+2020-11-01,2020,"FC Emmen","Feyenoord","2-3",2,3,1
+2020-11-01,2020,"Sparta Rotterdam","sc Heerenveen","1-4",1,4,1
+2020-11-01,2020,"PSV Eindhoven","ADO Den Haag","4-0",4,0,1
+2020-11-01,2020,"AZ Alkmaar","RKC Waalwijk","3-0",3,0,1
+2020-11-06,2020,"Fortuna Sittard","PEC Zwolle","2-2",2,2,1
+2020-11-07,2020,"ADO Den Haag","FC Twente","2-4",2,4,1
+2020-11-07,2020,"VVV-Venlo","Heracles","3-2",3,2,1
+2020-11-07,2020,"RKC Waalwijk","Sparta Rotterdam","0-2",0,2,1
+2020-11-08,2020,"FC Utrecht","AFC Ajax","0-3",0,3,1
+2020-11-08,2020,"Feyenoord","FC Groningen","2-0",2,0,1
+2020-11-08,2020,"Vitesse","FC Emmen","3-1",3,1,1
+2020-11-08,2020,"sc Heerenveen","AZ Alkmaar","0-3",0,3,1
+2020-11-08,2020,"PSV Eindhoven","Willem II","3-0",3,0,1
+2020-11-21,2020,"Willem II","VVV-Venlo","2-1",2,1,1
+2020-11-21,2020,"FC Groningen","Vitesse","1-1",1,1,1
+2020-11-21,2020,"PEC Zwolle","FC Utrecht","1-1",1,1,1
+2020-11-22,2020,"AFC Ajax","Heracles","5-0",5,0,1
+2020-11-22,2020,"Fortuna Sittard","Feyenoord","1-3",1,3,1
+2020-11-22,2020,"Sparta Rotterdam","ADO Den Haag","6-0",6,0,1
+2020-11-22,2020,"FC Twente","PSV Eindhoven","1-1",1,1,1
+2020-11-22,2020,"RKC Waalwijk","sc Heerenveen","1-1",1,1,1
+2020-11-22,2020,"AZ Alkmaar","FC Emmen","1-0",1,0,1
+2020-11-27,2020,"FC Twente","RKC Waalwijk","0-2",0,2,1
+2020-11-28,2020,"FC Emmen","AFC Ajax","0-5",0,5,1
+2020-11-28,2020,"ADO Den Haag","sc Heerenveen","1-1",1,1,1
+2020-11-28,2020,"VVV-Venlo","PEC Zwolle","2-2",2,2,1
+2020-11-29,2020,"Vitesse","Fortuna Sittard","2-0",2,0,1
+2020-11-29,2020,"Feyenoord","FC Utrecht","1-1",1,1,1
+2020-11-29,2020,"FC Groningen","Willem II","1-0",1,0,1
+2020-11-29,2020,"Heracles","AZ Alkmaar","1-2",1,2,1
+2020-11-29,2020,"PSV Eindhoven","Sparta Rotterdam","1-0",1,0,1
+2020-12-04,2020,"Sparta Rotterdam","FC Emmen","2-1",2,1,1
+2020-12-05,2020,"RKC Waalwijk","VVV-Venlo","3-2",3,2,1
+2020-12-05,2020,"Fortuna Sittard","Willem II","3-2",3,2,1
+2020-12-05,2020,"AFC Ajax","FC Twente","1-2",1,2,1
+2020-12-05,2020,"PEC Zwolle","Vitesse","2-1",2,1,1
+2020-12-06,2020,"Feyenoord","Heracles","0-0",0,0,1
+2020-12-06,2020,"AZ Alkmaar","FC Groningen","1-2",1,2,1
+2020-12-06,2020,"FC Utrecht","ADO Den Haag","1-1",1,1,1
+2020-12-06,2020,"sc Heerenveen","PSV Eindhoven","2-2",2,2,1
+2020-12-11,2020,"Heracles","Fortuna Sittard","1-2",1,2,1
+2020-12-12,2020,"FC Groningen","RKC Waalwijk","2-0",2,0,1
+2020-12-12,2020,"FC Emmen","ADO Den Haag","1-1",1,1,1
+2020-12-12,2020,"AFC Ajax","PEC Zwolle","4-0",4,0,1
+2020-12-13,2020,"Vitesse","sc Heerenveen","1-1",1,1,1
+2020-12-13,2020,"VVV-Venlo","Feyenoord","0-3",0,3,1
+2020-12-13,2020,"Willem II","Sparta Rotterdam","1-3",1,3,1
+2020-12-13,2020,"PSV Eindhoven","FC Utrecht","2-1",2,1,1
+2020-12-13,2020,"FC Twente","AZ Alkmaar","1-3",1,3,1
+2020-12-18,2020,"PEC Zwolle","FC Emmen","0-0",0,0,1
+2020-12-19,2020,"Sparta Rotterdam","FC Groningen","2-3",2,3,1
+2020-12-19,2020,"VVV-Venlo","FC Twente","1-2",1,2,1
+2020-12-19,2020,"RKC Waalwijk","PSV Eindhoven","1-4",1,4,1
+2020-12-19,2020,"FC Utrecht","Fortuna Sittard","1-1",1,1,1
+2020-12-20,2020,"Vitesse","Feyenoord","1-0",1,0,1
+2020-12-20,2020,"ADO Den Haag","AFC Ajax","2-4",2,4,1
+2020-12-20,2020,"sc Heerenveen","Heracles","1-2",1,2,1
+2020-12-20,2020,"AZ Alkmaar","Willem II","5-3",5,3,1
+2020-12-22,2020,"Fortuna Sittard","RKC Waalwijk","2-1",2,1,1
+2020-12-22,2020,"FC Emmen","FC Utrecht","2-3",2,3,1
+2020-12-22,2020,"PSV Eindhoven","VVV-Venlo","4-1",4,1,1
+2020-12-22,2020,"FC Twente","Sparta Rotterdam","0-2",0,2,1
+2020-12-23,2020,"AZ Alkmaar","Vitesse","3-1",3,1,1
+2020-12-23,2020,"Willem II","AFC Ajax","1-1",1,1,1
+2020-12-23,2020,"ADO Den Haag","PEC Zwolle","0-2",0,2,1
+2020-12-23,2020,"FC Groningen","Heracles","0-1",0,1,1
+2020-12-23,2020,"Feyenoord","sc Heerenveen","3-0",3,0,1
+2020-12-27,2020,"FC Utrecht","AZ Alkmaar","2-2",2,2,1
+2021-01-09,2020,"RKC Waalwijk","ADO Den Haag","0-1",0,1,1
+2021-01-09,2020,"FC Emmen","FC Twente","1-4",1,4,1
+2021-01-09,2020,"Heracles","Vitesse","0-2",0,2,1
+2021-01-09,2020,"PEC Zwolle","AZ Alkmaar","1-1",1,1,1
+2021-01-09,2020,"FC Utrecht","FC Groningen","2-2",2,2,1
+2021-01-10,2020,"Sparta Rotterdam","Feyenoord","0-2",0,2,1
+2021-01-10,2020,"sc Heerenveen","Fortuna Sittard","1-3",1,3,1
+2021-01-10,2020,"VVV-Venlo","Willem II","2-1",2,1,1
+2021-01-10,2020,"AFC Ajax","PSV Eindhoven","2-2",2,2,1
+2021-01-12,2020,"Vitesse","FC Utrecht","1-0",1,0,1
+2021-01-12,2020,"Heracles","FC Emmen","4-0",4,0,1
+2021-01-13,2020,"PSV Eindhoven","AZ Alkmaar","1-3",1,3,1
+2021-01-13,2020,"ADO Den Haag","VVV-Venlo","1-4",1,4,1
+2021-01-13,2020,"Fortuna Sittard","Sparta Rotterdam","0-1",0,1,1
+2021-01-13,2020,"Feyenoord","PEC Zwolle","1-0",1,0,1
+2021-01-14,2020,"sc Heerenveen","RKC Waalwijk","1-1",1,1,1
+2021-01-14,2020,"FC Twente","AFC Ajax","1-3",1,3,1
+2021-01-14,2020,"Willem II","FC Groningen","2-3",2,3,1
+2021-01-16,2020,"FC Emmen","Vitesse","1-4",1,4,1
+2021-01-16,2020,"Sparta Rotterdam","PSV Eindhoven","3-5",3,5,1
+2021-01-16,2020,"FC Utrecht","Heracles","2-0",2,0,1
+2021-01-16,2020,"PEC Zwolle","Fortuna Sittard","0-2",0,2,1
+2021-01-16,2020,"AZ Alkmaar","ADO Den Haag","2-1",2,1,1
+2021-01-17,2020,"RKC Waalwijk","Willem II","1-1",1,1,1
+2021-01-17,2020,"FC Groningen","FC Twente","2-2",2,2,1
+2021-01-17,2020,"VVV-Venlo","sc Heerenveen","1-1",1,1,1
+2021-01-17,2020,"AFC Ajax","Feyenoord","1-0",1,0,1
+2021-01-22,2020,"Willem II","PEC Zwolle","1-3",1,3,1
+2021-01-23,2020,"ADO Den Haag","FC Emmen","0-0",0,0,1
+2021-01-23,2020,"Vitesse","FC Groningen","1-0",1,0,1
+2021-01-23,2020,"PSV Eindhoven","RKC Waalwijk","2-0",2,0,1
+2021-01-23,2020,"Heracles","sc Heerenveen","1-0",1,0,1
+2021-01-24,2020,"Fortuna Sittard","AFC Ajax","1-2",1,2,1
+2021-01-24,2020,"FC Twente","VVV-Venlo","0-1",0,1,1
+2021-01-24,2020,"FC Utrecht","Sparta Rotterdam","1-0",1,0,1
+2021-01-24,2020,"Feyenoord","AZ Alkmaar","2-3",2,3,1
+2021-01-26,2020,"PEC Zwolle","Heracles","2-2",2,2,1
+2021-01-26,2020,"FC Emmen","PSV Eindhoven","0-2",0,2,1
+2021-01-26,2020,"FC Groningen","ADO Den Haag","3-0",3,0,1
+2021-01-27,2020,"AZ Alkmaar","FC Utrecht","0-1",0,1,1
+2021-01-27,2020,"VVV-Venlo","Vitesse","4-1",4,1,1
+2021-01-27,2020,"RKC Waalwijk","Fortuna Sittard","1-2",1,2,1
+2021-01-27,2020,"sc Heerenveen","Feyenoord","3-0",3,0,1
+2021-01-28,2020,"AFC Ajax","Willem II","3-1",3,1,1
+2021-01-28,2020,"Sparta Rotterdam","FC Twente","0-0",0,0,1
+2021-01-30,2020,"Heracles","FC Groningen","1-0",1,0,1
+2021-01-30,2020,"FC Utrecht","PEC Zwolle","3-3",3,3,1
+2021-01-30,2020,"Fortuna Sittard","VVV-Venlo","3-2",3,2,1
+2021-01-30,2020,"Vitesse","RKC Waalwijk","1-1",1,1,1
+2021-01-31,2020,"FC Twente","sc Heerenveen","0-0",0,0,1
+2021-01-31,2020,"Feyenoord","PSV Eindhoven","3-1",3,1,1
+2021-01-31,2020,"Willem II","FC Emmen","2-0",2,0,1
+2021-01-31,2020,"AZ Alkmaar","AFC Ajax","0-3",0,3,1
+2021-01-31,2020,"ADO Den Haag","Sparta Rotterdam","1-1",1,1,1
+2021-02-05,2020,"Fortuna Sittard","Heracles","0-1",0,1,1
+2021-02-06,2020,"FC Emmen","AZ Alkmaar","0-1",0,1,1
+2021-02-06,2020,"PEC Zwolle","RKC Waalwijk","1-1",1,1,1
+2021-02-06,2020,"sc Heerenveen","Vitesse","1-0",1,0,1
+2021-02-06,2020,"PSV Eindhoven","FC Twente","3-0",3,0,1
+2021-02-12,2020,"RKC Waalwijk","FC Emmen","1-0",1,0,1
+2021-02-13,2020,"FC Groningen","PEC Zwolle","1-0",1,0,1
+2021-02-13,2020,"Sparta Rotterdam","Fortuna Sittard","1-2",1,2,1
+2021-02-13,2020,"ADO Den Haag","PSV Eindhoven","2-2",2,2,1
+2021-02-13,2020,"Heracles","AFC Ajax","0-2",0,2,1
+2021-02-14,2020,"AZ Alkmaar","sc Heerenveen","3-1",3,1,1
+2021-02-14,2020,"Feyenoord","Willem II","5-0",5,0,1
+2021-02-14,2020,"FC Utrecht","VVV-Venlo","3-1",3,1,1
+2021-02-14,2020,"Vitesse","FC Twente","0-2",0,2,1
+2021-02-19,2020,"Willem II","FC Utrecht","0-6",0,6,1
+2021-02-20,2020,"FC Emmen","PEC Zwolle","3-2",3,2,1
+2021-02-20,2020,"VVV-Venlo","AZ Alkmaar","1-4",1,4,1
+2021-02-20,2020,"Fortuna Sittard","ADO Den Haag","2-0",2,0,1
+2021-02-21,2020,"FC Twente","Feyenoord","2-2",2,2,1
+2021-02-21,2020,"sc Heerenveen","FC Groningen","1-1",1,1,1
+2021-02-21,2020,"RKC Waalwijk","Heracles","3-0",3,0,1
+2021-02-21,2020,"PSV Eindhoven","Vitesse","3-1",3,1,1
+2021-02-21,2020,"AFC Ajax","Sparta Rotterdam","4-2",4,2,1
+2021-02-24,2020,"Willem II","ADO Den Haag","1-1",1,1,1
+2021-02-24,2020,"FC Groningen","Feyenoord","0-0",0,0,1
+2021-02-26,2020,"PEC Zwolle","sc Heerenveen","4-1",4,1,1
+2021-02-27,2020,"FC Utrecht","FC Emmen","0-1",0,1,1
+2021-02-27,2020,"ADO Den Haag","RKC Waalwijk","0-0",0,0,1
+2021-02-27,2020,"Vitesse","VVV-Venlo","4-1",4,1,1
+2021-02-27,2020,"Heracles","FC Twente","2-2",2,2,1
+2021-02-28,2020,"Sparta Rotterdam","Willem II","0-2",0,2,1
+2021-02-28,2020,"FC Groningen","Fortuna Sittard","1-0",1,0,1
+2021-02-28,2020,"PSV Eindhoven","AFC Ajax","1-1",1,1,1
+2021-02-28,2020,"AZ Alkmaar","Feyenoord","4-2",4,2,1
+2021-03-05,2020,"FC Emmen","Sparta Rotterdam","1-1",1,1,1
+2021-03-06,2020,"Feyenoord","VVV-Venlo","6-0",6,0,1
+2021-03-06,2020,"FC Twente","Willem II","1-1",1,1,1
+2021-03-06,2020,"sc Heerenveen","ADO Den Haag","3-0",3,0,1
+2021-03-06,2020,"RKC Waalwijk","FC Utrecht","1-2",1,2,1
+2021-03-07,2020,"AFC Ajax","FC Groningen","3-1",3,1,1
+2021-03-07,2020,"Fortuna Sittard","PSV Eindhoven","1-3",1,3,1
+2021-03-07,2020,"Heracles","PEC Zwolle","2-1",2,1,1
+2021-03-07,2020,"Vitesse","AZ Alkmaar","2-1",2,1,1
+2021-03-09,2020,"VVV-Venlo","Sparta Rotterdam","0-1",0,1,1
+2021-03-13,2020,"Willem II","sc Heerenveen","3-1",3,1,1
+2021-03-13,2020,"ADO Den Haag","Heracles","1-2",1,2,1
+2021-03-13,2020,"AZ Alkmaar","FC Twente","4-1",4,1,1
+2021-03-13,2020,"FC Groningen","FC Emmen","1-1",1,1,1
+2021-03-13,2020,"Sparta Rotterdam","RKC Waalwijk","2-0",2,0,1
+2021-03-14,2020,"VVV-Venlo","Fortuna Sittard","1-3",1,3,1
+2021-03-14,2020,"PSV Eindhoven","Feyenoord","1-1",1,1,1
+2021-03-14,2020,"FC Utrecht","Vitesse","1-3",1,3,1
+2021-03-14,2020,"PEC Zwolle","AFC Ajax","0-2",0,2,1
+2021-03-19,2020,"sc Heerenveen","FC Twente","0-0",0,0,1
+2021-03-20,2020,"Fortuna Sittard","FC Utrecht","0-1",0,1,1
+2021-03-20,2020,"Feyenoord","FC Emmen","1-1",1,1,1
+2021-03-20,2020,"RKC Waalwijk","FC Groningen","3-1",3,1,1
+2021-03-21,2020,"PEC Zwolle","VVV-Venlo","2-1",2,1,1
+2021-03-21,2020,"AZ Alkmaar","PSV Eindhoven","2-0",2,0,1
+2021-03-21,2020,"Vitesse","Willem II","0-0",0,0,1
+2021-03-21,2020,"Heracles","Sparta Rotterdam","1-1",1,1,1
+2021-03-21,2020,"AFC Ajax","ADO Den Haag","5-0",5,0,1
+2021-04-03,2020,"VVV-Venlo","FC Groningen","0-1",0,1,1
+2021-04-03,2020,"FC Twente","Vitesse","1-2",1,2,1
+2021-04-03,2020,"Willem II","AZ Alkmaar","0-1",0,1,1
+2021-04-03,2020,"Sparta Rotterdam","PEC Zwolle","3-2",3,2,1
+2021-04-04,2020,"Feyenoord","Fortuna Sittard","2-0",2,0,1
+2021-04-04,2020,"ADO Den Haag","FC Utrecht","1-4",1,4,1
+2021-04-04,2020,"PSV Eindhoven","Heracles","3-0",3,0,1
+2021-04-04,2020,"FC Emmen","RKC Waalwijk","3-1",3,1,1
+2021-04-04,2020,"sc Heerenveen","AFC Ajax","1-2",1,2,1
+2021-04-09,2020,"Vitesse","ADO Den Haag","0-0",0,0,1
+2021-04-10,2020,"Heracles","Willem II","4-0",4,0,1
+2021-04-10,2020,"AZ Alkmaar","Sparta Rotterdam","2-0",2,0,1
+2021-04-10,2020,"Fortuna Sittard","FC Emmen","1-3",1,3,1
+2021-04-10,2020,"PEC Zwolle","FC Twente","1-0",1,0,1
+2021-04-11,2020,"FC Utrecht","Feyenoord","1-2",1,2,1
+2021-04-11,2020,"FC Groningen","sc Heerenveen","0-2",0,2,1
+2021-04-11,2020,"VVV-Venlo","PSV Eindhoven","0-2",0,2,1
+2021-04-11,2020,"RKC Waalwijk","AFC Ajax","0-1",0,1,1
+2021-04-22,2020,"AFC Ajax","FC Utrecht","1-1",1,1,1
+2021-04-23,2020,"Willem II","RKC Waalwijk","1-0",1,0,1
+2021-04-24,2020,"sc Heerenveen","PEC Zwolle","0-2",0,2,1
+2021-04-24,2020,"PSV Eindhoven","FC Groningen","1-0",1,0,1
+2021-04-24,2020,"Sparta Rotterdam","VVV-Venlo","2-0",2,0,1
+2021-04-25,2020,"FC Emmen","Heracles","3-1",3,1,1
+2021-04-25,2020,"AFC Ajax","AZ Alkmaar","2-0",2,0,1
+2021-04-25,2020,"ADO Den Haag","Fortuna Sittard","0-3",0,3,1
+2021-04-25,2020,"Feyenoord","Vitesse","0-0",0,0,1
+2021-04-25,2020,"FC Twente","FC Utrecht","1-2",1,2,1
+2021-05-01,2020,"Heracles","VVV-Venlo","4-0",4,0,1
+2021-05-01,2020,"Fortuna Sittard","FC Twente","3-0",3,0,1
+2021-05-01,2020,"Vitesse","PEC Zwolle","2-1",2,1,1
+2021-05-01,2020,"RKC Waalwijk","AZ Alkmaar","1-3",1,3,1
+2021-05-01,2020,"FC Utrecht","Willem II","3-2",3,2,1
+2021-05-02,2020,"ADO Den Haag","Feyenoord","3-2",3,2,1
+2021-05-02,2020,"AFC Ajax","FC Emmen","4-0",4,0,1
+2021-05-02,2020,"FC Groningen","Sparta Rotterdam","1-2",1,2,1
+2021-05-02,2020,"PSV Eindhoven","sc Heerenveen","2-2",2,2,1
+2021-05-07,2020,"Sparta Rotterdam","Vitesse","3-0",3,0,1
+2021-05-08,2020,"FC Twente","Heracles","1-1",1,1,1
+2021-05-08,2020,"sc Heerenveen","FC Utrecht","0-0",0,0,1
+2021-05-08,2020,"AZ Alkmaar","Fortuna Sittard","1-0",1,0,1
+2021-05-08,2020,"VVV-Venlo","RKC Waalwijk","3-3",3,3,1
+2021-05-09,2020,"FC Emmen","FC Groningen","0-4",0,4,1
+2021-05-09,2020,"Feyenoord","AFC Ajax","0-3",0,3,1
+2021-05-09,2020,"PEC Zwolle","ADO Den Haag","0-1",0,1,1
+2021-05-09,2020,"Willem II","PSV Eindhoven","0-2",0,2,1
+2021-05-13,2020,"AFC Ajax","VVV-Venlo","3-1",3,1,1
+2021-05-13,2020,"ADO Den Haag","Willem II","1-4",1,4,1
+2021-05-13,2020,"FC Emmen","sc Heerenveen","3-1",3,1,1
+2021-05-13,2020,"Fortuna Sittard","Vitesse","3-3",3,3,1
+2021-05-13,2020,"FC Groningen","AZ Alkmaar","0-0",0,0,1
+2021-05-13,2020,"Heracles","Feyenoord","1-1",1,1,1
+2021-05-13,2020,"PSV Eindhoven","PEC Zwolle","4-2",4,2,1
+2021-05-13,2020,"Sparta Rotterdam","FC Utrecht","0-0",0,0,1
+2021-05-13,2020,"RKC Waalwijk","FC Twente","2-1",2,1,1
+2021-05-16,2020,"AZ Alkmaar","Heracles","5-0",5,0,1
+2021-05-16,2020,"Feyenoord","RKC Waalwijk","3-0",3,0,1
+2021-05-16,2020,"sc Heerenveen","Sparta Rotterdam","1-2",1,2,1
+2021-05-16,2020,"FC Twente","ADO Den Haag","3-2",3,2,1
+2021-05-16,2020,"FC Utrecht","PSV Eindhoven","1-1",1,1,1
+2021-05-16,2020,"Vitesse","AFC Ajax","1-3",1,3,1
+2021-05-16,2020,"VVV-Venlo","FC Emmen","0-4",0,4,1
+2021-05-16,2020,"Willem II","Fortuna Sittard","2-1",2,1,1
+2021-05-16,2020,"PEC Zwolle","FC Groningen","1-0",1,0,1
+2021-08-13,2021,"Go Ahead Eagles","sc Heerenveen","0-1",0,1,1
+2021-08-14,2021,"RKC Waalwijk","AZ Alkmaar","1-0",1,0,1
+2021-08-14,2021,"Heracles","PSV Eindhoven","0-2",0,2,1
+2021-08-14,2021,"Fortuna Sittard","FC Twente","2-1",2,1,1
+2021-08-14,2021,"AFC Ajax","NEC Nijmegen","5-0",5,0,1
+2021-08-15,2021,"SC Cambuur","FC Groningen","1-2",1,2,1
+2021-08-15,2021,"FC Utrecht","Sparta Rotterdam","4-0",4,0,1
+2021-08-15,2021,"PEC Zwolle","Vitesse","0-1",0,1,1
+2021-08-15,2021,"Willem II","Feyenoord","0-4",0,4,1
+2021-08-20,2021,"NEC Nijmegen","PEC Zwolle","2-0",2,0,1
+2021-08-21,2021,"sc Heerenveen","RKC Waalwijk","3-2",3,2,1
+2021-08-21,2021,"PSV Eindhoven","SC Cambuur","4-1",4,1,1
+2021-08-21,2021,"Sparta Rotterdam","Heracles","1-1",1,1,1
+2021-08-21,2021,"FC Groningen","FC Utrecht","0-0",0,0,1
+2021-08-22,2021,"FC Twente","AFC Ajax","1-1",1,1,1
+2021-08-22,2021,"Feyenoord","Go Ahead Eagles","2-0",2,0,1
+2021-08-22,2021,"Vitesse","Willem II","0-3",0,3,1
+2021-08-27,2021,"Fortuna Sittard","RKC Waalwijk","2-2",2,2,1
+2021-08-28,2021,"SC Cambuur","FC Twente","2-0",2,0,1
+2021-08-28,2021,"Go Ahead Eagles","Sparta Rotterdam","2-0",2,0,1
+2021-08-28,2021,"PSV Eindhoven","FC Groningen","5-2",5,2,1
+2021-08-28,2021,"Willem II","PEC Zwolle","1-0",1,0,1
+2021-08-29,2021,"FC Utrecht","Feyenoord","3-1",3,1,1
+2021-08-29,2021,"AFC Ajax","Vitesse","5-0",5,0,1
+2021-08-29,2021,"Heracles","NEC Nijmegen","0-1",0,1,1
+2021-08-29,2021,"sc Heerenveen","AZ Alkmaar","1-3",1,3,1
+2021-09-11,2021,"FC Twente","FC Utrecht","1-0",1,0,1
+2021-09-11,2021,"SC Cambuur","Go Ahead Eagles","5-2",5,2,1
+2021-09-11,2021,"PEC Zwolle","AFC Ajax","0-2",0,2,1
+2021-09-11,2021,"AZ Alkmaar","PSV Eindhoven","0-3",0,3,1
+2021-09-12,2021,"NEC Nijmegen","Willem II","0-0",0,0,1
+2021-09-12,2021,"FC Groningen","sc Heerenveen","1-1",1,1,1
+2021-09-12,2021,"Sparta Rotterdam","Fortuna Sittard","3-1",3,1,1
+2021-09-12,2021,"RKC Waalwijk","Vitesse","1-2",1,2,1
+2021-09-17,2021,"Sparta Rotterdam","NEC Nijmegen","1-1",1,1,1
+2021-09-18,2021,"sc Heerenveen","Fortuna Sittard","1-0",1,0,1
+2021-09-18,2021,"Willem II","FC Groningen","2-1",2,1,1
+2021-09-18,2021,"AFC Ajax","SC Cambuur","9-0",9,0,1
+2021-09-18,2021,"FC Utrecht","RKC Waalwijk","2-2",2,2,1
+2021-09-19,2021,"Go Ahead Eagles","PEC Zwolle","1-0",1,0,1
+2021-09-19,2021,"PSV Eindhoven","Feyenoord","0-4",0,4,1
+2021-09-19,2021,"Heracles","AZ Alkmaar","3-2",3,2,1
+2021-09-19,2021,"Vitesse","FC Twente","1-4",1,4,1
+2021-09-21,2021,"Fortuna Sittard","AFC Ajax","0-5",0,5,1
+2021-09-21,2021,"RKC Waalwijk","Willem II","1-2",1,2,1
+2021-09-22,2021,"Go Ahead Eagles","PSV Eindhoven","1-2",1,2,1
+2021-09-22,2021,"NEC Nijmegen","FC Utrecht","0-3",0,3,1
+2021-09-22,2021,"FC Groningen","Vitesse","0-1",0,1,1
+2021-09-22,2021,"Feyenoord","sc Heerenveen","3-1",3,1,1
+2021-09-22,2021,"PEC Zwolle","Sparta Rotterdam","1-1",1,1,1
+2021-09-23,2021,"SC Cambuur","Heracles","2-1",2,1,1
+2021-09-23,2021,"FC Twente","AZ Alkmaar","3-1",3,1,1
+2021-09-25,2021,"Willem II","PSV Eindhoven","2-1",2,1,1
+2021-09-25,2021,"AFC Ajax","FC Groningen","3-0",3,0,1
+2021-09-25,2021,"Vitesse","Fortuna Sittard","1-1",1,1,1
+2021-09-25,2021,"Feyenoord","NEC Nijmegen","5-3",5,3,1
+2021-09-25,2021,"FC Utrecht","PEC Zwolle","5-1",5,1,1
+2021-09-26,2021,"Sparta Rotterdam","SC Cambuur","0-4",0,4,1
+2021-09-26,2021,"AZ Alkmaar","Go Ahead Eagles","5-0",5,0,1
+2021-09-26,2021,"sc Heerenveen","FC Twente","2-3",2,3,1
+2021-09-26,2021,"Heracles","RKC Waalwijk","1-0",1,0,1
+2021-10-01,2021,"FC Groningen","FC Twente","1-1",1,1,1
+2021-10-02,2021,"RKC Waalwijk","Go Ahead Eagles","1-1",1,1,1
+2021-10-02,2021,"Heracles","Willem II","3-2",3,2,1
+2021-10-02,2021,"PEC Zwolle","sc Heerenveen","0-1",0,1,1
+2021-10-02,2021,"Fortuna Sittard","NEC Nijmegen","1-3",1,3,1
+2021-10-03,2021,"AFC Ajax","FC Utrecht","0-1",0,1,1
+2021-10-03,2021,"SC Cambuur","AZ Alkmaar","1-3",1,3,1
+2021-10-03,2021,"Vitesse","Feyenoord","2-1",2,1,1
+2021-10-03,2021,"PSV Eindhoven","Sparta Rotterdam","2-1",2,1,1
+2021-10-16,2021,"Feyenoord","RKC Waalwijk","2-2",2,2,1
+2021-10-16,2021,"Go Ahead Eagles","Heracles","4-2",4,2,1
+2021-10-16,2021,"sc Heerenveen","AFC Ajax","0-2",0,2,1
+2021-10-16,2021,"Fortuna Sittard","SC Cambuur","1-0",1,0,1
+2021-10-16,2021,"PSV Eindhoven","PEC Zwolle","3-1",3,1,1
+2021-10-17,2021,"AZ Alkmaar","FC Utrecht","5-1",5,1,1
+2021-10-17,2021,"NEC Nijmegen","Vitesse","0-1",0,1,1
+2021-10-17,2021,"Sparta Rotterdam","FC Groningen","1-1",1,1,1
+2021-10-17,2021,"FC Twente","Willem II","1-1",1,1,1
+2021-10-22,2021,"Willem II","Fortuna Sittard","1-1",1,1,1
+2021-10-23,2021,"FC Utrecht","sc Heerenveen","2-1",2,1,1
+2021-10-23,2021,"PEC Zwolle","Heracles","1-0",1,0,1
+2021-10-23,2021,"RKC Waalwijk","Sparta Rotterdam","1-0",1,0,1
+2021-10-24,2021,"FC Twente","NEC Nijmegen","1-2",1,2,1
+2021-10-24,2021,"SC Cambuur","Feyenoord","2-3",2,3,1
+2021-10-24,2021,"Vitesse","Go Ahead Eagles","1-2",1,2,1
+2021-10-24,2021,"AFC Ajax","PSV Eindhoven","5-0",5,0,1
+2021-10-24,2021,"FC Groningen","AZ Alkmaar","2-0",2,0,1
+2021-10-30,2021,"PSV Eindhoven","FC Twente","5-2",5,2,1
+2021-10-30,2021,"Heracles","AFC Ajax","0-0",0,0,1
+2021-10-30,2021,"sc Heerenveen","Vitesse","1-2",1,2,1
+2021-10-30,2021,"AZ Alkmaar","PEC Zwolle","3-2",3,2,1
+2021-10-31,2021,"Sparta Rotterdam","Feyenoord","0-1",0,1,1
+2021-10-31,2021,"NEC Nijmegen","FC Groningen","3-0",3,0,1
+2021-10-31,2021,"FC Utrecht","Willem II","5-1",5,1,1
+2021-10-31,2021,"RKC Waalwijk","SC Cambuur","0-1",0,1,1
+2021-10-31,2021,"Go Ahead Eagles","Fortuna Sittard","4-3",4,3,1
+2021-11-05,2021,"FC Twente","Heracles","1-0",1,0,1
+2021-11-06,2021,"NEC Nijmegen","sc Heerenveen","1-1",1,1,1
+2021-11-06,2021,"Willem II","Sparta Rotterdam","0-3",0,3,1
+2021-11-06,2021,"PEC Zwolle","SC Cambuur","1-2",1,2,1
+2021-11-07,2021,"FC Groningen","RKC Waalwijk","1-1",1,1,1
+2021-11-07,2021,"Fortuna Sittard","PSV Eindhoven","1-4",1,4,1
+2021-11-07,2021,"Feyenoord","AZ Alkmaar","1-0",1,0,1
+2021-11-07,2021,"Vitesse","FC Utrecht","2-1",2,1,1
+2021-11-07,2021,"AFC Ajax","Go Ahead Eagles","0-0",0,0,1
+2021-11-20,2021,"PSV Eindhoven","Vitesse","2-0",2,0,1
+2021-11-20,2021,"Sparta Rotterdam","FC Twente","0-1",0,1,1
+2021-11-20,2021,"AZ Alkmaar","NEC Nijmegen","1-1",1,1,1
+2021-11-20,2021,"Heracles","Fortuna Sittard","3-1",3,1,1
+2021-11-21,2021,"Go Ahead Eagles","FC Groningen","0-1",0,1,1
+2021-11-21,2021,"Feyenoord","PEC Zwolle","4-0",4,0,1
+2021-11-21,2021,"sc Heerenveen","Willem II","2-1",2,1,1
+2021-11-21,2021,"RKC Waalwijk","AFC Ajax","0-5",0,5,1
+2021-11-21,2021,"SC Cambuur","FC Utrecht","2-1",2,1,1
+2021-11-26,2021,"NEC Nijmegen","SC Cambuur","2-3",2,3,1
+2021-11-27,2021,"Fortuna Sittard","FC Groningen","1-4",1,4,1
+2021-11-27,2021,"PEC Zwolle","RKC Waalwijk","0-0",0,0,1
+2021-11-27,2021,"Willem II","Go Ahead Eagles","0-1",0,1,1
+2021-11-28,2021,"Sparta Rotterdam","AFC Ajax","0-1",0,1,1
+2021-11-28,2021,"FC Twente","Feyenoord","0-0",0,0,1
+2021-11-28,2021,"FC Utrecht","Heracles","1-0",1,0,1
+2021-11-28,2021,"sc Heerenveen","PSV Eindhoven","1-1",1,1,1
+2021-11-28,2021,"Vitesse","AZ Alkmaar","0-0",0,0,1
+2021-12-01,2021,"Feyenoord","Heracles","2-1",2,1,1
+2021-12-02,2021,"AZ Alkmaar","Fortuna Sittard","2-1",2,1,1
+2021-12-02,2021,"AFC Ajax","Willem II","5-0",5,0,1
+2021-12-03,2021,"FC Groningen","PEC Zwolle","1-1",1,1,1
+2021-12-04,2021,"PSV Eindhoven","FC Utrecht","4-1",4,1,1
+2021-12-04,2021,"SC Cambuur","Vitesse","1-6",1,6,1
+2021-12-04,2021,"Heracles","sc Heerenveen","0-1",0,1,1
+2021-12-05,2021,"RKC Waalwijk","NEC Nijmegen","2-1",2,1,1
+2021-12-05,2021,"AZ Alkmaar","Sparta Rotterdam","3-1",3,1,1
+2021-12-05,2021,"Go Ahead Eagles","FC Twente","1-2",1,2,1
+2021-12-05,2021,"Feyenoord","Fortuna Sittard","5-0",5,0,1
+2021-12-10,2021,"Willem II","SC Cambuur","1-3",1,3,1
+2021-12-11,2021,"FC Utrecht","Go Ahead Eagles","0-0",0,0,1
+2021-12-11,2021,"sc Heerenveen","Sparta Rotterdam","0-0",0,0,1
+2021-12-11,2021,"PEC Zwolle","Fortuna Sittard","0-1",0,1,1
+2021-12-12,2021,"FC Twente","RKC Waalwijk","2-1",2,1,1
+2021-12-12,2021,"FC Groningen","Feyenoord","1-1",1,1,1
+2021-12-12,2021,"Vitesse","Heracles","2-1",2,1,1
+2021-12-12,2021,"AFC Ajax","AZ Alkmaar","1-2",1,2,1
+2021-12-12,2021,"NEC Nijmegen","PSV Eindhoven","1-2",1,2,1
+2021-12-18,2021,"Fortuna Sittard","FC Utrecht","2-2",2,2,1
+2021-12-18,2021,"Sparta Rotterdam","Vitesse","2-2",2,2,1
+2021-12-18,2021,"AZ Alkmaar","Willem II","4-1",4,1,1
+2021-12-18,2021,"Heracles","FC Groningen","4-2",4,2,1
+2021-12-18,2021,"PEC Zwolle","FC Twente","1-3",1,3,1
+2021-12-19,2021,"SC Cambuur","sc Heerenveen","1-2",1,2,1
+2021-12-19,2021,"Feyenoord","AFC Ajax","0-2",0,2,1
+2021-12-19,2021,"Go Ahead Eagles","NEC Nijmegen","0-2",0,2,1
+2021-12-19,2021,"RKC Waalwijk","PSV Eindhoven","1-4",1,4,1
+2021-12-21,2021,"Vitesse","PEC Zwolle","1-0",1,0,1
+2021-12-21,2021,"AZ Alkmaar","FC Groningen","1-0",1,0,1
+2021-12-22,2021,"sc Heerenveen","Feyenoord","0-3",0,3,1
+2021-12-22,2021,"Willem II","NEC Nijmegen","0-1",0,1,1
+2021-12-22,2021,"Heracles","SC Cambuur","1-1",1,1,1
+2021-12-22,2021,"AFC Ajax","Fortuna Sittard","5-0",5,0,1
+2021-12-22,2021,"FC Utrecht","FC Twente","1-1",1,1,1
+2021-12-23,2021,"PSV Eindhoven","Go Ahead Eagles","2-0",2,0,1
+2021-12-23,2021,"Sparta Rotterdam","RKC Waalwijk","1-1",1,1,1
+2022-01-14,2021,"PEC Zwolle","Willem II","2-0",2,0,1
+2022-01-15,2021,"NEC Nijmegen","Heracles","0-0",0,0,1
+2022-01-15,2021,"Feyenoord","Vitesse","0-1",0,1,1
+2022-01-15,2021,"FC Twente","sc Heerenveen","2-0",2,0,1
+2022-01-15,2021,"Go Ahead Eagles","RKC Waalwijk","0-2",0,2,1
+2022-01-16,2021,"FC Utrecht","AFC Ajax","0-3",0,3,1
+2022-01-16,2021,"SC Cambuur","Sparta Rotterdam","1-1",1,1,1
+2022-01-16,2021,"FC Groningen","PSV Eindhoven","0-1",0,1,1
+2022-01-16,2021,"Fortuna Sittard","AZ Alkmaar","1-2",1,2,1
+2022-01-22,2021,"Vitesse","FC Groningen","1-3",1,3,1
+2022-01-22,2021,"AZ Alkmaar","SC Cambuur","0-0",0,0,1
+2022-01-22,2021,"sc Heerenveen","PEC Zwolle","0-1",0,1,1
+2022-01-22,2021,"Willem II","FC Twente","0-1",0,1,1
+2022-01-23,2021,"NEC Nijmegen","Feyenoord","1-4",1,4,1
+2022-01-23,2021,"Heracles","Go Ahead Eagles","1-1",1,1,1
+2022-01-23,2021,"PSV Eindhoven","AFC Ajax","1-2",1,2,1
+2022-01-23,2021,"Sparta Rotterdam","FC Utrecht","0-3",0,3,1
+2022-01-23,2021,"RKC Waalwijk","Fortuna Sittard","2-1",2,1,1
+2022-02-05,2021,"FC Utrecht","SC Cambuur","3-2",3,2,1
+2022-02-05,2021,"Fortuna Sittard","sc Heerenveen","2-0",2,0,1
+2022-02-05,2021,"PSV Eindhoven","AZ Alkmaar","1-2",1,2,1
+2022-02-05,2021,"PEC Zwolle","NEC Nijmegen","1-1",1,1,1
+2022-02-05,2021,"FC Twente","Vitesse","3-0",3,0,1
+2022-02-06,2021,"Feyenoord","Sparta Rotterdam","4-0",4,0,1
+2022-02-06,2021,"FC Groningen","Go Ahead Eagles","2-1",2,1,1
+2022-02-06,2021,"Willem II","RKC Waalwijk","3-1",3,1,1
+2022-02-06,2021,"AFC Ajax","Heracles","3-0",3,0,1
+2022-02-11,2021,"Heracles","FC Utrecht","1-0",1,0,1
+2022-02-12,2021,"SC Cambuur","PEC Zwolle","3-4",3,4,1
+2022-02-12,2021,"FC Groningen","Fortuna Sittard","0-1",0,1,1
+2022-02-12,2021,"Vitesse","PSV Eindhoven","0-5",0,5,1
+2022-02-13,2021,"Go Ahead Eagles","AZ Alkmaar","1-4",1,4,1
+2022-02-13,2021,"Sparta Rotterdam","Willem II","1-0",1,0,1
+2022-02-13,2021,"sc Heerenveen","NEC Nijmegen","0-1",0,1,1
+2022-02-13,2021,"RKC Waalwijk","Feyenoord","0-2",0,2,1
+2022-02-13,2021,"AFC Ajax","FC Twente","5-0",5,0,1
+2022-02-19,2021,"NEC Nijmegen","RKC Waalwijk","1-1",1,1,1
+2022-02-19,2021,"Willem II","AFC Ajax","0-1",0,1,1
+2022-02-19,2021,"AZ Alkmaar","Heracles","2-1",2,1,1
+2022-02-20,2021,"PEC Zwolle","FC Groningen","1-1",1,1,1
+2022-02-20,2021,"Feyenoord","SC Cambuur","3-1",3,1,1
+2022-02-20,2021,"FC Twente","Go Ahead Eagles","2-2",2,2,1
+2022-02-20,2021,"PSV Eindhoven","sc Heerenveen","3-1",3,1,1
+2022-02-20,2021,"FC Utrecht","Vitesse","1-1",1,1,1
+2022-02-25,2021,"RKC Waalwijk","FC Twente","1-2",1,2,1
+2022-02-26,2021,"Heracles","PEC Zwolle","2-0",2,0,1
+2022-02-26,2021,"FC Groningen","Willem II","1-0",1,0,1
+2022-02-26,2021,"SC Cambuur","Fortuna Sittard","2-1",2,1,1
+2022-02-27,2021,"AZ Alkmaar","Feyenoord","2-1",2,1,1
+2022-02-27,2021,"Vitesse","NEC Nijmegen","4-1",4,1,1
+2022-02-27,2021,"Sparta Rotterdam","PSV Eindhoven","1-2",1,2,1
+2022-02-27,2021,"Go Ahead Eagles","AFC Ajax","2-1",2,1,1
+2022-02-27,2021,"sc Heerenveen","FC Utrecht","1-2",1,2,1
+2022-03-05,2021,"Willem II","sc Heerenveen","0-0",0,0,1
+2022-03-05,2021,"Go Ahead Eagles","FC Utrecht","1-1",1,1,1
+2022-03-05,2021,"Feyenoord","FC Groningen","1-1",1,1,1
+2022-03-06,2021,"PSV Eindhoven","Heracles","3-1",3,1,1
+2022-03-06,2021,"FC Twente","SC Cambuur","1-0",1,0,1
+2022-03-06,2021,"AFC Ajax","RKC Waalwijk","3-2",3,2,1
+2022-03-06,2021,"NEC Nijmegen","AZ Alkmaar","1-3",1,3,1
+2022-03-06,2021,"Fortuna Sittard","PEC Zwolle","0-1",0,1,1
+2022-03-11,2021,"SC Cambuur","AFC Ajax","2-3",2,3,1
+2022-03-12,2021,"Sparta Rotterdam","Go Ahead Eagles","1-0",1,0,1
+2022-03-12,2021,"FC Groningen","NEC Nijmegen","4-3",4,3,1
+2022-03-12,2021,"RKC Waalwijk","sc Heerenveen","0-0",0,0,1
+2022-03-13,2021,"Fortuna Sittard","Willem II","1-0",1,0,1
+2022-03-13,2021,"Heracles","Vitesse","0-0",0,0,1
+2022-03-13,2021,"FC Utrecht","PSV Eindhoven","0-1",0,1,1
+2022-03-13,2021,"PEC Zwolle","Feyenoord","1-2",1,2,1
+2022-03-13,2021,"AZ Alkmaar","FC Twente","0-1",0,1,1
+2022-03-18,2021,"sc Heerenveen","Heracles","2-0",2,0,1
+2022-03-19,2021,"Go Ahead Eagles","SC Cambuur","3-0",3,0,1
+2022-03-19,2021,"FC Twente","PEC Zwolle","1-0",1,0,1
+2022-03-19,2021,"NEC Nijmegen","Sparta Rotterdam","0-0",0,0,1
+2022-03-20,2021,"FC Utrecht","FC Groningen","1-3",1,3,1
+2022-03-20,2021,"AFC Ajax","Feyenoord","3-2",3,2,1
+2022-03-20,2021,"PSV Eindhoven","Fortuna Sittard","5-0",5,0,1
+2022-03-20,2021,"Vitesse","RKC Waalwijk","1-2",1,2,1
+2022-03-20,2021,"Willem II","AZ Alkmaar","2-2",2,2,1
+2022-04-02,2021,"FC Groningen","AFC Ajax","1-3",1,3,1
+2022-04-02,2021,"FC Twente","PSV Eindhoven","3-3",3,3,1
+2022-04-02,2021,"AZ Alkmaar","Vitesse","3-1",3,1,1
+2022-04-02,2021,"RKC Waalwijk","FC Utrecht","1-1",1,1,1
+2022-04-02,2021,"Feyenoord","Willem II","2-0",2,0,1
+2022-04-03,2021,"PEC Zwolle","Go Ahead Eagles","0-1",0,1,1
+2022-04-03,2021,"Fortuna Sittard","Heracles","0-2",0,2,1
+2022-04-03,2021,"Sparta Rotterdam","sc Heerenveen","1-1",1,1,1
+2022-04-03,2021,"SC Cambuur","NEC Nijmegen","1-2",1,2,1
+2022-04-08,2021,"Go Ahead Eagles","Willem II","4-0",4,0,1
+2022-04-09,2021,"FC Utrecht","Fortuna Sittard","1-1",1,1,1
+2022-04-09,2021,"AFC Ajax","Sparta Rotterdam","2-1",2,1,1
+2022-04-09,2021,"NEC Nijmegen","FC Twente","0-2",0,2,1
+2022-04-10,2021,"sc Heerenveen","FC Groningen","3-1",3,1,1
+2022-04-10,2021,"PSV Eindhoven","RKC Waalwijk","2-0",2,0,1
+2022-04-10,2021,"Vitesse","SC Cambuur","1-0",1,0,1
+2022-04-10,2021,"Heracles","Feyenoord","1-4",1,4,1
+2022-04-10,2021,"PEC Zwolle","AZ Alkmaar","2-1",2,1,1
+2022-04-16,2021,"Fortuna Sittard","Sparta Rotterdam","3-0",3,0,1
+2022-04-19,2021,"Vitesse","Sparta Rotterdam","0-1",0,1,1
+2022-04-22,2021,"FC Twente","Sparta Rotterdam","2-0",2,0,1
+2022-04-23,2021,"NEC Nijmegen","AFC Ajax","0-1",0,1,1
+2022-04-23,2021,"AZ Alkmaar","sc Heerenveen","2-1",2,1,1
+2022-04-23,2021,"RKC Waalwijk","PEC Zwolle","0-2",0,2,1
+2022-04-23,2021,"SC Cambuur","PSV Eindhoven","1-2",1,2,1
+2022-04-24,2021,"Willem II","Vitesse","1-0",1,0,1
+2022-04-24,2021,"Feyenoord","FC Utrecht","2-1",2,1,1
+2022-04-24,2021,"FC Groningen","Heracles","0-1",0,1,1
+2022-04-24,2021,"Fortuna Sittard","Go Ahead Eagles","1-0",1,0,1
+2022-04-29,2021,"FC Utrecht","NEC Nijmegen","1-0",1,0,1
+2022-04-30,2021,"AFC Ajax","PEC Zwolle","3-0",3,0,1
+2022-04-30,2021,"Heracles","FC Twente","1-1",1,1,1
+2022-04-30,2021,"Sparta Rotterdam","AZ Alkmaar","1-1",1,1,1
+2022-05-01,2021,"sc Heerenveen","SC Cambuur","3-3",3,3,1
+2022-05-01,2021,"Go Ahead Eagles","Vitesse","1-2",1,2,1
+2022-05-01,2021,"PSV Eindhoven","Willem II","4-2",4,2,1
+2022-05-01,2021,"Fortuna Sittard","Feyenoord","1-3",1,3,1
+2022-05-01,2021,"RKC Waalwijk","FC Groningen","3-1",3,1,1
+2022-05-06,2021,"SC Cambuur","RKC Waalwijk","1-1",1,1,1
+2022-05-07,2021,"FC Twente","Fortuna Sittard","1-2",1,2,1
+2022-05-07,2021,"Willem II","Heracles","2-0",2,0,1
+2022-05-07,2021,"PEC Zwolle","FC Utrecht","1-1",1,1,1
+2022-05-07,2021,"FC Groningen","Sparta Rotterdam","1-2",1,2,1
+2022-05-08,2021,"NEC Nijmegen","Go Ahead Eagles","1-0",1,0,1
+2022-05-08,2021,"AZ Alkmaar","AFC Ajax","2-2",2,2,1
+2022-05-08,2021,"Vitesse","sc Heerenveen","1-2",1,2,1
+2022-05-08,2021,"Feyenoord","PSV Eindhoven","2-2",2,2,1
+2022-05-11,2021,"AFC Ajax","sc Heerenveen","5-0",5,0,1
+2022-05-11,2021,"SC Cambuur","Willem II","1-1",1,1,1
+2022-05-11,2021,"Fortuna Sittard","Vitesse","1-2",1,2,1
+2022-05-11,2021,"Go Ahead Eagles","Feyenoord","0-1",0,1,1
+2022-05-11,2021,"PSV Eindhoven","NEC Nijmegen","3-2",3,2,1
+2022-05-11,2021,"Sparta Rotterdam","PEC Zwolle","2-0",2,0,1
+2022-05-11,2021,"FC Twente","FC Groningen","3-0",3,0,1
+2022-05-11,2021,"FC Utrecht","AZ Alkmaar","2-2",2,2,1
+2022-05-11,2021,"RKC Waalwijk","Heracles","2-0",2,0,1
+2022-05-15,2021,"AZ Alkmaar","RKC Waalwijk","1-3",1,3,1
+2022-05-15,2021,"Feyenoord","FC Twente","1-2",1,2,1
+2022-05-15,2021,"FC Groningen","SC Cambuur","2-3",2,3,1
+2022-05-15,2021,"sc Heerenveen","Go Ahead Eagles","3-1",3,1,1
+2022-05-15,2021,"Heracles","Sparta Rotterdam","1-3",1,3,1
+2022-05-15,2021,"NEC Nijmegen","Fortuna Sittard","0-1",0,1,1
+2022-05-15,2021,"Vitesse","AFC Ajax","2-2",2,2,1
+2022-05-15,2021,"Willem II","FC Utrecht","3-0",3,0,1
+2022-05-15,2021,"PEC Zwolle","PSV Eindhoven","1-2",1,2,1
