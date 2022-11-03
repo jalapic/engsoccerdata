@@ -281,64 +281,6 @@ devtools::document()
 ####---------------------------------------------------------------------------####
 
 
-head(portugal)
-tail(portugal)
-
-library(tidyverse)
-portugal %>%
-  filter(Season>2011) %>%
-  group_by(tier,Season) %>%
-  count()
-
-portugal_current(Season=2017)  #
-portugal_current(Season=2018)  #
-portugal_current(Season=2019)  # "Famalicao"
-
-portugal_current(Season=2020)  # "Famalicao"
-
-#use check current teamnames
-
-engsoccerdata::teamnames[grepl("ama", engsoccerdata::teamnames$name),]  #
-
-
-# bind
-
-ex<-
-  rbind(
-    portugal_current(Season=2017),
-    portugal_current(Season=2018),
-    portugal_current(Season=2019)
-  )
-
-portugal <- rbind(portugal,ex)
-
-library(tidyverse)
-portugal %>%
-  filter(Season>2011) %>%
-  group_by(tier,Season) %>%
-  count()
-
-tail(portugal)
-
-
-## update steps
-usethis::use_data(portugal, overwrite = T)
-write.csv(portugal,'data-raw/portugal.csv',row.names=F)
-devtools::load_all()
-
-dim(portugal)
-
-#update current
-
-# redo documentation   devtools::document()
-devtools::load_all()
-
-devtools::document()
-
-#rebuild
-#redo checks
-
-
 ####---------------------------------------------------------------------------####
 
 
