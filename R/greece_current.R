@@ -12,14 +12,14 @@
 
 
 
-greece_current <- function(Season=2020){
+greece_current <- function(Season=2022){
 
    s1<-s2<-myseason<-g1<-df1<-NULL
    myseason<-Season
    s2<-as.numeric(substr(myseason,3,4))
    s1 <- s2+1
 
-g1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/G1.csv"))
+g1=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",s2,s1,"/G1.csv"))
 
 df1 <- rbind(engsoccerdata::getCurrentData(g1,'G1',1,Season=myseason))
 

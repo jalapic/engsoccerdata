@@ -1,10 +1,10 @@
-#' Greek league results 1994-2020
+#' Greek league results 1994-2022
 #'
 #' All results for Greek soccer games in the top tier
-#' from 1994/95 season to 2019/20 season.  Doesn't include
-#' playoff games.
+#' from 1994/95 season to 2021/22 season.  For later seasons
+#'  includes playoff games.
 #'
-#' @format A data frame with 6709 rows and 12 variables:
+#' @format A data frame with 7189 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
