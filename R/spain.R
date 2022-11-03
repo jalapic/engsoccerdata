@@ -1,10 +1,10 @@
-#' Spanish league results 1928-2020
+#' Spanish league results 1928-2022
 #'
 #' All results for Spanish soccer games in the top tier
-#' from 1928/29 season to 2019/20 season.  Also includes
+#' from 1928/29 season to 2021/22 season.  Also includes
 #' some historic playoff games
 #'
-#' @format A data frame with 25435 rows and 12 variables:
+#' @format A data frame with 26195 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
