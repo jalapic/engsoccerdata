@@ -1,10 +1,10 @@
-#' Belgian league results 1995-2020
+#' Belgian league results 1995-2022
 #'
-#' All results for Scottish soccer games in the top tier
-#' from 1995/96 season to 2019/20 season.  Doesn't include
+#' All results for Belgian soccer games in the top tier
+#' from 1995/96 season to 2021/22 season.  Doesn't include
 #' playoff games.
 #'
-#' @format A data frame with 6852 rows and 12 variables:
+#' @format A data frame with 7464 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
