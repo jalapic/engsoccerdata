@@ -22,6 +22,7 @@ b2=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",s2,s1,"/D2.csv"))
 df1 <- rbind(engsoccerdata::getCurrentData(b1,1,1,Season=myseason),engsoccerdata::getCurrentData(b2,2,2,Season=myseason))
 
 df1$Date <- as.Date(df1$Date, format="%Y-%m-%d")
+
 germ <- engsoccerdata::germany
 if(identical(max(df1$Date), max(germ$Date))) warning("The returned dataframe contains data already included in 'germany' dataframe")
 tm <- engsoccerdata::teamnames

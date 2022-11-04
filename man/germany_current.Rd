@@ -4,7 +4,7 @@
 \alias{germany_current}
 \title{Get current Germany season data for all tiers}
 \usage{
-germany_current(Season = 2020)
+germany_current(Season = 2022)
 }
 \arguments{
 \item{Season}{the current Season}
