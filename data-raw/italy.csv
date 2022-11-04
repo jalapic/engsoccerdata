@@ -26923,3 +26923,763 @@
 2020-08-02,2019,"Genoa CFC","Hellas Verona","3-0",3,0,1
 2020-08-02,2019,"US Lecce","Parma FC","3-4",3,4,1
 2020-08-02,2019,"Sassuolo Calcio","Udinese Calcio","0-1",0,1,1
+2020-09-19,2020,"ACF Fiorentina","Torino FC","1-0",1,0,1
+2020-09-19,2020,"Hellas Verona","AS Roma","0-0",0,0,1
+2020-09-20,2020,"Parma FC","SSC Napoli","0-2",0,2,1
+2020-09-20,2020,"Genoa CFC","FC Crotone","4-1",4,1,1
+2020-09-20,2020,"Sassuolo Calcio","Cagliari Calcio","1-1",1,1,1
+2020-09-20,2020,"Juventus","Sampdoria","3-0",3,0,1
+2020-09-21,2020,"AC Milan","Bologna FC","2-0",2,0,1
+2020-09-26,2020,"Torino FC","Atalanta","2-4",2,4,1
+2020-09-26,2020,"Cagliari Calcio","Lazio Roma","0-2",0,2,1
+2020-09-26,2020,"Sampdoria","Benevento","2-3",2,3,1
+2020-09-26,2020,"Inter","ACF Fiorentina","4-3",4,3,1
+2020-09-27,2020,"Spezia Calcio","Sassuolo Calcio","1-4",1,4,1
+2020-09-27,2020,"SSC Napoli","Genoa CFC","6-0",6,0,1
+2020-09-27,2020,"Hellas Verona","Udinese Calcio","1-0",1,0,1
+2020-09-27,2020,"FC Crotone","AC Milan","0-2",0,2,1
+2020-09-27,2020,"AS Roma","Juventus","2-2",2,2,1
+2020-09-28,2020,"Bologna FC","Parma FC","4-1",4,1,1
+2020-09-30,2020,"Benevento","Inter","2-5",2,5,1
+2020-09-30,2020,"Udinese Calcio","Spezia Calcio","0-2",0,2,1
+2020-09-30,2020,"Lazio Roma","Atalanta","1-4",1,4,1
+2020-10-02,2020,"ACF Fiorentina","Sampdoria","1-2",1,2,1
+2020-10-03,2020,"Sassuolo Calcio","FC Crotone","4-1",4,1,1
+2020-10-03,2020,"Udinese Calcio","AS Roma","0-1",0,1,1
+2020-10-04,2020,"Atalanta","Cagliari Calcio","5-2",5,2,1
+2020-10-04,2020,"Benevento","Bologna FC","1-0",1,0,1
+2020-10-04,2020,"Lazio Roma","Inter","1-1",1,1,1
+2020-10-04,2020,"Parma FC","Hellas Verona","1-0",1,0,1
+2020-10-04,2020,"AC Milan","Spezia Calcio","3-0",3,0,1
+2020-10-17,2020,"SSC Napoli","Atalanta","4-1",4,1,1
+2020-10-17,2020,"Inter","AC Milan","1-2",1,2,1
+2020-10-17,2020,"Sampdoria","Lazio Roma","3-0",3,0,1
+2020-10-17,2020,"FC Crotone","Juventus","1-1",1,1,1
+2020-10-18,2020,"Bologna FC","Sassuolo Calcio","3-4",3,4,1
+2020-10-18,2020,"Spezia Calcio","ACF Fiorentina","2-2",2,2,1
+2020-10-18,2020,"Torino FC","Cagliari Calcio","2-3",2,3,1
+2020-10-18,2020,"Udinese Calcio","Parma FC","3-2",3,2,1
+2020-10-18,2020,"AS Roma","Benevento","5-2",5,2,1
+2020-10-19,2020,"Hellas Verona","Genoa CFC","0-0",0,0,1
+2020-10-23,2020,"Sassuolo Calcio","Torino FC","3-3",3,3,1
+2020-10-24,2020,"Atalanta","Sampdoria","1-3",1,3,1
+2020-10-24,2020,"Genoa CFC","Inter","0-2",0,2,1
+2020-10-24,2020,"Lazio Roma","Bologna FC","2-1",2,1,1
+2020-10-25,2020,"Cagliari Calcio","FC Crotone","4-2",4,2,1
+2020-10-25,2020,"Benevento","SSC Napoli","1-2",1,2,1
+2020-10-25,2020,"Parma FC","Spezia Calcio","2-2",2,2,1
+2020-10-25,2020,"ACF Fiorentina","Udinese Calcio","3-2",3,2,1
+2020-10-25,2020,"Juventus","Hellas Verona","1-1",1,1,1
+2020-10-26,2020,"AC Milan","AS Roma","3-3",3,3,1
+2020-10-31,2020,"FC Crotone","Atalanta","1-2",1,2,1
+2020-10-31,2020,"Inter","Parma FC","2-2",2,2,1
+2020-10-31,2020,"Bologna FC","Cagliari Calcio","3-2",3,2,1
+2020-11-01,2020,"Udinese Calcio","AC Milan","1-2",1,2,1
+2020-11-01,2020,"Spezia Calcio","Juventus","1-4",1,4,1
+2020-11-01,2020,"Torino FC","Lazio Roma","3-4",3,4,1
+2020-11-01,2020,"SSC Napoli","Sassuolo Calcio","0-2",0,2,1
+2020-11-01,2020,"AS Roma","ACF Fiorentina","2-0",2,0,1
+2020-11-01,2020,"Sampdoria","Genoa CFC","1-1",1,1,1
+2020-11-02,2020,"Hellas Verona","Benevento","3-1",3,1,1
+2020-11-04,2020,"Genoa CFC","Torino FC","1-2",1,2,1
+2020-11-06,2020,"Sassuolo Calcio","Udinese Calcio","0-0",0,0,1
+2020-11-07,2020,"Cagliari Calcio","Sampdoria","2-0",2,0,1
+2020-11-07,2020,"Benevento","Spezia Calcio","0-3",0,3,1
+2020-11-07,2020,"Parma FC","ACF Fiorentina","0-0",0,0,1
+2020-11-08,2020,"Lazio Roma","Juventus","1-1",1,1,1
+2020-11-08,2020,"Atalanta","Inter","1-1",1,1,1
+2020-11-08,2020,"Genoa CFC","AS Roma","1-3",1,3,1
+2020-11-08,2020,"Torino FC","FC Crotone","0-0",0,0,1
+2020-11-08,2020,"Bologna FC","SSC Napoli","0-1",0,1,1
+2020-11-08,2020,"AC Milan","Hellas Verona","2-2",2,2,1
+2020-11-21,2020,"FC Crotone","Lazio Roma","0-2",0,2,1
+2020-11-21,2020,"Spezia Calcio","Atalanta","0-0",0,0,1
+2020-11-21,2020,"Juventus","Cagliari Calcio","2-0",2,0,1
+2020-11-22,2020,"ACF Fiorentina","Benevento","0-1",0,1,1
+2020-11-22,2020,"Inter","Torino FC","4-2",4,2,1
+2020-11-22,2020,"AS Roma","Parma FC","3-0",3,0,1
+2020-11-22,2020,"Sampdoria","Bologna FC","1-2",1,2,1
+2020-11-22,2020,"Hellas Verona","Sassuolo Calcio","0-2",0,2,1
+2020-11-22,2020,"Udinese Calcio","Genoa CFC","1-0",1,0,1
+2020-11-22,2020,"SSC Napoli","AC Milan","1-3",1,3,1
+2020-11-28,2020,"Sassuolo Calcio","Inter","0-3",0,3,1
+2020-11-28,2020,"Benevento","Juventus","1-1",1,1,1
+2020-11-28,2020,"Atalanta","Hellas Verona","0-2",0,2,1
+2020-11-29,2020,"Lazio Roma","Udinese Calcio","1-3",1,3,1
+2020-11-29,2020,"Bologna FC","FC Crotone","1-0",1,0,1
+2020-11-29,2020,"AC Milan","ACF Fiorentina","2-0",2,0,1
+2020-11-29,2020,"Cagliari Calcio","Spezia Calcio","2-2",2,2,1
+2020-11-29,2020,"SSC Napoli","AS Roma","4-0",4,0,1
+2020-11-30,2020,"Torino FC","Sampdoria","2-2",2,2,1
+2020-11-30,2020,"Genoa CFC","Parma FC","1-2",1,2,1
+2020-12-05,2020,"Spezia Calcio","Lazio Roma","1-2",1,2,1
+2020-12-05,2020,"Juventus","Torino FC","2-1",2,1,1
+2020-12-05,2020,"Inter","Bologna FC","3-1",3,1,1
+2020-12-06,2020,"Hellas Verona","Cagliari Calcio","1-1",1,1,1
+2020-12-06,2020,"Parma FC","Benevento","0-0",0,0,1
+2020-12-06,2020,"AS Roma","Sassuolo Calcio","0-0",0,0,1
+2020-12-06,2020,"FC Crotone","SSC Napoli","0-4",0,4,1
+2020-12-06,2020,"Sampdoria","AC Milan","1-2",1,2,1
+2020-12-07,2020,"ACF Fiorentina","Genoa CFC","1-1",1,1,1
+2020-12-11,2020,"Sassuolo Calcio","Benevento","1-0",1,0,1
+2020-12-12,2020,"FC Crotone","Spezia Calcio","4-1",4,1,1
+2020-12-12,2020,"Torino FC","Udinese Calcio","2-3",2,3,1
+2020-12-12,2020,"Lazio Roma","Hellas Verona","1-2",1,2,1
+2020-12-13,2020,"Cagliari Calcio","Inter","1-3",1,3,1
+2020-12-13,2020,"Atalanta","ACF Fiorentina","3-0",3,0,1
+2020-12-13,2020,"Bologna FC","AS Roma","1-5",1,5,1
+2020-12-13,2020,"SSC Napoli","Sampdoria","2-1",2,1,1
+2020-12-13,2020,"Genoa CFC","Juventus","1-3",1,3,1
+2020-12-13,2020,"AC Milan","Parma FC","2-2",2,2,1
+2020-12-15,2020,"Udinese Calcio","FC Crotone","0-0",0,0,1
+2020-12-15,2020,"Benevento","Lazio Roma","1-1",1,1,1
+2020-12-16,2020,"Juventus","Atalanta","1-1",1,1,1
+2020-12-16,2020,"ACF Fiorentina","Sassuolo Calcio","1-1",1,1,1
+2020-12-16,2020,"Genoa CFC","AC Milan","2-2",2,2,1
+2020-12-16,2020,"Inter","SSC Napoli","1-0",1,0,1
+2020-12-16,2020,"Parma FC","Cagliari Calcio","0-0",0,0,1
+2020-12-16,2020,"Spezia Calcio","Bologna FC","2-2",2,2,1
+2020-12-16,2020,"Hellas Verona","Sampdoria","1-2",1,2,1
+2020-12-17,2020,"AS Roma","Torino FC","3-1",3,1,1
+2020-12-19,2020,"ACF Fiorentina","Hellas Verona","1-1",1,1,1
+2020-12-19,2020,"Sampdoria","FC Crotone","3-1",3,1,1
+2020-12-19,2020,"Parma FC","Juventus","0-4",0,4,1
+2020-12-20,2020,"Torino FC","Bologna FC","1-1",1,1,1
+2020-12-20,2020,"Benevento","Genoa CFC","2-0",2,0,1
+2020-12-20,2020,"Cagliari Calcio","Udinese Calcio","1-1",1,1,1
+2020-12-20,2020,"Inter","Spezia Calcio","2-1",2,1,1
+2020-12-20,2020,"Sassuolo Calcio","AC Milan","1-2",1,2,1
+2020-12-20,2020,"Atalanta","AS Roma","4-1",4,1,1
+2020-12-20,2020,"Lazio Roma","SSC Napoli","2-0",2,0,1
+2020-12-22,2020,"FC Crotone","Parma FC","2-1",2,1,1
+2020-12-22,2020,"Juventus","ACF Fiorentina","0-3",0,3,1
+2020-12-23,2020,"Hellas Verona","Inter","1-2",1,2,1
+2020-12-23,2020,"Bologna FC","Atalanta","2-2",2,2,1
+2020-12-23,2020,"AC Milan","Lazio Roma","3-2",3,2,1
+2020-12-23,2020,"SSC Napoli","Torino FC","1-1",1,1,1
+2020-12-23,2020,"AS Roma","Cagliari Calcio","3-2",3,2,1
+2020-12-23,2020,"Sampdoria","Sassuolo Calcio","2-3",2,3,1
+2020-12-23,2020,"Spezia Calcio","Genoa CFC","1-2",1,2,1
+2020-12-23,2020,"Udinese Calcio","Benevento","0-2",0,2,1
+2021-01-03,2020,"Inter","FC Crotone","6-2",6,2,1
+2021-01-03,2020,"Atalanta","Sassuolo Calcio","5-1",5,1,1
+2021-01-03,2020,"Cagliari Calcio","SSC Napoli","1-4",1,4,1
+2021-01-03,2020,"ACF Fiorentina","Bologna FC","0-0",0,0,1
+2021-01-03,2020,"Genoa CFC","Lazio Roma","1-1",1,1,1
+2021-01-03,2020,"Parma FC","Torino FC","0-3",0,3,1
+2021-01-03,2020,"AS Roma","Sampdoria","1-0",1,0,1
+2021-01-03,2020,"Spezia Calcio","Hellas Verona","0-1",0,1,1
+2021-01-03,2020,"Benevento","AC Milan","0-2",0,2,1
+2021-01-03,2020,"Juventus","Udinese Calcio","4-1",4,1,1
+2021-01-06,2020,"Cagliari Calcio","Benevento","1-2",1,2,1
+2021-01-06,2020,"Atalanta","Parma FC","3-0",3,0,1
+2021-01-06,2020,"Bologna FC","Udinese Calcio","2-2",2,2,1
+2021-01-06,2020,"FC Crotone","AS Roma","1-3",1,3,1
+2021-01-06,2020,"Lazio Roma","ACF Fiorentina","2-1",2,1,1
+2021-01-06,2020,"Sampdoria","Inter","2-1",2,1,1
+2021-01-06,2020,"Sassuolo Calcio","Genoa CFC","2-1",2,1,1
+2021-01-06,2020,"Torino FC","Hellas Verona","1-1",1,1,1
+2021-01-06,2020,"SSC Napoli","Spezia Calcio","1-2",1,2,1
+2021-01-06,2020,"AC Milan","Juventus","1-3",1,3,1
+2021-01-09,2020,"Benevento","Atalanta","1-4",1,4,1
+2021-01-09,2020,"Genoa CFC","Bologna FC","2-0",2,0,1
+2021-01-09,2020,"AC Milan","Torino FC","2-0",2,0,1
+2021-01-10,2020,"AS Roma","Inter","2-2",2,2,1
+2021-01-10,2020,"Parma FC","Lazio Roma","0-2",0,2,1
+2021-01-10,2020,"Udinese Calcio","SSC Napoli","1-2",1,2,1
+2021-01-10,2020,"Hellas Verona","FC Crotone","2-1",2,1,1
+2021-01-10,2020,"ACF Fiorentina","Cagliari Calcio","1-0",1,0,1
+2021-01-10,2020,"Juventus","Sassuolo Calcio","3-1",3,1,1
+2021-01-11,2020,"Spezia Calcio","Sampdoria","2-1",2,1,1
+2021-01-15,2020,"Lazio Roma","AS Roma","3-0",3,0,1
+2021-01-16,2020,"Bologna FC","Hellas Verona","1-0",1,0,1
+2021-01-16,2020,"Torino FC","Spezia Calcio","0-0",0,0,1
+2021-01-16,2020,"Sampdoria","Udinese Calcio","2-1",2,1,1
+2021-01-17,2020,"SSC Napoli","ACF Fiorentina","6-0",6,0,1
+2021-01-17,2020,"FC Crotone","Benevento","4-1",4,1,1
+2021-01-17,2020,"Sassuolo Calcio","Parma FC","1-1",1,1,1
+2021-01-17,2020,"Atalanta","Genoa CFC","0-0",0,0,1
+2021-01-17,2020,"Inter","Juventus","2-0",2,0,1
+2021-01-18,2020,"Cagliari Calcio","AC Milan","0-2",0,2,1
+2021-01-20,2020,"Udinese Calcio","Atalanta","1-1",1,1,1
+2021-01-22,2020,"Benevento","Torino FC","2-2",2,2,1
+2021-01-23,2020,"AS Roma","Spezia Calcio","4-3",4,3,1
+2021-01-23,2020,"AC Milan","Atalanta","0-3",0,3,1
+2021-01-23,2020,"Udinese Calcio","Inter","0-0",0,0,1
+2021-01-23,2020,"ACF Fiorentina","FC Crotone","2-1",2,1,1
+2021-01-24,2020,"Juventus","Bologna FC","2-0",2,0,1
+2021-01-24,2020,"Genoa CFC","Cagliari Calcio","1-0",1,0,1
+2021-01-24,2020,"Hellas Verona","SSC Napoli","3-1",3,1,1
+2021-01-24,2020,"Lazio Roma","Sassuolo Calcio","2-1",2,1,1
+2021-01-24,2020,"Parma FC","Sampdoria","0-2",0,2,1
+2021-01-29,2020,"Torino FC","ACF Fiorentina","1-1",1,1,1
+2021-01-30,2020,"Bologna FC","AC Milan","1-2",1,2,1
+2021-01-30,2020,"Sampdoria","Juventus","0-2",0,2,1
+2021-01-30,2020,"Inter","Benevento","4-0",4,0,1
+2021-01-31,2020,"Spezia Calcio","Udinese Calcio","0-1",0,1,1
+2021-01-31,2020,"Atalanta","Lazio Roma","1-3",1,3,1
+2021-01-31,2020,"Cagliari Calcio","Sassuolo Calcio","1-1",1,1,1
+2021-01-31,2020,"FC Crotone","Genoa CFC","0-3",0,3,1
+2021-01-31,2020,"SSC Napoli","Parma FC","2-0",2,0,1
+2021-01-31,2020,"AS Roma","Hellas Verona","3-1",3,1,1
+2021-02-05,2020,"ACF Fiorentina","Inter","0-2",0,2,1
+2021-02-06,2020,"Atalanta","Torino FC","3-3",3,3,1
+2021-02-06,2020,"Sassuolo Calcio","Spezia Calcio","1-2",1,2,1
+2021-02-06,2020,"Juventus","AS Roma","2-0",2,0,1
+2021-02-06,2020,"Genoa CFC","SSC Napoli","2-1",2,1,1
+2021-02-07,2020,"Benevento","Sampdoria","1-1",1,1,1
+2021-02-07,2020,"AC Milan","FC Crotone","4-0",4,0,1
+2021-02-07,2020,"Udinese Calcio","Hellas Verona","2-0",2,0,1
+2021-02-07,2020,"Parma FC","Bologna FC","0-3",0,3,1
+2021-02-07,2020,"Lazio Roma","Cagliari Calcio","1-0",1,0,1
+2021-02-12,2020,"Bologna FC","Benevento","1-1",1,1,1
+2021-02-13,2020,"Torino FC","Genoa CFC","0-0",0,0,1
+2021-02-13,2020,"SSC Napoli","Juventus","1-0",1,0,1
+2021-02-13,2020,"Spezia Calcio","AC Milan","2-0",2,0,1
+2021-02-14,2020,"AS Roma","Udinese Calcio","3-0",3,0,1
+2021-02-14,2020,"Cagliari Calcio","Atalanta","0-1",0,1,1
+2021-02-14,2020,"Sampdoria","ACF Fiorentina","2-1",2,1,1
+2021-02-14,2020,"FC Crotone","Sassuolo Calcio","1-2",1,2,1
+2021-02-14,2020,"Inter","Lazio Roma","3-1",3,1,1
+2021-02-15,2020,"Hellas Verona","Parma FC","2-1",2,1,1
+2021-02-19,2020,"ACF Fiorentina","Spezia Calcio","3-0",3,0,1
+2021-02-19,2020,"Cagliari Calcio","Torino FC","0-1",0,1,1
+2021-02-20,2020,"Lazio Roma","Sampdoria","1-0",1,0,1
+2021-02-20,2020,"Genoa CFC","Hellas Verona","2-2",2,2,1
+2021-02-20,2020,"Sassuolo Calcio","Bologna FC","1-1",1,1,1
+2021-02-21,2020,"Parma FC","Udinese Calcio","2-2",2,2,1
+2021-02-21,2020,"AC Milan","Inter","0-3",0,3,1
+2021-02-21,2020,"Atalanta","SSC Napoli","4-2",4,2,1
+2021-02-21,2020,"Benevento","AS Roma","0-0",0,0,1
+2021-02-22,2020,"Juventus","FC Crotone","3-0",3,0,1
+2021-02-27,2020,"Spezia Calcio","Parma FC","2-2",2,2,1
+2021-02-27,2020,"Bologna FC","Lazio Roma","2-0",2,0,1
+2021-02-27,2020,"Hellas Verona","Juventus","1-1",1,1,1
+2021-02-28,2020,"Sampdoria","Atalanta","0-2",0,2,1
+2021-02-28,2020,"FC Crotone","Cagliari Calcio","0-2",0,2,1
+2021-02-28,2020,"Inter","Genoa CFC","3-0",3,0,1
+2021-02-28,2020,"Udinese Calcio","ACF Fiorentina","1-0",1,0,1
+2021-02-28,2020,"SSC Napoli","Benevento","2-0",2,0,1
+2021-02-28,2020,"AS Roma","AC Milan","1-2",1,2,1
+2021-03-02,2020,"Juventus","Spezia Calcio","3-0",3,0,1
+2021-03-03,2020,"Sassuolo Calcio","SSC Napoli","3-3",3,3,1
+2021-03-03,2020,"Atalanta","FC Crotone","5-1",5,1,1
+2021-03-03,2020,"Benevento","Hellas Verona","0-3",0,3,1
+2021-03-03,2020,"Cagliari Calcio","Bologna FC","1-0",1,0,1
+2021-03-03,2020,"ACF Fiorentina","AS Roma","1-2",1,2,1
+2021-03-03,2020,"Genoa CFC","Sampdoria","1-1",1,1,1
+2021-03-03,2020,"AC Milan","Udinese Calcio","1-1",1,1,1
+2021-03-04,2020,"Parma FC","Inter","1-2",1,2,1
+2021-03-06,2020,"Spezia Calcio","Benevento","1-1",1,1,1
+2021-03-06,2020,"Udinese Calcio","Sassuolo Calcio","2-0",2,0,1
+2021-03-06,2020,"Juventus","Lazio Roma","3-1",3,1,1
+2021-03-07,2020,"AS Roma","Genoa CFC","1-0",1,0,1
+2021-03-07,2020,"FC Crotone","Torino FC","4-2",4,2,1
+2021-03-07,2020,"ACF Fiorentina","Parma FC","3-3",3,3,1
+2021-03-07,2020,"Hellas Verona","AC Milan","0-2",0,2,1
+2021-03-07,2020,"Sampdoria","Cagliari Calcio","2-2",2,2,1
+2021-03-07,2020,"SSC Napoli","Bologna FC","3-1",3,1,1
+2021-03-08,2020,"Inter","Atalanta","1-0",1,0,1
+2021-03-12,2020,"Lazio Roma","FC Crotone","3-2",3,2,1
+2021-03-12,2020,"Atalanta","Spezia Calcio","3-1",3,1,1
+2021-03-13,2020,"Sassuolo Calcio","Hellas Verona","3-2",3,2,1
+2021-03-13,2020,"Benevento","ACF Fiorentina","1-4",1,4,1
+2021-03-13,2020,"Genoa CFC","Udinese Calcio","1-1",1,1,1
+2021-03-14,2020,"Bologna FC","Sampdoria","3-1",3,1,1
+2021-03-14,2020,"Parma FC","AS Roma","2-0",2,0,1
+2021-03-14,2020,"Torino FC","Inter","1-2",1,2,1
+2021-03-14,2020,"Cagliari Calcio","Juventus","1-3",1,3,1
+2021-03-14,2020,"AC Milan","SSC Napoli","0-1",0,1,1
+2021-03-17,2020,"Torino FC","Sassuolo Calcio","3-2",3,2,1
+2021-03-19,2020,"Parma FC","Genoa CFC","1-2",1,2,1
+2021-03-20,2020,"FC Crotone","Bologna FC","2-3",2,3,1
+2021-03-20,2020,"Spezia Calcio","Cagliari Calcio","2-1",2,1,1
+2021-03-21,2020,"Hellas Verona","Atalanta","0-2",0,2,1
+2021-03-21,2020,"Juventus","Benevento","0-1",0,1,1
+2021-03-21,2020,"Sampdoria","Torino FC","1-0",1,0,1
+2021-03-21,2020,"Udinese Calcio","Lazio Roma","0-1",0,1,1
+2021-03-21,2020,"ACF Fiorentina","AC Milan","2-3",2,3,1
+2021-03-21,2020,"AS Roma","SSC Napoli","0-2",0,2,1
+2021-04-03,2020,"AC Milan","Sampdoria","1-1",1,1,1
+2021-04-03,2020,"Atalanta","Udinese Calcio","3-2",3,2,1
+2021-04-03,2020,"Benevento","Parma FC","2-2",2,2,1
+2021-04-03,2020,"Cagliari Calcio","Hellas Verona","0-2",0,2,1
+2021-04-03,2020,"Genoa CFC","ACF Fiorentina","1-1",1,1,1
+2021-04-03,2020,"Lazio Roma","Spezia Calcio","2-1",2,1,1
+2021-04-03,2020,"SSC Napoli","FC Crotone","4-3",4,3,1
+2021-04-03,2020,"Sassuolo Calcio","AS Roma","2-2",2,2,1
+2021-04-03,2020,"Torino FC","Juventus","2-2",2,2,1
+2021-04-03,2020,"Bologna FC","Inter","0-1",0,1,1
+2021-04-07,2020,"Inter","Sassuolo Calcio","2-1",2,1,1
+2021-04-07,2020,"Juventus","SSC Napoli","2-1",2,1,1
+2021-04-10,2020,"Spezia Calcio","FC Crotone","3-2",3,2,1
+2021-04-10,2020,"Parma FC","AC Milan","1-3",1,3,1
+2021-04-10,2020,"Udinese Calcio","Torino FC","0-1",0,1,1
+2021-04-11,2020,"Inter","Cagliari Calcio","1-0",1,0,1
+2021-04-11,2020,"Juventus","Genoa CFC","3-1",3,1,1
+2021-04-11,2020,"Sampdoria","SSC Napoli","0-2",0,2,1
+2021-04-11,2020,"Hellas Verona","Lazio Roma","0-1",0,1,1
+2021-04-11,2020,"AS Roma","Bologna FC","1-0",1,0,1
+2021-04-11,2020,"ACF Fiorentina","Atalanta","2-3",2,3,1
+2021-04-12,2020,"Benevento","Sassuolo Calcio","0-1",0,1,1
+2021-04-17,2020,"FC Crotone","Udinese Calcio","1-2",1,2,1
+2021-04-17,2020,"Sampdoria","Hellas Verona","3-1",3,1,1
+2021-04-17,2020,"Sassuolo Calcio","ACF Fiorentina","3-1",3,1,1
+2021-04-17,2020,"Cagliari Calcio","Parma FC","4-3",4,3,1
+2021-04-18,2020,"AC Milan","Genoa CFC","2-1",2,1,1
+2021-04-18,2020,"Atalanta","Juventus","1-0",1,0,1
+2021-04-18,2020,"Bologna FC","Spezia Calcio","4-1",4,1,1
+2021-04-18,2020,"Lazio Roma","Benevento","5-3",5,3,1
+2021-04-18,2020,"Torino FC","AS Roma","3-1",3,1,1
+2021-04-18,2020,"SSC Napoli","Inter","1-1",1,1,1
+2021-04-20,2020,"Hellas Verona","ACF Fiorentina","1-2",1,2,1
+2021-04-21,2020,"AC Milan","Sassuolo Calcio","1-2",1,2,1
+2021-04-21,2020,"Bologna FC","Torino FC","1-1",1,1,1
+2021-04-21,2020,"FC Crotone","Sampdoria","0-1",0,1,1
+2021-04-21,2020,"Genoa CFC","Benevento","2-2",2,2,1
+2021-04-21,2020,"Juventus","Parma FC","3-1",3,1,1
+2021-04-21,2020,"Spezia Calcio","Inter","1-1",1,1,1
+2021-04-21,2020,"Udinese Calcio","Cagliari Calcio","0-1",0,1,1
+2021-04-22,2020,"AS Roma","Atalanta","1-1",1,1,1
+2021-04-22,2020,"SSC Napoli","Lazio Roma","5-2",5,2,1
+2021-04-24,2020,"Genoa CFC","Spezia Calcio","2-0",2,0,1
+2021-04-24,2020,"Parma FC","FC Crotone","3-4",3,4,1
+2021-04-24,2020,"Sassuolo Calcio","Sampdoria","1-0",1,0,1
+2021-04-25,2020,"Benevento","Udinese Calcio","2-4",2,4,1
+2021-04-25,2020,"ACF Fiorentina","Juventus","1-1",1,1,1
+2021-04-25,2020,"Inter","Hellas Verona","1-0",1,0,1
+2021-04-25,2020,"Cagliari Calcio","AS Roma","3-2",3,2,1
+2021-04-25,2020,"Atalanta","Bologna FC","5-0",5,0,1
+2021-04-26,2020,"Torino FC","SSC Napoli","0-2",0,2,1
+2021-04-26,2020,"Lazio Roma","AC Milan","3-0",3,0,1
+2021-05-01,2020,"Hellas Verona","Spezia Calcio","1-1",1,1,1
+2021-05-01,2020,"FC Crotone","Inter","0-2",0,2,1
+2021-05-01,2020,"AC Milan","Benevento","2-0",2,0,1
+2021-05-02,2020,"Lazio Roma","Genoa CFC","4-3",4,3,1
+2021-05-02,2020,"Bologna FC","ACF Fiorentina","3-3",3,3,1
+2021-05-02,2020,"SSC Napoli","Cagliari Calcio","1-1",1,1,1
+2021-05-02,2020,"Sassuolo Calcio","Atalanta","1-1",1,1,1
+2021-05-02,2020,"Udinese Calcio","Juventus","1-2",1,2,1
+2021-05-02,2020,"Sampdoria","AS Roma","2-0",2,0,1
+2021-05-03,2020,"Torino FC","Parma FC","1-0",1,0,1
+2021-05-08,2020,"Spezia Calcio","SSC Napoli","1-4",1,4,1
+2021-05-08,2020,"Udinese Calcio","Bologna FC","1-1",1,1,1
+2021-05-08,2020,"Inter","Sampdoria","5-1",5,1,1
+2021-05-08,2020,"ACF Fiorentina","Lazio Roma","2-0",2,0,1
+2021-05-09,2020,"Genoa CFC","Sassuolo Calcio","1-2",1,2,1
+2021-05-09,2020,"Benevento","Cagliari Calcio","1-3",1,3,1
+2021-05-09,2020,"Parma FC","Atalanta","2-5",2,5,1
+2021-05-09,2020,"Hellas Verona","Torino FC","1-1",1,1,1
+2021-05-09,2020,"AS Roma","FC Crotone","5-0",5,0,1
+2021-05-09,2020,"Juventus","AC Milan","0-3",0,3,1
+2021-05-11,2020,"SSC Napoli","Udinese Calcio","5-1",5,1,1
+2021-05-12,2020,"Cagliari Calcio","ACF Fiorentina","0-0",0,0,1
+2021-05-12,2020,"Atalanta","Benevento","2-0",2,0,1
+2021-05-12,2020,"Bologna FC","Genoa CFC","0-2",0,2,1
+2021-05-12,2020,"Inter","AS Roma","3-1",3,1,1
+2021-05-12,2020,"Lazio Roma","Parma FC","1-0",1,0,1
+2021-05-12,2020,"Sampdoria","Spezia Calcio","2-2",2,2,1
+2021-05-12,2020,"Sassuolo Calcio","Juventus","1-3",1,3,1
+2021-05-12,2020,"Torino FC","AC Milan","0-7",0,7,1
+2021-05-13,2020,"FC Crotone","Hellas Verona","2-1",2,1,1
+2021-05-15,2020,"Genoa CFC","Atalanta","3-4",3,4,1
+2021-05-15,2020,"Spezia Calcio","Torino FC","4-1",4,1,1
+2021-05-15,2020,"Juventus","Inter","3-2",3,2,1
+2021-05-15,2020,"AS Roma","Lazio Roma","2-0",2,0,1
+2021-05-16,2020,"ACF Fiorentina","SSC Napoli","0-2",0,2,1
+2021-05-16,2020,"Benevento","FC Crotone","1-1",1,1,1
+2021-05-16,2020,"Udinese Calcio","Sampdoria","0-1",0,1,1
+2021-05-16,2020,"Parma FC","Sassuolo Calcio","1-3",1,3,1
+2021-05-16,2020,"AC Milan","Cagliari Calcio","0-0",0,0,1
+2021-05-17,2020,"Hellas Verona","Bologna FC","2-2",2,2,1
+2021-05-18,2020,"Lazio Roma","Torino FC","0-0",0,0,1
+2021-05-22,2020,"Cagliari Calcio","Genoa CFC","0-1",0,1,1
+2021-05-22,2020,"FC Crotone","ACF Fiorentina","0-0",0,0,1
+2021-05-22,2020,"Sampdoria","Parma FC","3-0",3,0,1
+2021-05-23,2020,"Inter","Udinese Calcio","5-1",5,1,1
+2021-05-23,2020,"Atalanta","AC Milan","0-2",0,2,1
+2021-05-23,2020,"Bologna FC","Juventus","1-4",1,4,1
+2021-05-23,2020,"SSC Napoli","Hellas Verona","1-1",1,1,1
+2021-05-23,2020,"Sassuolo Calcio","Lazio Roma","2-0",2,0,1
+2021-05-23,2020,"Spezia Calcio","AS Roma","2-2",2,2,1
+2021-05-23,2020,"Torino FC","Benevento","1-1",1,1,1
+2021-08-21,2021,"Inter","Genoa CFC","4-0",4,0,1
+2021-08-21,2021,"Hellas Verona","Sassuolo Calcio","2-3",2,3,1
+2021-08-21,2021,"Empoli FC","Lazio Roma","1-3",1,3,1
+2021-08-21,2021,"Torino FC","Atalanta","1-2",1,2,1
+2021-08-22,2021,"Bologna FC","Salernitana Calcio 1919","3-2",3,2,1
+2021-08-22,2021,"Udinese Calcio","Juventus","2-2",2,2,1
+2021-08-22,2021,"SSC Napoli","AC Venezia","2-0",2,0,1
+2021-08-22,2021,"AS Roma","ACF Fiorentina","3-1",3,1,1
+2021-08-23,2021,"Cagliari Calcio","Spezia Calcio","2-2",2,2,1
+2021-08-23,2021,"Sampdoria","AC Milan","0-1",0,1,1
+2021-08-27,2021,"Udinese Calcio","AC Venezia","3-0",3,0,1
+2021-08-27,2021,"Hellas Verona","Inter","1-3",1,3,1
+2021-08-28,2021,"Atalanta","Bologna FC","0-0",0,0,1
+2021-08-28,2021,"Lazio Roma","Spezia Calcio","6-1",6,1,1
+2021-08-28,2021,"ACF Fiorentina","Torino FC","2-1",2,1,1
+2021-08-28,2021,"Juventus","Empoli FC","0-1",0,1,1
+2021-08-29,2021,"Genoa CFC","SSC Napoli","1-2",1,2,1
+2021-08-29,2021,"Sassuolo Calcio","Sampdoria","0-0",0,0,1
+2021-08-29,2021,"AC Milan","Cagliari Calcio","4-1",4,1,1
+2021-08-29,2021,"Salernitana Calcio 1919","AS Roma","0-4",0,4,1
+2021-09-11,2021,"Empoli FC","AC Venezia","1-2",1,2,1
+2021-09-11,2021,"SSC Napoli","Juventus","2-1",2,1,1
+2021-09-11,2021,"Atalanta","ACF Fiorentina","1-2",1,2,1
+2021-09-12,2021,"Sampdoria","Inter","2-2",2,2,1
+2021-09-12,2021,"Cagliari Calcio","Genoa CFC","2-3",2,3,1
+2021-09-12,2021,"Spezia Calcio","Udinese Calcio","0-1",0,1,1
+2021-09-12,2021,"Torino FC","Salernitana Calcio 1919","4-0",4,0,1
+2021-09-12,2021,"AC Milan","Lazio Roma","2-0",2,0,1
+2021-09-12,2021,"AS Roma","Sassuolo Calcio","2-1",2,1,1
+2021-09-13,2021,"Bologna FC","Hellas Verona","1-0",1,0,1
+2021-09-17,2021,"Sassuolo Calcio","Torino FC","0-1",0,1,1
+2021-09-18,2021,"Genoa CFC","ACF Fiorentina","1-2",1,2,1
+2021-09-18,2021,"Inter","Bologna FC","6-1",6,1,1
+2021-09-18,2021,"Salernitana Calcio 1919","Atalanta","0-1",0,1,1
+2021-09-19,2021,"Empoli FC","Sampdoria","0-3",0,3,1
+2021-09-19,2021,"AC Venezia","Spezia Calcio","1-2",1,2,1
+2021-09-19,2021,"Lazio Roma","Cagliari Calcio","2-2",2,2,1
+2021-09-19,2021,"Hellas Verona","AS Roma","3-2",3,2,1
+2021-09-19,2021,"Juventus","AC Milan","1-1",1,1,1
+2021-09-20,2021,"Udinese Calcio","SSC Napoli","0-4",0,4,1
+2021-09-21,2021,"Bologna FC","Genoa CFC","2-2",2,2,1
+2021-09-21,2021,"Atalanta","Sassuolo Calcio","2-1",2,1,1
+2021-09-21,2021,"ACF Fiorentina","Inter","1-3",1,3,1
+2021-09-22,2021,"Salernitana Calcio 1919","Hellas Verona","2-2",2,2,1
+2021-09-22,2021,"Spezia Calcio","Juventus","2-3",2,3,1
+2021-09-22,2021,"Cagliari Calcio","Empoli FC","0-2",0,2,1
+2021-09-22,2021,"AC Milan","AC Venezia","2-0",2,0,1
+2021-09-23,2021,"Sampdoria","SSC Napoli","0-4",0,4,1
+2021-09-23,2021,"Torino FC","Lazio Roma","1-1",1,1,1
+2021-09-23,2021,"AS Roma","Udinese Calcio","1-0",1,0,1
+2021-09-25,2021,"Spezia Calcio","AC Milan","1-2",1,2,1
+2021-09-25,2021,"Inter","Atalanta","2-2",2,2,1
+2021-09-25,2021,"Genoa CFC","Hellas Verona","3-3",3,3,1
+2021-09-26,2021,"Juventus","Sampdoria","3-2",3,2,1
+2021-09-26,2021,"Empoli FC","Bologna FC","4-2",4,2,1
+2021-09-26,2021,"Sassuolo Calcio","Salernitana Calcio 1919","1-0",1,0,1
+2021-09-26,2021,"Udinese Calcio","ACF Fiorentina","0-1",0,1,1
+2021-09-26,2021,"Lazio Roma","AS Roma","3-2",3,2,1
+2021-09-26,2021,"SSC Napoli","Cagliari Calcio","2-0",2,0,1
+2021-09-27,2021,"AC Venezia","Torino FC","1-1",1,1,1
+2021-10-01,2021,"Cagliari Calcio","AC Venezia","1-1",1,1,1
+2021-10-02,2021,"Salernitana Calcio 1919","Genoa CFC","1-0",1,0,1
+2021-10-02,2021,"Torino FC","Juventus","0-1",0,1,1
+2021-10-02,2021,"Sassuolo Calcio","Inter","1-2",1,2,1
+2021-10-03,2021,"Bologna FC","Lazio Roma","3-0",3,0,1
+2021-10-03,2021,"Sampdoria","Udinese Calcio","3-3",3,3,1
+2021-10-03,2021,"Hellas Verona","Spezia Calcio","4-0",4,0,1
+2021-10-03,2021,"ACF Fiorentina","SSC Napoli","1-2",1,2,1
+2021-10-03,2021,"AS Roma","Empoli FC","2-0",2,0,1
+2021-10-03,2021,"Atalanta","AC Milan","2-3",2,3,1
+2021-10-16,2021,"Spezia Calcio","Salernitana Calcio 1919","2-1",2,1,1
+2021-10-16,2021,"Lazio Roma","Inter","3-1",3,1,1
+2021-10-16,2021,"AC Milan","Hellas Verona","3-2",3,2,1
+2021-10-17,2021,"Cagliari Calcio","Sampdoria","3-1",3,1,1
+2021-10-17,2021,"Empoli FC","Atalanta","1-4",1,4,1
+2021-10-17,2021,"Genoa CFC","Sassuolo Calcio","2-2",2,2,1
+2021-10-17,2021,"Udinese Calcio","Bologna FC","1-1",1,1,1
+2021-10-17,2021,"SSC Napoli","Torino FC","1-0",1,0,1
+2021-10-17,2021,"Juventus","AS Roma","1-0",1,0,1
+2021-10-18,2021,"AC Venezia","ACF Fiorentina","1-0",1,0,1
+2021-10-22,2021,"Torino FC","Genoa CFC","3-2",3,2,1
+2021-10-22,2021,"Sampdoria","Spezia Calcio","2-1",2,1,1
+2021-10-23,2021,"Salernitana Calcio 1919","Empoli FC","2-4",2,4,1
+2021-10-23,2021,"Sassuolo Calcio","AC Venezia","3-1",3,1,1
+2021-10-23,2021,"Bologna FC","AC Milan","2-4",2,4,1
+2021-10-24,2021,"Atalanta","Udinese Calcio","1-1",1,1,1
+2021-10-24,2021,"ACF Fiorentina","Cagliari Calcio","3-0",3,0,1
+2021-10-24,2021,"Hellas Verona","Lazio Roma","4-1",4,1,1
+2021-10-24,2021,"AS Roma","SSC Napoli","0-0",0,0,1
+2021-10-24,2021,"Inter","Juventus","1-1",1,1,1
+2021-10-26,2021,"Spezia Calcio","Genoa CFC","1-1",1,1,1
+2021-10-26,2021,"AC Venezia","Salernitana Calcio 1919","1-2",1,2,1
+2021-10-26,2021,"AC Milan","Torino FC","1-0",1,0,1
+2021-10-27,2021,"Juventus","Sassuolo Calcio","1-2",1,2,1
+2021-10-27,2021,"Sampdoria","Atalanta","1-3",1,3,1
+2021-10-27,2021,"Udinese Calcio","Hellas Verona","1-1",1,1,1
+2021-10-27,2021,"Cagliari Calcio","AS Roma","1-2",1,2,1
+2021-10-27,2021,"Empoli FC","Inter","0-2",0,2,1
+2021-10-27,2021,"Lazio Roma","ACF Fiorentina","1-0",1,0,1
+2021-10-28,2021,"SSC Napoli","Bologna FC","3-0",3,0,1
+2021-10-30,2021,"Atalanta","Lazio Roma","2-2",2,2,1
+2021-10-30,2021,"Hellas Verona","Juventus","2-1",2,1,1
+2021-10-30,2021,"Torino FC","Sampdoria","3-0",3,0,1
+2021-10-31,2021,"Inter","Udinese Calcio","2-0",2,0,1
+2021-10-31,2021,"ACF Fiorentina","Spezia Calcio","3-0",3,0,1
+2021-10-31,2021,"Genoa CFC","AC Venezia","0-0",0,0,1
+2021-10-31,2021,"Sassuolo Calcio","Empoli FC","1-2",1,2,1
+2021-10-31,2021,"Salernitana Calcio 1919","SSC Napoli","0-1",0,1,1
+2021-10-31,2021,"AS Roma","AC Milan","1-2",1,2,1
+2021-11-01,2021,"Bologna FC","Cagliari Calcio","2-0",2,0,1
+2021-11-05,2021,"Empoli FC","Genoa CFC","2-2",2,2,1
+2021-11-06,2021,"Spezia Calcio","Torino FC","1-0",1,0,1
+2021-11-06,2021,"Juventus","ACF Fiorentina","1-0",1,0,1
+2021-11-06,2021,"Cagliari Calcio","Atalanta","1-2",1,2,1
+2021-11-07,2021,"AC Venezia","AS Roma","3-2",3,2,1
+2021-11-07,2021,"Sampdoria","Bologna FC","1-2",1,2,1
+2021-11-07,2021,"Udinese Calcio","Sassuolo Calcio","3-2",3,2,1
+2021-11-07,2021,"Lazio Roma","Salernitana Calcio 1919","3-0",3,0,1
+2021-11-07,2021,"SSC Napoli","Hellas Verona","1-1",1,1,1
+2021-11-07,2021,"AC Milan","Inter","1-1",1,1,1
+2021-11-20,2021,"Atalanta","Spezia Calcio","5-2",5,2,1
+2021-11-20,2021,"Lazio Roma","Juventus","0-2",0,2,1
+2021-11-20,2021,"ACF Fiorentina","AC Milan","4-3",4,3,1
+2021-11-21,2021,"Sassuolo Calcio","Cagliari Calcio","2-2",2,2,1
+2021-11-21,2021,"Bologna FC","AC Venezia","0-1",0,1,1
+2021-11-21,2021,"Salernitana Calcio 1919","Sampdoria","0-2",0,2,1
+2021-11-21,2021,"Inter","SSC Napoli","3-2",3,2,1
+2021-11-21,2021,"Genoa CFC","AS Roma","0-2",0,2,1
+2021-11-22,2021,"Hellas Verona","Empoli FC","2-1",2,1,1
+2021-11-22,2021,"Torino FC","Udinese Calcio","2-1",2,1,1
+2021-11-26,2021,"Cagliari Calcio","Salernitana Calcio 1919","1-1",1,1,1
+2021-11-27,2021,"Empoli FC","ACF Fiorentina","2-1",2,1,1
+2021-11-27,2021,"Sampdoria","Hellas Verona","3-1",3,1,1
+2021-11-27,2021,"Juventus","Atalanta","0-1",0,1,1
+2021-11-27,2021,"AC Venezia","Inter","0-2",0,2,1
+2021-11-28,2021,"Udinese Calcio","Genoa CFC","0-0",0,0,1
+2021-11-28,2021,"AC Milan","Sassuolo Calcio","1-3",1,3,1
+2021-11-28,2021,"Spezia Calcio","Bologna FC","0-1",0,1,1
+2021-11-28,2021,"AS Roma","Torino FC","1-0",1,0,1
+2021-11-28,2021,"SSC Napoli","Lazio Roma","4-0",4,0,1
+2021-11-30,2021,"Atalanta","AC Venezia","4-0",4,0,1
+2021-11-30,2021,"ACF Fiorentina","Sampdoria","3-1",3,1,1
+2021-11-30,2021,"Salernitana Calcio 1919","Juventus","0-2",0,2,1
+2021-11-30,2021,"Hellas Verona","Cagliari Calcio","0-0",0,0,1
+2021-12-01,2021,"Bologna FC","AS Roma","1-0",1,0,1
+2021-12-01,2021,"Inter","Spezia Calcio","2-0",2,0,1
+2021-12-01,2021,"Genoa CFC","AC Milan","0-3",0,3,1
+2021-12-01,2021,"Sassuolo Calcio","SSC Napoli","2-2",2,2,1
+2021-12-02,2021,"Torino FC","Empoli FC","2-2",2,2,1
+2021-12-02,2021,"Lazio Roma","Udinese Calcio","4-4",4,4,1
+2021-12-04,2021,"AC Milan","Salernitana Calcio 1919","2-0",2,0,1
+2021-12-04,2021,"AS Roma","Inter","0-3",0,3,1
+2021-12-04,2021,"SSC Napoli","Atalanta","2-3",2,3,1
+2021-12-05,2021,"Bologna FC","ACF Fiorentina","2-3",2,3,1
+2021-12-05,2021,"Spezia Calcio","Sassuolo Calcio","2-2",2,2,1
+2021-12-05,2021,"AC Venezia","Hellas Verona","3-4",3,4,1
+2021-12-05,2021,"Sampdoria","Lazio Roma","1-3",1,3,1
+2021-12-05,2021,"Juventus","Genoa CFC","2-0",2,0,1
+2021-12-06,2021,"Empoli FC","Udinese Calcio","3-1",3,1,1
+2021-12-06,2021,"Cagliari Calcio","Torino FC","1-1",1,1,1
+2021-12-10,2021,"Genoa CFC","Sampdoria","1-3",1,3,1
+2021-12-11,2021,"ACF Fiorentina","Salernitana Calcio 1919","4-0",4,0,1
+2021-12-11,2021,"AC Venezia","Juventus","1-1",1,1,1
+2021-12-11,2021,"Udinese Calcio","AC Milan","1-1",1,1,1
+2021-12-12,2021,"Torino FC","Bologna FC","2-1",2,1,1
+2021-12-12,2021,"Hellas Verona","Atalanta","1-2",1,2,1
+2021-12-12,2021,"SSC Napoli","Empoli FC","0-1",0,1,1
+2021-12-12,2021,"Sassuolo Calcio","Lazio Roma","2-1",2,1,1
+2021-12-12,2021,"Inter","Cagliari Calcio","4-0",4,0,1
+2021-12-13,2021,"AS Roma","Spezia Calcio","2-0",2,0,1
+2021-12-17,2021,"Lazio Roma","Genoa CFC","3-1",3,1,1
+2021-12-17,2021,"Salernitana Calcio 1919","Inter","0-5",0,5,1
+2021-12-18,2021,"Atalanta","AS Roma","1-4",1,4,1
+2021-12-18,2021,"Bologna FC","Juventus","0-2",0,2,1
+2021-12-18,2021,"Cagliari Calcio","Udinese Calcio","0-4",0,4,1
+2021-12-19,2021,"ACF Fiorentina","Sassuolo Calcio","2-2",2,2,1
+2021-12-19,2021,"Spezia Calcio","Empoli FC","1-1",1,1,1
+2021-12-19,2021,"Sampdoria","AC Venezia","1-1",1,1,1
+2021-12-19,2021,"Torino FC","Hellas Verona","1-0",1,0,1
+2021-12-19,2021,"AC Milan","SSC Napoli","0-1",0,1,1
+2021-12-21,2021,"Genoa CFC","Atalanta","0-0",0,0,1
+2021-12-21,2021,"Juventus","Cagliari Calcio","2-0",2,0,1
+2021-12-22,2021,"Sassuolo Calcio","Bologna FC","0-3",0,3,1
+2021-12-22,2021,"AC Venezia","Lazio Roma","1-3",1,3,1
+2021-12-22,2021,"Inter","Torino FC","1-0",1,0,1
+2021-12-22,2021,"AS Roma","Sampdoria","1-1",1,1,1
+2021-12-22,2021,"Hellas Verona","ACF Fiorentina","1-1",1,1,1
+2021-12-22,2021,"Empoli FC","AC Milan","2-4",2,4,1
+2021-12-22,2021,"SSC Napoli","Spezia Calcio","0-1",0,1,1
+2022-01-06,2021,"Sampdoria","Cagliari Calcio","1-2",1,2,1
+2022-01-06,2021,"Lazio Roma","Empoli FC","3-3",3,3,1
+2022-01-06,2021,"Spezia Calcio","Hellas Verona","1-2",1,2,1
+2022-01-06,2021,"Sassuolo Calcio","Genoa CFC","1-1",1,1,1
+2022-01-06,2021,"AC Milan","AS Roma","3-1",3,1,1
+2022-01-06,2021,"Juventus","SSC Napoli","1-1",1,1,1
+2022-01-09,2021,"Empoli FC","Sassuolo Calcio","1-5",1,5,1
+2022-01-09,2021,"AC Venezia","AC Milan","0-3",0,3,1
+2022-01-09,2021,"SSC Napoli","Sampdoria","1-0",1,0,1
+2022-01-09,2021,"Udinese Calcio","Atalanta","2-6",2,6,1
+2022-01-09,2021,"Genoa CFC","Spezia Calcio","0-1",0,1,1
+2022-01-09,2021,"AS Roma","Juventus","3-4",3,4,1
+2022-01-09,2021,"Inter","Lazio Roma","2-1",2,1,1
+2022-01-09,2021,"Hellas Verona","Salernitana Calcio 1919","1-2",1,2,1
+2022-01-10,2021,"Torino FC","ACF Fiorentina","4-0",4,0,1
+2022-01-11,2021,"Cagliari Calcio","Bologna FC","2-1",2,1,1
+2022-01-15,2021,"Sampdoria","Torino FC","1-2",1,2,1
+2022-01-15,2021,"Salernitana Calcio 1919","Lazio Roma","0-3",0,3,1
+2022-01-15,2021,"Juventus","Udinese Calcio","2-0",2,0,1
+2022-01-16,2021,"Sassuolo Calcio","Hellas Verona","2-4",2,4,1
+2022-01-16,2021,"AC Venezia","Empoli FC","1-1",1,1,1
+2022-01-16,2021,"AS Roma","Cagliari Calcio","1-0",1,0,1
+2022-01-16,2021,"Atalanta","Inter","0-0",0,0,1
+2022-01-17,2021,"Bologna FC","SSC Napoli","0-2",0,2,1
+2022-01-17,2021,"AC Milan","Spezia Calcio","1-2",1,2,1
+2022-01-17,2021,"ACF Fiorentina","Genoa CFC","6-0",6,0,1
+2022-01-21,2021,"Hellas Verona","Bologna FC","2-1",2,1,1
+2022-01-22,2021,"Genoa CFC","Udinese Calcio","0-0",0,0,1
+2022-01-22,2021,"Inter","AC Venezia","2-1",2,1,1
+2022-01-22,2021,"Lazio Roma","Atalanta","0-0",0,0,1
+2022-01-23,2021,"Cagliari Calcio","ACF Fiorentina","1-1",1,1,1
+2022-01-23,2021,"SSC Napoli","Salernitana Calcio 1919","4-1",4,1,1
+2022-01-23,2021,"Spezia Calcio","Sampdoria","1-0",1,0,1
+2022-01-23,2021,"Torino FC","Sassuolo Calcio","1-1",1,1,1
+2022-01-23,2021,"Empoli FC","AS Roma","2-4",2,4,1
+2022-01-23,2021,"AC Milan","Juventus","0-0",0,0,1
+2022-02-05,2021,"AS Roma","Genoa CFC","0-0",0,0,1
+2022-02-05,2021,"Inter","AC Milan","1-2",1,2,1
+2022-02-05,2021,"ACF Fiorentina","Lazio Roma","0-3",0,3,1
+2022-02-06,2021,"Atalanta","Cagliari Calcio","1-2",1,2,1
+2022-02-06,2021,"Bologna FC","Empoli FC","0-0",0,0,1
+2022-02-06,2021,"Sampdoria","Sassuolo Calcio","4-0",4,0,1
+2022-02-06,2021,"AC Venezia","SSC Napoli","0-2",0,2,1
+2022-02-06,2021,"Udinese Calcio","Torino FC","2-0",2,0,1
+2022-02-06,2021,"Juventus","Hellas Verona","2-0",2,0,1
+2022-02-07,2021,"Salernitana Calcio 1919","Spezia Calcio","2-2",2,2,1
+2022-02-12,2021,"Lazio Roma","Bologna FC","3-0",3,0,1
+2022-02-12,2021,"SSC Napoli","Inter","1-1",1,1,1
+2022-02-12,2021,"Torino FC","AC Venezia","1-2",1,2,1
+2022-02-13,2021,"AC Milan","Sampdoria","1-0",1,0,1
+2022-02-13,2021,"Empoli FC","Cagliari Calcio","1-1",1,1,1
+2022-02-13,2021,"Genoa CFC","Salernitana Calcio 1919","1-1",1,1,1
+2022-02-13,2021,"Hellas Verona","Udinese Calcio","4-0",4,0,1
+2022-02-13,2021,"Sassuolo Calcio","AS Roma","2-2",2,2,1
+2022-02-13,2021,"Atalanta","Juventus","1-1",1,1,1
+2022-02-14,2021,"Spezia Calcio","ACF Fiorentina","1-2",1,2,1
+2022-02-18,2021,"Juventus","Torino FC","1-1",1,1,1
+2022-02-19,2021,"Sampdoria","Empoli FC","2-0",2,0,1
+2022-02-19,2021,"AS Roma","Hellas Verona","2-2",2,2,1
+2022-02-19,2021,"Salernitana Calcio 1919","AC Milan","2-2",2,2,1
+2022-02-20,2021,"ACF Fiorentina","Atalanta","1-0",1,0,1
+2022-02-20,2021,"AC Venezia","Genoa CFC","1-1",1,1,1
+2022-02-20,2021,"Inter","Sassuolo Calcio","0-2",0,2,1
+2022-02-20,2021,"Udinese Calcio","Lazio Roma","1-1",1,1,1
+2022-02-21,2021,"Cagliari Calcio","SSC Napoli","1-1",1,1,1
+2022-02-21,2021,"Bologna FC","Spezia Calcio","2-1",2,1,1
+2022-02-25,2021,"AC Milan","Udinese Calcio","1-1",1,1,1
+2022-02-25,2021,"Genoa CFC","Inter","0-0",0,0,1
+2022-02-26,2021,"Salernitana Calcio 1919","Bologna FC","1-1",1,1,1
+2022-02-26,2021,"Empoli FC","Juventus","2-3",2,3,1
+2022-02-26,2021,"Sassuolo Calcio","ACF Fiorentina","2-1",2,1,1
+2022-02-27,2021,"Torino FC","Cagliari Calcio","1-2",1,2,1
+2022-02-27,2021,"Hellas Verona","AC Venezia","3-1",3,1,1
+2022-02-27,2021,"Spezia Calcio","AS Roma","0-1",0,1,1
+2022-02-27,2021,"Lazio Roma","SSC Napoli","1-2",1,2,1
+2022-02-28,2021,"Atalanta","Sampdoria","4-0",4,0,1
+2022-03-04,2021,"Inter","Salernitana Calcio 1919","5-0",5,0,1
+2022-03-05,2021,"Udinese Calcio","Sampdoria","2-1",2,1,1
+2022-03-05,2021,"AS Roma","Atalanta","1-0",1,0,1
+2022-03-05,2021,"Cagliari Calcio","Lazio Roma","0-3",0,3,1
+2022-03-06,2021,"Genoa CFC","Empoli FC","0-0",0,0,1
+2022-03-06,2021,"Bologna FC","Torino FC","0-0",0,0,1
+2022-03-06,2021,"ACF Fiorentina","Hellas Verona","1-1",1,1,1
+2022-03-06,2021,"AC Venezia","Sassuolo Calcio","1-4",1,4,1
+2022-03-06,2021,"Juventus","Spezia Calcio","1-0",1,0,1
+2022-03-06,2021,"SSC Napoli","AC Milan","0-1",0,1,1
+2022-03-12,2021,"Salernitana Calcio 1919","Sassuolo Calcio","2-2",2,2,1
+2022-03-12,2021,"Spezia Calcio","Cagliari Calcio","2-0",2,0,1
+2022-03-12,2021,"Sampdoria","Juventus","1-3",1,3,1
+2022-03-12,2021,"AC Milan","Empoli FC","1-0",1,0,1
+2022-03-13,2021,"ACF Fiorentina","Bologna FC","1-0",1,0,1
+2022-03-13,2021,"Hellas Verona","SSC Napoli","1-2",1,2,1
+2022-03-13,2021,"Atalanta","Genoa CFC","0-0",0,0,1
+2022-03-13,2021,"Udinese Calcio","AS Roma","1-1",1,1,1
+2022-03-13,2021,"Torino FC","Inter","1-1",1,1,1
+2022-03-14,2021,"Lazio Roma","AC Venezia","1-0",1,0,1
+2022-03-18,2021,"Sassuolo Calcio","Spezia Calcio","4-1",4,1,1
+2022-03-18,2021,"Genoa CFC","Torino FC","1-0",1,0,1
+2022-03-19,2021,"SSC Napoli","Udinese Calcio","2-1",2,1,1
+2022-03-19,2021,"Inter","ACF Fiorentina","1-1",1,1,1
+2022-03-19,2021,"Cagliari Calcio","AC Milan","0-1",0,1,1
+2022-03-20,2021,"AC Venezia","Sampdoria","0-2",0,2,1
+2022-03-20,2021,"Empoli FC","Hellas Verona","1-1",1,1,1
+2022-03-20,2021,"Juventus","Salernitana Calcio 1919","2-0",2,0,1
+2022-03-20,2021,"AS Roma","Lazio Roma","3-0",3,0,1
+2022-03-20,2021,"Bologna FC","Atalanta","0-1",0,1,1
+2022-04-02,2021,"Spezia Calcio","AC Venezia","1-0",1,0,1
+2022-04-02,2021,"Lazio Roma","Sassuolo Calcio","2-1",2,1,1
+2022-04-02,2021,"Salernitana Calcio 1919","Torino FC","0-1",0,1,1
+2022-04-03,2021,"ACF Fiorentina","Empoli FC","1-0",1,0,1
+2022-04-03,2021,"Atalanta","SSC Napoli","1-3",1,3,1
+2022-04-03,2021,"Udinese Calcio","Cagliari Calcio","5-1",5,1,1
+2022-04-03,2021,"Sampdoria","AS Roma","0-1",0,1,1
+2022-04-03,2021,"Juventus","Inter","0-1",0,1,1
+2022-04-04,2021,"Hellas Verona","Genoa CFC","1-0",1,0,1
+2022-04-04,2021,"AC Milan","Bologna FC","0-0",0,0,1
+2022-04-09,2021,"Empoli FC","Spezia Calcio","0-0",0,0,1
+2022-04-09,2021,"Inter","Hellas Verona","2-0",2,0,1
+2022-04-09,2021,"Cagliari Calcio","Juventus","1-2",1,2,1
+2022-04-10,2021,"Genoa CFC","Lazio Roma","1-4",1,4,1
+2022-04-10,2021,"SSC Napoli","ACF Fiorentina","2-3",2,3,1
+2022-04-10,2021,"Sassuolo Calcio","Atalanta","2-1",2,1,1
+2022-04-10,2021,"AC Venezia","Udinese Calcio","1-2",1,2,1
+2022-04-10,2021,"AS Roma","Salernitana Calcio 1919","2-1",2,1,1
+2022-04-10,2021,"Torino FC","AC Milan","0-0",0,0,1
+2022-04-11,2021,"Bologna FC","Sampdoria","2-0",2,0,1
+2022-04-15,2021,"Spezia Calcio","Inter","1-3",1,3,1
+2022-04-15,2021,"AC Milan","Genoa CFC","2-0",2,0,1
+2022-04-16,2021,"Cagliari Calcio","Sassuolo Calcio","1-0",1,0,1
+2022-04-16,2021,"Sampdoria","Salernitana Calcio 1919","1-2",1,2,1
+2022-04-16,2021,"Udinese Calcio","Empoli FC","4-1",4,1,1
+2022-04-16,2021,"ACF Fiorentina","AC Venezia","1-0",1,0,1
+2022-04-16,2021,"Juventus","Bologna FC","1-1",1,1,1
+2022-04-16,2021,"Lazio Roma","Torino FC","1-1",1,1,1
+2022-04-18,2021,"SSC Napoli","AS Roma","1-1",1,1,1
+2022-04-18,2021,"Atalanta","Hellas Verona","1-2",1,2,1
+2022-04-20,2021,"Udinese Calcio","Salernitana Calcio 1919","0-1",0,1,1
+2022-04-23,2021,"Torino FC","Spezia Calcio","2-1",2,1,1
+2022-04-23,2021,"AC Venezia","Atalanta","1-3",1,3,1
+2022-04-23,2021,"Inter","AS Roma","3-1",3,1,1
+2022-04-23,2021,"Hellas Verona","Sampdoria","1-1",1,1,1
+2022-04-24,2021,"Salernitana Calcio 1919","ACF Fiorentina","2-1",2,1,1
+2022-04-24,2021,"Bologna FC","Udinese Calcio","2-2",2,2,1
+2022-04-24,2021,"Empoli FC","SSC Napoli","3-2",3,2,1
+2022-04-24,2021,"Genoa CFC","Cagliari Calcio","1-0",1,0,1
+2022-04-24,2021,"Lazio Roma","AC Milan","1-2",1,2,1
+2022-04-25,2021,"Sassuolo Calcio","Juventus","1-2",1,2,1
+2022-04-27,2021,"ACF Fiorentina","Udinese Calcio","0-4",0,4,1
+2022-04-27,2021,"Atalanta","Torino FC","4-4",4,4,1
+2022-04-27,2021,"Bologna FC","Inter","2-1",2,1,1
+2022-04-30,2021,"Cagliari Calcio","Hellas Verona","1-2",1,2,1
+2022-04-30,2021,"SSC Napoli","Sassuolo Calcio","6-1",6,1,1
+2022-04-30,2021,"Sampdoria","Genoa CFC","1-0",1,0,1
+2022-04-30,2021,"Spezia Calcio","Lazio Roma","3-4",3,4,1
+2022-05-01,2021,"Juventus","AC Venezia","2-1",2,1,1
+2022-05-01,2021,"Empoli FC","Torino FC","1-3",1,3,1
+2022-05-01,2021,"AC Milan","ACF Fiorentina","1-0",1,0,1
+2022-05-01,2021,"Udinese Calcio","Inter","1-2",1,2,1
+2022-05-01,2021,"AS Roma","Bologna FC","0-0",0,0,1
+2022-05-02,2021,"Atalanta","Salernitana Calcio 1919","1-1",1,1,1
+2022-05-05,2021,"Salernitana Calcio 1919","AC Venezia","2-1",2,1,1
+2022-05-06,2021,"Inter","Empoli FC","4-2",4,2,1
+2022-05-06,2021,"Genoa CFC","Juventus","2-1",2,1,1
+2022-05-07,2021,"Torino FC","SSC Napoli","0-1",0,1,1
+2022-05-07,2021,"Sassuolo Calcio","Udinese Calcio","1-1",1,1,1
+2022-05-07,2021,"Lazio Roma","Sampdoria","2-0",2,0,1
+2022-05-08,2021,"Spezia Calcio","Atalanta","1-3",1,3,1
+2022-05-08,2021,"AC Venezia","Bologna FC","4-3",4,3,1
+2022-05-08,2021,"Salernitana Calcio 1919","Cagliari Calcio","1-1",1,1,1
+2022-05-08,2021,"Hellas Verona","AC Milan","1-3",1,3,1
+2022-05-09,2021,"ACF Fiorentina","AS Roma","2-0",2,0,1
+2022-05-14,2021,"Empoli FC","Salernitana Calcio 1919","1-1",1,1,1
+2022-05-14,2021,"Udinese Calcio","Spezia Calcio","2-3",2,3,1
+2022-05-14,2021,"Hellas Verona","Torino FC","0-1",0,1,1
+2022-05-14,2021,"AS Roma","AC Venezia","1-1",1,1,1
+2022-05-15,2021,"Bologna FC","Sassuolo Calcio","1-3",1,3,1
+2022-05-15,2021,"SSC Napoli","Genoa CFC","3-0",3,0,1
+2022-05-15,2021,"AC Milan","Atalanta","2-0",2,0,1
+2022-05-15,2021,"Cagliari Calcio","Inter","1-3",1,3,1
+2022-05-16,2021,"Sampdoria","ACF Fiorentina","4-1",4,1,1
+2022-05-16,2021,"Juventus","Lazio Roma","2-2",2,2,1
+2022-05-20,2021,"Torino FC","AS Roma","0-3",0,3,1
+2022-05-21,2021,"Genoa CFC","Bologna FC","0-1",0,1,1
+2022-05-21,2021,"Atalanta","Empoli FC","0-1",0,1,1
+2022-05-21,2021,"ACF Fiorentina","Juventus","2-0",2,0,1
+2022-05-21,2021,"Lazio Roma","Hellas Verona","3-3",3,3,1
+2022-05-22,2021,"Spezia Calcio","SSC Napoli","0-3",0,3,1
+2022-05-22,2021,"Inter","Sampdoria","3-0",3,0,1
+2022-05-22,2021,"Sassuolo Calcio","AC Milan","0-3",0,3,1
+2022-05-22,2021,"Salernitana Calcio 1919","Udinese Calcio","0-4",0,4,1
+2022-05-22,2021,"AC Venezia","Cagliari Calcio","0-0",0,0,1

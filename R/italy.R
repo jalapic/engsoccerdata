@@ -1,9 +1,9 @@
-#' Italy league results 1934-2020
+#' Italy league results 1934-2022
 #'
 #' All results for Italian soccer games in the top tier
-#' from 1934/35 season to 2019/20 season.
+#' from 1934/35 season to 2021/22 season.
 #'
-#' @format A data frame with 26924 rows and 8 variables:
+#' @format A data frame with 27684 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}

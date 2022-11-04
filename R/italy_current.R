@@ -8,7 +8,7 @@
 #' italy_current()
 #' @export
 
-italy_current <- function(Season=2020){
+italy_current <- function(Season=2022){
 
 
    s1<-s2<-myseason<-i1<-i2<-df1<-NULL
@@ -16,7 +16,7 @@ italy_current <- function(Season=2020){
    s2<-as.numeric(substr(myseason,3,4))
    s1 <- s2+1
 
-i1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/I1.csv"))
+i1=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",s2,s1,"/I1.csv"))
 #i2=read.csv("http://www.football-data.co.uk/mmz4281/1617/I2.csv")
 #df1 <- rbind(engsoccerdata::getCurrentData(i1,'I1',1),engsoccerdata::getCurrentData(i2,'I2',2))
 df1 <- rbind(engsoccerdata::getCurrentData(i1,'I1',1,Season=myseason))
