@@ -11,7 +11,7 @@
 
 
 
-france_current <- function(Season=2020){
+france_current <- function(Season=2022){
 
   s1<-s2<-myseason<-f1<-f2<-df1<-NULL
   myseason<-Season
@@ -20,7 +20,7 @@ france_current <- function(Season=2020){
 
   #f2=read.csv("http://www.football-data.co.uk/mmz4281/1617/F2.csv")
   #df1 <- rbind(engsoccerdata::getCurrentData(f1,'F1',1),engsoccerdata::getCurrentData(f2,'F2',2))
-  f1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",s2,s1,"/F1.csv"))
+  f1=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",s2,s1,"/F1.csv"))
   df1 <- rbind(engsoccerdata::getCurrentData(f1,'F1',1,Season=myseason))
 
   df1$Date <- as.Date(df1$Date, format="%Y-%m-%d")

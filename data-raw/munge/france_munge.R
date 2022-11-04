@@ -11,16 +11,75 @@ france %>%
   group_by(tier,Season) %>%
   count()
 
-france_current(Season=2017)
-france_current(Season=2018)  #one NA             "Nimes"
-france_current(Season=2019)   # possibly two NA    "Brest" "Nimes"
-france_current(Season=2020)  # possibly two NA   "Nimes" "Brest" "Lens"
+france_current(Season=2020) #ok
+france_current(Season=2021)
+
+
+b <- read.csv("https://www.football-data.co.uk/mmz4281/2122/F1.csv")
+b[1:12,1:5] #Clermont
 
 #use check current teamnames
+engsoccerdata::teamnames[grepl("rmo", engsoccerdata::teamnames$name),]  #
 
-engsoccerdata::teamnames[grepl("ime", engsoccerdata::teamnames$name),]  #Nimes Olympique
-engsoccerdata::teamnames[grepl("rest", engsoccerdata::teamnames$name),] #Stade Brest
-engsoccerdata::teamnames[grepl("ens", engsoccerdata::teamnames$name),] #RC Lens
+
+teamnames <-
+  rbind(teamnames,
+        data.frame(
+          country = "France",
+          name = c("Clermont Foot 63"),
+          name_other = c("Clermont"),
+          most_recent = NA
+        )
+  )
+
+head(teamnames)
+tail(teamnames)
+
+## update steps
+usethis::use_data(teamnames, overwrite = T)
+write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
+# redo documentation
+devtools::document()
+
+
+france_current(Season=2021)
+
+
+
+
+
+france_current(Season=2022)
+
+b <- read.csv("https://www.football-data.co.uk/mmz4281/2223/F1.csv")
+b[1:12,1:5] #Ajaccio   #Auxerre
+
+#use check current teamnames
+engsoccerdata::teamnames[grepl("jac", engsoccerdata::teamnames$name),]  #AC Ajaccio
+engsoccerdata::teamnames[grepl("ux", engsoccerdata::teamnames$name),]  #AJ Auxerre
+
+
+teamnames <-
+  rbind(teamnames,
+        data.frame(
+          country = "France",
+          name = c("AC Ajaccio","AJ Auxerre"),
+          name_other = c("Ajaccio","Auxerre"),
+          most_recent = NA
+        )
+  )
+
+head(teamnames)
+tail(teamnames)
+
+## update steps
+usethis::use_data(teamnames, overwrite = T)
+write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
+# redo documentation
+devtools::document()
+
+
+france_current(Season=2022)
+
 
 
 
@@ -31,9 +90,8 @@ engsoccerdata::teamnames[grepl("ens", engsoccerdata::teamnames$name),] #RC Lens
 
 ex<-
   rbind(
-    france_current(Season=2017),
-    france_current(Season=2018),
-    france_current(Season=2019)
+    france_current(Season=2020),
+    france_current(Season=2021)
   )
 
 france <- rbind(france,ex)
@@ -48,12 +106,14 @@ tail(france)
 
 ## update steps
 usethis::use_data(france, overwrite = T)
-write.csv(germany,'data-raw/france.csv',row.names=F)
+write.csv(france,'data-raw/france.csv',row.names=F)
 devtools::load_all()
 
+# update france.R
+dim(france)
 
-
-# redo documentation   devtools::document()
+# redo documentation
+devtools::document()
 devtools::load_all()
 
 devtools::document()
