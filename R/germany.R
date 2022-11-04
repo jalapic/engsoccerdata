@@ -1,8 +1,8 @@
-#' German Bundesliga 1 league results 1963-2020
+#' German Bundesliga 1 league results 1963-2022
 #'
 #' All results for German soccer games in the top two tier
 #' from 1963/64 season to 2019/20 season & for German soccer
-#' games in the second tier from 1974/75 season to 2019/20 season.
+#' games in the second tier from 1974/75 season to 2021/22 season.
 
 #'
 #' @format A data frame with 35858 rows and 9 variables:
