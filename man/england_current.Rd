@@ -4,11 +4,14 @@
 \alias{england_current}
 \title{Get current England season data for all tiers}
 \usage{
-england_current()
+england_current(Season = 2022)
+}
+\arguments{
+\item{Season}{the current Season}
 }
 \value{
 a dataframe with results for current
-season for all top four divisions
+season for top four divisions
 }
 \description{
 Get current England season data for all tiers

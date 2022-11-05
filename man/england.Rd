@@ -3,9 +3,9 @@
 \docType{data}
 \name{england}
 \alias{england}
-\title{English league results 1888-2020}
+\title{English league results 1888-2022}
 \format{
-A data frame with 199884 rows and 12 variables:
+A data frame with 203956 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -26,7 +26,7 @@ england
 }
 \description{
 All results for English soccer games in the top 4 tiers
-from 1888/89 season to 2019/20 season.  For playoff games
+from 1888/89 season to 2021/22 season.  For playoff games
 see separate dataset `englandplayoffs`
 }
 \keyword{datasets}
