@@ -1,10 +1,10 @@
-#' Scottish league results 1994-2020
+#' Scottish league results 1994-2022
 #'
 #' All results for Scottish soccer games in the top four tiers
-#' from 1994/95 season to 2016/20 season.  Doesn't include
+#' from 1994/95 season to 2021/22 season.  Doesn't include
 #' playoff games.
 #'
-#' @format A data frame with 18424 rows and 12 variables:
+#' @format A data frame with 19775 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}

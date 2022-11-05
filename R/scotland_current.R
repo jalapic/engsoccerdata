@@ -8,17 +8,17 @@
 #' scotland_current()
 #' @export
 
-scotland_current <- function(Season=2020){
+scotland_current <- function(Season=2022){
 
    ss1<-ss2<-myseason<-s1<-s2<-s3<-s4<-df1<-NULL
    myseason<-Season
    ss2<-as.numeric(substr(myseason,3,4))
    ss1 <- ss2+1
 
-s1=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC0.csv"))
-s2=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC1.csv"))
-s3=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC2.csv"))
-s4=read.csv(paste0("http://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC3.csv"))
+s1=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC0.csv"))
+s2=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC1.csv"))
+s3=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC2.csv"))
+s4=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",ss2,ss1,"/SC3.csv"))
 
 df1 <- rbind(engsoccerdata::getCurrentData(s1,'SCO',1,Season=myseason),engsoccerdata::getCurrentData(s2,'SC1',2,Season=myseason),
              engsoccerdata::getCurrentData(s3,'SC2',3,Season=myseason),engsoccerdata::getCurrentData(s4,'SC3',4,Season=myseason))
