@@ -1,6 +1,10 @@
-Latest GitHub version: 10/17/2020,  v0.1.7
+Latest GitHub version: 11/4/2022,  v0.1.7
 
-Oct/Nov 2020 update:   All European league datasets (and their _current()_ functions) are up to date for the 20/21 season.  MLS and South Africa data are still only up to 2017. Cup data is also only available up to 2017.  These will be updated shortly. Any help appreciated - please get in touch.
+Nov 2022 update:   All European league datasets [England,Scotland,Italy,Germany,France,Holland,Spain,Belgium,Greece,Turkey,Portugal] (and their _current()_ functions) are up to date for the 22/23 season.  
+
+MLS and South Africa data are still only up to 2017. Cup data is also only available up to 2017.  English non-league have also not been updated.
+
+Any help in curating data is appreciated - please get in touch.
 
 
 
