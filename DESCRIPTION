@@ -16,5 +16,6 @@ Imports:
     dplyr,
     magrittr,
     rvest,
+    tidyr,
     utils,
     xml2
