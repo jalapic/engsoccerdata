@@ -14,6 +14,8 @@ e01
 e01[is.na(e01$home),]
 tail(e01)
 
+str(e01)
+
 e01 = england_current(Season=2021)  #
 e01
 e01[is.na(e01$home),]
@@ -41,15 +43,35 @@ ex<-
     england_current(Season=2021)
   )
 
-england <- rbind(england,ex)
+str(ex)
+
+ex$Date
+
+england %>% filter(Season==2019)
+
+# why do the dates mess up when binding?
+eng1 <- england %>% filter(Season<=2019)
+str(eng1)
+str(ex)
+# make ex Date into character
+ex$Date<-as.character(ex$Date)
+
+ex$Date
+
+
+england1 <- rbind(eng1,ex)
+
+england1 %>% filter(Season==2020)
+england1 %>% filter(Season==2021)
 
 library(tidyverse)
-england %>%
+england1 %>%
   filter(Season>2017) %>%
   group_by(tier,Season) %>%
   count() %>%
   as.data.frame()
 
+england <- england1
 tail(england)
 
 
