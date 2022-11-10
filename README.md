@@ -380,7 +380,7 @@ More in depth analysis by Simon on David Sumpter's Collective Behavior blog:
 
  - McJames et al, 2022, A Supervised Learning Approach to Rankability. Preprint https://arxiv.org/pdf/2203.07364.pdf
 
-
+-  Leonardo Egidi - footBayes: an R package for football (soccer) modeling using Stan https://statmodeling.stat.columbia.edu/2022/02/22/footbayes-an-r-package-for-football-soccer-modeling-using-stan/
 
 
 ### Acknowledgements
