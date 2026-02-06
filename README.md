@@ -1,4 +1,7 @@
-Latest GitHub version: 11/4/2022,  v0.1.7
+Latest GitHub version: 2/5/2026,  v0.1.8
+
+
+Feb 2026 update:  beginning to update all results to end of 24/25
 
 Nov 2022 update:   All European league datasets [England,Scotland,Italy,Germany,France,Holland,Spain,Belgium,Greece,Turkey,Portugal] (and their _current()_ functions) are up to date for the 22/23 season.  
 
@@ -70,11 +73,10 @@ library(engsoccerdata)
 engsoccerdata
 =============
 
-Last update:24 Oct 2020, v 0.1.7
 
 
 ## Datasets
--  england              - Results of all top 4 tier soccer games in England 1888-2022
+-  england              - Results of all top 4 tier soccer games in England 1888-2025
 -  england1939          - Contains results of abandoned 1939/40 season.
 -  england_5_nonleague  - Results of 5th tier (conference) from 1999/2000 - 2016/17
 -  facup                - Contains all FA Cup ties (not including pre-qualifying rounds) 1871-2016

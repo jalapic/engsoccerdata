@@ -297,3 +297,73 @@ devtools::document()
 # }
 #
 #
+
+
+
+## trying for 2023-24 and 2024-25
+e23 <- england_current(Season = 2023)
+e24 <- england_current(Season = 2024)
+e23
+
+sum(is.na(e23$home))
+sum(is.na(e24$home))
+sum(is.na(e23$visitor))
+sum(is.na(e24$visitor))
+table(e23$tier)
+table(e24$tier)
+str(e23)
+str(e24)
+str(england)
+
+
+library(dplyr)
+
+# 1) Make a clean copy of historical and standardize types
+
+
+eng_old <- engsoccerdata::england %>%
+  mutate(
+    Date = as.Date(Date),          # safe
+    division = as.character(division),
+    Season = as.numeric(Season)
+  )
+
+e23a <- e23 %>%
+  mutate(
+    division = as.character(division),
+    Season = as.numeric(Season)
+  )
+
+e24a <- e24 %>%
+  mutate(
+    division = as.character(division),
+    Season = as.numeric(Season)
+  )
+
+table(eng_old$division, useNA = "ifany") |> head()
+
+
+
+eng_new <- bind_rows(eng_old, e23a, e24a) %>%
+  distinct(Date, Season, division, home, visitor, .keep_all = TRUE) %>%
+  arrange(Date, tier, division)
+
+eng_new$Date <- as.character(eng_new$Date)
+
+
+eng_new %>%
+  filter(Season %in% c(2023, 2024)) %>%
+  count(Season, tier)
+
+
+
+# 5) Quick QC: counts
+eng_new %>%
+  filter(Season >= 2022) %>%
+  count(Season, tier)
+
+england <- eng_new
+usethis::use_data(england, overwrite = TRUE)
+
+write.csv(england, "data-raw/england.csv", row.names = FALSE)
+
