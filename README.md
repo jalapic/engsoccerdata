@@ -158,7 +158,7 @@ Some built-in functions:
 
 -  homeaway.r               - very useful function to get home & away results with each team listed in 'team' column 
 
-
+Dates are stored as YYYY-MM-DD character strings for consistency across historical sources
 
 ## What does england.csv contain?
 
