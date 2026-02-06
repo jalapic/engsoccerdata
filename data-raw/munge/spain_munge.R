@@ -144,3 +144,39 @@ spain %>% filter(Season %in% c(2023, 2024)) %>% count(Season)
 tail(spain)
 
 
+library(dplyr)
+
+# 1) Pull the missing season
+s22 <- engsoccerdata::spain_current(Season = 2022)
+
+# QC: should be 380, no NAs
+nrow(s22)
+sum(is.na(s22$home)); sum(is.na(s22$visitor))
+range(as.Date(s22$Date))
+
+# 2) Prepare existing + new for merge/sort
+sp_old <- engsoccerdata::spain
+sp_old$Date <- as.Date(sp_old$Date)
+
+s22$Date <- as.Date(s22$Date)
+
+# 3) Bind + dedupe + SORT by Date
+sp_new <- bind_rows(sp_old, s22) %>%
+  distinct(Date, Season, home, visitor, tier, round, .keep_all = TRUE) %>%
+  arrange(Date, tier, round)
+
+# 4) Store Date as character (your convention)
+sp_new$Date <- as.character(sp_new$Date)
+
+# 5) Save back into package
+spain <- sp_new
+usethis::use_data(spain, overwrite = TRUE)
+
+# optional snapshot
+write.csv(spain, "data-raw/spain.csv", row.names = FALSE)
+
+# 6) Confirm seasons now include 2022 and are ordered
+table(spain$Season)
+head(spain$Date)
+tail(spain$Date)
+

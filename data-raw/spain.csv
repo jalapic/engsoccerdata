@@ -26194,6 +26194,386 @@
 "2022-05-22",2021,"FC Barcelona","Villarreal CF",NA,"0-2",0,2,1,"league",NA,NA
 "2022-05-22",2021,"Sevilla FC","Athletic Bilbao",NA,"1-0",1,0,1,"league",NA,NA
 "2022-05-22",2021,"Real Sociedad","Atletico Madrid",NA,"1-2",1,2,1,"league",NA,NA
+"2022-08-12",2022,"CA Osasuna","Sevilla FC",NA,"2-1",2,1,1,"league",NA,NA
+"2022-08-13",2022,"Celta Vigo","Espanyol Barcelona",NA,"2-2",2,2,1,"league",NA,NA
+"2022-08-13",2022,"Real Valladolid","Villarreal CF",NA,"0-3",0,3,1,"league",NA,NA
+"2022-08-13",2022,"FC Barcelona","Rayo Vallecano",NA,"0-0",0,0,1,"league",NA,NA
+"2022-08-14",2022,"Cadiz CF","Real Sociedad",NA,"0-1",0,1,1,"league",NA,NA
+"2022-08-14",2022,"Valencia CF","Girona",NA,"1-0",1,0,1,"league",NA,NA
+"2022-08-14",2022,"UD Almeria","Real Madrid",NA,"1-2",1,2,1,"league",NA,NA
+"2022-08-15",2022,"Athletic Bilbao","RCD Mallorca",NA,"0-0",0,0,1,"league",NA,NA
+"2022-08-15",2022,"Getafe CF","Atletico Madrid",NA,"0-3",0,3,1,"league",NA,NA
+"2022-08-15",2022,"Real Betis","Elche CF",NA,"3-0",3,0,1,"league",NA,NA
+"2022-08-19",2022,"Espanyol Barcelona","Rayo Vallecano",NA,"0-2",0,2,1,"league",NA,NA
+"2022-08-19",2022,"Sevilla FC","Real Valladolid",NA,"1-1",1,1,1,"league",NA,NA
+"2022-08-20",2022,"CA Osasuna","Cadiz CF",NA,"2-0",2,0,1,"league",NA,NA
+"2022-08-20",2022,"RCD Mallorca","Real Betis",NA,"1-2",1,2,1,"league",NA,NA
+"2022-08-20",2022,"Celta Vigo","Real Madrid",NA,"1-4",1,4,1,"league",NA,NA
+"2022-08-21",2022,"Athletic Bilbao","Valencia CF",NA,"1-0",1,0,1,"league",NA,NA
+"2022-08-21",2022,"Atletico Madrid","Villarreal CF",NA,"0-2",0,2,1,"league",NA,NA
+"2022-08-21",2022,"Real Sociedad","FC Barcelona",NA,"1-4",1,4,1,"league",NA,NA
+"2022-08-22",2022,"Elche CF","UD Almeria",NA,"1-1",1,1,1,"league",NA,NA
+"2022-08-22",2022,"Girona","Getafe CF",NA,"3-1",3,1,1,"league",NA,NA
+"2022-08-26",2022,"Girona","Celta Vigo",NA,"0-1",0,1,1,"league",NA,NA
+"2022-08-26",2022,"Real Betis","CA Osasuna",NA,"1-0",1,0,1,"league",NA,NA
+"2022-08-27",2022,"Elche CF","Real Sociedad",NA,"0-1",0,1,1,"league",NA,NA
+"2022-08-27",2022,"Rayo Vallecano","RCD Mallorca",NA,"0-2",0,2,1,"league",NA,NA
+"2022-08-27",2022,"UD Almeria","Sevilla FC",NA,"2-1",2,1,1,"league",NA,NA
+"2022-08-28",2022,"Getafe CF","Villarreal CF",NA,"0-0",0,0,1,"league",NA,NA
+"2022-08-28",2022,"FC Barcelona","Real Valladolid",NA,"4-0",4,0,1,"league",NA,NA
+"2022-08-28",2022,"Espanyol Barcelona","Real Madrid",NA,"1-3",1,3,1,"league",NA,NA
+"2022-08-29",2022,"Cadiz CF","Athletic Bilbao",NA,"0-4",0,4,1,"league",NA,NA
+"2022-08-29",2022,"Valencia CF","Atletico Madrid",NA,"0-1",0,1,1,"league",NA,NA
+"2022-09-02",2022,"Celta Vigo","Cadiz CF",NA,"3-0",3,0,1,"league",NA,NA
+"2022-09-03",2022,"RCD Mallorca","Girona",NA,"1-1",1,1,1,"league",NA,NA
+"2022-09-03",2022,"Real Madrid","Real Betis",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-03",2022,"Real Sociedad","Atletico Madrid",NA,"1-1",1,1,1,"league",NA,NA
+"2022-09-03",2022,"Sevilla FC","FC Barcelona",NA,"0-3",0,3,1,"league",NA,NA
+"2022-09-04",2022,"CA Osasuna","Rayo Vallecano",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-04",2022,"Athletic Bilbao","Espanyol Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2022-09-04",2022,"Villarreal CF","Elche CF",NA,"4-0",4,0,1,"league",NA,NA
+"2022-09-04",2022,"Valencia CF","Getafe CF",NA,"5-1",5,1,1,"league",NA,NA
+"2022-09-05",2022,"Real Valladolid","UD Almeria",NA,"1-0",1,0,1,"league",NA,NA
+"2022-09-09",2022,"Girona","Real Valladolid",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-10",2022,"Rayo Vallecano","Valencia CF",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-10",2022,"Espanyol Barcelona","Sevilla FC",NA,"2-3",2,3,1,"league",NA,NA
+"2022-09-10",2022,"Cadiz CF","FC Barcelona",NA,"0-4",0,4,1,"league",NA,NA
+"2022-09-10",2022,"Atletico Madrid","Celta Vigo",NA,"4-1",4,1,1,"league",NA,NA
+"2022-09-11",2022,"Real Madrid","RCD Mallorca",NA,"4-1",4,1,1,"league",NA,NA
+"2022-09-11",2022,"Elche CF","Athletic Bilbao",NA,"1-4",1,4,1,"league",NA,NA
+"2022-09-11",2022,"Getafe CF","Real Sociedad",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-11",2022,"Real Betis","Villarreal CF",NA,"1-0",1,0,1,"league",NA,NA
+"2022-09-12",2022,"UD Almeria","CA Osasuna",NA,"0-1",0,1,1,"league",NA,NA
+"2022-09-16",2022,"Real Valladolid","Cadiz CF",NA,"0-1",0,1,1,"league",NA,NA
+"2022-09-17",2022,"RCD Mallorca","UD Almeria",NA,"1-0",1,0,1,"league",NA,NA
+"2022-09-17",2022,"FC Barcelona","Elche CF",NA,"3-0",3,0,1,"league",NA,NA
+"2022-09-17",2022,"Valencia CF","Celta Vigo",NA,"3-0",3,0,1,"league",NA,NA
+"2022-09-17",2022,"Athletic Bilbao","Rayo Vallecano",NA,"3-2",3,2,1,"league",NA,NA
+"2022-09-18",2022,"CA Osasuna","Getafe CF",NA,"0-2",0,2,1,"league",NA,NA
+"2022-09-18",2022,"Villarreal CF","Sevilla FC",NA,"1-1",1,1,1,"league",NA,NA
+"2022-09-18",2022,"Real Betis","Girona",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-18",2022,"Real Sociedad","Espanyol Barcelona",NA,"2-1",2,1,1,"league",NA,NA
+"2022-09-18",2022,"Atletico Madrid","Real Madrid",NA,"1-2",1,2,1,"league",NA,NA
+"2022-09-30",2022,"Athletic Bilbao","UD Almeria",NA,"4-0",4,0,1,"league",NA,NA
+"2022-10-01",2022,"Cadiz CF","Villarreal CF",NA,"0-0",0,0,1,"league",NA,NA
+"2022-10-01",2022,"Getafe CF","Real Valladolid",NA,"2-3",2,3,1,"league",NA,NA
+"2022-10-01",2022,"Sevilla FC","Atletico Madrid",NA,"0-2",0,2,1,"league",NA,NA
+"2022-10-01",2022,"RCD Mallorca","FC Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2022-10-02",2022,"Espanyol Barcelona","Valencia CF",NA,"2-2",2,2,1,"league",NA,NA
+"2022-10-02",2022,"Celta Vigo","Real Betis",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-02",2022,"Girona","Real Sociedad",NA,"3-5",3,5,1,"league",NA,NA
+"2022-10-02",2022,"Real Madrid","CA Osasuna",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-03",2022,"Rayo Vallecano","Elche CF",NA,"2-1",2,1,1,"league",NA,NA
+"2022-10-07",2022,"CA Osasuna","Valencia CF",NA,"1-2",1,2,1,"league",NA,NA
+"2022-10-08",2022,"UD Almeria","Rayo Vallecano",NA,"3-1",3,1,1,"league",NA,NA
+"2022-10-08",2022,"Atletico Madrid","Girona",NA,"2-1",2,1,1,"league",NA,NA
+"2022-10-08",2022,"Sevilla FC","Athletic Bilbao",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-08",2022,"Getafe CF","Real Madrid",NA,"0-1",0,1,1,"league",NA,NA
+"2022-10-09",2022,"Real Valladolid","Real Betis",NA,"0-0",0,0,1,"league",NA,NA
+"2022-10-09",2022,"Cadiz CF","Espanyol Barcelona",NA,"2-2",2,2,1,"league",NA,NA
+"2022-10-09",2022,"Real Sociedad","Villarreal CF",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-09",2022,"FC Barcelona","Celta Vigo",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-10",2022,"Elche CF","RCD Mallorca",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-14",2022,"Rayo Vallecano","Getafe CF",NA,"0-0",0,0,1,"league",NA,NA
+"2022-10-15",2022,"Girona","Cadiz CF",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-15",2022,"Valencia CF","Elche CF",NA,"2-2",2,2,1,"league",NA,NA
+"2022-10-15",2022,"RCD Mallorca","Sevilla FC",NA,"0-1",0,1,1,"league",NA,NA
+"2022-10-15",2022,"Athletic Bilbao","Atletico Madrid",NA,"0-1",0,1,1,"league",NA,NA
+"2022-10-16",2022,"Celta Vigo","Real Sociedad",NA,"1-2",1,2,1,"league",NA,NA
+"2022-10-16",2022,"Real Madrid","FC Barcelona",NA,"3-1",3,1,1,"league",NA,NA
+"2022-10-16",2022,"Espanyol Barcelona","Real Valladolid",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-16",2022,"Real Betis","UD Almeria",NA,"3-1",3,1,1,"league",NA,NA
+"2022-10-17",2022,"Villarreal CF","CA Osasuna",NA,"2-0",2,0,1,"league",NA,NA
+"2022-10-18",2022,"Sevilla FC","Valencia CF",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-18",2022,"Getafe CF","Athletic Bilbao",NA,"2-2",2,2,1,"league",NA,NA
+"2022-10-18",2022,"Atletico Madrid","Rayo Vallecano",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-19",2022,"Cadiz CF","Real Betis",NA,"0-0",0,0,1,"league",NA,NA
+"2022-10-19",2022,"Real Valladolid","Celta Vigo",NA,"4-1",4,1,1,"league",NA,NA
+"2022-10-19",2022,"Real Sociedad","RCD Mallorca",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-19",2022,"Elche CF","Real Madrid",NA,"0-3",0,3,1,"league",NA,NA
+"2022-10-20",2022,"UD Almeria","Girona",NA,"3-2",3,2,1,"league",NA,NA
+"2022-10-20",2022,"CA Osasuna","Espanyol Barcelona",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-20",2022,"FC Barcelona","Villarreal CF",NA,"3-0",3,0,1,"league",NA,NA
+"2022-10-22",2022,"Rayo Vallecano","Cadiz CF",NA,"5-1",5,1,1,"league",NA,NA
+"2022-10-22",2022,"Real Valladolid","Real Sociedad",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-22",2022,"Valencia CF","RCD Mallorca",NA,"1-2",1,2,1,"league",NA,NA
+"2022-10-22",2022,"Real Madrid","Sevilla FC",NA,"3-1",3,1,1,"league",NA,NA
+"2022-10-23",2022,"Espanyol Barcelona","Elche CF",NA,"2-2",2,2,1,"league",NA,NA
+"2022-10-23",2022,"Real Betis","Atletico Madrid",NA,"1-2",1,2,1,"league",NA,NA
+"2022-10-23",2022,"Girona","CA Osasuna",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-23",2022,"Villarreal CF","UD Almeria",NA,"2-1",2,1,1,"league",NA,NA
+"2022-10-23",2022,"FC Barcelona","Athletic Bilbao",NA,"4-0",4,0,1,"league",NA,NA
+"2022-10-24",2022,"Celta Vigo","Getafe CF",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-28",2022,"RCD Mallorca","Espanyol Barcelona",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-29",2022,"UD Almeria","Celta Vigo",NA,"3-1",3,1,1,"league",NA,NA
+"2022-10-29",2022,"Cadiz CF","Atletico Madrid",NA,"3-2",3,2,1,"league",NA,NA
+"2022-10-29",2022,"Sevilla FC","Rayo Vallecano",NA,"0-1",0,1,1,"league",NA,NA
+"2022-10-29",2022,"Valencia CF","FC Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2022-10-30",2022,"CA Osasuna","Real Valladolid",NA,"2-0",2,0,1,"league",NA,NA
+"2022-10-30",2022,"Real Madrid","Girona",NA,"1-1",1,1,1,"league",NA,NA
+"2022-10-30",2022,"Athletic Bilbao","Villarreal CF",NA,"1-0",1,0,1,"league",NA,NA
+"2022-10-30",2022,"Real Sociedad","Real Betis",NA,"0-2",0,2,1,"league",NA,NA
+"2022-10-31",2022,"Elche CF","Getafe CF",NA,"0-1",0,1,1,"league",NA,NA
+"2022-11-04",2022,"Girona","Athletic Bilbao",NA,"2-1",2,1,1,"league",NA,NA
+"2022-11-05",2022,"Getafe CF","Cadiz CF",NA,"0-0",0,0,1,"league",NA,NA
+"2022-11-05",2022,"Real Valladolid","Elche CF",NA,"2-1",2,1,1,"league",NA,NA
+"2022-11-05",2022,"Celta Vigo","CA Osasuna",NA,"1-2",1,2,1,"league",NA,NA
+"2022-11-05",2022,"FC Barcelona","UD Almeria",NA,"2-0",2,0,1,"league",NA,NA
+"2022-11-06",2022,"Atletico Madrid","Espanyol Barcelona",NA,"1-1",1,1,1,"league",NA,NA
+"2022-11-06",2022,"Real Sociedad","Valencia CF",NA,"1-1",1,1,1,"league",NA,NA
+"2022-11-06",2022,"Villarreal CF","RCD Mallorca",NA,"0-2",0,2,1,"league",NA,NA
+"2022-11-06",2022,"Real Betis","Sevilla FC",NA,"1-1",1,1,1,"league",NA,NA
+"2022-11-07",2022,"Rayo Vallecano","Real Madrid",NA,"3-2",3,2,1,"league",NA,NA
+"2022-11-08",2022,"Elche CF","Girona",NA,"1-2",1,2,1,"league",NA,NA
+"2022-11-08",2022,"Athletic Bilbao","Real Valladolid",NA,"3-0",3,0,1,"league",NA,NA
+"2022-11-08",2022,"CA Osasuna","FC Barcelona",NA,"1-2",1,2,1,"league",NA,NA
+"2022-11-09",2022,"UD Almeria","Getafe CF",NA,"1-0",1,0,1,"league",NA,NA
+"2022-11-09",2022,"Sevilla FC","Real Sociedad",NA,"1-2",1,2,1,"league",NA,NA
+"2022-11-09",2022,"Espanyol Barcelona","Villarreal CF",NA,"0-1",0,1,1,"league",NA,NA
+"2022-11-09",2022,"RCD Mallorca","Atletico Madrid",NA,"1-0",1,0,1,"league",NA,NA
+"2022-11-10",2022,"Rayo Vallecano","Celta Vigo",NA,"0-0",0,0,1,"league",NA,NA
+"2022-11-10",2022,"Valencia CF","Real Betis",NA,"3-0",3,0,1,"league",NA,NA
+"2022-11-10",2022,"Real Madrid","Cadiz CF",NA,"2-1",2,1,1,"league",NA,NA
+"2022-12-29",2022,"Girona","Rayo Vallecano",NA,"2-2",2,2,1,"league",NA,NA
+"2022-12-29",2022,"Real Betis","Athletic Bilbao",NA,"0-0",0,0,1,"league",NA,NA
+"2022-12-29",2022,"Atletico Madrid","Elche CF",NA,"2-0",2,0,1,"league",NA,NA
+"2022-12-30",2022,"Getafe CF","RCD Mallorca",NA,"2-0",2,0,1,"league",NA,NA
+"2022-12-30",2022,"Cadiz CF","UD Almeria",NA,"1-1",1,1,1,"league",NA,NA
+"2022-12-30",2022,"Celta Vigo","Sevilla FC",NA,"1-1",1,1,1,"league",NA,NA
+"2022-12-30",2022,"Real Valladolid","Real Madrid",NA,"0-2",0,2,1,"league",NA,NA
+"2022-12-31",2022,"FC Barcelona","Espanyol Barcelona",NA,"1-1",1,1,1,"league",NA,NA
+"2022-12-31",2022,"Real Sociedad","CA Osasuna",NA,"2-0",2,0,1,"league",NA,NA
+"2022-12-31",2022,"Villarreal CF","Valencia CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-01-06",2022,"Elche CF","Celta Vigo",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-06",2022,"Valencia CF","Cadiz CF",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-07",2022,"Villarreal CF","Real Madrid",NA,"2-1",2,1,1,"league",NA,NA
+"2023-01-07",2022,"RCD Mallorca","Real Valladolid",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-07",2022,"Espanyol Barcelona","Girona",NA,"2-2",2,2,1,"league",NA,NA
+"2023-01-08",2022,"UD Almeria","Real Sociedad",NA,"0-2",0,2,1,"league",NA,NA
+"2023-01-08",2022,"Rayo Vallecano","Real Betis",NA,"1-2",1,2,1,"league",NA,NA
+"2023-01-08",2022,"Sevilla FC","Getafe CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-01-08",2022,"Atletico Madrid","FC Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-09",2022,"Athletic Bilbao","CA Osasuna",NA,"0-0",0,0,1,"league",NA,NA
+"2023-01-13",2022,"Celta Vigo","Villarreal CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-01-14",2022,"Real Valladolid","Rayo Vallecano",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-14",2022,"Girona","Sevilla FC",NA,"2-1",2,1,1,"league",NA,NA
+"2023-01-14",2022,"CA Osasuna","RCD Mallorca",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-14",2022,"Real Sociedad","Athletic Bilbao",NA,"3-1",3,1,1,"league",NA,NA
+"2023-01-15",2022,"Getafe CF","Espanyol Barcelona",NA,"1-2",1,2,1,"league",NA,NA
+"2023-01-15",2022,"UD Almeria","Atletico Madrid",NA,"1-1",1,1,1,"league",NA,NA
+"2023-01-16",2022,"Cadiz CF","Elche CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-01-20",2022,"RCD Mallorca","Celta Vigo",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-21",2022,"Rayo Vallecano","Real Sociedad",NA,"0-2",0,2,1,"league",NA,NA
+"2023-01-21",2022,"Espanyol Barcelona","Real Betis",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-21",2022,"Atletico Madrid","Real Valladolid",NA,"3-0",3,0,1,"league",NA,NA
+"2023-01-21",2022,"Sevilla FC","Cadiz CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-22",2022,"Villarreal CF","Girona",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-22",2022,"Elche CF","CA Osasuna",NA,"1-1",1,1,1,"league",NA,NA
+"2023-01-22",2022,"FC Barcelona","Getafe CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-22",2022,"Athletic Bilbao","Real Madrid",NA,"0-2",0,2,1,"league",NA,NA
+"2023-01-23",2022,"Valencia CF","UD Almeria",NA,"2-2",2,2,1,"league",NA,NA
+"2023-01-27",2022,"UD Almeria","Espanyol Barcelona",NA,"3-1",3,1,1,"league",NA,NA
+"2023-01-28",2022,"Cadiz CF","RCD Mallorca",NA,"2-0",2,0,1,"league",NA,NA
+"2023-01-28",2022,"Girona","FC Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-28",2022,"Sevilla FC","Elche CF",NA,"3-0",3,0,1,"league",NA,NA
+"2023-01-28",2022,"Getafe CF","Real Betis",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-29",2022,"Real Valladolid","Valencia CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-29",2022,"CA Osasuna","Atletico Madrid",NA,"0-1",0,1,1,"league",NA,NA
+"2023-01-29",2022,"Celta Vigo","Athletic Bilbao",NA,"1-0",1,0,1,"league",NA,NA
+"2023-01-29",2022,"Real Madrid","Real Sociedad",NA,"0-0",0,0,1,"league",NA,NA
+"2023-01-30",2022,"Villarreal CF","Rayo Vallecano",NA,"0-1",0,1,1,"league",NA,NA
+"2023-02-01",2022,"Real Betis","FC Barcelona",NA,"1-2",1,2,1,"league",NA,NA
+"2023-02-02",2022,"Real Madrid","Valencia CF",NA,"2-0",2,0,1,"league",NA,NA
+"2023-02-03",2022,"Athletic Bilbao","Cadiz CF",NA,"4-1",4,1,1,"league",NA,NA
+"2023-02-04",2022,"Espanyol Barcelona","CA Osasuna",NA,"1-1",1,1,1,"league",NA,NA
+"2023-02-04",2022,"Elche CF","Villarreal CF",NA,"3-1",3,1,1,"league",NA,NA
+"2023-02-04",2022,"Atletico Madrid","Getafe CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-02-04",2022,"Real Betis","Celta Vigo",NA,"3-4",3,4,1,"league",NA,NA
+"2023-02-05",2022,"RCD Mallorca","Real Madrid",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-05",2022,"Girona","Valencia CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-05",2022,"Real Sociedad","Real Valladolid",NA,"0-1",0,1,1,"league",NA,NA
+"2023-02-05",2022,"FC Barcelona","Sevilla FC",NA,"3-0",3,0,1,"league",NA,NA
+"2023-02-06",2022,"Rayo Vallecano","UD Almeria",NA,"2-0",2,0,1,"league",NA,NA
+"2023-02-10",2022,"Cadiz CF","Girona",NA,"2-0",2,0,1,"league",NA,NA
+"2023-02-11",2022,"UD Almeria","Real Betis",NA,"2-3",2,3,1,"league",NA,NA
+"2023-02-11",2022,"Sevilla FC","RCD Mallorca",NA,"2-0",2,0,1,"league",NA,NA
+"2023-02-11",2022,"Valencia CF","Athletic Bilbao",NA,"1-2",1,2,1,"league",NA,NA
+"2023-02-12",2022,"Getafe CF","Rayo Vallecano",NA,"1-1",1,1,1,"league",NA,NA
+"2023-02-12",2022,"Celta Vigo","Atletico Madrid",NA,"0-1",0,1,1,"league",NA,NA
+"2023-02-12",2022,"Real Valladolid","CA Osasuna",NA,"0-0",0,0,1,"league",NA,NA
+"2023-02-12",2022,"Villarreal CF","FC Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2023-02-13",2022,"Espanyol Barcelona","Real Sociedad",NA,"2-3",2,3,1,"league",NA,NA
+"2023-02-15",2022,"Real Madrid","Elche CF",NA,"4-0",4,0,1,"league",NA,NA
+"2023-02-17",2022,"Girona","UD Almeria",NA,"6-2",6,2,1,"league",NA,NA
+"2023-02-18",2022,"Real Sociedad","Celta Vigo",NA,"1-1",1,1,1,"league",NA,NA
+"2023-02-18",2022,"Real Betis","Real Valladolid",NA,"2-1",2,1,1,"league",NA,NA
+"2023-02-18",2022,"RCD Mallorca","Villarreal CF",NA,"4-2",4,2,1,"league",NA,NA
+"2023-02-18",2022,"CA Osasuna","Real Madrid",NA,"0-2",0,2,1,"league",NA,NA
+"2023-02-19",2022,"Elche CF","Espanyol Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2023-02-19",2022,"Rayo Vallecano","Sevilla FC",NA,"1-1",1,1,1,"league",NA,NA
+"2023-02-19",2022,"Atletico Madrid","Athletic Bilbao",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-19",2022,"FC Barcelona","Cadiz CF",NA,"2-0",2,0,1,"league",NA,NA
+"2023-02-20",2022,"Getafe CF","Valencia CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-24",2022,"Elche CF","Real Betis",NA,"2-3",2,3,1,"league",NA,NA
+"2023-02-25",2022,"Espanyol Barcelona","RCD Mallorca",NA,"2-1",2,1,1,"league",NA,NA
+"2023-02-25",2022,"Cadiz CF","Rayo Vallecano",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-25",2022,"Real Madrid","Atletico Madrid",NA,"1-1",1,1,1,"league",NA,NA
+"2023-02-25",2022,"Valencia CF","Real Sociedad",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-26",2022,"Athletic Bilbao","Girona",NA,"2-3",2,3,1,"league",NA,NA
+"2023-02-26",2022,"Celta Vigo","Real Valladolid",NA,"3-0",3,0,1,"league",NA,NA
+"2023-02-26",2022,"UD Almeria","FC Barcelona",NA,"1-0",1,0,1,"league",NA,NA
+"2023-02-26",2022,"Sevilla FC","CA Osasuna",NA,"2-3",2,3,1,"league",NA,NA
+"2023-02-27",2022,"Villarreal CF","Getafe CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-03-03",2022,"Real Sociedad","Cadiz CF",NA,"0-0",0,0,1,"league",NA,NA
+"2023-03-04",2022,"Getafe CF","Girona",NA,"3-2",3,2,1,"league",NA,NA
+"2023-03-04",2022,"UD Almeria","Villarreal CF",NA,"0-2",0,2,1,"league",NA,NA
+"2023-03-04",2022,"RCD Mallorca","Elche CF",NA,"0-1",0,1,1,"league",NA,NA
+"2023-03-04",2022,"Atletico Madrid","Sevilla FC",NA,"6-1",6,1,1,"league",NA,NA
+"2023-03-05",2022,"Real Valladolid","Espanyol Barcelona",NA,"2-1",2,1,1,"league",NA,NA
+"2023-03-05",2022,"FC Barcelona","Valencia CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-03-05",2022,"Rayo Vallecano","Athletic Bilbao",NA,"0-0",0,0,1,"league",NA,NA
+"2023-03-05",2022,"Real Betis","Real Madrid",NA,"0-0",0,0,1,"league",NA,NA
+"2023-03-06",2022,"CA Osasuna","Celta Vigo",NA,"0-0",0,0,1,"league",NA,NA
+"2023-03-10",2022,"Cadiz CF","Getafe CF",NA,"2-2",2,2,1,"league",NA,NA
+"2023-03-11",2022,"Real Madrid","Espanyol Barcelona",NA,"3-1",3,1,1,"league",NA,NA
+"2023-03-11",2022,"Elche CF","Real Valladolid",NA,"1-1",1,1,1,"league",NA,NA
+"2023-03-11",2022,"Celta Vigo","Rayo Vallecano",NA,"3-0",3,0,1,"league",NA,NA
+"2023-03-11",2022,"Valencia CF","CA Osasuna",NA,"1-0",1,0,1,"league",NA,NA
+"2023-03-12",2022,"RCD Mallorca","Real Sociedad",NA,"1-1",1,1,1,"league",NA,NA
+"2023-03-12",2022,"Sevilla FC","UD Almeria",NA,"2-1",2,1,1,"league",NA,NA
+"2023-03-12",2022,"Villarreal CF","Real Betis",NA,"1-1",1,1,1,"league",NA,NA
+"2023-03-12",2022,"Athletic Bilbao","FC Barcelona",NA,"0-1",0,1,1,"league",NA,NA
+"2023-03-13",2022,"Girona","Atletico Madrid",NA,"0-1",0,1,1,"league",NA,NA
+"2023-03-17",2022,"Real Valladolid","Athletic Bilbao",NA,"1-3",1,3,1,"league",NA,NA
+"2023-03-18",2022,"UD Almeria","Cadiz CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-03-18",2022,"Rayo Vallecano","Girona",NA,"2-2",2,2,1,"league",NA,NA
+"2023-03-18",2022,"Espanyol Barcelona","Celta Vigo",NA,"1-3",1,3,1,"league",NA,NA
+"2023-03-18",2022,"Atletico Madrid","Valencia CF",NA,"3-0",3,0,1,"league",NA,NA
+"2023-03-19",2022,"Real Betis","RCD Mallorca",NA,"1-0",1,0,1,"league",NA,NA
+"2023-03-19",2022,"CA Osasuna","Villarreal CF",NA,"0-3",0,3,1,"league",NA,NA
+"2023-03-19",2022,"Real Sociedad","Elche CF",NA,"2-0",2,0,1,"league",NA,NA
+"2023-03-19",2022,"Getafe CF","Sevilla FC",NA,"2-0",2,0,1,"league",NA,NA
+"2023-03-19",2022,"FC Barcelona","Real Madrid",NA,"2-1",2,1,1,"league",NA,NA
+"2023-03-31",2022,"RCD Mallorca","CA Osasuna",NA,"0-0",0,0,1,"league",NA,NA
+"2023-04-01",2022,"Girona","Espanyol Barcelona",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-01",2022,"Athletic Bilbao","Getafe CF",NA,"0-0",0,0,1,"league",NA,NA
+"2023-04-01",2022,"Cadiz CF","Sevilla FC",NA,"0-2",0,2,1,"league",NA,NA
+"2023-04-01",2022,"Elche CF","FC Barcelona",NA,"0-4",0,4,1,"league",NA,NA
+"2023-04-02",2022,"Celta Vigo","UD Almeria",NA,"2-2",2,2,1,"league",NA,NA
+"2023-04-02",2022,"Real Madrid","Real Valladolid",NA,"6-0",6,0,1,"league",NA,NA
+"2023-04-02",2022,"Villarreal CF","Real Sociedad",NA,"2-0",2,0,1,"league",NA,NA
+"2023-04-02",2022,"Atletico Madrid","Real Betis",NA,"1-0",1,0,1,"league",NA,NA
+"2023-04-03",2022,"Valencia CF","Rayo Vallecano",NA,"1-1",1,1,1,"league",NA,NA
+"2023-04-07",2022,"Sevilla FC","Celta Vigo",NA,"2-2",2,2,1,"league",NA,NA
+"2023-04-08",2022,"CA Osasuna","Elche CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-08",2022,"Espanyol Barcelona","Athletic Bilbao",NA,"1-2",1,2,1,"league",NA,NA
+"2023-04-08",2022,"Real Sociedad","Getafe CF",NA,"2-0",2,0,1,"league",NA,NA
+"2023-04-08",2022,"Real Madrid","Villarreal CF",NA,"2-3",2,3,1,"league",NA,NA
+"2023-04-09",2022,"Real Valladolid","RCD Mallorca",NA,"3-3",3,3,1,"league",NA,NA
+"2023-04-09",2022,"Real Betis","Cadiz CF",NA,"0-2",0,2,1,"league",NA,NA
+"2023-04-09",2022,"UD Almeria","Valencia CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-09",2022,"Rayo Vallecano","Atletico Madrid",NA,"1-2",1,2,1,"league",NA,NA
+"2023-04-10",2022,"FC Barcelona","Girona",NA,"0-0",0,0,1,"league",NA,NA
+"2023-04-14",2022,"Rayo Vallecano","CA Osasuna",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-15",2022,"Villarreal CF","Real Valladolid",NA,"1-2",1,2,1,"league",NA,NA
+"2023-04-15",2022,"Athletic Bilbao","Real Sociedad",NA,"2-0",2,0,1,"league",NA,NA
+"2023-04-15",2022,"Real Betis","Espanyol Barcelona",NA,"3-1",3,1,1,"league",NA,NA
+"2023-04-15",2022,"Cadiz CF","Real Madrid",NA,"0-2",0,2,1,"league",NA,NA
+"2023-04-16",2022,"Girona","Elche CF",NA,"2-0",2,0,1,"league",NA,NA
+"2023-04-16",2022,"Getafe CF","FC Barcelona",NA,"0-0",0,0,1,"league",NA,NA
+"2023-04-16",2022,"Atletico Madrid","UD Almeria",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-16",2022,"Valencia CF","Sevilla FC",NA,"0-2",0,2,1,"league",NA,NA
+"2023-04-17",2022,"Celta Vigo","RCD Mallorca",NA,"0-1",0,1,1,"league",NA,NA
+"2023-04-21",2022,"Espanyol Barcelona","Cadiz CF",NA,"0-0",0,0,1,"league",NA,NA
+"2023-04-22",2022,"CA Osasuna","Real Betis",NA,"3-2",3,2,1,"league",NA,NA
+"2023-04-22",2022,"UD Almeria","Athletic Bilbao",NA,"1-2",1,2,1,"league",NA,NA
+"2023-04-22",2022,"Real Sociedad","Rayo Vallecano",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-22",2022,"Real Valladolid","Girona",NA,"1-0",1,0,1,"league",NA,NA
+"2023-04-22",2022,"Real Madrid","Celta Vigo",NA,"2-0",2,0,1,"league",NA,NA
+"2023-04-23",2022,"Elche CF","Valencia CF",NA,"0-2",0,2,1,"league",NA,NA
+"2023-04-23",2022,"FC Barcelona","Atletico Madrid",NA,"1-0",1,0,1,"league",NA,NA
+"2023-04-23",2022,"RCD Mallorca","Getafe CF",NA,"3-1",3,1,1,"league",NA,NA
+"2023-04-23",2022,"Sevilla FC","Villarreal CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-25",2022,"Cadiz CF","CA Osasuna",NA,"0-1",0,1,1,"league",NA,NA
+"2023-04-25",2022,"Girona","Real Madrid",NA,"4-2",4,2,1,"league",NA,NA
+"2023-04-25",2022,"Real Betis","Real Sociedad",NA,"0-0",0,0,1,"league",NA,NA
+"2023-04-26",2022,"Atletico Madrid","RCD Mallorca",NA,"3-1",3,1,1,"league",NA,NA
+"2023-04-26",2022,"Getafe CF","UD Almeria",NA,"1-2",1,2,1,"league",NA,NA
+"2023-04-26",2022,"Celta Vigo","Elche CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-04-26",2022,"Rayo Vallecano","FC Barcelona",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-27",2022,"Valencia CF","Real Valladolid",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-27",2022,"Villarreal CF","Espanyol Barcelona",NA,"4-2",4,2,1,"league",NA,NA
+"2023-04-27",2022,"Athletic Bilbao","Sevilla FC",NA,"0-1",0,1,1,"league",NA,NA
+"2023-04-28",2022,"CA Osasuna","Real Sociedad",NA,"0-2",0,2,1,"league",NA,NA
+"2023-04-29",2022,"Elche CF","Rayo Vallecano",NA,"4-0",4,0,1,"league",NA,NA
+"2023-04-29",2022,"Real Madrid","UD Almeria",NA,"4-2",4,2,1,"league",NA,NA
+"2023-04-29",2022,"FC Barcelona","Real Betis",NA,"4-0",4,0,1,"league",NA,NA
+"2023-04-30",2022,"Cadiz CF","Valencia CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-04-30",2022,"Villarreal CF","Celta Vigo",NA,"3-1",3,1,1,"league",NA,NA
+"2023-04-30",2022,"Espanyol Barcelona","Getafe CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-04-30",2022,"Real Valladolid","Atletico Madrid",NA,"2-5",2,5,1,"league",NA,NA
+"2023-05-01",2022,"RCD Mallorca","Athletic Bilbao",NA,"1-1",1,1,1,"league",NA,NA
+"2023-05-01",2022,"Sevilla FC","Girona",NA,"0-2",0,2,1,"league",NA,NA
+"2023-05-02",2022,"UD Almeria","Elche CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-02",2022,"FC Barcelona","CA Osasuna",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-02",2022,"Real Sociedad","Real Madrid",NA,"2-0",2,0,1,"league",NA,NA
+"2023-05-03",2022,"Valencia CF","Villarreal CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-05-03",2022,"Atletico Madrid","Cadiz CF",NA,"5-1",5,1,1,"league",NA,NA
+"2023-05-03",2022,"Getafe CF","Celta Vigo",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-04",2022,"Girona","RCD Mallorca",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-04",2022,"Sevilla FC","Espanyol Barcelona",NA,"3-2",3,2,1,"league",NA,NA
+"2023-05-04",2022,"Athletic Bilbao","Real Betis",NA,"0-1",0,1,1,"league",NA,NA
+"2023-05-04",2022,"Rayo Vallecano","Real Valladolid",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-12",2022,"RCD Mallorca","Cadiz CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-13",2022,"Real Sociedad","Girona",NA,"2-2",2,2,1,"league",NA,NA
+"2023-05-13",2022,"CA Osasuna","UD Almeria",NA,"3-1",3,1,1,"league",NA,NA
+"2023-05-13",2022,"Villarreal CF","Athletic Bilbao",NA,"5-1",5,1,1,"league",NA,NA
+"2023-05-13",2022,"Real Madrid","Getafe CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-14",2022,"Celta Vigo","Valencia CF",NA,"1-2",1,2,1,"league",NA,NA
+"2023-05-14",2022,"Elche CF","Atletico Madrid",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-14",2022,"Real Valladolid","Sevilla FC",NA,"0-3",0,3,1,"league",NA,NA
+"2023-05-14",2022,"Espanyol Barcelona","FC Barcelona",NA,"2-4",2,4,1,"league",NA,NA
+"2023-05-15",2022,"Real Betis","Rayo Vallecano",NA,"3-1",3,1,1,"league",NA,NA
+"2023-05-19",2022,"Cadiz CF","Real Valladolid",NA,"2-0",2,0,1,"league",NA,NA
+"2023-05-20",2022,"Girona","Villarreal CF",NA,"1-2",1,2,1,"league",NA,NA
+"2023-05-20",2022,"Athletic Bilbao","Celta Vigo",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-20",2022,"UD Almeria","RCD Mallorca",NA,"3-0",3,0,1,"league",NA,NA
+"2023-05-20",2022,"Getafe CF","Elche CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-05-20",2022,"FC Barcelona","Real Sociedad",NA,"1-2",1,2,1,"league",NA,NA
+"2023-05-21",2022,"Rayo Vallecano","Espanyol Barcelona",NA,"1-2",1,2,1,"league",NA,NA
+"2023-05-21",2022,"Atletico Madrid","CA Osasuna",NA,"3-0",3,0,1,"league",NA,NA
+"2023-05-21",2022,"Valencia CF","Real Madrid",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-21",2022,"Sevilla FC","Real Betis",NA,"0-0",0,0,1,"league",NA,NA
+"2023-05-23",2022,"Celta Vigo","Girona",NA,"1-1",1,1,1,"league",NA,NA
+"2023-05-23",2022,"Real Sociedad","UD Almeria",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-23",2022,"Real Valladolid","FC Barcelona",NA,"3-1",3,1,1,"league",NA,NA
+"2023-05-24",2022,"Elche CF","Sevilla FC",NA,"1-1",1,1,1,"league",NA,NA
+"2023-05-24",2022,"Real Madrid","Rayo Vallecano",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-24",2022,"Villarreal CF","Cadiz CF",NA,"2-0",2,0,1,"league",NA,NA
+"2023-05-24",2022,"Real Betis","Getafe CF",NA,"0-1",0,1,1,"league",NA,NA
+"2023-05-24",2022,"Espanyol Barcelona","Atletico Madrid",NA,"3-3",3,3,1,"league",NA,NA
+"2023-05-25",2022,"RCD Mallorca","Valencia CF",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-25",2022,"CA Osasuna","Athletic Bilbao",NA,"2-0",2,0,1,"league",NA,NA
+"2023-05-27",2022,"Sevilla FC","Real Madrid",NA,"1-2",1,2,1,"league",NA,NA
+"2023-05-28",2022,"UD Almeria","Real Valladolid",NA,"0-0",0,0,1,"league",NA,NA
+"2023-05-28",2022,"Athletic Bilbao","Elche CF",NA,"0-1",0,1,1,"league",NA,NA
+"2023-05-28",2022,"Atletico Madrid","Real Sociedad",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-28",2022,"FC Barcelona","RCD Mallorca",NA,"3-0",3,0,1,"league",NA,NA
+"2023-05-28",2022,"Cadiz CF","Celta Vigo",NA,"1-0",1,0,1,"league",NA,NA
+"2023-05-28",2022,"Getafe CF","CA Osasuna",NA,"2-1",2,1,1,"league",NA,NA
+"2023-05-28",2022,"Girona","Real Betis",NA,"1-2",1,2,1,"league",NA,NA
+"2023-05-28",2022,"Valencia CF","Espanyol Barcelona",NA,"2-2",2,2,1,"league",NA,NA
+"2023-05-28",2022,"Rayo Vallecano","Villarreal CF",NA,"2-1",2,1,1,"league",NA,NA
+"2023-06-04",2022,"RCD Mallorca","Rayo Vallecano",NA,"3-0",3,0,1,"league",NA,NA
+"2023-06-04",2022,"CA Osasuna","Girona",NA,"2-1",2,1,1,"league",NA,NA
+"2023-06-04",2022,"Real Madrid","Athletic Bilbao",NA,"1-1",1,1,1,"league",NA,NA
+"2023-06-04",2022,"Real Sociedad","Sevilla FC",NA,"2-1",2,1,1,"league",NA,NA
+"2023-06-04",2022,"Villarreal CF","Atletico Madrid",NA,"2-2",2,2,1,"league",NA,NA
+"2023-06-04",2022,"Real Betis","Valencia CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-06-04",2022,"Celta Vigo","FC Barcelona",NA,"2-1",2,1,1,"league",NA,NA
+"2023-06-04",2022,"Elche CF","Cadiz CF",NA,"1-1",1,1,1,"league",NA,NA
+"2023-06-04",2022,"Espanyol Barcelona","UD Almeria",NA,"3-3",3,3,1,"league",NA,NA
+"2023-06-04",2022,"Real Valladolid","Getafe CF",NA,"0-0",0,0,1,"league",NA,NA
 "2023-08-11",2023,"UD Almeria","Rayo Vallecano",NA,"0-2",0,2,1,"league",NA,NA
 "2023-08-11",2023,"Sevilla FC","Valencia CF",NA,"1-2",1,2,1,"league",NA,NA
 "2023-08-12",2023,"Real Sociedad","Girona",NA,"1-1",1,1,1,"league",NA,NA
