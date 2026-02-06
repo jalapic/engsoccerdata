@@ -11,11 +11,12 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Suggests:
-RoxygenNote: 7.2.1
+    rvest,
+    xml2
+RoxygenNote: 7.3.3
 Imports:
     dplyr,
     magrittr,
-    rvest,
     tidyr,
-    utils,
-    xml2
+    utils
+    
