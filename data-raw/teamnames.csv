@@ -1045,7 +1045,6 @@
 "Portugal","Olhanense","Olhanense",NA
 "Portugal","Portimonense","Portimonense",NA
 "Portugal","Feirense","Feirense",NA
-"Portugal","Feirense","Feirense",NA
 "Portugal","Arouca","Arouca",NA
 "Portugal","Tondela","Tondela",NA
 "Portugal","Uniao Madeira","Uniao Madeira",NA
@@ -1085,39 +1084,6 @@
 "Belgium","Oud-Heverlee Leuven","Oud-Heverlee Leuven",NA
 "Belgium","Waasland-Beveren","Waasland-Beveren",NA
 "Belgium","Mouscron-Peruwelz","Mouscron-Peruwelz",NA
-"MLS","CD Chivas USA","CD Chivas USA",TRUE
-"MLS","New York Red Bulls","New York Metrostars",FALSE
-"MLS","Columbus Crew","Columbus Crew",TRUE
-"MLS","Sporting Kansas City","Kansas City Wizards",FALSE
-"MLS","FC Dallas","FC Dallas",TRUE
-"MLS","San Jose Earthquakes","San Jose",FALSE
-"MLS","DC United","Washington D.C. United",FALSE
-"MLS","New England Revolution","N.E. Revolution",FALSE
-"MLS","Colorado Rapids","Colorado Rapids",TRUE
-"MLS","LA Galaxy","Los Angeles Galaxy",FALSE
-"MLS","Real Salt Lake","Real Salt Lake",TRUE
-"MLS","Chicago Fire","Chicago Fire",TRUE
-"MLS","Houston Dynamo","Houston Dynamo",TRUE
-"MLS","New England Revolution","New England Revolution",TRUE
-"MLS","New York Red Bulls","New York Red Bulls",TRUE
-"MLS","Toronto FC","Toronto FC",TRUE
-"MLS","San Jose Earthquakes","San Jose Earthquakes",TRUE
-"MLS","Seattle Sounders","Seattle Sounders",TRUE
-"MLS","Philadelphia Union","Philadelphia Union",TRUE
-"MLS","Vancouver Whitecaps","Vancouver Whitecaps FC",FALSE
-"MLS","Portland Timbers","Portland Timbers",TRUE
-"MLS","Sporting Kansas City","Sporting Kansas City",TRUE
-"MLS","Montreal Impact","Montreal Impact",TRUE
-"MLS","LA Galaxy","LA Galaxy",TRUE
-"MLS","DC United","D.C. United",FALSE
-"MLS","Orlando City","Orlando City SC",FALSE
-"MLS","Seattle Sounders","Seattle Sounders FC",FALSE
-"MLS","Columbus Crew","Columbus Crew SC",FALSE
-"MLS","New York City FC","New York City FC",TRUE
-"MLS","Orlando City","Orlando City",TRUE
-"MLS","Vancouver Whitecaps","Vancouver Whitecaps",TRUE
-"MLS","New York City FC","New York City",FALSE
-"MLS","DC United","DC United",TRUE
 "MLS","CD Chivas USA","CD Chivas USA",TRUE
 "MLS","New York Red Bulls","New York Metrostars",FALSE
 "MLS","Columbus Crew","Columbus Crew",TRUE
@@ -1263,17 +1229,13 @@
 "England","Boreham Wood","Boreham Wood",NA
 "England","Boston United","Boston",NA
 "England","Braintree Town","Braintree Town",NA
-"England","Bristol Rovers","Bristol Rvs",NA
 "England","Bromley","Bromley",NA
-"England","Burton Albion","Burton",NA
 "England","Cambrdige United","Cambridge",NA
 "England","Canvey Island","Canvey Island",NA
-"England","Chester","Chester City",NA
 "England","Dagenham and Redbridge","Dag and Red",NA
 "England","Dagenham and Redbridge","Dagenham & Red.",NA
 "England","Dagenham and Redbridge","Dagenham & Redbridge",NA
 "England","Dartford","Dartford",NA
-"England","Doncaster Rovers","Doncaster",NA
 "England","Dover Athletic","Dover",NA
 "England","Dover Athletic","Dover Ath.",NA
 "England","Dover Athletic","Dover Athletic",NA
@@ -1281,7 +1243,6 @@
 "England","Eastbourne Borough","Eastbourne Borough",NA
 "England","Eastleigh","Eastleigh",NA
 "England","Ebbsfleet United","Ebbsfleet",NA
-"England","Exeter City","Exeter",NA
 "England","Farnborough Town","Farnborough",NA
 "England","Farnborough Town","Farnborough Town",NA
 "England","Farsley","Farsley",NA
@@ -1290,7 +1251,6 @@
 "England","Ebbsfleet United","Gravesend",NA
 "England","Ebbsfleet United","Gravesend & Northfleet",NA
 "England","Grays Athletic","Grays",NA
-"England","Grimsby Town","Grimsby",NA
 "England","Guiseley","Guiseley",NA
 "England","Halifax Town","Halifax",NA
 "England","Hayes & Yeading","Hayes",NA
@@ -1303,15 +1263,12 @@
 "England","Hyde United","Hyde United",NA
 "England","Kettering Town","Kettering",NA
 "England","Kettering Town","Kettering Town",NA
-"England","Kidderminster Harriers","Kidderminster",NA
 "England","Kingstonian","Kingstonian",NA
 "England","Leigh Genesis","Leigh Genesis",NA
 "England","Leigh Genesis","Leigh RMI",NA
 "England","Lewes","Lewes",NA
 "England","Lincoln City","Lincoln",NA
-"England","Luton Town","Luton",NA
 "England","Maidstone United","Maidstone",NA
-"England","Mansfield Town","Mansfield",NA
 "England","Margate","Margate",NA
 "England","Morecambe","Morecambe FC",NA
 "England","North Ferriby","North Ferriby",NA
@@ -1319,10 +1276,8 @@
 "England","Nuneaton Town","Nuneaton",NA
 "England","Nuneaton Town","Nuneaton Borough AFC",NA
 "England","Nuneaton Town","Nuneaton Town",NA
-"England","Oxford United","Oxford",NA
 "England","Rushden & Diamonds","Rushden",NA
 "England","Rushden & Diamonds","Rushden & D",NA
-"England","Rushden & Diamonds","Rushden & D.",NA
 "England","Salisbury","Salisbury",NA
 "England","Scarborough","Scarborough FC",NA
 "England","Solihull","Solihull",NA
@@ -1330,7 +1285,6 @@
 "England","St Albans","St. Albans",NA
 "England","Stafford Rangers","Stafford Rangers",NA
 "England","Stalybridge Celtic","Stalybridge",NA
-"England","Stevenage Borough","Stevenage",NA
 "England","Stevenage Borough","Stevenage Borough FC",NA
 "England","Stevenage Borough","Stevenage FC",NA
 "England","Stockport County","Stockport",NA
@@ -1347,7 +1301,6 @@
 "England","Weymouth","Weymouth",NA
 "England","Woking","Woking",NA
 "England","Woking","Woking FC",NA
-"England","Yeovil","Yeovil Town",NA
 "England","York City","York",NA
 "England","AP Leamington","AP Leamington",NA
 "England","Aylesbury United","Aylesbury United",NA
@@ -1356,11 +1309,9 @@
 "England","Cheltenham","Cheltenham Town",NA
 "England","Chorley","Chorley",NA
 "England","Dagenham","Dagenham",NA
-"England","Dagenham and Redbridge","Dagenham & Redbridge",NA
 "England","Enfield","Enfield",NA
 "England","Fisher Athletic","Fisher Athletic",NA
 "England","Frickley Athletic","Frickley Athletic",NA
-"England","Ebbsfleet United","Gravesend & Northfleet",NA
 "England","Hayes","Hayes",NA
 "England","Leek Town","Leek Town",NA
 "England","Macclesfield","Macclesfield Town",NA
@@ -1374,7 +1325,6 @@
 "England","Wealdstone","Wealdstone",NA
 "England","Witton Albion","Witton Albion",NA
 "England","Worcester City","Worcester City",NA
-"England","Yeovil","Yeovil Town",NA
 "Turkey","Yeni Malatyaspor","Yeni Malatyaspor",NA
 "Spain","Girona","Girona",NA
 "Spain","Getafe CF","Getafe",NA
@@ -1415,18 +1365,12 @@
 "France","RC Lens","Lens",NA
 "Belgium","Beerschot VA","Beerschot",NA
 "Belgium","Beerschot VA","Beerschot VA",NA
-"Greece","Lamia","Lamia",NA
 "Greece","Volos NFC","Volos NFC",NA
 "Greece","OFI","OFI Crete",NA
 "Holland","FC Emmen","FC Emmen",NA
 "Holland","RKC Waalwijk","Waalwijk",NA
 "Holland","Fortuna Sittard","For Sittard",NA
 "Holland","De Graafschap","Graafschap",NA
-"Italy","Parma FC","Parma",NA
-"Italy","US Lecce","Lecce",NA
-"Italy","Brescia Calcio","Brescia",NA
-"Italy","Spezia Calcio","Spezia",NA
-"Italy","Frosinone Calcio","Frosinone",NA
 "Italy","Parma FC","Parma",NA
 "Italy","US Lecce","Lecce",NA
 "Italy","Brescia Calcio","Brescia",NA
@@ -1459,3 +1403,6 @@
 "Scotland","Kelty Hearts","Kelty Hearts",NA
 "Scotland","Edinburgh City","FC Edinburgh",NA
 "Scotland","Bonnyrigg Rose Athletic","Bonnyrigg Rose",NA
+"Germany","SV Elversberg","Elversberg",NA
+"Germany","Preussen Munster","Preußen Münster",NA
+"Germany","SSV Ulm 1846","Ulm",NA

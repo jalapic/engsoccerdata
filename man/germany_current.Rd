@@ -2,19 +2,19 @@
 % Please edit documentation in R/germany_current.R
 \name{germany_current}
 \alias{germany_current}
-\title{Get current Germany season data for all tiers}
+\title{Get current Germany season data for top tiers}
 \usage{
-germany_current(Season = 2022)
+germany_current(Season = 2025)
 }
 \arguments{
 \item{Season}{the current Season}
 }
 \value{
-a dataframe with results for current
-season for top two divisions
+a dataframe with results for current season for Bundesliga (tier 1)
+and 2. Bundesliga (tier 2)
 }
 \description{
-Get current Germany season data for all tiers
+Get current Germany season data for top tiers
 }
 \examples{
 germany_current()
