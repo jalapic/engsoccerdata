@@ -367,3 +367,15 @@ usethis::use_data(england, overwrite = TRUE)
 
 write.csv(england, "data-raw/england.csv", row.names = FALSE)
 
+
+e25 <- engsoccerdata::england_current(Season = 2025)
+
+# basic sanity
+nrow(e25)
+range(e25$Date)
+sum(is.na(e25$home)); sum(is.na(e25$visitor))
+table(e25$tier)
+
+# check it looks "current" (not a full 2036)
+e25 %>% dplyr::count(tier)
+
