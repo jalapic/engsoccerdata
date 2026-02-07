@@ -88,7 +88,7 @@ engsoccerdata
 -  champs               - European Cup and Champions League results 1955-2017 includes qualifiers and playoffs
 -  france               - French Ligue 1 results 1933-2025
 -  scotland             - Scotland top 4 tiers 1994-2025
--  portugal             - Portugal top tier 1994-2022
+-  portugal             - Portugal top tier 1994-2025
 -  belgium              - Belgium top tier 1994-2022
 -  turkey               - Turkey top tier 1994-2022
 -  greece               - Greece top tier 1994-2022

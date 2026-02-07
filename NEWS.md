@@ -17,3 +17,4 @@
 “Updated Scotland top 4 tiers through 2024/25.”
 “Updated France top 1 tier through 2024/25.”
 “Updated Italy top 1 tier through 2024/25.”
+“Updated Portugal top 1 tier through 2024/25.”

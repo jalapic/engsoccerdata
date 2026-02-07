@@ -1,10 +1,10 @@
-#' Portuguese league results 1994-2022
+#' Portuguese league results 1994-2025
 #'
 #' All results for Portuguese soccer games in the top tier
-#' from 1994/95 season to 2021/22 season.  Doesn't include
+#' from 1994/95 season to 2024/25 season.  Doesn't include
 #' playoff games.
 #'
-#' @format A data frame with 8040 rows and 12 variables:
+#' @format A data frame with 8958 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
