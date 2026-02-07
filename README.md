@@ -90,7 +90,7 @@ engsoccerdata
 -  scotland             - Scotland top 4 tiers 1994-2025
 -  portugal             - Portugal top tier 1994-2025
 -  belgium              - Belgium top tier 1994-2025
--  turkey               - Turkey top tier 1994-2022
+-  turkey               - Turkey top tier 1994-2025
 -  greece               - Greece top tier 1994-2022
 -  mls                  - MLS regular and postseason 1996-2016
 -  safrica              - South African  top tier - 2004-2017

@@ -7,21 +7,52 @@
 #' @examples
 #' turkey_current()
 #' @export
+turkey_current <- function(Season = 2025){
 
-turkey_current <- function(Season=2022){
+  s1 <- s2 <- myseason <- t1 <- df1 <- NULL
+  myseason <- Season
+  s2 <- as.numeric(substr(myseason, 3, 4))
+  s1 <- s2 + 1
 
-  s1<-s2<-myseason<-t1<-df1<-NULL
-  myseason<-Season
-  s2<-as.numeric(substr(myseason,3,4))
-  s1 <- s2+1
+  t1 <- read.csv(paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/T1.csv"))
+  df1 <- rbind(engsoccerdata::getCurrentData(t1, "T1", 1, Season = myseason))
 
-t1=read.csv(paste0("https://www.football-data.co.uk/mmz4281/",s2,s1,"/T1.csv"))
-df1 <- rbind(engsoccerdata::getCurrentData(t1,'T1',1,Season=myseason))
-df1$Date <- as.Date(df1$Date, format="%Y-%m-%d")
-turk <- engsoccerdata::turkey
-if(identical(max(df1$Date), max(turk$Date))) warning("The returned dataframe contains data already included in 'turkey' dataframe")
-tm <- engsoccerdata::teamnames
-df1$home <- tm$name[match(df1$home,tm$name_other)]
-df1$visitor <- tm$name[match(df1$visitor,tm$name_other)]
-return(df1)
+  df1$Date <- as.Date(df1$Date, format = "%Y-%m-%d")
+
+  home_raw <- df1$home
+  visitor_raw <- df1$visitor
+
+  tm <- engsoccerdata::teamnames
+  df1$home <- tm$name[match(home_raw, tm$name_other)]
+  df1$visitor <- tm$name[match(visitor_raw, tm$name_other)]
+
+  if (anyNA(df1$home) || anyNA(df1$visitor)) {
+    missing_all <- sort(unique(c(
+      home_raw[is.na(df1$home)],
+      visitor_raw[is.na(df1$visitor)]
+    )))
+    warning(
+      "Teamnames not matched to canonical names. Add these to teamnames$name_other: ",
+      paste(missing_all, collapse = "; ")
+    )
+  }
+
+  tur <- engsoccerdata::turkey
+  tur_key <- paste(tur$Date, tur$Season, tur$division, tur$tier, tur$home, tur$visitor, sep = "|")
+  df1_key <- paste(as.character(df1$Date), df1$Season, df1$division, df1$tier, df1$home, df1$visitor, sep = "|")
+
+  n_overlap <- sum(df1_key %in% tur_key)
+  if (n_overlap > 0) {
+    warning(sprintf(
+      "The returned dataframe contains %d match(es) already included in the 'turkey' dataset.",
+      n_overlap
+    ))
+  }
+
+  target_cols <- colnames(engsoccerdata::turkey)
+  missing_cols <- setdiff(target_cols, colnames(df1))
+  if (length(missing_cols) > 0) for (cc in missing_cols) df1[[cc]] <- NA
+  df1 <- df1[target_cols]
+
+  return(df1)
 }
