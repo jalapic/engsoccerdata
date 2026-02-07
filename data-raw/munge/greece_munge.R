@@ -96,3 +96,123 @@ devtools::document()
 
 #rebuild
 #redo checks
+
+
+#### 2026
+
+tail(greece)
+
+get_greece_raw_teams <- function(Season){
+  s2 <- as.numeric(substr(Season, 3, 4))
+  s1 <- s2 + 1
+  g1 <- read.csv(paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/G1.csv"))
+  sort(unique(c(as.character(g1$HomeTeam), as.character(g1$AwayTeam))))
+}
+
+tm <- engsoccerdata::teamnames
+
+raw22 <- get_greece_raw_teams(2022)
+raw23 <- get_greece_raw_teams(2023)
+raw24 <- get_greece_raw_teams(2024)
+raw25 <- get_greece_raw_teams(2025)
+
+missing_all <- sort(setdiff(unique(c(raw22, raw23,raw24,raw25)), tm$name_other))
+missing_all
+length(missing_all)
+
+# "Athens Kallithea" "Kifisia"
+
+engsoccerdata::teamnames[grepl("lli", engsoccerdata::teamnames$name),]  #  "Beerschot VA"
+engsoccerdata::teamnames[grepl("ifi", engsoccerdata::teamnames$name),]  #
+
+
+
+# bind into teamnames.csv
+
+teamnames <-
+  rbind(teamnames,
+        data.frame(
+          country = "Greece",
+          name = c("Kifisia","Kallithea"),
+          name_other = c("Kifisia","Athens Kallithea"),
+          most_recent = NA
+        )
+  )
+
+head(teamnames)
+tail(teamnames)
+
+## update steps
+usethis::use_data(teamnames, overwrite = T)
+write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
+# redo documentation
+devtools::document()
+
+
+g22 <- greece_current(Season = 2022)
+g23 <- greece_current(Season = 2023)
+g24 <- greece_current(Season = 2024)
+
+sum(is.na(g22$home)); sum(is.na(g22$visitor))
+sum(is.na(g23$home)); sum(is.na(g23$visitor))
+sum(is.na(g24$home)); sum(is.na(g24$visitor))
+
+nrow(g22); nrow(g23); nrow(g24)
+range(as.Date(g22$Date)); range(as.Date(g23$Date)); range(as.Date(g24$Date))
+
+table(g22$tier)
+table(g22$division)
+
+
+library(dplyr)
+
+gr_old <- engsoccerdata::greece %>%
+  mutate(
+    Date = as.Date(Date),
+    division = as.character(division),
+    Season = as.numeric(Season)
+  )
+
+gr_new_in <- bind_rows(g22, g23, g24) %>%
+  mutate(
+    Date = as.Date(Date),
+    division = as.character(division),
+    Season = as.numeric(Season)
+  )
+
+gr_merged <- bind_rows(gr_old, gr_new_in) %>%
+  distinct(Date, Season, division, tier, home, visitor, .keep_all = TRUE) %>%
+  arrange(Date, tier, division)
+
+gr_merged$Date <- as.character(gr_merged$Date)
+
+greece <- gr_merged
+usethis::use_data(greece, overwrite = TRUE)
+write.csv(greece, "data-raw/greece.csv", row.names = FALSE)
+
+# post-merge QC
+max(greece$Season)
+greece %>% filter(Season %in% 2022:2024) %>% count(Season, tier)
+
+nrow(greece %>%
+       count(Date, Season, division, tier, home, visitor) %>%
+       filter(n > 1))
+
+
+
+### checking 2024 season
+
+get_greece_raw <- function(Season){
+  s2 <- as.numeric(substr(Season, 3, 4))
+  s1 <- s2 + 1
+  read.csv(paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/G1.csv"))
+}
+
+raw_g24 <- get_greece_raw(2024)
+nrow(raw_g24)
+sum(is.na(raw_g24$HomeTeam)); sum(is.na(raw_g24$AwayTeam))
+sum(is.na(raw_g24$FTHG)); sum(is.na(raw_g24$FTAG))
+tail(raw_g24[, c("Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR")], 20)
+
+sort(table(c(g24$home, g24$visitor)))
+

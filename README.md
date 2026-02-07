@@ -91,7 +91,7 @@ engsoccerdata
 -  portugal             - Portugal top tier 1994-2025
 -  belgium              - Belgium top tier 1994-2025
 -  turkey               - Turkey top tier 1994-2025
--  greece               - Greece top tier 1994-2022
+-  greece               - Greece top tier 1994-2025
 -  mls                  - MLS regular and postseason 1996-2016
 -  safrica              - South African  top tier - 2004-2017
 -  teamnames            - dataframe of alternative names and abbreviations for each team in all league data
