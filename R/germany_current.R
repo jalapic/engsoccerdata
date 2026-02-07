@@ -18,16 +18,16 @@ germany_current <- function(Season = 2025){
   d1 <- read.csv(paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/D1.csv"))
   d2 <- read.csv(paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/D2.csv"))
 
-  # Standardize using existing helper
+  # Standardize
   df1 <- rbind(
     engsoccerdata::getCurrentData(d1, "D1", 1, Season = myseason),
     engsoccerdata::getCurrentData(d2, "D2", 2, Season = myseason)
   )
 
-  # Ensure Date is Date class for comparisons
+  # Date class for checks
   df1$Date <- as.Date(df1$Date, format = "%Y-%m-%d")
 
-  # Keep raw names before mapping (for informative warnings)
+  # Keep raw names before mapping
   home_raw <- df1$home
   visitor_raw <- df1$visitor
 
@@ -49,7 +49,7 @@ germany_current <- function(Season = 2025){
     )
   }
 
-  # Warn only if there is true overlap with the stored germany dataset
+  # True overlap warning
   ger <- engsoccerdata::germany
   ger_key <- paste(ger$Date, ger$Season, ger$division, ger$tier, ger$home, ger$visitor, sep = "|")
   df1_key <- paste(as.character(df1$Date), df1$Season, df1$division, df1$tier, df1$home, df1$visitor, sep = "|")
@@ -61,17 +61,6 @@ germany_current <- function(Season = 2025){
       n_overlap
     ))
   }
-
-  # Conform to germany dataset column order/schema
-  # (This makes it robust even if germany has extra columns.)
-  target_cols <- colnames(engsoccerdata::germany)
-
-  # Add any missing columns as NA, then reorder
-  missing_cols <- setdiff(target_cols, colnames(df1))
-  if (length(missing_cols) > 0) {
-    for (cc in missing_cols) df1[[cc]] <- NA
-  }
-  df1 <- df1[target_cols]
 
   return(df1)
 }

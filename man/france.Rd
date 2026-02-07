@@ -3,9 +3,9 @@
 \docType{data}
 \name{france}
 \alias{france}
-\title{French league results 1933-2022}
+\title{French league results 1933-2025}
 \format{
-A data frame with 28566 rows and 12 variables:
+A data frame with 29558 rows and 12 variables:
 \describe{
   \item{Date}{Date of match}
   \item{Season}{Season of match - refers to starting year}
@@ -26,7 +26,7 @@ france
 }
 \description{
 All results for French soccer games in the top tier
-from 1933/34 season to 2021/22 season.  Doesn't include
+from 1933/34 season to 2024/25 season.  Doesn't include
 playoff games. Note: this dataset is as is, it has not
 been proof checked.
 }

@@ -4,7 +4,7 @@
 \alias{scotland_current}
 \title{Get current Scotland season data for all tiers}
 \usage{
-scotland_current(Season = 2022)
+scotland_current(Season = 2025)
 }
 \arguments{
 \item{Season}{the current Season}

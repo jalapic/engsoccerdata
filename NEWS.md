@@ -14,3 +14,5 @@
 “Updated England top 4 tiers through 2024/25.”
 “Updated Germany top 2 tiers through 2024/25.”
 “Updated Spain top 1 tier through 2024/25.”
+“Updated Scotland top 4 tiers through 2024/25.”
+“Updated France top 1 tier through 2024/25.”
