@@ -1,9 +1,9 @@
-#' Dutch league results 1956-2022
+#' Dutch league results 1956-2025
 #'
 #' All results for Dutch soccer games in the top tier
-#' from 1956/57 season to 2021/22 season.
+#' from 1956/57 season to 2024/25 season.
 #'
-#' @format A data frame with 19858 rows and 8 variables:
+#' @format A data frame with 20776 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date of match}
 #'   \item{Season}{Season of match - refers to starting year}
