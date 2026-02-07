@@ -89,7 +89,7 @@ engsoccerdata
 -  france               - French Ligue 1 results 1933-2025
 -  scotland             - Scotland top 4 tiers 1994-2025
 -  portugal             - Portugal top tier 1994-2025
--  belgium              - Belgium top tier 1994-2022
+-  belgium              - Belgium top tier 1994-2025
 -  turkey               - Turkey top tier 1994-2022
 -  greece               - Greece top tier 1994-2022
 -  mls                  - MLS regular and postseason 1996-2016
