@@ -6,7 +6,7 @@
 #'
 #' Team names are standardized using the \code{teamnames} mapping.
 #'
-#' @format A data frame with 19398 rows and 12 variables:
+#' @format A data frame with 22473 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date of match (YYYY-MM-DD)}
 #'   \item{Season}{Season of match - refers to starting year}

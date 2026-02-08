@@ -181,3 +181,40 @@ devtools::document()
 # redo documentation   devtools::document()
 # rebuild
 # redo checks
+
+
+
+### kings lynn issue
+
+# find any non-ASCII entries in name_other / name
+bad <- teamnames[!is.na(teamnames$name_other) & !grepl("^[ -~]*$", teamnames$name_other), ]
+bad
+
+teamnames$name_other <- gsub("King\x92s Lynn", "King's Lynn", teamnames$name_other)
+teamnames$name      <- gsub("King\x92s Lynn", "King's Lynn", teamnames$name)
+
+# Normalize encoding for safe processing
+teamnames$name      <- iconv(teamnames$name,      from = "", to = "UTF-8", sub = "")
+teamnames$name_other<- iconv(teamnames$name_other,from = "", to = "UTF-8", sub = "")
+
+# Replace common curly apostrophes/quotes with plain ASCII apostrophe
+teamnames$name      <- chartr("’‘", "''", teamnames$name)
+teamnames$name_other<- chartr("’‘", "''", teamnames$name_other)
+
+# Also replace any remaining odd quote-like characters (safe generic)
+teamnames$name      <- gsub("[\u2018\u2019\u2032]", "'", teamnames$name)
+teamnames$name_other<- gsub("[\u2018\u2019\u2032]", "'", teamnames$name_other)
+
+bad2 <- teamnames[!is.na(teamnames$name_other) & !grepl("^[ -~]*$", teamnames$name_other), ]
+bad2
+
+teamnames <- rbind(
+  teamnames,
+  data.frame(country="Germany", name="Preussen Munster", name_other="Preussen Munster", most_recent=NA)
+)
+
+usethis::use_data(teamnames, overwrite = TRUE)
+write.csv(teamnames, "data-raw/teamnames.csv", row.names = FALSE)
+
+devtools::document()
+devtools::check()

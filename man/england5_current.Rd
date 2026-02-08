@@ -4,14 +4,13 @@
 \alias{england5_current}
 \title{Get current England season data for tier 5}
 \usage{
-england5_current(Season = 2017)
+england5_current(Season = 2025)
 }
 \arguments{
-\item{Season}{the current Season}
+\item{Season}{The current Season (starting year, e.g. 2025 for 2025/26)}
 }
 \value{
-a dataframe with results for current
-season for top two divisions
+A dataframe with results for current season for tier 5 (National League)
 }
 \description{
 Get current England season data for tier 5

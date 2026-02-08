@@ -308,4 +308,187 @@ write.csv(england5, "data-raw/england5.csv", row.names = FALSE)
 devtools::document()
 devtools::check()
 
+##### 2019 onwards
+
+#fix teamnames
+# "Boston Utd"     "Dorking"        "Oxford City"    "King\x92s Lynn"
+
+
+unique(teamnames$name_other)[grepl("yn", unique(teamnames$name_other))] ##
+unique(teamnames$name)[grepl("yn", unique(teamnames$name))] ##
+
+teamnames <- rbind(
+  teamnames,
+  data.frame(country="England", name="Boston United", name_other="Boston Utd", most_recent=NA),
+  data.frame(country="England", name="Dorking",   name_other="Dorking",   most_recent=NA),
+  data.frame(country="England", name="Oxford City",     name_other="Oxford City",     most_recent=NA),
+  data.frame(country="England", name="King's Lynn",   name_other="King\x92s Lynn",        most_recent=NA)
+)
+
+head(teamnames)
+tail(teamnames)
+
+## update steps
+usethis::use_data(teamnames, overwrite = T)
+write.csv(teamnames,'data-raw/teamnames.csv',row.names=F)
+# redo documentation
+devtools::document()
+
+library(dplyr)
+
+pull_england5_season <- function(Season){
+  s2 <- as.numeric(substr(Season, 3, 4))
+  s1 <- s2 + 1
+  url <- paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/EC.csv")
+
+  df <- utils::read.csv(url)
+  out <- engsoccerdata::getCurrentData(df, division = 5, tier = 5, Season = Season)
+
+  # Standardize names using England mappings
+  tm_eng <- engsoccerdata::teamnames %>% filter(country == "England") %>% select(name, name_other)
+  out$home <- tm_eng$name[match(out$home, tm_eng$name_other)]
+  out$visitor <- tm_eng$name[match(out$visitor, tm_eng$name_other)]
+
+  # keep Date as character for dataset storage (your preference)
+  out$Date <- as.character(out$Date)
+
+  out
+}
+
+e19 <- pull_england5_season(2019)
+tail(e19,11)
+e19$home[is.na(e19$home)]
+e19$visitor[is.na(e19$visitor)]
+# truncated season - ok
+
+
+e20 <- pull_england5_season(2020)
+nrow(e20)  #why is it 477?
+tail(e20,11)
+head(e20,21)
+#Dover, Macclesfield expunged records.
+e20$home[is.na(e20$home)]
+e20$visitor[is.na(e20$visitor)]
+e20 <- e20 %>% filter(home!="Dover Athletic") %>% filter(visitor!="Dover Athletic")
+nrow(e20)
+(22*21)
+# ok now ok
+
+
+
+e21 <- pull_england5_season(2021)
+nrow(e21)  #
+tail(e21,11)
+head(e21,21)
+e21$home[is.na(e21$home)]
+e21$visitor[is.na(e21$visitor)]
+
+
+
+e22 <- pull_england5_season(2022)
+nrow(e22)  #
+tail(e22,11)
+head(e22,11)
+e22$home[is.na(e22$home)]
+e22$visitor[is.na(e22$visitor)]
+
+
+e23 <- pull_england5_season(2023)
+nrow(e23)  #
+tail(e23,11)
+head(e23,11)
+e23$home[is.na(e23$home)]
+e23$visitor[is.na(e23$visitor)]
+
+
+
+e24 <- pull_england5_season(2024)
+nrow(e24)  #
+tail(e24,11)
+head(e24,11)
+e24$home[is.na(e24$home)]
+e24$visitor[is.na(e24$visitor)]
+
+
+
+sapply(list(e19=e19,e20=e20,e21=e21,e22=e22,e23=e23,e24=e24), nrow)
+
+
+na_qc <- rbind(
+  `2019` = c(home_na=sum(is.na(e19$home)), visitor_na=sum(is.na(e19$visitor))),
+  `2020` = c(home_na=sum(is.na(e20$home)), visitor_na=sum(is.na(e20$visitor))),
+  `2021` = c(home_na=sum(is.na(e21$home)), visitor_na=sum(is.na(e21$visitor))),
+  `2022` = c(home_na=sum(is.na(e22$home)), visitor_na=sum(is.na(e22$visitor))),
+  `2023` = c(home_na=sum(is.na(e23$home)), visitor_na=sum(is.na(e23$visitor))),
+  `2024` = c(home_na=sum(is.na(e24$home)), visitor_na=sum(is.na(e24$visitor)))
+)
+na_qc
+
+tm <- engsoccerdata::teamnames %>% filter(country=="England")
+
+get_england5_raw_teams <- function(Season){
+  s2 <- as.numeric(substr(Season, 3, 4))
+  s1 <- s2 + 1
+  url <- paste0("https://www.football-data.co.uk/mmz4281/", s2, s1, "/EC.csv")
+  df <- utils::read.csv(url)
+
+  sort(unique(c(as.character(df$HomeTeam), as.character(df$AwayTeam))))
+}
+
+
+
+
+raw19 <- get_england5_raw_teams(2019)
+raw20 <- get_england5_raw_teams(2020)
+raw21 <- get_england5_raw_teams(2021)
+raw22 <- get_england5_raw_teams(2022)
+raw23 <- get_england5_raw_teams(2023)
+raw24 <- get_england5_raw_teams(2024)
+
+missing_all <- sort(unique(c(
+  setdiff(raw19, tm$name_other),
+  setdiff(raw20, tm$name_other),
+  setdiff(raw21, tm$name_other),
+  setdiff(raw22, tm$name_other),
+  setdiff(raw23, tm$name_other),
+  setdiff(raw24, tm$name_other)
+)))
+missing_all
+
+
+fix_england5_types <- function(x){
+  x$Date <- as.character(x$Date)         # keep Date as character in stored dataset
+  x$Season <- as.numeric(x$Season)
+  x$tier <- as.numeric(x$tier)
+
+  # standardize division to character and use your label
+  x$division <- as.character(x$division)
+  x$division[x$division %in% c("5", "5.0")] <- "conference"  # just in case
+
+  x
+}
+
+england5_old <- fix_england5_types(england5 %>% filter(Season <= 2018))
+
+e19 <- fix_england5_types(e19); e19$division <- "conference"
+e20 <- fix_england5_types(e20); e20$division <- "conference"
+e21 <- fix_england5_types(e21); e21$division <- "conference"
+e22 <- fix_england5_types(e22); e22$division <- "conference"
+e23 <- fix_england5_types(e23); e23$division <- "conference"
+e24 <- fix_england5_types(e24); e24$division <- "conference"
+
+england5_new <- bind_rows(england5_old, e19,e20,e21,e22,e23,e24) %>%
+  arrange(as.Date(Date), home, visitor)
+
+max(england5_new$Season)
+
+table(england5_new$Season)
+sum(is.na(england5_new$home)); sum(is.na(england5_new$visitor))
+unique(england5_new$division)
+
+england5 <- england5_new
+usethis::use_data(england5, overwrite = TRUE)
+write.csv(england5, "data-raw/england5.csv", row.names = FALSE)
+devtools::document()
+devtools::check()
 
