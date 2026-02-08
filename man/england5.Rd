@@ -5,7 +5,7 @@
 \alias{england5}
 \title{English tier 5 (National League / Conference) results}
 \format{
-A data frame with 19398 rows and 12 variables:
+A data frame with 22473 rows and 12 variables:
 \describe{
   \item{Date}{Date of match (YYYY-MM-DD)}
   \item{Season}{Season of match - refers to starting year}
