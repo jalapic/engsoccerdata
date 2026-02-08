@@ -1,0 +1,28 @@
+#' English tier 5 (National League / Conference) results
+#'
+#' All results for English tier 5 regular-season matches (National League /
+#' Football Conference) from the 1979/80 season onwards. Postseason playoff
+#' matches are not included.
+#'
+#' Team names are standardized using the \code{teamnames} mapping.
+#'
+#' @format A data frame with 19398 rows and 12 variables:
+#' \describe{
+#'   \item{Date}{Date of match (YYYY-MM-DD)}
+#'   \item{Season}{Season of match - refers to starting year}
+#'   \item{home}{Home team}
+#'   \item{visitor}{Visiting team}
+#'   \item{FT}{Full-time score (e.g., "2-1")}
+#'   \item{hgoal}{Goals scored by home team}
+#'   \item{vgoal}{Goals scored by visiting team}
+#'   \item{division}{Competition label (tier 5; e.g., "conference")}
+#'   \item{tier}{Tier of football pyramid (5)}
+#'   \item{totgoal}{Total goals in match}
+#'   \item{goaldif}{Goal difference in match (home - visitor)}
+#'   \item{result}{Result: H home win, A away win, D draw}
+#' }
+#'
+#' @source Compiled from historical sources and curated by James P. Curley.
+#'
+#' @keywords datasets
+"england5"

@@ -287,3 +287,8 @@ devtools::document()
 # }
 #
 #
+
+
+head(england_nonleague)
+tail(england_nonleague)
+table(england_nonleague$Season, england_nonleague$division)
